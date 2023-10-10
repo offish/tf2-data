@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tf2-data"
+authors = [
+  { name="offish", email="overutilization@gmail.com" },
+]
+description = "Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading"
+readme = "README.md"
+requires-python = ">=3.7"
+keywords = ["tf2", "data", "sku"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["tf2-sku", "tf2_utils"]
+dynamic = ["version"]
+
+[project.urls]
+"Homepage" = "https://github.com/offish/tf2-data"
+"Bug Tracker" = "https://github.com/offish/tf2-data/issues"
+
+[tool.setuptools_scm]
