@@ -1,2 +1,0 @@
-tf2-sku
-tf2-utils
