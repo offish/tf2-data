@@ -9,14 +9,14 @@ authors = [
 ]
 description = "Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.10"
 keywords = ["tf2", "data", "sku"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = ["tf2-sku", "tf2_utils"]
+dependencies = ["tf2-utils"]
 dynamic = ["version"]
 
 [project.urls]

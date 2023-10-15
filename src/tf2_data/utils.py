@@ -6,11 +6,21 @@ def get_json_path(name: str) -> str:
     return os.path.abspath(__file__).replace("utils.py", "") + f"../../json/{name}.json"
 
 
-def read_json_file(name: str) -> dict | list:
-    return json.loads(open(get_json_path(name), "r").read())
+def read_json_file(path: str) -> dict | list:
+    data = {}
+
+    with open(path, "r") as f:
+        data = json.loads(f.read())
+
+    return data
 
 
-def save_json_file(name: str, data: dict | list) -> None:
+def read_lib_json_file(name: str) -> dict | list:
+    path = get_json_path(name)
+    return read_json_file(path)
+
+
+def write_json_file(name: str, data: dict | list) -> None:
     name += ".json"
 
     with open(name, "w") as f:
