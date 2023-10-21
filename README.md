@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/467040686982692865?color=7289da&label=Discord&logo=discord)](https://discord.gg/t8nHSvA)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading. Dependant on [tf2-utils](https://github.com/offish/tf2-utils).
+Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading. Implemented by [tf2-utils](https://github.com/offish/tf2-utils).
 
 ## Donate
 - BTC: `bc1qntlxs7v76j0zpgkwm62f6z0spsvyezhcmsp0z2`
@@ -22,9 +22,9 @@ python -m pip install tf2-data
 
 ### Updating
 ```bash
-pip install --upgrade tf2-data tf2-utils
+pip install --upgrade tf2-data
 # or 
-python -m pip install --upgrade tf2-data tf2-utils
+python -m pip install --upgrade tf2-data
 ```
 
 ## Testing
