@@ -7,7 +7,7 @@ name = "tf2-data"
 authors = [
   { name="offish", email="overutilization@gmail.com" },
 ]
-description = "Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading"
+description = "Item schemas, unusual effects, SKUs and more useful data for TF2 trading"
 readme = "README.md"
 requires-python = ">=3.10"
 keywords = ["tf2", "data", "sku"]
@@ -16,7 +16,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = ["tf2-utils"]
+dependencies = ["requests"]
 dynamic = ["version"]
 
 [project.urls]

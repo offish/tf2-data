@@ -3,7 +3,7 @@ import os
 
 
 def get_json_path(name: str) -> str:
-    return os.path.abspath(__file__).replace("utils.py", "") + f"../../json/{name}.json"
+    return os.path.abspath(__file__).replace("utils.py", "") + f"/json/{name}.json"
 
 
 def read_json_file(path: str) -> dict | list:
@@ -21,7 +21,5 @@ def read_lib_json_file(name: str) -> dict | list:
 
 
 def write_json_file(name: str, data: dict | list) -> None:
-    name += ".json"
-
     with open(name, "w") as f:
         json.dump(data, f, indent=4)
