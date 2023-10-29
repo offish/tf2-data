@@ -88,11 +88,13 @@ class SchemaItems:
             defindex = item["defindex"]
 
             # map both ways for ease of use
-            data[defindex] = name
+            # defindex as key is str
+            data[str(defindex)] = name
 
             # map name to all defindexes
             # e.g. mann co key has multiple defindexes
             if name not in data:
+                # defindex as value are ints
                 data[name] = [defindex]
             else:
                 data[name] += [defindex]
