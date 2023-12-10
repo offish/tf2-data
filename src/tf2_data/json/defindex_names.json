@@ -4881,7 +4881,8 @@
         2168,
         2169,
         2171,
-        2172
+        2172,
+        2173
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5422,6 +5423,7 @@
     "2170": "Team Fortress 2 Soundtrack Promo",
     "2171": "Map Stamps Collection",
     "2172": "Map Stamps Collection",
+    "2173": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5469,6 +5471,46 @@
     "2511": "Map Stamp - Devastation",
     "Map Stamp - Devastation": [
         2511
+    ],
+    "2512": "Map Stamp - Snowtower",
+    "Map Stamp - Snowtower": [
+        2512
+    ],
+    "2513": "Map Stamp - Krampus",
+    "Map Stamp - Krampus": [
+        2513
+    ],
+    "2514": "Map Stamp - Haarp",
+    "Map Stamp - Haarp": [
+        2514
+    ],
+    "2515": "Map Stamp - Brew",
+    "Map Stamp - Brew": [
+        2515
+    ],
+    "2516": "Map Stamp - Hacksaw",
+    "Map Stamp - Hacksaw": [
+        2516
+    ],
+    "2517": "Map Stamp - Turbine Center",
+    "Map Stamp - Turbine Center": [
+        2517
+    ],
+    "2518": "Map Stamp - Carrier",
+    "Map Stamp - Carrier": [
+        2518
+    ],
+    "2519": "Map Stamp - Galleria",
+    "Map Stamp - Galleria": [
+        2519
+    ],
+    "2520": "Map Stamp - Emerge",
+    "Map Stamp - Emerge": [
+        2520
+    ],
+    "2521": "Map Stamp - Camber",
+    "Map Stamp - Camber": [
+        2521
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -6869,6 +6911,18 @@
     "Bone-Chilling Bonanza Collection": [
         5954
     ],
+    "5955": "Gift-Stuffed Stocking 2023",
+    "Gift-Stuffed Stocking 2023": [
+        5955
+    ],
+    "5956": "Winter 2023 Cosmetic Key",
+    "Winter 2023 Cosmetic Key": [
+        5956
+    ],
+    "5957": "Winter 2023 Cosmetic Case",
+    "Winter 2023 Cosmetic Case": [
+        5957
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -7576,6 +7630,46 @@
     "6628": "Strange Filter: Devastation (Community)",
     "Strange Filter: Devastation (Community)": [
         6628
+    ],
+    "6629": "Strange Filter: Snowtower (Community)",
+    "Strange Filter: Snowtower (Community)": [
+        6629
+    ],
+    "6630": "Strange Filter: Krampus (Community)",
+    "Strange Filter: Krampus (Community)": [
+        6630
+    ],
+    "6631": "Strange Filter: Haarp (Community)",
+    "Strange Filter: Haarp (Community)": [
+        6631
+    ],
+    "6632": "Strange Filter: Brew (Community)",
+    "Strange Filter: Brew (Community)": [
+        6632
+    ],
+    "6633": "Strange Filter: Hacksaw (Community)",
+    "Strange Filter: Hacksaw (Community)": [
+        6633
+    ],
+    "6634": "Strange Filter: Turbine Center (Community)",
+    "Strange Filter: Turbine Center (Community)": [
+        6634
+    ],
+    "6635": "Strange Filter: Carrier (Community)",
+    "Strange Filter: Carrier (Community)": [
+        6635
+    ],
+    "6636": "Strange Filter: Galleria (Community)",
+    "Strange Filter: Galleria (Community)": [
+        6636
+    ],
+    "6637": "Strange Filter: Emerge (Community)",
+    "Strange Filter: Emerge (Community)": [
+        6637
+    ],
+    "6638": "Strange Filter: Camber (Community)",
+    "Strange Filter: Camber (Community)": [
+        6638
     ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
@@ -14906,7 +15000,8 @@
     "United Dodgeball League Participant": [
         10290,
         10492,
-        11418
+        11418,
+        13575
     ],
     "10291": "ESEA 6s Invite 1st Place",
     "ESEA 6s Invite 1st Place": [
@@ -15801,23 +15896,27 @@
     "10489": "United Dodgeball League Gold Medal",
     "United Dodgeball League Gold Medal": [
         10489,
-        11415
+        11415,
+        13572
     ],
     "10490": "United Dodgeball League Silver Medal",
     "United Dodgeball League Silver Medal": [
         10490,
-        11416
+        11416,
+        13573
     ],
     "10491": "United Dodgeball League Bronze Medal",
     "United Dodgeball League Bronze Medal": [
         10491,
-        11417
+        11417,
+        13574
     ],
     "10492": "United Dodgeball League Participant",
     "10493": "United Dodgeball League Supporter",
     "United Dodgeball League Supporter": [
         10493,
-        11419
+        11419,
+        13576
     ],
     "10494": "Rasslabyxa Cup 1st Place",
     "Rasslabyxa Cup 1st Place": [
@@ -21960,6 +22059,35 @@
     "13563": "RGL.gg - Intermediate Participant - 6v6",
     "13564": "RGL.gg - Amateur Participant - 6v6",
     "13565": "RGL.gg - Newcomer Participant - 6v6",
+    "13566": "Operation Firmware Frenzy Star of the Company 2023",
+    "Operation Firmware Frenzy Star of the Company 2023": [
+        13566
+    ],
+    "13567": "Operation Firmware Frenzy Purehearted Purple 2023",
+    "Operation Firmware Frenzy Purehearted Purple 2023": [
+        13567
+    ],
+    "13568": "Operation Firmware Frenzy Bountiful Benevolence 2023",
+    "Operation Firmware Frenzy Bountiful Benevolence 2023": [
+        13568
+    ],
+    "13569": "Operation Firmware Frenzy Giver in Gold 2023",
+    "Operation Firmware Frenzy Giver in Gold 2023": [
+        13569
+    ],
+    "13570": "Operation Firmware Frenzy Supercritical Selflessness 2023",
+    "Operation Firmware Frenzy Supercritical Selflessness 2023": [
+        13570
+    ],
+    "13571": "Supreme Strategist's Sigil of Status",
+    "Supreme Strategist's Sigil of Status": [
+        13571
+    ],
+    "13572": "United Dodgeball League Gold Medal",
+    "13573": "United Dodgeball League Silver Medal",
+    "13574": "United Dodgeball League Bronze Medal",
+    "13575": "United Dodgeball League Participant",
+    "13576": "United Dodgeball League Supporter",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -27238,5 +27366,109 @@
     "31411": "Fiercesome Fluorescence",
     "Fiercesome Fluorescence": [
         31411
+    ],
+    "31412": "Taunt: Cheers!",
+    "Taunt: Cheers!": [
+        31412
+    ],
+    "31413": "Taunt: Mourning Mercs",
+    "Taunt: Mourning Mercs": [
+        31413
+    ],
+    "31414": "Taunt: Foul Play",
+    "Taunt: Foul Play": [
+        31414
+    ],
+    "31415": "Boarder's Beanie",
+    "Boarder's Beanie": [
+        31415
+    ],
+    "31416": "Cozy Cover-Up",
+    "Cozy Cover-Up": [
+        31416
+    ],
+    "31417": "Dapper Dickens",
+    "Dapper Dickens": [
+        31417
+    ],
+    "31418": "Trench Warefarer",
+    "Trench Warefarer": [
+        31418
+    ],
+    "31419": "Wanderer's Wool",
+    "Wanderer's Wool": [
+        31419
+    ],
+    "31420": "Puffed Practitioner",
+    "Puffed Practitioner": [
+        31420
+    ],
+    "31421": "Frigid Fashion",
+    "Frigid Fashion": [
+        31421
+    ],
+    "31422": "Nightcap",
+    "Nightcap": [
+        31422
+    ],
+    "31423": "Lazy Lounger",
+    "Lazy Lounger": [
+        31423
+    ],
+    "31424": "Slumber Slacks",
+    "Slumber Slacks": [
+        31424
+    ],
+    "31425": "Clue Hairdo",
+    "Clue Hairdo": [
+        31425
+    ],
+    "31426": "Sleuth Suit",
+    "Sleuth Suit": [
+        31426
+    ],
+    "31427": "Strasbourg Scholar",
+    "Strasbourg Scholar": [
+        31427
+    ],
+    "31428": "Covert Covers",
+    "Covert Covers": [
+        31428
+    ],
+    "31429": "Scruffed 'n Stitched",
+    "Scruffed 'n Stitched": [
+        31429
+    ],
+    "31430": "Rugged Rags",
+    "Rugged Rags": [
+        31430
+    ],
+    "31431": "Masked Loyalty",
+    "Masked Loyalty": [
+        31431
+    ],
+    "31432": "Impact Impaler",
+    "Impact Impaler": [
+        31432
+    ],
+    "31433": "Torcher's Trench Coat",
+    "Torcher's Trench Coat": [
+        31433
+    ],
+    "31434": "Balkan's Brute",
+    "Balkan's Brute": [
+        31434
+    ],
+    "31435": "Bigger Mann on Campus",
+    "Bigger Mann on Campus": [
+        31435
+    ],
+    "31436": "Isotopic Insulator",
+    "Isotopic Insulator": [
+        31436
+    ],
+    "31437": "Bonk Beanie",
+    "Bonk Beanie": [
+        31437
     ]
 }
