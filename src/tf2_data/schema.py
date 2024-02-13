@@ -76,13 +76,16 @@ class SchemaItems:
             defindex_names = read_json_file(DEFINDEX_NAMES_PATH)
 
         if not defindex_full_names:
-            defindex_names = read_json_file(DEFINDEX_FULL_NAMES_PATH)
+            defindex_full_names = read_json_file(DEFINDEX_FULL_NAMES_PATH)
 
         if isinstance(schema_items, str):
             schema_items = read_json_file(schema_items)
 
         if isinstance(defindex_names, str):
             defindex_names = read_json_file(defindex_names)
+
+        if isinstance(defindex_full_names, str):
+            defindex_full_names = read_json_file(defindex_full_names)
 
         self.schema_items = schema_items
         self.defindex_names = defindex_names
