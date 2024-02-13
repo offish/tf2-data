@@ -20,6 +20,6 @@ def read_lib_json_file(name: str) -> dict | list:
     return read_json_file(path)
 
 
-def write_json_file(name: str, data: dict | list) -> None:
-    with open(name, "w") as f:
+def write_json_file(path: str, data: dict | list) -> None:
+    with open(path, "w") as f:
         json.dump(data, f, indent=4)

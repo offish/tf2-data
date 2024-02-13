@@ -1,10 +1,11 @@
-from .utils import get_json_path, read_json_file, write_json_file, read_lib_json_file
+from .utils import get_json_path, read_json_file, write_json_file
 
 import time
 
 import requests
 
 
+DEFINDEX_FULL_NAMES_PATH = get_json_path("defindex_full_names")
 SCHEMA_OVERVIEW_PATH = get_json_path("schema_overview")
 DEFINDEX_NAMES_PATH = get_json_path("defindex_names")
 SCHEMA_ITEMS_PATH = get_json_path("schema_items")
@@ -63,13 +64,19 @@ class Schema:
 
 class SchemaItems:
     def __init__(
-        self, schema_items: str | list[dict] = "", defindex_names: str | dict = ""
+        self,
+        schema_items: str | list[dict] = "",
+        defindex_names: str | dict = "",
+        defindex_full_names: str | dict = "",
     ) -> None:
         if not schema_items:
-            schema_items = read_lib_json_file("schema_items")
+            schema_items = read_json_file(SCHEMA_ITEMS_PATH)
 
         if not defindex_names:
-            defindex_names = read_lib_json_file("defindex_names")
+            defindex_names = read_json_file(DEFINDEX_NAMES_PATH)
+
+        if not defindex_full_names:
+            defindex_names = read_json_file(DEFINDEX_FULL_NAMES_PATH)
 
         if isinstance(schema_items, str):
             schema_items = read_json_file(schema_items)
@@ -79,6 +86,7 @@ class SchemaItems:
 
         self.schema_items = schema_items
         self.defindex_names = defindex_names
+        self.defindex_full_names = defindex_full_names
 
     def map_defindex_name(self) -> dict:
         data = {}
@@ -105,6 +113,31 @@ class SchemaItems:
 
         return data
 
+    def map_defindex_full_name(self) -> dict:
+        data = {}
+
+        for item in self.schema_items:
+            name = item["name"]
+            defindex = item["defindex"]
+
+            # map both ways for ease of use
+            # defindex as key is str
+            data[str(defindex)] = name
+
+            # map name to all defindexes
+            # e.g. mann co key has multiple defindexes
+            if name not in data:
+                # defindex as value are ints
+                data[name] = [defindex]
+            else:
+                data[name] += [defindex]
+
+        self.defindex_full_names = data
+
+        write_json_file(DEFINDEX_FULL_NAMES_PATH, data)
+
+        return data
+
 
 class IEconItems:
     API_URL = "https://api.steampowered.com/IEconItems_440"
@@ -124,7 +157,7 @@ class IEconItems:
 
         try:
             return res.json()
-        except:
+        except Exception:
             return {}
 
     def get_player_items(self, steamid: str) -> dict:

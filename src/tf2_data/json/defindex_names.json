@@ -16458,7 +16458,8 @@
     "TFArena Helper Medal": [
         10671,
         11982,
-        13019
+        13019,
+        13589
     ],
     "10672": "Copenhagen Games 6v6 1st Place",
     "10673": "Copenhagen Games 6v6 2nd Place",
@@ -21195,51 +21196,63 @@
     "13006": "DreamHack Community Clash Staff",
     "13007": "TFArena Elite Division Champions",
     "TFArena Elite Division Champions": [
-        13007
+        13007,
+        13577
     ],
     "13008": "TFArena Elite Division 2nd Place",
     "TFArena Elite Division 2nd Place": [
-        13008
+        13008,
+        13578
     ],
     "13009": "TFArena Elite Division 3rd Place",
     "TFArena Elite Division 3rd Place": [
-        13009
+        13009,
+        13579
     ],
     "13010": "TFArena Elite Division Participant",
     "TFArena Elite Division Participant": [
-        13010
+        13010,
+        13580
     ],
     "13011": "TFArena Experienced Division Champions",
     "TFArena Experienced Division Champions": [
-        13011
+        13011,
+        13581
     ],
     "13012": "TFArena Experienced Division 2nd Place",
     "TFArena Experienced Division 2nd Place": [
-        13012
+        13012,
+        13582
     ],
     "13013": "TFArena Experienced Division 3rd Place",
     "TFArena Experienced Division 3rd Place": [
-        13013
+        13013,
+        13583
     ],
     "13014": "TFArena Experienced Division Participant",
     "TFArena Experienced Division Participant": [
-        13014
+        13014,
+        13584
     ],
     "13015": "TFArena Rookie Division Champions",
     "TFArena Rookie Division Champions": [
-        13015
+        13015,
+        13585
     ],
     "13016": "TFArena Rookie Division 2nd Place",
     "TFArena Rookie Division 2nd Place": [
-        13016
+        13016,
+        13586
     ],
     "13017": "TFArena Rookie Division 3rd Place",
     "TFArena Rookie Division 3rd Place": [
-        13017
+        13017,
+        13587
     ],
     "13018": "TFArena Rookie Division Participant",
     "TFArena Rookie Division Participant": [
-        13018
+        13018,
+        13588
     ],
     "13019": "TFArena Helper Medal",
     "13020": "ETF2L 6v6 Premiership Gold Medal",
@@ -21896,23 +21909,28 @@
     ],
     "13497": "AsiaFortress Invite 1st Place",
     "AsiaFortress Invite 1st Place": [
-        13497
+        13497,
+        13590
     ],
     "13498": "AsiaFortress Invite 2nd Place",
     "AsiaFortress Invite 2nd Place": [
-        13498
+        13498,
+        13591
     ],
     "13499": "AsiaFortress Invite 3rd Place",
     "AsiaFortress Invite 3rd Place": [
-        13499
+        13499,
+        13592
     ],
     "13500": "AsiaFortress Invite Participant",
     "AsiaFortress Invite Participant": [
-        13500
+        13500,
+        13593
     ],
     "13501": "AsiaFortress Qualifiers Participant",
     "AsiaFortress Qualifiers Participant": [
-        13501
+        13501,
+        13594
     ],
     "13502": "AsiaFortress International Jade Medal",
     "AsiaFortress International Jade Medal": [
@@ -22088,6 +22106,40 @@
     "13574": "United Dodgeball League Bronze Medal",
     "13575": "United Dodgeball League Participant",
     "13576": "United Dodgeball League Supporter",
+    "13577": "TFArena Elite Division Champions",
+    "13578": "TFArena Elite Division 2nd Place",
+    "13579": "TFArena Elite Division 3rd Place",
+    "13580": "TFArena Elite Division Participant",
+    "13581": "TFArena Experienced Division Champions",
+    "13582": "TFArena Experienced Division 2nd Place",
+    "13583": "TFArena Experienced Division 3rd Place",
+    "13584": "TFArena Experienced Division Participant",
+    "13585": "TFArena Rookie Division Champions",
+    "13586": "TFArena Rookie Division 2nd Place",
+    "13587": "TFArena Rookie Division 3rd Place",
+    "13588": "TFArena Rookie Division Participant",
+    "13589": "TFArena Helper Medal",
+    "13590": "AsiaFortress Invite 1st Place",
+    "13591": "AsiaFortress Invite 2nd Place",
+    "13592": "AsiaFortress Invite 3rd Place",
+    "13593": "AsiaFortress Invite Participant",
+    "13594": "AsiaFortress Qualifiers Participant",
+    "13595": "TF2 Summer Brawl 1st Place",
+    "TF2 Summer Brawl 1st Place": [
+        13595
+    ],
+    "13596": "TF2 Summer Brawl 2nd Place",
+    "TF2 Summer Brawl 2nd Place": [
+        13596
+    ],
+    "13597": "TF2 Summer Brawl 3rd Place",
+    "TF2 Summer Brawl 3rd Place": [
+        13597
+    ],
+    "13598": "TF2 Summer Brawl Participant",
+    "TF2 Summer Brawl Participant": [
+        13598
+    ],
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -27391,8 +27443,8 @@
     "Dapper Dickens": [
         31417
     ],
-    "31418": "Trench Warefarer",
-    "Trench Warefarer": [
+    "31418": "Trench Warfarer",
+    "Trench Warfarer": [
         31418
     ],
     "31419": "Wanderer's Wool",
