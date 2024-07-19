@@ -31,3 +31,22 @@ python -m pip install --upgrade tf2-data
 ```bash
 # tf2-data/
 python -m unittest
+```
+
+## Update files after new update
+To update the local files after a TF2 update run this snippet.
+
+```python
+from tf2_data.schema import Schema, SchemaItems, IEconItems
+
+api_key = "STEAM_API_KEY"
+schema = Schema(api_key=api_key)
+schema.set_effects()
+
+ieconitems = IEconItems(api_key)
+items = ieconitems.set_all_schema_items()
+
+schema_items = SchemaItems(items)
+schema_items.map_defindex_name()
+schema_items.map_defindex_full_name()
+```
