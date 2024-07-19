@@ -5291,6 +5291,10 @@
     "Map Token Bundle 24": [
         2173
     ],
+    "2174": "Map Token Bundle 25",
+    "Map Token Bundle 25": [
+        2174
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5378,6 +5382,46 @@
     "2521": "Map Token Camber",
     "Map Token Camber": [
         2521
+    ],
+    "2522": "Map Token Embargo",
+    "Map Token Embargo": [
+        2522
+    ],
+    "2523": "Map Token Odyssey",
+    "Map Token Odyssey": [
+        2523
+    ],
+    "2524": "Map Token Megaton",
+    "Map Token Megaton": [
+        2524
+    ],
+    "2525": "Map Token Cachoeira",
+    "Map Token Cachoeira": [
+        2525
+    ],
+    "2526": "Map Token Overgrown",
+    "Map Token Overgrown": [
+        2526
+    ],
+    "2527": "Map Token Hadal",
+    "Map Token Hadal": [
+        2527
+    ],
+    "2528": "Map Token Applejack",
+    "Map Token Applejack": [
+        2528
+    ],
+    "2529": "Map Token Atom Smash",
+    "Map Token Atom Smash": [
+        2529
+    ],
+    "2530": "Map Token Canaveral",
+    "Map Token Canaveral": [
+        2530
+    ],
+    "2531": "Map Token Burghausen",
+    "Map Token Burghausen": [
+        2531
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -6935,6 +6979,14 @@
     "Winter 2023 Cosmetic Case": [
         5957
     ],
+    "5958": "Summer 2024 Cosmetic Key",
+    "Summer 2024 Cosmetic Key": [
+        5958
+    ],
+    "5959": "Summer 2024 Cosmetic Case",
+    "Summer 2024 Cosmetic Case": [
+        5959
+    ],
     "5999": "Strange Part (Armory)",
     "Strange Part (Armory)": [
         5999
@@ -7694,6 +7746,46 @@
     "6638": "Strange Filter: Camber (Community)",
     "Strange Filter: Camber (Community)": [
         6638
+    ],
+    "6639": "Strange Filter: Embargo (Community)",
+    "Strange Filter: Embargo (Community)": [
+        6639
+    ],
+    "6640": "Strange Filter: Odyssey (Community)",
+    "Strange Filter: Odyssey (Community)": [
+        6640
+    ],
+    "6641": "Strange Filter: Megaton (Community)",
+    "Strange Filter: Megaton (Community)": [
+        6641
+    ],
+    "6642": "Strange Filter: Cachoeira (Community)",
+    "Strange Filter: Cachoeira (Community)": [
+        6642
+    ],
+    "6643": "Strange Filter: Overgrown (Community)",
+    "Strange Filter: Overgrown (Community)": [
+        6643
+    ],
+    "6644": "Strange Filter: Hadal (Community)",
+    "Strange Filter: Hadal (Community)": [
+        6644
+    ],
+    "6645": "Strange Filter: Applejack (Community)",
+    "Strange Filter: Applejack (Community)": [
+        6645
+    ],
+    "6646": "Strange Filter: Atom Smash (Community)",
+    "Strange Filter: Atom Smash (Community)": [
+        6646
+    ],
+    "6647": "Strange Filter: Canaveral (Community)",
+    "Strange Filter: Canaveral (Community)": [
+        6647
+    ],
+    "6648": "Strange Filter: Burghausen (Community)",
+    "Strange Filter: Burghausen (Community)": [
+        6648
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -27467,24 +27559,24 @@
     "Insomnia 69 Staff Medal": [
         13001
     ],
-    "13002": "DreamHack Community Clash First Place 2022",
-    "DreamHack Community Clash First Place 2022": [
+    "13002": "DreamHack Community Clash First Place Spring 2022",
+    "DreamHack Community Clash First Place Spring 2022": [
         13002
     ],
-    "13003": "DreamHack Community Clash Second Place 2022",
-    "DreamHack Community Clash Second Place 2022": [
+    "13003": "DreamHack Community Clash Second Place Spring 2022",
+    "DreamHack Community Clash Second Place Spring 2022": [
         13003
     ],
-    "13004": "DreamHack Community Clash Third Place 2022",
-    "DreamHack Community Clash Third Place 2022": [
+    "13004": "DreamHack Community Clash Third Place Spring 2022",
+    "DreamHack Community Clash Third Place Spring 2022": [
         13004
     ],
-    "13005": "DreamHack Community Clash Participant 2022",
-    "DreamHack Community Clash Participant 2022": [
+    "13005": "DreamHack Community Clash Participant Spring 2022",
+    "DreamHack Community Clash Participant Spring 2022": [
         13005
     ],
-    "13006": "DreamHack Community Clash Staff 2022",
-    "DreamHack Community Clash Staff 2022": [
+    "13006": "DreamHack Community Clash Staff Spring 2022",
+    "DreamHack Community Clash Staff Spring 2022": [
         13006
     ],
     "13007": "TFArena 6v6 Arena Mode Elite Division Cup 3 Gold",
@@ -29854,6 +29946,1846 @@
     "13598": "CappingTV Summer Brawl Participant 2024",
     "CappingTV Summer Brawl Participant 2024": [
         13598
+    ],
+    "13599": "RGB 6 LAN 1st Place 2024",
+    "RGB 6 LAN 1st Place 2024": [
+        13599
+    ],
+    "13600": "RGB 6 LAN 2nd Place 2024",
+    "RGB 6 LAN 2nd Place 2024": [
+        13600
+    ],
+    "13601": "RGB 6 LAN 3rd Place 2024",
+    "RGB 6 LAN 3rd Place 2024": [
+        13601
+    ],
+    "13602": "RGB 6 LAN Participant 2024",
+    "RGB 6 LAN Participant 2024": [
+        13602
+    ],
+    "13603": "Moscow LAN 1st Place Winter 2024",
+    "Moscow LAN 1st Place Winter 2024": [
+        13603
+    ],
+    "13604": "Moscow LAN 2nd Place Winter 2024",
+    "Moscow LAN 2nd Place Winter 2024": [
+        13604
+    ],
+    "13605": "Moscow LAN 3rd Place Winter 2024",
+    "Moscow LAN 3rd Place Winter 2024": [
+        13605
+    ],
+    "13606": "Moscow LAN Participant Winter 2024",
+    "Moscow LAN Participant Winter 2024": [
+        13606
+    ],
+    "13607": "Moscow LAN Helper Winter 2024",
+    "Moscow LAN Helper Winter 2024": [
+        13607
+    ],
+    "13608": "ozfortress Summer Cup Fours Division 1 1st Place 2024",
+    "ozfortress Summer Cup Fours Division 1 1st Place 2024": [
+        13608
+    ],
+    "13609": "ozfortress Summer Cup Fours Division 1 2nd Place 2024",
+    "ozfortress Summer Cup Fours Division 1 2nd Place 2024": [
+        13609
+    ],
+    "13610": "ozfortress Summer Cup Fours Division 1 3rd Place 2024",
+    "ozfortress Summer Cup Fours Division 1 3rd Place 2024": [
+        13610
+    ],
+    "13611": "ozfortress Summer Cup Fours Division 1 Participant 2024",
+    "ozfortress Summer Cup Fours Division 1 Participant 2024": [
+        13611
+    ],
+    "13612": "ozfortress Summer Cup Fours Division 2 1st Place 2024",
+    "ozfortress Summer Cup Fours Division 2 1st Place 2024": [
+        13612
+    ],
+    "13613": "ozfortress Summer Cup Fours Division 2 2nd Place 2024",
+    "ozfortress Summer Cup Fours Division 2 2nd Place 2024": [
+        13613
+    ],
+    "13614": "ozfortress Summer Cup Fours Division 2 3rd Place 2024",
+    "ozfortress Summer Cup Fours Division 2 3rd Place 2024": [
+        13614
+    ],
+    "13615": "ozfortress Summer Cup Fours Division 2 Participant 2024",
+    "ozfortress Summer Cup Fours Division 2 Participant 2024": [
+        13615
+    ],
+    "13616": "ozfortress Summer Cup Fours Division 3 1st Place 2024",
+    "ozfortress Summer Cup Fours Division 3 1st Place 2024": [
+        13616
+    ],
+    "13617": "ozfortress Summer Cup Fours Division 3 2nd Place 2024",
+    "ozfortress Summer Cup Fours Division 3 2nd Place 2024": [
+        13617
+    ],
+    "13618": "ozfortress Summer Cup Fours Division 3 3rd Place 2024",
+    "ozfortress Summer Cup Fours Division 3 3rd Place 2024": [
+        13618
+    ],
+    "13619": "ozfortress Summer Cup Fours Division 3 Participant 2024",
+    "ozfortress Summer Cup Fours Division 3 Participant 2024": [
+        13619
+    ],
+    "13620": "CLTF2 4v4 Premiership Gold Medal Season 4",
+    "CLTF2 4v4 Premiership Gold Medal Season 4": [
+        13620
+    ],
+    "13621": "CLTF2 4v4 Premiership Silver Medal Season 4",
+    "CLTF2 4v4 Premiership Silver Medal Season 4": [
+        13621
+    ],
+    "13622": "CLTF2 4v4 Premiership Bronze Medal Season 4",
+    "CLTF2 4v4 Premiership Bronze Medal Season 4": [
+        13622
+    ],
+    "13623": "CLTF2 4v4 Premiership Participant Season 4",
+    "CLTF2 4v4 Premiership Participant Season 4": [
+        13623
+    ],
+    "13624": "CLTF2 4v4 Division 1 Gold Medal Season 4",
+    "CLTF2 4v4 Division 1 Gold Medal Season 4": [
+        13624
+    ],
+    "13625": "CLTF2 4v4 Division 1 Silver Medal Season 4",
+    "CLTF2 4v4 Division 1 Silver Medal Season 4": [
+        13625
+    ],
+    "13626": "CLTF2 4v4 Division 1 Bronze Medal Season 4",
+    "CLTF2 4v4 Division 1 Bronze Medal Season 4": [
+        13626
+    ],
+    "13627": "CLTF2 4v4 Division 1 Participant Season 4",
+    "CLTF2 4v4 Division 1 Participant Season 4": [
+        13627
+    ],
+    "13628": "CLTF2 4v4 Division 2 Gold Medal Season 4",
+    "CLTF2 4v4 Division 2 Gold Medal Season 4": [
+        13628
+    ],
+    "13629": "CLTF2 4v4 Division 2 Silver Medal Season 4",
+    "CLTF2 4v4 Division 2 Silver Medal Season 4": [
+        13629
+    ],
+    "13630": "CLTF2 4v4 Division 2 Bronze Medal Season 4",
+    "CLTF2 4v4 Division 2 Bronze Medal Season 4": [
+        13630
+    ],
+    "13631": "CLTF2 4v4 Division 2 Participant Season 4",
+    "CLTF2 4v4 Division 2 Participant Season 4": [
+        13631
+    ],
+    "13632": "CLTF2 Tournament Supporter Season 4",
+    "CLTF2 Tournament Supporter Season 4": [
+        13632
+    ],
+    "13633": "FBTF Cup 6v6 Wastex Miller 1st Place Season 6",
+    "FBTF Cup 6v6 Wastex Miller 1st Place Season 6": [
+        13633
+    ],
+    "13634": "FBTF Cup 6v6 Wastex Miller 2nd Place Season 6",
+    "FBTF Cup 6v6 Wastex Miller 2nd Place Season 6": [
+        13634
+    ],
+    "13635": "FBTF Cup 6v6 Wastex Miller 3rd Place Season 6",
+    "FBTF Cup 6v6 Wastex Miller 3rd Place Season 6": [
+        13635
+    ],
+    "13636": "FBTF Cup 6v6 Wastex Miller Participant Season 6",
+    "FBTF Cup 6v6 Wastex Miller Participant Season 6": [
+        13636
+    ],
+    "13637": "FBTF Cup 6v6 Barts Rimet 1st Place Season 6",
+    "FBTF Cup 6v6 Barts Rimet 1st Place Season 6": [
+        13637
+    ],
+    "13638": "FBTF Cup 6v6 Barts Rimet 2nd Place Season 6",
+    "FBTF Cup 6v6 Barts Rimet 2nd Place Season 6": [
+        13638
+    ],
+    "13639": "FBTF Cup 6v6 Barts Rimet 3rd Place Season 6",
+    "FBTF Cup 6v6 Barts Rimet 3rd Place Season 6": [
+        13639
+    ],
+    "13640": "FBTF Cup 6v6 Barts Rimet Participant Season 6",
+    "FBTF Cup 6v6 Barts Rimet Participant Season 6": [
+        13640
+    ],
+    "13641": "FBTF Cup 6v6 Vic Basten 1st Place Season 6",
+    "FBTF Cup 6v6 Vic Basten 1st Place Season 6": [
+        13641
+    ],
+    "13642": "FBTF Cup 6v6 Vic Basten 2nd Place Season 6",
+    "FBTF Cup 6v6 Vic Basten 2nd Place Season 6": [
+        13642
+    ],
+    "13643": "FBTF Cup 6v6 Vic Basten 3rd Place Season 6",
+    "FBTF Cup 6v6 Vic Basten 3rd Place Season 6": [
+        13643
+    ],
+    "13644": "FBTF Cup 6v6 Vic Basten Participant Season 6",
+    "FBTF Cup 6v6 Vic Basten Participant Season 6": [
+        13644
+    ],
+    "13645": "FBTF Cup 6v6 Joten Klopp 1st Place Season 6",
+    "FBTF Cup 6v6 Joten Klopp 1st Place Season 6": [
+        13645
+    ],
+    "13646": "FBTF Cup 6v6 Joten Klopp 2nd Place Season 6",
+    "FBTF Cup 6v6 Joten Klopp 2nd Place Season 6": [
+        13646
+    ],
+    "13647": "FBTF Cup 6v6 Joten Klopp 3rd Place Season 6",
+    "FBTF Cup 6v6 Joten Klopp 3rd Place Season 6": [
+        13647
+    ],
+    "13648": "FBTF Cup 6v6 Joten Klopp Participant Season 6",
+    "FBTF Cup 6v6 Joten Klopp Participant Season 6": [
+        13648
+    ],
+    "13649": "LBTF2 6v6 Access 1st Place Season 22",
+    "LBTF2 6v6 Access 1st Place Season 22": [
+        13649
+    ],
+    "13650": "LBTF2 6v6 Access 2nd Place Season 22",
+    "LBTF2 6v6 Access 2nd Place Season 22": [
+        13650
+    ],
+    "13651": "LBTF2 6v6 Access 3rd Place Season 22",
+    "LBTF2 6v6 Access 3rd Place Season 22": [
+        13651
+    ],
+    "13652": "LBTF2 6v6 Access Participant Season 22",
+    "LBTF2 6v6 Access Participant Season 22": [
+        13652
+    ],
+    "13653": "LBTF2 6v6 Open 1st Place Season 22",
+    "LBTF2 6v6 Open 1st Place Season 22": [
+        13653
+    ],
+    "13654": "LBTF2 6v6 Open 2nd Place Season 22",
+    "LBTF2 6v6 Open 2nd Place Season 22": [
+        13654
+    ],
+    "13655": "LBTF2 6v6 Open 3rd Place Season 22",
+    "LBTF2 6v6 Open 3rd Place Season 22": [
+        13655
+    ],
+    "13656": "LBTF2 6v6 Open Participant Season 22",
+    "LBTF2 6v6 Open Participant Season 22": [
+        13656
+    ],
+    "13657": "DreamHack Atlanta First Place 2022",
+    "DreamHack Atlanta First Place 2022": [
+        13657
+    ],
+    "13658": "DreamHack Atlanta Second Place 2022",
+    "DreamHack Atlanta Second Place 2022": [
+        13658
+    ],
+    "13659": "DreamHack Atlanta Third Place 2022",
+    "DreamHack Atlanta Third Place 2022": [
+        13659
+    ],
+    "13660": "DreamHack Atlanta Participant 2022",
+    "DreamHack Atlanta Participant 2022": [
+        13660
+    ],
+    "13661": "DreamHack Atlanta Staff 2022",
+    "DreamHack Atlanta Staff 2022": [
+        13661
+    ],
+    "13662": "RGLgg Highlander Invite Champions Season 15",
+    "RGLgg Highlander Invite Champions Season 15": [
+        13662
+    ],
+    "13663": "RGLgg Highlander Invite 2nd Place Season 15",
+    "RGLgg Highlander Invite 2nd Place Season 15": [
+        13663
+    ],
+    "13664": "RGLgg Highlander Invite 3rd Place Season 15",
+    "RGLgg Highlander Invite 3rd Place Season 15": [
+        13664
+    ],
+    "13665": "RGLgg Highlander Invite Participant Season 15",
+    "RGLgg Highlander Invite Participant Season 15": [
+        13665
+    ],
+    "13666": "RGLgg Highlander Advanced Champions Season 15",
+    "RGLgg Highlander Advanced Champions Season 15": [
+        13666
+    ],
+    "13667": "RGLgg Highlander Advanced 2nd Place Season 15",
+    "RGLgg Highlander Advanced 2nd Place Season 15": [
+        13667
+    ],
+    "13668": "RGLgg Highlander Advanced 3rd Place Season 15",
+    "RGLgg Highlander Advanced 3rd Place Season 15": [
+        13668
+    ],
+    "13669": "RGLgg Highlander Advanced Participant Season 15",
+    "RGLgg Highlander Advanced Participant Season 15": [
+        13669
+    ],
+    "13670": "RGLgg Highlander Main Champions Season 15",
+    "RGLgg Highlander Main Champions Season 15": [
+        13670
+    ],
+    "13671": "RGLgg Highlander Main 2nd Place Season 15",
+    "RGLgg Highlander Main 2nd Place Season 15": [
+        13671
+    ],
+    "13672": "RGLgg Highlander Main 3rd Place Season 15",
+    "RGLgg Highlander Main 3rd Place Season 15": [
+        13672
+    ],
+    "13673": "RGLgg Highlander Main Participant Season 15",
+    "RGLgg Highlander Main Participant Season 15": [
+        13673
+    ],
+    "13674": "RGLgg Highlander Intermediate Champions Season 15",
+    "RGLgg Highlander Intermediate Champions Season 15": [
+        13674
+    ],
+    "13675": "RGLgg Highlander Intermediate 2nd Place Season 15",
+    "RGLgg Highlander Intermediate 2nd Place Season 15": [
+        13675
+    ],
+    "13676": "RGLgg Highlander Intermediate 3rd Place Season 15",
+    "RGLgg Highlander Intermediate 3rd Place Season 15": [
+        13676
+    ],
+    "13677": "RGLgg Highlander Intermediate Participant Season 15",
+    "RGLgg Highlander Intermediate Participant Season 15": [
+        13677
+    ],
+    "13678": "RGLgg Highlander Amateur Participant Season 15",
+    "RGLgg Highlander Amateur Participant Season 15": [
+        13678
+    ],
+    "13679": "RGLgg Highlander Newcomer Participant Season 15",
+    "RGLgg Highlander Newcomer Participant Season 15": [
+        13679
+    ],
+    "13680": "RGLgg Highlander Invite Champions Season 16",
+    "RGLgg Highlander Invite Champions Season 16": [
+        13680
+    ],
+    "13681": "RGLgg Highlander Invite 2nd Place Season 16",
+    "RGLgg Highlander Invite 2nd Place Season 16": [
+        13681
+    ],
+    "13682": "RGLgg Highlander Invite 3rd Place Season 16",
+    "RGLgg Highlander Invite 3rd Place Season 16": [
+        13682
+    ],
+    "13683": "RGLgg Highlander Invite Participant Season 16",
+    "RGLgg Highlander Invite Participant Season 16": [
+        13683
+    ],
+    "13684": "RGLgg Highlander Advanced Champions Season 16",
+    "RGLgg Highlander Advanced Champions Season 16": [
+        13684
+    ],
+    "13685": "RGLgg Highlander Advanced 2nd Place Season 16",
+    "RGLgg Highlander Advanced 2nd Place Season 16": [
+        13685
+    ],
+    "13686": "RGLgg Highlander Advanced 3rd Place Season 16",
+    "RGLgg Highlander Advanced 3rd Place Season 16": [
+        13686
+    ],
+    "13687": "RGLgg Highlander Advanced Participant Season 16",
+    "RGLgg Highlander Advanced Participant Season 16": [
+        13687
+    ],
+    "13688": "RGLgg Highlander Main Champions Season 16",
+    "RGLgg Highlander Main Champions Season 16": [
+        13688
+    ],
+    "13689": "RGLgg Highlander Main 2nd Place Season 16",
+    "RGLgg Highlander Main 2nd Place Season 16": [
+        13689
+    ],
+    "13690": "RGLgg Highlander Main 3rd Place Season 16",
+    "RGLgg Highlander Main 3rd Place Season 16": [
+        13690
+    ],
+    "13691": "RGLgg Highlander Main Participant Season 16",
+    "RGLgg Highlander Main Participant Season 16": [
+        13691
+    ],
+    "13692": "RGLgg Highlander Intermediate Champions Season 16",
+    "RGLgg Highlander Intermediate Champions Season 16": [
+        13692
+    ],
+    "13693": "RGLgg Highlander Intermediate 2nd Place Season 16",
+    "RGLgg Highlander Intermediate 2nd Place Season 16": [
+        13693
+    ],
+    "13694": "RGLgg Highlander Intermediate 3rd Place Season 16",
+    "RGLgg Highlander Intermediate 3rd Place Season 16": [
+        13694
+    ],
+    "13695": "RGLgg Highlander Intermediate Participant Season 16",
+    "RGLgg Highlander Intermediate Participant Season 16": [
+        13695
+    ],
+    "13696": "RGLgg Highlander Amateur Participant Season 16",
+    "RGLgg Highlander Amateur Participant Season 16": [
+        13696
+    ],
+    "13697": "RGLgg Highlander Newcomer Participant Season 16",
+    "RGLgg Highlander Newcomer Participant Season 16": [
+        13697
+    ],
+    "13698": "RGLgg 6v6 Invite Champions Season 12",
+    "RGLgg 6v6 Invite Champions Season 12": [
+        13698
+    ],
+    "13699": "RGLgg 6v6 Invite 2nd Place Season 12",
+    "RGLgg 6v6 Invite 2nd Place Season 12": [
+        13699
+    ],
+    "13700": "RGLgg 6v6 Invite 3rd Place Season 12",
+    "RGLgg 6v6 Invite 3rd Place Season 12": [
+        13700
+    ],
+    "13701": "RGLgg 6v6 Invite Participant Season 12",
+    "RGLgg 6v6 Invite Participant Season 12": [
+        13701
+    ],
+    "13702": "RGLgg 6v6 Advanced Champions Season 12",
+    "RGLgg 6v6 Advanced Champions Season 12": [
+        13702
+    ],
+    "13703": "RGLgg 6v6 Advanced 2nd Place Season 12",
+    "RGLgg 6v6 Advanced 2nd Place Season 12": [
+        13703
+    ],
+    "13704": "RGLgg 6v6 Advanced 3rd Place Season 12",
+    "RGLgg 6v6 Advanced 3rd Place Season 12": [
+        13704
+    ],
+    "13705": "RGLgg 6v6 Advanced Participant Season 12",
+    "RGLgg 6v6 Advanced Participant Season 12": [
+        13705
+    ],
+    "13706": "RGLgg 6v6 Main Champions Season 12",
+    "RGLgg 6v6 Main Champions Season 12": [
+        13706
+    ],
+    "13707": "RGLgg 6v6 Main 2nd Place Season 12",
+    "RGLgg 6v6 Main 2nd Place Season 12": [
+        13707
+    ],
+    "13708": "RGLgg 6v6 Main 3rd Place Season 12",
+    "RGLgg 6v6 Main 3rd Place Season 12": [
+        13708
+    ],
+    "13709": "RGLgg 6v6 Main Participant Season 12",
+    "RGLgg 6v6 Main Participant Season 12": [
+        13709
+    ],
+    "13710": "RGLgg 6v6 Intermediate Champions Season 12",
+    "RGLgg 6v6 Intermediate Champions Season 12": [
+        13710
+    ],
+    "13711": "RGLgg 6v6 Intermediate 2nd Place Season 12",
+    "RGLgg 6v6 Intermediate 2nd Place Season 12": [
+        13711
+    ],
+    "13712": "RGLgg 6v6 Intermediate 3rd Place Season 12",
+    "RGLgg 6v6 Intermediate 3rd Place Season 12": [
+        13712
+    ],
+    "13713": "RGLgg 6v6 Intermediate Participant Season 12",
+    "RGLgg 6v6 Intermediate Participant Season 12": [
+        13713
+    ],
+    "13714": "RGLgg 6v6 Amateur Participant Season 12",
+    "RGLgg 6v6 Amateur Participant Season 12": [
+        13714
+    ],
+    "13715": "RGLgg 6v6 Newcomer Participant Season 12",
+    "RGLgg 6v6 Newcomer Participant Season 12": [
+        13715
+    ],
+    "13716": "RGLgg 6v6 Invite Champions Season 13",
+    "RGLgg 6v6 Invite Champions Season 13": [
+        13716
+    ],
+    "13717": "RGLgg 6v6 Invite 2nd Place Season 13",
+    "RGLgg 6v6 Invite 2nd Place Season 13": [
+        13717
+    ],
+    "13718": "RGLgg 6v6 Invite 3rd Place Season 13",
+    "RGLgg 6v6 Invite 3rd Place Season 13": [
+        13718
+    ],
+    "13719": "RGLgg 6v6 Invite Participant Season 13",
+    "RGLgg 6v6 Invite Participant Season 13": [
+        13719
+    ],
+    "13720": "RGLgg 6v6 Advanced Champions Season 13",
+    "RGLgg 6v6 Advanced Champions Season 13": [
+        13720
+    ],
+    "13721": "RGLgg 6v6 Advanced 2nd Place Season 13",
+    "RGLgg 6v6 Advanced 2nd Place Season 13": [
+        13721
+    ],
+    "13722": "RGLgg 6v6 Advanced 3rd Place Season 13",
+    "RGLgg 6v6 Advanced 3rd Place Season 13": [
+        13722
+    ],
+    "13723": "RGLgg 6v6 Advanced Participant Season 13",
+    "RGLgg 6v6 Advanced Participant Season 13": [
+        13723
+    ],
+    "13724": "RGLgg 6v6 Main Champions Season 13",
+    "RGLgg 6v6 Main Champions Season 13": [
+        13724
+    ],
+    "13725": "RGLgg 6v6 Main 2nd Place Season 13",
+    "RGLgg 6v6 Main 2nd Place Season 13": [
+        13725
+    ],
+    "13726": "RGLgg 6v6 Main 3rd Place Season 13",
+    "RGLgg 6v6 Main 3rd Place Season 13": [
+        13726
+    ],
+    "13727": "RGLgg 6v6 Main Participant Season 13",
+    "RGLgg 6v6 Main Participant Season 13": [
+        13727
+    ],
+    "13728": "RGLgg 6v6 Intermediate Champions Season 13",
+    "RGLgg 6v6 Intermediate Champions Season 13": [
+        13728
+    ],
+    "13729": "RGLgg 6v6 Intermediate 2nd Place Season 13",
+    "RGLgg 6v6 Intermediate 2nd Place Season 13": [
+        13729
+    ],
+    "13730": "RGLgg 6v6 Intermediate 3rd Place Season 13",
+    "RGLgg 6v6 Intermediate 3rd Place Season 13": [
+        13730
+    ],
+    "13731": "RGLgg 6v6 Intermediate Participant Season 13",
+    "RGLgg 6v6 Intermediate Participant Season 13": [
+        13731
+    ],
+    "13732": "RGLgg 6v6 Amateur Participant Season 13",
+    "RGLgg 6v6 Amateur Participant Season 13": [
+        13732
+    ],
+    "13733": "RGLgg 6v6 Newcomer Participant Season 13",
+    "RGLgg 6v6 Newcomer Participant Season 13": [
+        13733
+    ],
+    "13734": "DreamHack Community Clash First Place Autumn 2022",
+    "DreamHack Community Clash First Place Autumn 2022": [
+        13734
+    ],
+    "13735": "DreamHack Community Clash Second Place Autumn 2022",
+    "DreamHack Community Clash Second Place Autumn 2022": [
+        13735
+    ],
+    "13736": "DreamHack Community Clash Third Place Autumn 2022",
+    "DreamHack Community Clash Third Place Autumn 2022": [
+        13736
+    ],
+    "13737": "DreamHack Community Clash Participant Autumn 2022",
+    "DreamHack Community Clash Participant Autumn 2022": [
+        13737
+    ],
+    "13738": "DreamHack Community Clash Staff Autumn 2022",
+    "DreamHack Community Clash Staff Autumn 2022": [
+        13738
+    ],
+    "13739": "Operation Magnetic Mayhem Fiendish Fuchsite 2024",
+    "Operation Magnetic Mayhem Fiendish Fuchsite 2024": [
+        13739
+    ],
+    "13740": "Operation Magnetic Mayhem Megalomaniacal Mastodon 2024",
+    "Operation Magnetic Mayhem Megalomaniacal Mastodon 2024": [
+        13740
+    ],
+    "13741": "Operation Magnetic Mayhem Humanitarian Hiddenite 2024",
+    "Operation Magnetic Mayhem Humanitarian Hiddenite 2024": [
+        13741
+    ],
+    "13742": "Operation Magnetic Mayhem Barely Benign Bismutotantalite 2024",
+    "Operation Magnetic Mayhem Barely Benign Bismutotantalite 2024": [
+        13742
+    ],
+    "13743": "Operation Magnetic Mayhem Treasured Tourmaline 2024",
+    "Operation Magnetic Mayhem Treasured Tourmaline 2024": [
+        13743
+    ],
+    "13744": "ozfortress Premier 1st Place Season 38",
+    "ozfortress Premier 1st Place Season 38": [
+        13744
+    ],
+    "13745": "ozfortress Premier 2nd Place Season 38",
+    "ozfortress Premier 2nd Place Season 38": [
+        13745
+    ],
+    "13746": "ozfortress Premier 3rd Place Season 38",
+    "ozfortress Premier 3rd Place Season 38": [
+        13746
+    ],
+    "13747": "ozfortress Premier Participant Season 38",
+    "ozfortress Premier Participant Season 38": [
+        13747
+    ],
+    "13748": "ozfortress High 1st Place Season 38",
+    "ozfortress High 1st Place Season 38": [
+        13748
+    ],
+    "13749": "ozfortress High 2nd Place Season 38",
+    "ozfortress High 2nd Place Season 38": [
+        13749
+    ],
+    "13750": "ozfortress High 3rd Place Season 38",
+    "ozfortress High 3rd Place Season 38": [
+        13750
+    ],
+    "13751": "ozfortress High Participant Season 38",
+    "ozfortress High Participant Season 38": [
+        13751
+    ],
+    "13752": "ozfortress Intermediate 1st Place Season 38",
+    "ozfortress Intermediate 1st Place Season 38": [
+        13752
+    ],
+    "13753": "ozfortress Intermediate 2nd Place Season 38",
+    "ozfortress Intermediate 2nd Place Season 38": [
+        13753
+    ],
+    "13754": "ozfortress Intermediate 3rd Place Season 38",
+    "ozfortress Intermediate 3rd Place Season 38": [
+        13754
+    ],
+    "13755": "ozfortress Intermediate Participant Season 38",
+    "ozfortress Intermediate Participant Season 38": [
+        13755
+    ],
+    "13756": "ozfortress Main 1st Place Season 38",
+    "ozfortress Main 1st Place Season 38": [
+        13756
+    ],
+    "13757": "ozfortress Main 2nd Place Season 38",
+    "ozfortress Main 2nd Place Season 38": [
+        13757
+    ],
+    "13758": "ozfortress Main 3rd Place Season 38",
+    "ozfortress Main 3rd Place Season 38": [
+        13758
+    ],
+    "13759": "ozfortress Main Participant Season 38",
+    "ozfortress Main Participant Season 38": [
+        13759
+    ],
+    "13760": "ozfortress Open 1st Place Season 38",
+    "ozfortress Open 1st Place Season 38": [
+        13760
+    ],
+    "13761": "ozfortress Open 2nd Place Season 38",
+    "ozfortress Open 2nd Place Season 38": [
+        13761
+    ],
+    "13762": "ozfortress Open 3rd Place Season 38",
+    "ozfortress Open 3rd Place Season 38": [
+        13762
+    ],
+    "13763": "ozfortress Open Participant Season 38",
+    "ozfortress Open Participant Season 38": [
+        13763
+    ],
+    "13764": "ozfortress Premier 1st Place Season 39",
+    "ozfortress Premier 1st Place Season 39": [
+        13764
+    ],
+    "13765": "ozfortress Premier 2nd Place Season 39",
+    "ozfortress Premier 2nd Place Season 39": [
+        13765
+    ],
+    "13766": "ozfortress Premier 3rd Place Season 39",
+    "ozfortress Premier 3rd Place Season 39": [
+        13766
+    ],
+    "13767": "ozfortress Premier Participant Season 39",
+    "ozfortress Premier Participant Season 39": [
+        13767
+    ],
+    "13768": "ozfortress High 1st Place Season 39",
+    "ozfortress High 1st Place Season 39": [
+        13768
+    ],
+    "13769": "ozfortress High 2nd Place Season 39",
+    "ozfortress High 2nd Place Season 39": [
+        13769
+    ],
+    "13770": "ozfortress High 3rd Place Season 39",
+    "ozfortress High 3rd Place Season 39": [
+        13770
+    ],
+    "13771": "ozfortress High Participant Season 39",
+    "ozfortress High Participant Season 39": [
+        13771
+    ],
+    "13772": "ozfortress Intermediate 1st Place Season 39",
+    "ozfortress Intermediate 1st Place Season 39": [
+        13772
+    ],
+    "13773": "ozfortress Intermediate 2nd Place Season 39",
+    "ozfortress Intermediate 2nd Place Season 39": [
+        13773
+    ],
+    "13774": "ozfortress Intermediate 3rd Place Season 39",
+    "ozfortress Intermediate 3rd Place Season 39": [
+        13774
+    ],
+    "13775": "ozfortress Intermediate Participant Season 39",
+    "ozfortress Intermediate Participant Season 39": [
+        13775
+    ],
+    "13776": "ozfortress Main 1st Place Season 39",
+    "ozfortress Main 1st Place Season 39": [
+        13776
+    ],
+    "13777": "ozfortress Main 2nd Place Season 39",
+    "ozfortress Main 2nd Place Season 39": [
+        13777
+    ],
+    "13778": "ozfortress Main 3rd Place Season 39",
+    "ozfortress Main 3rd Place Season 39": [
+        13778
+    ],
+    "13779": "ozfortress Main Participant Season 39",
+    "ozfortress Main Participant Season 39": [
+        13779
+    ],
+    "13780": "ozfortress Open 1st Place Season 39",
+    "ozfortress Open 1st Place Season 39": [
+        13780
+    ],
+    "13781": "ozfortress Open 2nd Place Season 39",
+    "ozfortress Open 2nd Place Season 39": [
+        13781
+    ],
+    "13782": "ozfortress Open 3rd Place Season 39",
+    "ozfortress Open 3rd Place Season 39": [
+        13782
+    ],
+    "13783": "ozfortress Open Participant Season 39",
+    "ozfortress Open Participant Season 39": [
+        13783
+    ],
+    "13784": "ozfortress Highlander Premier First Place Season 5",
+    "ozfortress Highlander Premier First Place Season 5": [
+        13784
+    ],
+    "13785": "ozfortress Highlander Premier Second Place Season 5",
+    "ozfortress Highlander Premier Second Place Season 5": [
+        13785
+    ],
+    "13786": "ozfortress Highlander Premier Third Place Season 5",
+    "ozfortress Highlander Premier Third Place Season 5": [
+        13786
+    ],
+    "13787": "ozfortress Highlander Premier Participant Season 5",
+    "ozfortress Highlander Premier Participant Season 5": [
+        13787
+    ],
+    "13788": "ozfortress Highlander Intermediate First Place Season 5",
+    "ozfortress Highlander Intermediate First Place Season 5": [
+        13788
+    ],
+    "13789": "ozfortress Highlander Intermediate Second Place Season 5",
+    "ozfortress Highlander Intermediate Second Place Season 5": [
+        13789
+    ],
+    "13790": "ozfortress Highlander Intermediate Third Place Season 5",
+    "ozfortress Highlander Intermediate Third Place Season 5": [
+        13790
+    ],
+    "13791": "ozfortress Highlander Intermediate Participant Season 5",
+    "ozfortress Highlander Intermediate Participant Season 5": [
+        13791
+    ],
+    "13792": "ozfortress Highlander Open First Place Season 5",
+    "ozfortress Highlander Open First Place Season 5": [
+        13792
+    ],
+    "13793": "ozfortress Highlander Open Second Place Season 5",
+    "ozfortress Highlander Open Second Place Season 5": [
+        13793
+    ],
+    "13794": "ozfortress Highlander Open Third Place Season 5",
+    "ozfortress Highlander Open Third Place Season 5": [
+        13794
+    ],
+    "13795": "ozfortress Highlander Open Participant Season 5",
+    "ozfortress Highlander Open Participant Season 5": [
+        13795
+    ],
+    "13796": "ozfortress Highlander Premier First Place Season 6",
+    "ozfortress Highlander Premier First Place Season 6": [
+        13796
+    ],
+    "13797": "ozfortress Highlander Premier Second Place Season 6",
+    "ozfortress Highlander Premier Second Place Season 6": [
+        13797
+    ],
+    "13798": "ozfortress Highlander Premier Third Place Season 6",
+    "ozfortress Highlander Premier Third Place Season 6": [
+        13798
+    ],
+    "13799": "ozfortress Highlander Premier Participant Season 6",
+    "ozfortress Highlander Premier Participant Season 6": [
+        13799
+    ],
+    "13800": "ozfortress Highlander Main First Place Season 6",
+    "ozfortress Highlander Main First Place Season 6": [
+        13800
+    ],
+    "13801": "ozfortress Highlander Main Second Place Season 6",
+    "ozfortress Highlander Main Second Place Season 6": [
+        13801
+    ],
+    "13802": "ozfortress Highlander Main Third Place Season 6",
+    "ozfortress Highlander Main Third Place Season 6": [
+        13802
+    ],
+    "13803": "ozfortress Highlander Main Participant Season 6",
+    "ozfortress Highlander Main Participant Season 6": [
+        13803
+    ],
+    "13804": "CLTF2 4v4 Division 3 Gold Medal Season 4",
+    "CLTF2 4v4 Division 3 Gold Medal Season 4": [
+        13804
+    ],
+    "13805": "CLTF2 4v4 Division 3 Silver Medal Season 4",
+    "CLTF2 4v4 Division 3 Silver Medal Season 4": [
+        13805
+    ],
+    "13806": "CLTF2 4v4 Division 3 Bronze Medal Season 4",
+    "CLTF2 4v4 Division 3 Bronze Medal Season 4": [
+        13806
+    ],
+    "13807": "CLTF2 4v4 Division 3 Participant Season 4",
+    "CLTF2 4v4 Division 3 Participant Season 4": [
+        13807
+    ],
+    "13808": "CLTF2 4v4 Division 4 Gold Medal Season 4",
+    "CLTF2 4v4 Division 4 Gold Medal Season 4": [
+        13808
+    ],
+    "13809": "CLTF2 4v4 Division 4 Silver Medal Season 4",
+    "CLTF2 4v4 Division 4 Silver Medal Season 4": [
+        13809
+    ],
+    "13810": "CLTF2 4v4 Division 4 Bronze Medal Season 4",
+    "CLTF2 4v4 Division 4 Bronze Medal Season 4": [
+        13810
+    ],
+    "13811": "CLTF2 4v4 Division 4 Participant Season 4",
+    "CLTF2 4v4 Division 4 Participant Season 4": [
+        13811
+    ],
+    "13812": "CLTF2 4v4 Division 5 Gold Medal Season 4",
+    "CLTF2 4v4 Division 5 Gold Medal Season 4": [
+        13812
+    ],
+    "13813": "CLTF2 4v4 Division 5 Silver Medal Season 4",
+    "CLTF2 4v4 Division 5 Silver Medal Season 4": [
+        13813
+    ],
+    "13814": "CLTF2 4v4 Division 5 Bronze Medal Season 4",
+    "CLTF2 4v4 Division 5 Bronze Medal Season 4": [
+        13814
+    ],
+    "13815": "CLTF2 4v4 Division 5 Participant Season 4",
+    "CLTF2 4v4 Division 5 Participant Season 4": [
+        13815
+    ],
+    "13816": "ETF2L 6v6 Premiership Gold Medal Autumn 2022",
+    "ETF2L 6v6 Premiership Gold Medal Autumn 2022": [
+        13816
+    ],
+    "13817": "ETF2L 6v6 Premiership Silver Medal Autumn 2022",
+    "ETF2L 6v6 Premiership Silver Medal Autumn 2022": [
+        13817
+    ],
+    "13818": "ETF2L 6v6 Premiership Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Premiership Bronze Medal Autumn 2022": [
+        13818
+    ],
+    "13819": "ETF2L 6v6 Premiership Participation Medal Autumn 2022",
+    "ETF2L 6v6 Premiership Participation Medal Autumn 2022": [
+        13819
+    ],
+    "13820": "ETF2L 6v6 Division 1 Gold Medal Autumn 2022",
+    "ETF2L 6v6 Division 1 Gold Medal Autumn 2022": [
+        13820
+    ],
+    "13821": "ETF2L 6v6 Division 1 Silver Medal Autumn 2022",
+    "ETF2L 6v6 Division 1 Silver Medal Autumn 2022": [
+        13821
+    ],
+    "13822": "ETF2L 6v6 Division 1 Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Division 1 Bronze Medal Autumn 2022": [
+        13822
+    ],
+    "13823": "ETF2L 6v6 Division 1 Participation Medal Autumn 2022",
+    "ETF2L 6v6 Division 1 Participation Medal Autumn 2022": [
+        13823
+    ],
+    "13824": "ETF2L 6v6 Division 2 Gold Medal Autumn 2022",
+    "ETF2L 6v6 Division 2 Gold Medal Autumn 2022": [
+        13824
+    ],
+    "13825": "ETF2L 6v6 Division 2 Silver Medal Autumn 2022",
+    "ETF2L 6v6 Division 2 Silver Medal Autumn 2022": [
+        13825
+    ],
+    "13826": "ETF2L 6v6 Division 2 Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Division 2 Bronze Medal Autumn 2022": [
+        13826
+    ],
+    "13827": "ETF2L 6v6 Division 2 Participation Medal Autumn 2022",
+    "ETF2L 6v6 Division 2 Participation Medal Autumn 2022": [
+        13827
+    ],
+    "13828": "ETF2L 6v6 Mid Gold Medal Autumn 2022",
+    "ETF2L 6v6 Mid Gold Medal Autumn 2022": [
+        13828
+    ],
+    "13829": "ETF2L 6v6 Mid Silver Medal Autumn 2022",
+    "ETF2L 6v6 Mid Silver Medal Autumn 2022": [
+        13829
+    ],
+    "13830": "ETF2L 6v6 Mid Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Mid Bronze Medal Autumn 2022": [
+        13830
+    ],
+    "13831": "ETF2L 6v6 Mid Playoff Medal Autumn 2022",
+    "ETF2L 6v6 Mid Playoff Medal Autumn 2022": [
+        13831
+    ],
+    "13832": "ETF2L 6v6 Mid Participation Medal Autumn 2022",
+    "ETF2L 6v6 Mid Participation Medal Autumn 2022": [
+        13832
+    ],
+    "13833": "ETF2L 6v6 Low Gold Medal Autumn 2022",
+    "ETF2L 6v6 Low Gold Medal Autumn 2022": [
+        13833
+    ],
+    "13834": "ETF2L 6v6 Low Silver Medal Autumn 2022",
+    "ETF2L 6v6 Low Silver Medal Autumn 2022": [
+        13834
+    ],
+    "13835": "ETF2L 6v6 Low Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Low Bronze Medal Autumn 2022": [
+        13835
+    ],
+    "13836": "ETF2L 6v6 Low Playoff Medal Autumn 2022",
+    "ETF2L 6v6 Low Playoff Medal Autumn 2022": [
+        13836
+    ],
+    "13837": "ETF2L 6v6 Low Participation Medal Autumn 2022",
+    "ETF2L 6v6 Low Participation Medal Autumn 2022": [
+        13837
+    ],
+    "13838": "ETF2L 6v6 Open Gold Medal Autumn 2022",
+    "ETF2L 6v6 Open Gold Medal Autumn 2022": [
+        13838
+    ],
+    "13839": "ETF2L 6v6 Open Silver Medal Autumn 2022",
+    "ETF2L 6v6 Open Silver Medal Autumn 2022": [
+        13839
+    ],
+    "13840": "ETF2L 6v6 Open Bronze Medal Autumn 2022",
+    "ETF2L 6v6 Open Bronze Medal Autumn 2022": [
+        13840
+    ],
+    "13841": "ETF2L 6v6 Open Playoff Medal Autumn 2022",
+    "ETF2L 6v6 Open Playoff Medal Autumn 2022": [
+        13841
+    ],
+    "13842": "ETF2L 6v6 Open Participation Medal Autumn 2022",
+    "ETF2L 6v6 Open Participation Medal Autumn 2022": [
+        13842
+    ],
+    "13843": "ETF2L 6v6 Premiership Gold Medal Winter 2023",
+    "ETF2L 6v6 Premiership Gold Medal Winter 2023": [
+        13843
+    ],
+    "13844": "ETF2L 6v6 Premiership Silver Medal Winter 2023",
+    "ETF2L 6v6 Premiership Silver Medal Winter 2023": [
+        13844
+    ],
+    "13845": "ETF2L 6v6 Premiership Bronze Medal Winter 2023",
+    "ETF2L 6v6 Premiership Bronze Medal Winter 2023": [
+        13845
+    ],
+    "13846": "ETF2L 6v6 Premiership Participation Medal Winter 2023",
+    "ETF2L 6v6 Premiership Participation Medal Winter 2023": [
+        13846
+    ],
+    "13847": "ETF2L 6v6 Division 1 Gold Medal Winter 2023",
+    "ETF2L 6v6 Division 1 Gold Medal Winter 2023": [
+        13847
+    ],
+    "13848": "ETF2L 6v6 Division 1 Silver Medal Winter 2023",
+    "ETF2L 6v6 Division 1 Silver Medal Winter 2023": [
+        13848
+    ],
+    "13849": "ETF2L 6v6 Division 1 Bronze Medal Winter 2023",
+    "ETF2L 6v6 Division 1 Bronze Medal Winter 2023": [
+        13849
+    ],
+    "13850": "ETF2L 6v6 Division 1 Participation Medal Winter 2023",
+    "ETF2L 6v6 Division 1 Participation Medal Winter 2023": [
+        13850
+    ],
+    "13851": "ETF2L 6v6 Division 2 Gold Medal Winter 2023",
+    "ETF2L 6v6 Division 2 Gold Medal Winter 2023": [
+        13851
+    ],
+    "13852": "ETF2L 6v6 Division 2 Silver Medal Winter 2023",
+    "ETF2L 6v6 Division 2 Silver Medal Winter 2023": [
+        13852
+    ],
+    "13853": "ETF2L 6v6 Division 2 Bronze Medal Winter 2023",
+    "ETF2L 6v6 Division 2 Bronze Medal Winter 2023": [
+        13853
+    ],
+    "13854": "ETF2L 6v6 Division 2 Participation Medal Winter 2023",
+    "ETF2L 6v6 Division 2 Participation Medal Winter 2023": [
+        13854
+    ],
+    "13855": "ETF2L 6v6 Mid Gold Medal Winter 2023",
+    "ETF2L 6v6 Mid Gold Medal Winter 2023": [
+        13855
+    ],
+    "13856": "ETF2L 6v6 Mid Silver Medal Winter 2023",
+    "ETF2L 6v6 Mid Silver Medal Winter 2023": [
+        13856
+    ],
+    "13857": "ETF2L 6v6 Mid Bronze Medal Winter 2023",
+    "ETF2L 6v6 Mid Bronze Medal Winter 2023": [
+        13857
+    ],
+    "13858": "ETF2L 6v6 Mid Playoff Medal Winter 2023",
+    "ETF2L 6v6 Mid Playoff Medal Winter 2023": [
+        13858
+    ],
+    "13859": "ETF2L 6v6 Mid Participation Medal Winter 2023",
+    "ETF2L 6v6 Mid Participation Medal Winter 2023": [
+        13859
+    ],
+    "13860": "ETF2L 6v6 Low Gold Medal Winter 2023",
+    "ETF2L 6v6 Low Gold Medal Winter 2023": [
+        13860
+    ],
+    "13861": "ETF2L 6v6 Low Silver Medal Winter 2023",
+    "ETF2L 6v6 Low Silver Medal Winter 2023": [
+        13861
+    ],
+    "13862": "ETF2L 6v6 Low Bronze Medal Winter 2023",
+    "ETF2L 6v6 Low Bronze Medal Winter 2023": [
+        13862
+    ],
+    "13863": "ETF2L 6v6 Low Playoff Medal Winter 2023",
+    "ETF2L 6v6 Low Playoff Medal Winter 2023": [
+        13863
+    ],
+    "13864": "ETF2L 6v6 Low Participation Medal Winter 2023",
+    "ETF2L 6v6 Low Participation Medal Winter 2023": [
+        13864
+    ],
+    "13865": "ETF2L 6v6 Open Gold Medal Winter 2023",
+    "ETF2L 6v6 Open Gold Medal Winter 2023": [
+        13865
+    ],
+    "13866": "ETF2L 6v6 Open Silver Medal Winter 2023",
+    "ETF2L 6v6 Open Silver Medal Winter 2023": [
+        13866
+    ],
+    "13867": "ETF2L 6v6 Open Bronze Medal Winter 2023",
+    "ETF2L 6v6 Open Bronze Medal Winter 2023": [
+        13867
+    ],
+    "13868": "ETF2L 6v6 Open Playoff Medal Winter 2023",
+    "ETF2L 6v6 Open Playoff Medal Winter 2023": [
+        13868
+    ],
+    "13869": "ETF2L 6v6 Open Participation Medal Winter 2023",
+    "ETF2L 6v6 Open Participation Medal Winter 2023": [
+        13869
+    ],
+    "13870": "ETF2L 6v6 Premiership Gold Medal Summer 2023",
+    "ETF2L 6v6 Premiership Gold Medal Summer 2023": [
+        13870
+    ],
+    "13871": "ETF2L 6v6 Premiership Silver Medal Summer 2023",
+    "ETF2L 6v6 Premiership Silver Medal Summer 2023": [
+        13871
+    ],
+    "13872": "ETF2L 6v6 Premiership Bronze Medal Summer 2023",
+    "ETF2L 6v6 Premiership Bronze Medal Summer 2023": [
+        13872
+    ],
+    "13873": "ETF2L 6v6 Premiership Participation Medal Summer 2023",
+    "ETF2L 6v6 Premiership Participation Medal Summer 2023": [
+        13873
+    ],
+    "13874": "ETF2L 6v6 Division 1 Gold Medal Summer 2023",
+    "ETF2L 6v6 Division 1 Gold Medal Summer 2023": [
+        13874
+    ],
+    "13875": "ETF2L 6v6 Division 1 Silver Medal Summer 2023",
+    "ETF2L 6v6 Division 1 Silver Medal Summer 2023": [
+        13875
+    ],
+    "13876": "ETF2L 6v6 Division 1 Bronze Medal Summer 2023",
+    "ETF2L 6v6 Division 1 Bronze Medal Summer 2023": [
+        13876
+    ],
+    "13877": "ETF2L 6v6 Division 1 Participation Medal Summer 2023",
+    "ETF2L 6v6 Division 1 Participation Medal Summer 2023": [
+        13877
+    ],
+    "13878": "ETF2L 6v6 Division 2 Gold Medal Summer 2023",
+    "ETF2L 6v6 Division 2 Gold Medal Summer 2023": [
+        13878
+    ],
+    "13879": "ETF2L 6v6 Division 2 Silver Medal Summer 2023",
+    "ETF2L 6v6 Division 2 Silver Medal Summer 2023": [
+        13879
+    ],
+    "13880": "ETF2L 6v6 Division 2 Bronze Medal Summer 2023",
+    "ETF2L 6v6 Division 2 Bronze Medal Summer 2023": [
+        13880
+    ],
+    "13881": "ETF2L 6v6 Division 2 Participation Medal Summer 2023",
+    "ETF2L 6v6 Division 2 Participation Medal Summer 2023": [
+        13881
+    ],
+    "13882": "ETF2L 6v6 Division 3 Gold Medal Summer 2023",
+    "ETF2L 6v6 Division 3 Gold Medal Summer 2023": [
+        13882
+    ],
+    "13883": "ETF2L 6v6 Division 3 Silver Medal Summer 2023",
+    "ETF2L 6v6 Division 3 Silver Medal Summer 2023": [
+        13883
+    ],
+    "13884": "ETF2L 6v6 Division 3 Bronze Medal Summer 2023",
+    "ETF2L 6v6 Division 3 Bronze Medal Summer 2023": [
+        13884
+    ],
+    "13885": "ETF2L 6v6 Division 3 Participation Medal Summer 2023",
+    "ETF2L 6v6 Division 3 Participation Medal Summer 2023": [
+        13885
+    ],
+    "13886": "ETF2L 6v6 Division 4 Gold Medal Summer 2023",
+    "ETF2L 6v6 Division 4 Gold Medal Summer 2023": [
+        13886
+    ],
+    "13887": "ETF2L 6v6 Division 4 Silver Medal Summer 2023",
+    "ETF2L 6v6 Division 4 Silver Medal Summer 2023": [
+        13887
+    ],
+    "13888": "ETF2L 6v6 Division 4 Bronze Medal Summer 2023",
+    "ETF2L 6v6 Division 4 Bronze Medal Summer 2023": [
+        13888
+    ],
+    "13889": "ETF2L 6v6 Division 4 Participation Medal Summer 2023",
+    "ETF2L 6v6 Division 4 Participation Medal Summer 2023": [
+        13889
+    ],
+    "13890": "ETF2L 6v6 Low Gold Medal Summer 2023",
+    "ETF2L 6v6 Low Gold Medal Summer 2023": [
+        13890
+    ],
+    "13891": "ETF2L 6v6 Low Silver Medal Summer 2023",
+    "ETF2L 6v6 Low Silver Medal Summer 2023": [
+        13891
+    ],
+    "13892": "ETF2L 6v6 Low Bronze Medal Summer 2023",
+    "ETF2L 6v6 Low Bronze Medal Summer 2023": [
+        13892
+    ],
+    "13893": "ETF2L 6v6 Low Playoff Medal Summer 2023",
+    "ETF2L 6v6 Low Playoff Medal Summer 2023": [
+        13893
+    ],
+    "13894": "ETF2L 6v6 Low Participation Medal Summer 2023",
+    "ETF2L 6v6 Low Participation Medal Summer 2023": [
+        13894
+    ],
+    "13895": "ETF2L 6v6 Open Gold Medal Summer 2023",
+    "ETF2L 6v6 Open Gold Medal Summer 2023": [
+        13895
+    ],
+    "13896": "ETF2L 6v6 Open Silver Medal Summer 2023",
+    "ETF2L 6v6 Open Silver Medal Summer 2023": [
+        13896
+    ],
+    "13897": "ETF2L 6v6 Open Bronze Medal Summer 2023",
+    "ETF2L 6v6 Open Bronze Medal Summer 2023": [
+        13897
+    ],
+    "13898": "ETF2L 6v6 Open Playoff Medal Summer 2023",
+    "ETF2L 6v6 Open Playoff Medal Summer 2023": [
+        13898
+    ],
+    "13899": "ETF2L 6v6 Open Participation Medal Summer 2023",
+    "ETF2L 6v6 Open Participation Medal Summer 2023": [
+        13899
+    ],
+    "13900": "ETF2L 6v6 Premiership Gold Medal Autumn 2023",
+    "ETF2L 6v6 Premiership Gold Medal Autumn 2023": [
+        13900
+    ],
+    "13901": "ETF2L 6v6 Premiership Silver Medal Autumn 2023",
+    "ETF2L 6v6 Premiership Silver Medal Autumn 2023": [
+        13901
+    ],
+    "13902": "ETF2L 6v6 Premiership Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Premiership Bronze Medal Autumn 2023": [
+        13902
+    ],
+    "13903": "ETF2L 6v6 Premiership Participation Medal Autumn 2023",
+    "ETF2L 6v6 Premiership Participation Medal Autumn 2023": [
+        13903
+    ],
+    "13904": "ETF2L 6v6 Division 1 Gold Medal Autumn 2023",
+    "ETF2L 6v6 Division 1 Gold Medal Autumn 2023": [
+        13904
+    ],
+    "13905": "ETF2L 6v6 Division 1 Silver Medal Autumn 2023",
+    "ETF2L 6v6 Division 1 Silver Medal Autumn 2023": [
+        13905
+    ],
+    "13906": "ETF2L 6v6 Division 1 Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Division 1 Bronze Medal Autumn 2023": [
+        13906
+    ],
+    "13907": "ETF2L 6v6 Division 1 Participation Medal Autumn 2023",
+    "ETF2L 6v6 Division 1 Participation Medal Autumn 2023": [
+        13907
+    ],
+    "13908": "ETF2L 6v6 Division 2 Gold Medal Autumn 2023",
+    "ETF2L 6v6 Division 2 Gold Medal Autumn 2023": [
+        13908
+    ],
+    "13909": "ETF2L 6v6 Division 2 Silver Medal Autumn 2023",
+    "ETF2L 6v6 Division 2 Silver Medal Autumn 2023": [
+        13909
+    ],
+    "13910": "ETF2L 6v6 Division 2 Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Division 2 Bronze Medal Autumn 2023": [
+        13910
+    ],
+    "13911": "ETF2L 6v6 Division 2 Participation Medal Autumn 2023",
+    "ETF2L 6v6 Division 2 Participation Medal Autumn 2023": [
+        13911
+    ],
+    "13912": "ETF2L 6v6 Mid Gold Medal Autumn 2023",
+    "ETF2L 6v6 Mid Gold Medal Autumn 2023": [
+        13912
+    ],
+    "13913": "ETF2L 6v6 Mid Silver Medal Autumn 2023",
+    "ETF2L 6v6 Mid Silver Medal Autumn 2023": [
+        13913
+    ],
+    "13914": "ETF2L 6v6 Mid Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Mid Bronze Medal Autumn 2023": [
+        13914
+    ],
+    "13915": "ETF2L 6v6 Mid Playoff Medal Autumn 2023",
+    "ETF2L 6v6 Mid Playoff Medal Autumn 2023": [
+        13915
+    ],
+    "13916": "ETF2L 6v6 Mid Participation Medal Autumn 2023",
+    "ETF2L 6v6 Mid Participation Medal Autumn 2023": [
+        13916
+    ],
+    "13917": "ETF2L 6v6 Low Gold Medal Autumn 2023",
+    "ETF2L 6v6 Low Gold Medal Autumn 2023": [
+        13917
+    ],
+    "13918": "ETF2L 6v6 Low Silver Medal Autumn 2023",
+    "ETF2L 6v6 Low Silver Medal Autumn 2023": [
+        13918
+    ],
+    "13919": "ETF2L 6v6 Low Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Low Bronze Medal Autumn 2023": [
+        13919
+    ],
+    "13920": "ETF2L 6v6 Low Playoff Medal Autumn 2023",
+    "ETF2L 6v6 Low Playoff Medal Autumn 2023": [
+        13920
+    ],
+    "13921": "ETF2L 6v6 Low Participation Medal Autumn 2023",
+    "ETF2L 6v6 Low Participation Medal Autumn 2023": [
+        13921
+    ],
+    "13922": "ETF2L 6v6 Open Gold Medal Autumn 2023",
+    "ETF2L 6v6 Open Gold Medal Autumn 2023": [
+        13922
+    ],
+    "13923": "ETF2L 6v6 Open Silver Medal Autumn 2023",
+    "ETF2L 6v6 Open Silver Medal Autumn 2023": [
+        13923
+    ],
+    "13924": "ETF2L 6v6 Open Bronze Medal Autumn 2023",
+    "ETF2L 6v6 Open Bronze Medal Autumn 2023": [
+        13924
+    ],
+    "13925": "ETF2L 6v6 Open Playoff Medal Autumn 2023",
+    "ETF2L 6v6 Open Playoff Medal Autumn 2023": [
+        13925
+    ],
+    "13926": "ETF2L 6v6 Open Participation Medal Autumn 2023",
+    "ETF2L 6v6 Open Participation Medal Autumn 2023": [
+        13926
+    ],
+    "13927": "ETF2L Highlander Premiership Gold Medal Winter 2023",
+    "ETF2L Highlander Premiership Gold Medal Winter 2023": [
+        13927
+    ],
+    "13928": "ETF2L Highlander Premiership Silver Medal Winter 2023",
+    "ETF2L Highlander Premiership Silver Medal Winter 2023": [
+        13928
+    ],
+    "13929": "ETF2L Highlander Premiership Bronze Medal Winter 2023",
+    "ETF2L Highlander Premiership Bronze Medal Winter 2023": [
+        13929
+    ],
+    "13930": "ETF2L Highlander Premiership Participation Medal Winter 2023",
+    "ETF2L Highlander Premiership Participation Medal Winter 2023": [
+        13930
+    ],
+    "13931": "ETF2L Highlander Division 1 Gold Medal Winter 2023",
+    "ETF2L Highlander Division 1 Gold Medal Winter 2023": [
+        13931
+    ],
+    "13932": "ETF2L Highlander Division 1 Silver Medal Winter 2023",
+    "ETF2L Highlander Division 1 Silver Medal Winter 2023": [
+        13932
+    ],
+    "13933": "ETF2L Highlander Division 1 Bronze Medal Winter 2023",
+    "ETF2L Highlander Division 1 Bronze Medal Winter 2023": [
+        13933
+    ],
+    "13934": "ETF2L Highlander Division 1 Participation Medal Winter 2023",
+    "ETF2L Highlander Division 1 Participation Medal Winter 2023": [
+        13934
+    ],
+    "13935": "ETF2L Highlander Division 2 Gold Medal Winter 2023",
+    "ETF2L Highlander Division 2 Gold Medal Winter 2023": [
+        13935
+    ],
+    "13936": "ETF2L Highlander Division 2 Silver Medal Winter 2023",
+    "ETF2L Highlander Division 2 Silver Medal Winter 2023": [
+        13936
+    ],
+    "13937": "ETF2L Highlander Division 2 Bronze Medal Winter 2023",
+    "ETF2L Highlander Division 2 Bronze Medal Winter 2023": [
+        13937
+    ],
+    "13938": "ETF2L Highlander Division 2 Participation Medal Winter 2023",
+    "ETF2L Highlander Division 2 Participation Medal Winter 2023": [
+        13938
+    ],
+    "13939": "ETF2L Highlander Division 3 Gold Medal Winter 2023",
+    "ETF2L Highlander Division 3 Gold Medal Winter 2023": [
+        13939
+    ],
+    "13940": "ETF2L Highlander Division 3 Silver Medal Winter 2023",
+    "ETF2L Highlander Division 3 Silver Medal Winter 2023": [
+        13940
+    ],
+    "13941": "ETF2L Highlander Division 3 Bronze Medal Winter 2023",
+    "ETF2L Highlander Division 3 Bronze Medal Winter 2023": [
+        13941
+    ],
+    "13942": "ETF2L Highlander Division 3 Participation Medal Winter 2023",
+    "ETF2L Highlander Division 3 Participation Medal Winter 2023": [
+        13942
+    ],
+    "13943": "ETF2L Highlander Division 4 Gold Medal Winter 2023",
+    "ETF2L Highlander Division 4 Gold Medal Winter 2023": [
+        13943
+    ],
+    "13944": "ETF2L Highlander Division 4 Silver Medal Winter 2023",
+    "ETF2L Highlander Division 4 Silver Medal Winter 2023": [
+        13944
+    ],
+    "13945": "ETF2L Highlander Division 4 Bronze Medal Winter 2023",
+    "ETF2L Highlander Division 4 Bronze Medal Winter 2023": [
+        13945
+    ],
+    "13946": "ETF2L Highlander Division 4 Participation Medal Winter 2023",
+    "ETF2L Highlander Division 4 Participation Medal Winter 2023": [
+        13946
+    ],
+    "13947": "ETF2L Highlander Division 5 Gold Medal Winter 2023",
+    "ETF2L Highlander Division 5 Gold Medal Winter 2023": [
+        13947
+    ],
+    "13948": "ETF2L Highlander Division 5 Silver Medal Winter 2023",
+    "ETF2L Highlander Division 5 Silver Medal Winter 2023": [
+        13948
+    ],
+    "13949": "ETF2L Highlander Division 5 Bronze Medal Winter 2023",
+    "ETF2L Highlander Division 5 Bronze Medal Winter 2023": [
+        13949
+    ],
+    "13950": "ETF2L Highlander Division 5 Participation Medal Winter 2023",
+    "ETF2L Highlander Division 5 Participation Medal Winter 2023": [
+        13950
+    ],
+    "13951": "ETF2L Highlander Open Gold Medal Winter 2023",
+    "ETF2L Highlander Open Gold Medal Winter 2023": [
+        13951
+    ],
+    "13952": "ETF2L Highlander Open Silver Medal Winter 2023",
+    "ETF2L Highlander Open Silver Medal Winter 2023": [
+        13952
+    ],
+    "13953": "ETF2L Highlander Open Bronze Medal Winter 2023",
+    "ETF2L Highlander Open Bronze Medal Winter 2023": [
+        13953
+    ],
+    "13954": "ETF2L Highlander Open Playoff Medal Winter 2023",
+    "ETF2L Highlander Open Playoff Medal Winter 2023": [
+        13954
+    ],
+    "13955": "ETF2L Highlander Open Participation Medal Winter 2023",
+    "ETF2L Highlander Open Participation Medal Winter 2023": [
+        13955
+    ],
+    "13956": "ETF2L Highlander Premiership Gold Medal Spring 2023",
+    "ETF2L Highlander Premiership Gold Medal Spring 2023": [
+        13956
+    ],
+    "13957": "ETF2L Highlander Premiership Silver Medal Spring 2023",
+    "ETF2L Highlander Premiership Silver Medal Spring 2023": [
+        13957
+    ],
+    "13958": "ETF2L Highlander Premiership Bronze Medal Spring 2023",
+    "ETF2L Highlander Premiership Bronze Medal Spring 2023": [
+        13958
+    ],
+    "13959": "ETF2L Highlander Premiership Participation Medal Spring 2023",
+    "ETF2L Highlander Premiership Participation Medal Spring 2023": [
+        13959
+    ],
+    "13960": "ETF2L Highlander Division 1 Gold Medal Spring 2023",
+    "ETF2L Highlander Division 1 Gold Medal Spring 2023": [
+        13960
+    ],
+    "13961": "ETF2L Highlander Division 1 Silver Medal Spring 2023",
+    "ETF2L Highlander Division 1 Silver Medal Spring 2023": [
+        13961
+    ],
+    "13962": "ETF2L Highlander Division 1 Bronze Medal Spring 2023",
+    "ETF2L Highlander Division 1 Bronze Medal Spring 2023": [
+        13962
+    ],
+    "13963": "ETF2L Highlander Division 1 Participation Medal Spring 2023",
+    "ETF2L Highlander Division 1 Participation Medal Spring 2023": [
+        13963
+    ],
+    "13964": "ETF2L Highlander Division 2 Gold Medal Spring 2023",
+    "ETF2L Highlander Division 2 Gold Medal Spring 2023": [
+        13964
+    ],
+    "13965": "ETF2L Highlander Division 2 Silver Medal Spring 2023",
+    "ETF2L Highlander Division 2 Silver Medal Spring 2023": [
+        13965
+    ],
+    "13966": "ETF2L Highlander Division 2 Bronze Medal Spring 2023",
+    "ETF2L Highlander Division 2 Bronze Medal Spring 2023": [
+        13966
+    ],
+    "13967": "ETF2L Highlander Division 2 Participation Medal Spring 2023",
+    "ETF2L Highlander Division 2 Participation Medal Spring 2023": [
+        13967
+    ],
+    "13968": "ETF2L Highlander Mid Gold Medal Spring 2023",
+    "ETF2L Highlander Mid Gold Medal Spring 2023": [
+        13968
+    ],
+    "13969": "ETF2L Highlander Mid Silver Medal Spring 2023",
+    "ETF2L Highlander Mid Silver Medal Spring 2023": [
+        13969
+    ],
+    "13970": "ETF2L Highlander Mid Bronze Medal Spring 2023",
+    "ETF2L Highlander Mid Bronze Medal Spring 2023": [
+        13970
+    ],
+    "13971": "ETF2L Highlander Mid Playoff Medal Spring 2023",
+    "ETF2L Highlander Mid Playoff Medal Spring 2023": [
+        13971
+    ],
+    "13972": "ETF2L Highlander Mid Participation Medal Spring 2023",
+    "ETF2L Highlander Mid Participation Medal Spring 2023": [
+        13972
+    ],
+    "13973": "ETF2L Highlander Low Gold Medal Spring 2023",
+    "ETF2L Highlander Low Gold Medal Spring 2023": [
+        13973
+    ],
+    "13974": "ETF2L Highlander Low Silver Medal Spring 2023",
+    "ETF2L Highlander Low Silver Medal Spring 2023": [
+        13974
+    ],
+    "13975": "ETF2L Highlander Low Bronze Medal Spring 2023",
+    "ETF2L Highlander Low Bronze Medal Spring 2023": [
+        13975
+    ],
+    "13976": "ETF2L Highlander Low Playoff Medal Spring 2023",
+    "ETF2L Highlander Low Playoff Medal Spring 2023": [
+        13976
+    ],
+    "13977": "ETF2L Highlander Low Participation Medal Spring 2023",
+    "ETF2L Highlander Low Participation Medal Spring 2023": [
+        13977
+    ],
+    "13978": "ETF2L Highlander Open Gold Medal Spring 2023",
+    "ETF2L Highlander Open Gold Medal Spring 2023": [
+        13978
+    ],
+    "13979": "ETF2L Highlander Open Silver Medal Spring 2023",
+    "ETF2L Highlander Open Silver Medal Spring 2023": [
+        13979
+    ],
+    "13980": "ETF2L Highlander Open Bronze Medal Spring 2023",
+    "ETF2L Highlander Open Bronze Medal Spring 2023": [
+        13980
+    ],
+    "13982": "ETF2L Highlander Open Participation Medal Spring 2023",
+    "ETF2L Highlander Open Participation Medal Spring 2023": [
+        13982
+    ],
+    "13983": "ETF2L Highlander Premiership Gold Medal Autumn 2023",
+    "ETF2L Highlander Premiership Gold Medal Autumn 2023": [
+        13983
+    ],
+    "13984": "ETF2L Highlander Premiership Silver Medal Autumn 2023",
+    "ETF2L Highlander Premiership Silver Medal Autumn 2023": [
+        13984
+    ],
+    "13985": "ETF2L Highlander Premiership Bronze Medal Autumn 2023",
+    "ETF2L Highlander Premiership Bronze Medal Autumn 2023": [
+        13985
+    ],
+    "13986": "ETF2L Highlander Premiership Participation Medal Autumn 2023",
+    "ETF2L Highlander Premiership Participation Medal Autumn 2023": [
+        13986
+    ],
+    "13987": "ETF2L Highlander Division 1 Gold Medal Autumn 2023",
+    "ETF2L Highlander Division 1 Gold Medal Autumn 2023": [
+        13987
+    ],
+    "13988": "ETF2L Highlander Division 1 Silver Medal Autumn 2023",
+    "ETF2L Highlander Division 1 Silver Medal Autumn 2023": [
+        13988
+    ],
+    "13989": "ETF2L Highlander Division 1 Bronze Medal Autumn 2023",
+    "ETF2L Highlander Division 1 Bronze Medal Autumn 2023": [
+        13989
+    ],
+    "13990": "ETF2L Highlander Division 1 Participation Medal Autumn 2023",
+    "ETF2L Highlander Division 1 Participation Medal Autumn 2023": [
+        13990
+    ],
+    "13991": "ETF2L Highlander Division 2 Gold Medal Autumn 2023",
+    "ETF2L Highlander Division 2 Gold Medal Autumn 2023": [
+        13991
+    ],
+    "13992": "ETF2L Highlander Division 2 Silver Medal Autumn 2023",
+    "ETF2L Highlander Division 2 Silver Medal Autumn 2023": [
+        13992
+    ],
+    "13993": "ETF2L Highlander Division 2 Bronze Medal Autumn 2023",
+    "ETF2L Highlander Division 2 Bronze Medal Autumn 2023": [
+        13993
+    ],
+    "13994": "ETF2L Highlander Division 2 Participation Medal Autumn 2023",
+    "ETF2L Highlander Division 2 Participation Medal Autumn 2023": [
+        13994
+    ],
+    "13995": "ETF2L Highlander Division 3 Gold Medal Autumn 2023",
+    "ETF2L Highlander Division 3 Gold Medal Autumn 2023": [
+        13995
+    ],
+    "13996": "ETF2L Highlander Division 3 Silver Medal Autumn 2023",
+    "ETF2L Highlander Division 3 Silver Medal Autumn 2023": [
+        13996
+    ],
+    "13997": "ETF2L Highlander Division 3 Bronze Medal Autumn 2023",
+    "ETF2L Highlander Division 3 Bronze Medal Autumn 2023": [
+        13997
+    ],
+    "13998": "ETF2L Highlander Division 3 Participation Medal Autumn 2023",
+    "ETF2L Highlander Division 3 Participation Medal Autumn 2023": [
+        13998
+    ],
+    "13999": "ETF2L Highlander Division 4 Gold Medal Autumn 2023",
+    "ETF2L Highlander Division 4 Gold Medal Autumn 2023": [
+        13999
+    ],
+    "14000": "ETF2L Highlander Division 4 Silver Medal Autumn 2023",
+    "ETF2L Highlander Division 4 Silver Medal Autumn 2023": [
+        14000
+    ],
+    "14001": "ETF2L Highlander Division 4 Bronze Medal Autumn 2023",
+    "ETF2L Highlander Division 4 Bronze Medal Autumn 2023": [
+        14001
+    ],
+    "14002": "ETF2L Highlander Division 4 Participation Medal Autumn 2023",
+    "ETF2L Highlander Division 4 Participation Medal Autumn 2023": [
+        14002
+    ],
+    "14003": "ETF2L Highlander Division 5 Gold Medal Autumn 2023",
+    "ETF2L Highlander Division 5 Gold Medal Autumn 2023": [
+        14003
+    ],
+    "14004": "ETF2L Highlander Division 5 Silver Medal Autumn 2023",
+    "ETF2L Highlander Division 5 Silver Medal Autumn 2023": [
+        14004
+    ],
+    "14005": "ETF2L Highlander Division 5 Bronze Medal Autumn 2023",
+    "ETF2L Highlander Division 5 Bronze Medal Autumn 2023": [
+        14005
+    ],
+    "14006": "ETF2L Highlander Division 5 Participation Medal Autumn 2023",
+    "ETF2L Highlander Division 5 Participation Medal Autumn 2023": [
+        14006
+    ],
+    "14007": "ETF2L Highlander Open Gold Medal Autumn 2023",
+    "ETF2L Highlander Open Gold Medal Autumn 2023": [
+        14007
+    ],
+    "14008": "ETF2L Highlander Open Silver Medal Autumn 2023",
+    "ETF2L Highlander Open Silver Medal Autumn 2023": [
+        14008
+    ],
+    "14009": "ETF2L Highlander Open Bronze Medal Autumn 2023",
+    "ETF2L Highlander Open Bronze Medal Autumn 2023": [
+        14009
+    ],
+    "14010": "ETF2L Highlander Open Participation Medal Autumn 2023",
+    "ETF2L Highlander Open Participation Medal Autumn 2023": [
+        14010
+    ],
+    "14011": "ETF2L Highlander Premiership Gold Medal Winter 2024",
+    "ETF2L Highlander Premiership Gold Medal Winter 2024": [
+        14011
+    ],
+    "14012": "ETF2L Highlander Premiership Silver Medal Winter 2024",
+    "ETF2L Highlander Premiership Silver Medal Winter 2024": [
+        14012
+    ],
+    "14013": "ETF2L Highlander Premiership Bronze Medal Winter 2024",
+    "ETF2L Highlander Premiership Bronze Medal Winter 2024": [
+        14013
+    ],
+    "14014": "ETF2L Highlander Premiership Participation Medal Winter 2024",
+    "ETF2L Highlander Premiership Participation Medal Winter 2024": [
+        14014
+    ],
+    "14015": "ETF2L Highlander High Gold Medal Winter 2024",
+    "ETF2L Highlander High Gold Medal Winter 2024": [
+        14015
+    ],
+    "14016": "ETF2L Highlander High Silver Medal Winter 2024",
+    "ETF2L Highlander High Silver Medal Winter 2024": [
+        14016
+    ],
+    "14017": "ETF2L Highlander High Bronze Medal Winter 2024",
+    "ETF2L Highlander High Bronze Medal Winter 2024": [
+        14017
+    ],
+    "14018": "ETF2L Highlander High Participation Medal Winter 2024",
+    "ETF2L Highlander High Participation Medal Winter 2024": [
+        14018
+    ],
+    "14019": "ETF2L Highlander Mid Gold Medal Winter 2024",
+    "ETF2L Highlander Mid Gold Medal Winter 2024": [
+        14019
+    ],
+    "14020": "ETF2L Highlander Mid Silver Medal Winter 2024",
+    "ETF2L Highlander Mid Silver Medal Winter 2024": [
+        14020
+    ],
+    "14021": "ETF2L Highlander Mid Bronze Medal Winter 2024",
+    "ETF2L Highlander Mid Bronze Medal Winter 2024": [
+        14021
+    ],
+    "14022": "ETF2L Highlander Mid Participation Medal Winter 2024",
+    "ETF2L Highlander Mid Participation Medal Winter 2024": [
+        14022
+    ],
+    "14023": "ETF2L Highlander Low Gold Medal Winter 2024",
+    "ETF2L Highlander Low Gold Medal Winter 2024": [
+        14023
+    ],
+    "14024": "ETF2L Highlander Low Silver Medal Winter 2024",
+    "ETF2L Highlander Low Silver Medal Winter 2024": [
+        14024
+    ],
+    "14025": "ETF2L Highlander Low Bronze Medal Winter 2024",
+    "ETF2L Highlander Low Bronze Medal Winter 2024": [
+        14025
+    ],
+    "14026": "ETF2L Highlander Low Playoff Medal Winter 2024",
+    "ETF2L Highlander Low Playoff Medal Winter 2024": [
+        14026
+    ],
+    "14027": "ETF2L Highlander Low Participation Medal Winter 2024",
+    "ETF2L Highlander Low Participation Medal Winter 2024": [
+        14027
+    ],
+    "14028": "ETF2L Highlander Open Gold Medal Winter 2024",
+    "ETF2L Highlander Open Gold Medal Winter 2024": [
+        14028
+    ],
+    "14029": "ETF2L Highlander Open Silver Medal Winter 2024",
+    "ETF2L Highlander Open Silver Medal Winter 2024": [
+        14029
+    ],
+    "14030": "ETF2L Highlander Open Bronze Medal Winter 2024",
+    "ETF2L Highlander Open Bronze Medal Winter 2024": [
+        14030
+    ],
+    "14031": "ETF2L Highlander Open Participation Medal Winter 2024",
+    "ETF2L Highlander Open Participation Medal Winter 2024": [
+        14031
+    ],
+    "14032": "ETF2L Fresh Meat Challenge Gold Medal Season 3",
+    "ETF2L Fresh Meat Challenge Gold Medal Season 3": [
+        14032
+    ],
+    "14033": "ETF2L Fresh Meat Challenge Silver Medal Season 3",
+    "ETF2L Fresh Meat Challenge Silver Medal Season 3": [
+        14033
+    ],
+    "14034": "ETF2L Fresh Meat Challenge Bronze Medal Season 3",
+    "ETF2L Fresh Meat Challenge Bronze Medal Season 3": [
+        14034
+    ],
+    "14035": "ETF2L Fresh Meat Challenge Participant Season 3",
+    "ETF2L Fresh Meat Challenge Participant Season 3": [
+        14035
+    ],
+    "14036": "ETF2L Ultiduo 7 Gold Medal",
+    "ETF2L Ultiduo 7 Gold Medal": [
+        14036
+    ],
+    "14037": "ETF2L Ultiduo 7 Silver Medal",
+    "ETF2L Ultiduo 7 Silver Medal": [
+        14037
+    ],
+    "14038": "ETF2L Ultiduo 7 Bronze Medal",
+    "ETF2L Ultiduo 7 Bronze Medal": [
+        14038
+    ],
+    "14039": "ETF2L Ultiduo 7 Participation Medal",
+    "ETF2L Ultiduo 7 Participation Medal": [
+        14039
+    ],
+    "14040": "Osmium Ordinance Pyrite Pint 2024",
+    "Osmium Ordinance Pyrite Pint 2024": [
+        14040
+    ],
+    "14041": "Osmium Ordinance Platinum Pitcher 2024",
+    "Osmium Ordinance Platinum Pitcher 2024": [
+        14041
+    ],
+    "14042": "Osmium Ordinance Tungsten Tank 2024",
+    "Osmium Ordinance Tungsten Tank 2024": [
+        14042
+    ],
+    "14043": "Osmium Ordinance Bohrium Buster 2024",
+    "Osmium Ordinance Bohrium Buster 2024": [
+        14043
+    ],
+    "14044": "AsiaFortress Liquid.tf Open 1st Place Spring 2024",
+    "AsiaFortress Liquid.tf Open 1st Place Spring 2024": [
+        14044
+    ],
+    "14045": "AsiaFortress Liquid.tf Open 2nd Place Spring 2024",
+    "AsiaFortress Liquid.tf Open 2nd Place Spring 2024": [
+        14045
+    ],
+    "14046": "AsiaFortress Liquid.tf Open 3rd Place Spring 2024",
+    "AsiaFortress Liquid.tf Open 3rd Place Spring 2024": [
+        14046
+    ],
+    "14047": "AsiaFortress Liquid.tf Invite Participant Spring 2024",
+    "AsiaFortress Liquid.tf Invite Participant Spring 2024": [
+        14047
+    ],
+    "14048": "AsiaFortress Liquid.tf Open Participant Spring 2024",
+    "AsiaFortress Liquid.tf Open Participant Spring 2024": [
+        14048
+    ],
+    "14049": "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2024": [
+        14049
+    ],
+    "14050": "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2024": [
+        14050
+    ],
+    "14051": "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2024": [
+        14051
+    ],
+    "14052": "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2024": [
+        14052
+    ],
+    "14053": "AsiaFortress Liquid.tf Highlander Open Participant Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Open Participant Summer 2024": [
+        14053
+    ],
+    "14054": "AsiaFortress Liquid.tf Mercenary Mashup May 2024",
+    "AsiaFortress Liquid.tf Mercenary Mashup May 2024": [
+        14054
+    ],
+    "14055": "Osmium Ordinance Cobalt Keepsake 2024",
+    "Osmium Ordinance Cobalt Keepsake 2024": [
+        14055
+    ],
+    "14056": "LAN Downunder 1st Place 2024",
+    "LAN Downunder 1st Place 2024": [
+        14056
+    ],
+    "14057": "LAN Downunder 2nd Place 2024",
+    "LAN Downunder 2nd Place 2024": [
+        14057
+    ],
+    "14058": "LAN Downunder 3rd Place 2024",
+    "LAN Downunder 3rd Place 2024": [
+        14058
+    ],
+    "14059": "LAN Downunder Participant 2024",
+    "LAN Downunder Participant 2024": [
+        14059
     ],
     "15000": "concealedkiller_sniperrifle_nightowl",
     "concealedkiller_sniperrifle_nightowl": [
@@ -36258,5 +38190,113 @@
     "31437": "Bonk Beanie",
     "Bonk Beanie": [
         31437
+    ],
+    "31438": "Taunt: Can It!",
+    "Taunt: Can It!": [
+        31438
+    ],
+    "31439": "Taunt: Cremator's Condolences",
+    "Taunt: Cremator's Condolences": [
+        31439
+    ],
+    "31440": "Taunt: Straight Shooter Tutor",
+    "Taunt: Straight Shooter Tutor": [
+        31440
+    ],
+    "31441": "Taunt: Unleashed Rage",
+    "Taunt: Unleashed Rage": [
+        31441
+    ],
+    "31442": "Botler 2000",
+    "Botler 2000": [
+        31442
+    ],
+    "31443": "The Brand Loyalist",
+    "The Brand Loyalist": [
+        31443
+    ],
+    "31444": "Desk Engineer",
+    "Desk Engineer": [
+        31444
+    ],
+    "31445": "Daring Dell",
+    "Daring Dell": [
+        31445
+    ],
+    "31446": "The Big Star",
+    "The Big Star": [
+        31446
+    ],
+    "31447": "Sneaky Blinder",
+    "Sneaky Blinder": [
+        31447
+    ],
+    "31448": "Tuxedo Royale",
+    "Tuxedo Royale": [
+        31448
+    ],
+    "31449": "Control Patrol",
+    "Control Patrol": [
+        31449
+    ],
+    "31450": "Pathfinder",
+    "Pathfinder": [
+        31450
+    ],
+    "31451": "Justice Johns",
+    "Justice Johns": [
+        31451
+    ],
+    "31452": "Crook's Cap",
+    "Crook's Cap": [
+        31452
+    ],
+    "31453": "Brute's Braces",
+    "Brute's Braces": [
+        31453
+    ],
+    "31454": "Free Mann's Fashion",
+    "Free Mann's Fashion": [
+        31454
+    ],
+    "31455": "Hazardous Environment Vest",
+    "Hazardous Environment Vest": [
+        31455
+    ],
+    "31456": "The Tropical Brim",
+    "The Tropical Brim": [
+        31456
+    ],
+    "31457": "Watchmann's Wetsuit",
+    "Watchmann's Wetsuit": [
+        31457
+    ],
+    "31458": "The Aimframe",
+    "The Aimframe": [
+        31458
+    ],
+    "31459": "Commonwealth Commando",
+    "Commonwealth Commando": [
+        31459
+    ],
+    "31460": "Tanker's Top",
+    "Tanker's Top": [
+        31460
+    ],
+    "31461": "The Vaudeville Visor",
+    "The Vaudeville Visor": [
+        31461
+    ],
+    "31462": "Fire Marshal",
+    "Fire Marshal": [
+        31462
+    ],
+    "31463": "Invisible Flame",
+    "Invisible Flame": [
+        31463
+    ],
+    "31464": "Scorched Earth Stompers",
+    "Scorched Earth Stompers": [
+        31464
     ]
 }
