@@ -5295,6 +5295,10 @@
     "Map Token Bundle 25": [
         2174
     ],
+    "2175": "Map Token Bundle 26",
+    "Map Token Bundle 26": [
+        2175
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5422,6 +5426,34 @@
     "2531": "Map Token Burghausen",
     "Map Token Burghausen": [
         2531
+    ],
+    "2532": "Map Token Toxic",
+    "Map Token Toxic": [
+        2532
+    ],
+    "2533": "Map Token Darkmarsh",
+    "Map Token Darkmarsh": [
+        2533
+    ],
+    "2534": "Map Token Freaky Fair",
+    "Map Token Freaky Fair": [
+        2534
+    ],
+    "2535": "Map Token Dynamite",
+    "Map Token Dynamite": [
+        2535
+    ],
+    "2536": "Map Token Circus",
+    "Map Token Circus": [
+        2536
+    ],
+    "2537": "Map Token Outburst",
+    "Map Token Outburst": [
+        2537
+    ],
+    "2538": "Map Token Blazehattan",
+    "Map Token Blazehattan": [
+        2538
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -6987,6 +7019,30 @@
     "Summer 2024 Cosmetic Case": [
         5959
     ],
+    "5960": "Halloween 2024 Case",
+    "Halloween 2024 Case": [
+        5960
+    ],
+    "5961": "Halloween 2024 Key",
+    "Halloween 2024 Key": [
+        5961
+    ],
+    "5962": "Halloween 2024 Collection Dummy",
+    "Halloween 2024 Collection Dummy": [
+        5962
+    ],
+    "5963": "Scream Fortress 2024 War Paint Case",
+    "Scream Fortress 2024 War Paint Case": [
+        5963
+    ],
+    "5964": "Scream Fortress 2024 War Paint Key",
+    "Scream Fortress 2024 War Paint Key": [
+        5964
+    ],
+    "5965": "Scream Fortress 2024 War Paint Dummy",
+    "Scream Fortress 2024 War Paint Dummy": [
+        5965
+    ],
     "5999": "Strange Part (Armory)",
     "Strange Part (Armory)": [
         5999
@@ -7786,6 +7842,34 @@
     "6648": "Strange Filter: Burghausen (Community)",
     "Strange Filter: Burghausen (Community)": [
         6648
+    ],
+    "6649": "Strange Filter: Toxic (Community)",
+    "Strange Filter: Toxic (Community)": [
+        6649
+    ],
+    "6650": "Strange Filter: Darkmarsh (Community)",
+    "Strange Filter: Darkmarsh (Community)": [
+        6650
+    ],
+    "6651": "Strange Filter: Freaky Fair (Community)",
+    "Strange Filter: Freaky Fair (Community)": [
+        6651
+    ],
+    "6652": "Strange Filter: Dynamite (Community)",
+    "Strange Filter: Dynamite (Community)": [
+        6652
+    ],
+    "6653": "Strange Filter: Circus (Community)",
+    "Strange Filter: Circus (Community)": [
+        6653
+    ],
+    "6654": "Strange Filter: Outburst (Community)",
+    "Strange Filter: Outburst (Community)": [
+        6654
+    ],
+    "6655": "Strange Filter: Blazehattan (Community)",
+    "Strange Filter: Blazehattan (Community)": [
+        6655
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -31787,6 +31871,322 @@
     "LAN Downunder Participant 2024": [
         14059
     ],
+    "14060": "RGB 7 LAN 1st Place 2024",
+    "RGB 7 LAN 1st Place 2024": [
+        14060
+    ],
+    "14061": "RGB 7 LAN 2nd Place 2024",
+    "RGB 7 LAN 2nd Place 2024": [
+        14061
+    ],
+    "14062": "RGB 7 LAN 3rd Place 2024",
+    "RGB 7 LAN 3rd Place 2024": [
+        14062
+    ],
+    "14063": "RGB 7 LAN Participant 2024",
+    "RGB 7 LAN Participant 2024": [
+        14063
+    ],
+    "14064": "LBTF2 Highlander Access 1st Place Season 7",
+    "LBTF2 Highlander Access 1st Place Season 7": [
+        14064
+    ],
+    "14065": "LBTF2 Highlander Access 2nd Place Season 7",
+    "LBTF2 Highlander Access 2nd Place Season 7": [
+        14065
+    ],
+    "14066": "LBTF2 Highlander Access 3rd Place Season 7",
+    "LBTF2 Highlander Access 3rd Place Season 7": [
+        14066
+    ],
+    "14067": "LBTF2 Highlander Access Participant Season 7",
+    "LBTF2 Highlander Access Participant Season 7": [
+        14067
+    ],
+    "14068": "LBTF2 Highlander Principal 1st Place Season 7",
+    "LBTF2 Highlander Principal 1st Place Season 7": [
+        14068
+    ],
+    "14069": "LBTF2 Highlander Principal 2nd Place Season 7",
+    "LBTF2 Highlander Principal 2nd Place Season 7": [
+        14069
+    ],
+    "14070": "LBTF2 Highlander Principal 3rd Place Season 7",
+    "LBTF2 Highlander Principal 3rd Place Season 7": [
+        14070
+    ],
+    "14071": "LBTF2 Highlander Principal Participant Season 7",
+    "LBTF2 Highlander Principal Participant Season 7": [
+        14071
+    ],
+    "14072": "AsiaFortress Liquid.tf Invite 1st Place Spring 2024",
+    "AsiaFortress Liquid.tf Invite 1st Place Spring 2024": [
+        14072
+    ],
+    "14073": "AsiaFortress Liquid.tf Invite 2nd Place Spring 2024",
+    "AsiaFortress Liquid.tf Invite 2nd Place Spring 2024": [
+        14073
+    ],
+    "14074": "AsiaFortress Liquid.tf Invite 3rd Place Spring 2024",
+    "AsiaFortress Liquid.tf Invite 3rd Place Spring 2024": [
+        14074
+    ],
+    "14075": "ozfortress Premier 1st Place Season 40",
+    "ozfortress Premier 1st Place Season 40": [
+        14075
+    ],
+    "14076": "ozfortress Premier 2nd Place Season 40",
+    "ozfortress Premier 2nd Place Season 40": [
+        14076
+    ],
+    "14077": "ozfortress Premier 3rd Place Season 40",
+    "ozfortress Premier 3rd Place Season 40": [
+        14077
+    ],
+    "14078": "ozfortress Premier Participant Season 40",
+    "ozfortress Premier Participant Season 40": [
+        14078
+    ],
+    "14079": "ozfortress High 1st Place Season 40",
+    "ozfortress High 1st Place Season 40": [
+        14079
+    ],
+    "14080": "ozfortress High 2nd Place Season 40",
+    "ozfortress High 2nd Place Season 40": [
+        14080
+    ],
+    "14081": "ozfortress High 3rd Place Season 40",
+    "ozfortress High 3rd Place Season 40": [
+        14081
+    ],
+    "14082": "ozfortress High Participant Season 40",
+    "ozfortress High Participant Season 40": [
+        14082
+    ],
+    "14083": "ozfortress Intermediate 1st Place Season 40",
+    "ozfortress Intermediate 1st Place Season 40": [
+        14083
+    ],
+    "14084": "ozfortress Intermediate 2nd Place Season 40",
+    "ozfortress Intermediate 2nd Place Season 40": [
+        14084
+    ],
+    "14085": "ozfortress Intermediate 3rd Place Season 40",
+    "ozfortress Intermediate 3rd Place Season 40": [
+        14085
+    ],
+    "14086": "ozfortress Intermediate Participant Season 40",
+    "ozfortress Intermediate Participant Season 40": [
+        14086
+    ],
+    "14087": "ozfortress Main 1st Place Season 40",
+    "ozfortress Main 1st Place Season 40": [
+        14087
+    ],
+    "14088": "ozfortress Main 2nd Place Season 40",
+    "ozfortress Main 2nd Place Season 40": [
+        14088
+    ],
+    "14089": "ozfortress Main 3rd Place Season 40",
+    "ozfortress Main 3rd Place Season 40": [
+        14089
+    ],
+    "14090": "ozfortress Main Participant Season 40",
+    "ozfortress Main Participant Season 40": [
+        14090
+    ],
+    "14091": "ozfortress Open 1st Place Season 40",
+    "ozfortress Open 1st Place Season 40": [
+        14091
+    ],
+    "14092": "ozfortress Open 2nd Place Season 40",
+    "ozfortress Open 2nd Place Season 40": [
+        14092
+    ],
+    "14093": "ozfortress Open 3rd Place Season 40",
+    "ozfortress Open 3rd Place Season 40": [
+        14093
+    ],
+    "14094": "ozfortress Open Participant Season 40",
+    "ozfortress Open Participant Season 40": [
+        14094
+    ],
+    "14095": "ozfortress Highlander Premier First Place Season 7",
+    "ozfortress Highlander Premier First Place Season 7": [
+        14095
+    ],
+    "14096": "ozfortress Highlander Premier Second Place Season 7",
+    "ozfortress Highlander Premier Second Place Season 7": [
+        14096
+    ],
+    "14097": "ozfortress Highlander Premier Third Place Season 7",
+    "ozfortress Highlander Premier Third Place Season 7": [
+        14097
+    ],
+    "14098": "ozfortress Highlander Premier Participant Season 7",
+    "ozfortress Highlander Premier Participant Season 7": [
+        14098
+    ],
+    "14099": "ozfortress Highlander Main First Place Season 7",
+    "ozfortress Highlander Main First Place Season 7": [
+        14099
+    ],
+    "14100": "ozfortress Highlander Main Second Place Season 7",
+    "ozfortress Highlander Main Second Place Season 7": [
+        14100
+    ],
+    "14101": "ozfortress Highlander Main Third Place Season 7",
+    "ozfortress Highlander Main Third Place Season 7": [
+        14101
+    ],
+    "14102": "ozfortress Highlander Main Participant Season 7",
+    "ozfortress Highlander Main Participant Season 7": [
+        14102
+    ],
+    "14103": "PASS Time Federation EU 1st Place Medal Season 4",
+    "PASS Time Federation EU 1st Place Medal Season 4": [
+        14103
+    ],
+    "14104": "PASS Time Federation EU 2nd Place Medal Season 4",
+    "PASS Time Federation EU 2nd Place Medal Season 4": [
+        14104
+    ],
+    "14105": "PASS Time Federation EU 3rd Place Medal Season 4",
+    "PASS Time Federation EU 3rd Place Medal Season 4": [
+        14105
+    ],
+    "14106": "PASS Time Federation EU Participant Season 4",
+    "PASS Time Federation EU Participant Season 4": [
+        14106
+    ],
+    "14107": "PASS Time Federation Volunteer Season 4",
+    "PASS Time Federation Volunteer Season 4": [
+        14107
+    ],
+    "14108": "AsiaFortress Liquid.tf Highlander Invite 1st Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Invite 1st Place Summer 2024": [
+        14108
+    ],
+    "14109": "AsiaFortress Liquid.tf Highlander Invite 2nd Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Invite 2nd Place Summer 2024": [
+        14109
+    ],
+    "14110": "AsiaFortress Liquid.tf Highlander Invite 3rd Place Summer 2024",
+    "AsiaFortress Liquid.tf Highlander Invite 3rd Place Summer 2024": [
+        14110
+    ],
+    "14111": "TF2Maps Charitable Heart 2024",
+    "TF2Maps Charitable Heart 2024": [
+        14111
+    ],
+    "14112": "TF2Maps 72hr TF2Jam Participant 2024",
+    "TF2Maps 72hr TF2Jam Participant 2024": [
+        14112
+    ],
+    "14113": "AsiaFortress Liquid.tf Open 1st Place Fall 2024",
+    "AsiaFortress Liquid.tf Open 1st Place Fall 2024": [
+        14113
+    ],
+    "14114": "AsiaFortress Liquid.tf Open 2nd Place Fall 2024",
+    "AsiaFortress Liquid.tf Open 2nd Place Fall 2024": [
+        14114
+    ],
+    "14115": "AsiaFortress Liquid.tf Open 3rd Place Fall 2024",
+    "AsiaFortress Liquid.tf Open 3rd Place Fall 2024": [
+        14115
+    ],
+    "14116": "AsiaFortress Liquid.tf Open Participant Fall 2024",
+    "AsiaFortress Liquid.tf Open Participant Fall 2024": [
+        14116
+    ],
+    "14117": "AsiaFortress Liquid.tf Invite Participant Fall 2024",
+    "AsiaFortress Liquid.tf Invite Participant Fall 2024": [
+        14117
+    ],
+    "14118": "ozfortress Experimental Cup 3 Division 1 1st Place 2024",
+    "ozfortress Experimental Cup 3 Division 1 1st Place 2024": [
+        14118
+    ],
+    "14119": "ozfortress Experimental Cup 3 Division 1 2nd Place 2024",
+    "ozfortress Experimental Cup 3 Division 1 2nd Place 2024": [
+        14119
+    ],
+    "14120": "ozfortress Experimental Cup 3 Division 1 3rd Place 2024",
+    "ozfortress Experimental Cup 3 Division 1 3rd Place 2024": [
+        14120
+    ],
+    "14121": "ozfortress Experimental Cup 3 Division 1 Participant 2024",
+    "ozfortress Experimental Cup 3 Division 1 Participant 2024": [
+        14121
+    ],
+    "14122": "ozfortress Experimental Cup 3 Division 2 1st Place 2024",
+    "ozfortress Experimental Cup 3 Division 2 1st Place 2024": [
+        14122
+    ],
+    "14123": "ozfortress Experimental Cup 3 Division 2 2nd Place 2024",
+    "ozfortress Experimental Cup 3 Division 2 2nd Place 2024": [
+        14123
+    ],
+    "14124": "ozfortress Experimental Cup 3 Division 2 3rd Place 2024",
+    "ozfortress Experimental Cup 3 Division 2 3rd Place 2024": [
+        14124
+    ],
+    "14125": "ozfortress Experimental Cup 3 Division 2 Participant 2024",
+    "ozfortress Experimental Cup 3 Division 2 Participant 2024": [
+        14125
+    ],
+    "14126": "ozfortress Experimental Cup 3 Division 3 1st Place 2024",
+    "ozfortress Experimental Cup 3 Division 3 1st Place 2024": [
+        14126
+    ],
+    "14127": "ozfortress Experimental Cup 3 Division 3 2nd Place 2024",
+    "ozfortress Experimental Cup 3 Division 3 2nd Place 2024": [
+        14127
+    ],
+    "14128": "ozfortress Experimental Cup 3 Division 3 3rd Place 2024",
+    "ozfortress Experimental Cup 3 Division 3 3rd Place 2024": [
+        14128
+    ],
+    "14129": "ozfortress Experimental Cup 3 Division 3 Participant 2024",
+    "ozfortress Experimental Cup 3 Division 3 Participant 2024": [
+        14129
+    ],
+    "14130": "ozfortress Experimental Cup 3 Division 4 1st Place 2024",
+    "ozfortress Experimental Cup 3 Division 4 1st Place 2024": [
+        14130
+    ],
+    "14131": "ozfortress Experimental Cup 3 Division 4 2nd Place 2024",
+    "ozfortress Experimental Cup 3 Division 4 2nd Place 2024": [
+        14131
+    ],
+    "14132": "ozfortress Experimental Cup 3 Division 4 3rd Place 2024",
+    "ozfortress Experimental Cup 3 Division 4 3rd Place 2024": [
+        14132
+    ],
+    "14133": "ozfortress Experimental Cup 3 Division 4 Participant 2024",
+    "ozfortress Experimental Cup 3 Division 4 Participant 2024": [
+        14133
+    ],
+    "14134": "CLTF2 Ultiduo Cup Champions Fall 2024",
+    "CLTF2 Ultiduo Cup Champions Fall 2024": [
+        14134
+    ],
+    "14135": "CLTF2 Ultiduo Cup 2nd Place Fall 2024",
+    "CLTF2 Ultiduo Cup 2nd Place Fall 2024": [
+        14135
+    ],
+    "14136": "CLTF2 Ultiduo Cup 3rd Place Fall 2024",
+    "CLTF2 Ultiduo Cup 3rd Place Fall 2024": [
+        14136
+    ],
+    "14137": "CLTF2 Ultiduo Cup Participant Fall 2024",
+    "CLTF2 Ultiduo Cup Participant Fall 2024": [
+        14137
+    ],
+    "14138": "CLTF2 Tournament Supporter Ultiduo Cup Fall 2024",
+    "CLTF2 Tournament Supporter Ultiduo Cup Fall 2024": [
+        14138
+    ],
     "15000": "concealedkiller_sniperrifle_nightowl",
     "concealedkiller_sniperrifle_nightowl": [
         15000
@@ -32982,6 +33382,54 @@
     "17420": "Paintkit 420",
     "Paintkit 420": [
         17420
+    ],
+    "17421": "Paintkit 421",
+    "Paintkit 421": [
+        17421
+    ],
+    "17422": "Paintkit 422",
+    "Paintkit 422": [
+        17422
+    ],
+    "17423": "Paintkit 423",
+    "Paintkit 423": [
+        17423
+    ],
+    "17424": "Paintkit 424",
+    "Paintkit 424": [
+        17424
+    ],
+    "17425": "Paintkit 425",
+    "Paintkit 425": [
+        17425
+    ],
+    "17426": "Paintkit 426",
+    "Paintkit 426": [
+        17426
+    ],
+    "17427": "Paintkit 427",
+    "Paintkit 427": [
+        17427
+    ],
+    "17428": "Paintkit 428",
+    "Paintkit 428": [
+        17428
+    ],
+    "17429": "Paintkit 429",
+    "Paintkit 429": [
+        17429
+    ],
+    "17430": "Paintkit 430",
+    "Paintkit 430": [
+        17430
+    ],
+    "17431": "Paintkit 431",
+    "Paintkit 431": [
+        17431
+    ],
+    "17432": "Paintkit 432",
+    "Paintkit 432": [
+        17432
     ],
     "18000": "Warpaint Collection 1 Tier 1 Keyless Case",
     "Warpaint Collection 1 Tier 1 Keyless Case": [
@@ -38298,5 +38746,105 @@
     "31464": "Scorched Earth Stompers",
     "Scorched Earth Stompers": [
         31464
+    ],
+    "31465": "Taunt: Crushing Defeat",
+    "Taunt: Crushing Defeat": [
+        31465
+    ],
+    "31466": "Taunt: Peace Out",
+    "Taunt: Peace Out": [
+        31466
+    ],
+    "31467": "Taunt: Commending Clap",
+    "Taunt: Commending Clap": [
+        31467
+    ],
+    "31468": "Taunt: The Punchline",
+    "Taunt: The Punchline": [
+        31468
+    ],
+    "31469": "Fleet Commander",
+    "Fleet Commander": [
+        31469
+    ],
+    "31470": "Triboniophorus Gentlemannus",
+    "Triboniophorus Gentlemannus": [
+        31470
+    ],
+    "31471": "Spider Sights",
+    "Spider Sights": [
+        31471
+    ],
+    "31472": "Duality of Mantle",
+    "Duality of Mantle": [
+        31472
+    ],
+    "31473": "Shadow Shroud",
+    "Shadow Shroud": [
+        31473
+    ],
+    "31474": "Nightfall Veil",
+    "Nightfall Veil": [
+        31474
+    ],
+    "31475": "The Witch Doctor",
+    "The Witch Doctor": [
+        31475
+    ],
+    "31476": "The Surgeon General",
+    "The Surgeon General": [
+        31476
+    ],
+    "31477": "Sear Seer",
+    "Sear Seer": [
+        31477
+    ],
+    "31478": "Chiromancer's Kit",
+    "Chiromancer's Kit": [
+        31478
+    ],
+    "31479": "School Nuisance",
+    "School Nuisance": [
+        31479
+    ],
+    "31480": "The Strikeout",
+    "The Strikeout": [
+        31480
+    ],
+    "31481": "Hellish Overlord",
+    "Hellish Overlord": [
+        31481
+    ],
+    "31482": "Strigoi Stare",
+    "Strigoi Stare": [
+        31482
+    ],
+    "31483": "Dusk Duster",
+    "Dusk Duster": [
+        31483
+    ],
+    "31484": "Mannhattan Protect",
+    "Mannhattan Protect": [
+        31484
+    ],
+    "31485": "Nuclear Necessity",
+    "Nuclear Necessity": [
+        31485
+    ],
+    "31486": "Contaminated Carryall",
+    "Contaminated Carryall": [
+        31486
+    ],
+    "31487": "Delldozer",
+    "Delldozer": [
+        31487
+    ],
+    "31488": "Badlands Bandido",
+    "Badlands Bandido": [
+        31488
+    ],
+    "31489": "Defaced Detonator",
+    "Defaced Detonator": [
+        31489
     ]
 }

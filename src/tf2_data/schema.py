@@ -1,9 +1,8 @@
-from .utils import get_json_path, read_json_file, write_json_file
-
 import time
 
 import requests
 
+from .utils import get_json_path, read_json_file, write_json_file
 
 DEFINDEX_FULL_NAMES_PATH = get_json_path("defindex_full_names")
 SCHEMA_OVERVIEW_PATH = get_json_path("schema_overview")
