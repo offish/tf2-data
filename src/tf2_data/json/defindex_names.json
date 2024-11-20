@@ -8373,7 +8373,9 @@
         13823,
         13850,
         13877,
-        13907
+        13907,
+        14146,
+        14173
     ],
     "8128": "ETF2L 6v6 Division 2 Participation Medal",
     "ETF2L 6v6 Division 2 Participation Medal": [
@@ -8406,7 +8408,9 @@
         13827,
         13854,
         13881,
-        13911
+        13911,
+        14150,
+        14177
     ],
     "8129": "ETF2L 6v6 Division 3 Participation Medal",
     "ETF2L 6v6 Division 3 Participation Medal": [
@@ -8423,7 +8427,8 @@
         8514,
         8546,
         11487,
-        13885
+        13885,
+        14181
     ],
     "8130": "ETF2L 6v6 Division 4 Participation Medal",
     "ETF2L 6v6 Division 4 Participation Medal": [
@@ -8439,7 +8444,8 @@
         8410,
         8515,
         8547,
-        13889
+        13889,
+        14185
     ],
     "8131": "ETF2L 6v6 Division 5 Participation Medal",
     "ETF2L 6v6 Division 5 Participation Medal": [
@@ -8524,7 +8530,8 @@
         13160,
         13931,
         13960,
-        13987
+        13987,
+        14200
     ],
     "8169": "ETF2L Highlander Division 1 Silver Medal",
     "ETF2L Highlander Division 1 Silver Medal": [
@@ -8544,7 +8551,8 @@
         13161,
         13932,
         13961,
-        13988
+        13988,
+        14201
     ],
     "8170": "ETF2L Highlander Division 1 Bronze Medal",
     "ETF2L Highlander Division 1 Bronze Medal": [
@@ -8564,7 +8572,8 @@
         13162,
         13933,
         13962,
-        13989
+        13989,
+        14202
     ],
     "8171": "ETF2L Highlander Division 1 Gold Medal",
     "8172": "ETF2L Highlander Division 1 Silver Medal",
@@ -8684,7 +8693,8 @@
         13163,
         13934,
         13963,
-        13990
+        13990,
+        14203
     ],
     "8194": "ETF2L Highlander Division 2 Participation Medal",
     "ETF2L Highlander Division 2 Participation Medal": [
@@ -8709,7 +8719,8 @@
         13167,
         13938,
         13967,
-        13994
+        13994,
+        14207
     ],
     "8195": "ETF2L Highlander Division 3 Participation Medal",
     "ETF2L Highlander Division 3 Participation Medal": [
@@ -10731,7 +10742,9 @@
         13816,
         13843,
         13870,
-        13900
+        13900,
+        14139,
+        14166
     ],
     "8738": "ETF2L 6v6 Premiership Silver Medal",
     "ETF2L 6v6 Premiership Silver Medal": [
@@ -10761,7 +10774,9 @@
         13817,
         13844,
         13871,
-        13901
+        13901,
+        14140,
+        14167
     ],
     "8739": "ETF2L 6v6 Premiership Bronze Medal",
     "ETF2L 6v6 Premiership Bronze Medal": [
@@ -10791,7 +10806,9 @@
         13818,
         13845,
         13872,
-        13902
+        13902,
+        14141,
+        14168
     ],
     "8740": "ETF2L 6v6 Premiership Participation Medal",
     "ETF2L 6v6 Premiership Participation Medal": [
@@ -10821,7 +10838,9 @@
         13819,
         13846,
         13873,
-        13903
+        13903,
+        14142,
+        14169
     ],
     "8741": "ETF2L 6v6 High Gold Medal",
     "ETF2L 6v6 High Gold Medal": [
@@ -10910,7 +10929,8 @@
         13086,
         13828,
         13855,
-        13912
+        13912,
+        14151
     ],
     "8747": "ETF2L 6v6 Mid Silver Medal",
     "ETF2L 6v6 Mid Silver Medal": [
@@ -10939,7 +10959,8 @@
         13087,
         13829,
         13856,
-        13913
+        13913,
+        14152
     ],
     "8748": "ETF2L 6v6 Mid Bronze Medal",
     "ETF2L 6v6 Mid Bronze Medal": [
@@ -10968,7 +10989,8 @@
         13088,
         13830,
         13857,
-        13914
+        13914,
+        14153
     ],
     "8749": "ETF2L 6v6 Mid Playoff Medal",
     "ETF2L 6v6 Mid Playoff Medal": [
@@ -10997,7 +11019,8 @@
         13089,
         13831,
         13858,
-        13915
+        13915,
+        14154
     ],
     "8750": "ETF2L 6v6 Mid Participation Medal",
     "ETF2L 6v6 Mid Participation Medal": [
@@ -11026,7 +11049,8 @@
         13090,
         13832,
         13859,
-        13916
+        13916,
+        14155
     ],
     "8751": "ETF2L 6v6 Open Gold Medal",
     "ETF2L 6v6 Open Gold Medal": [
@@ -11056,7 +11080,9 @@
         13838,
         13865,
         13895,
-        13922
+        13922,
+        14161,
+        14191
     ],
     "8752": "ETF2L 6v6 Open Silver Medal",
     "ETF2L 6v6 Open Silver Medal": [
@@ -11086,7 +11112,9 @@
         13839,
         13866,
         13896,
-        13923
+        13923,
+        14162,
+        14192
     ],
     "8753": "ETF2L 6v6 Open Bronze Medal",
     "ETF2L 6v6 Open Bronze Medal": [
@@ -11116,7 +11144,9 @@
         13840,
         13867,
         13897,
-        13924
+        13924,
+        14163,
+        14193
     ],
     "8754": "ETF2L 6v6 Open Playoff Medal",
     "ETF2L 6v6 Open Playoff Medal": [
@@ -11146,7 +11176,9 @@
         13841,
         13868,
         13898,
-        13925
+        13925,
+        14164,
+        14194
     ],
     "8755": "ETF2L 6v6 Open Participation Medal",
     "ETF2L 6v6 Open Participation Medal": [
@@ -11176,7 +11208,9 @@
         13842,
         13869,
         13899,
-        13926
+        13926,
+        14165,
+        14195
     ],
     "8756": "ETF2L Highlander Premiership Gold Medal",
     "ETF2L Highlander Premiership Gold Medal": [
@@ -11203,7 +11237,8 @@
         13927,
         13956,
         13983,
-        14011
+        14011,
+        14196
     ],
     "8757": "ETF2L Highlander Premiership Silver Medal",
     "ETF2L Highlander Premiership Silver Medal": [
@@ -11230,7 +11265,8 @@
         13928,
         13957,
         13984,
-        14012
+        14012,
+        14197
     ],
     "8758": "ETF2L Highlander Premiership Bronze Medal",
     "ETF2L Highlander Premiership Bronze Medal": [
@@ -11257,7 +11293,8 @@
         13929,
         13958,
         13985,
-        14013
+        14013,
+        14198
     ],
     "8759": "ETF2L Highlander Premiership Participation Medal",
     "ETF2L Highlander Premiership Participation Medal": [
@@ -11284,7 +11321,8 @@
         13930,
         13959,
         13986,
-        14014
+        14014,
+        14199
     ],
     "8760": "ETF2L Highlander High Gold Medal",
     "ETF2L Highlander High Gold Medal": [
@@ -11357,7 +11395,8 @@
         12642,
         13168,
         13968,
-        14019
+        14019,
+        14208
     ],
     "8766": "ETF2L Highlander Mid Silver Medal",
     "ETF2L Highlander Mid Silver Medal": [
@@ -11378,7 +11417,8 @@
         12643,
         13169,
         13969,
-        14020
+        14020,
+        14209
     ],
     "8767": "ETF2L Highlander Mid Bronze Medal",
     "ETF2L Highlander Mid Bronze Medal": [
@@ -11399,7 +11439,8 @@
         12644,
         13170,
         13970,
-        14021
+        14021,
+        14210
     ],
     "8768": "ETF2L Highlander Mid Playoff Medal",
     "ETF2L Highlander Mid Playoff Medal": [
@@ -11438,7 +11479,8 @@
         12646,
         13172,
         13972,
-        14022
+        14022,
+        14211
     ],
     "8770": "ETF2L Highlander Open Gold Medal",
     "ETF2L Highlander Open Gold Medal": [
@@ -11465,7 +11507,8 @@
         13951,
         13978,
         14007,
-        14028
+        14028,
+        14216
     ],
     "8771": "ETF2L Highlander Open Silver Medal",
     "ETF2L Highlander Open Silver Medal": [
@@ -11492,7 +11535,8 @@
         13952,
         13979,
         14008,
-        14029
+        14029,
+        14217
     ],
     "8772": "ETF2L Highlander Open Bronze Medal",
     "ETF2L Highlander Open Bronze Medal": [
@@ -11519,7 +11563,8 @@
         13953,
         13980,
         14009,
-        14030
+        14030,
+        14218
     ],
     "8773": "ETF2L Highlander Open Playoff Medal",
     "ETF2L Highlander Open Playoff Medal": [
@@ -11543,7 +11588,8 @@
         13129,
         13154,
         13176,
-        13954
+        13954,
+        14219
     ],
     "8774": "ETF2L Highlander Open Participation Medal",
     "ETF2L Highlander Open Participation Medal": [
@@ -11570,7 +11616,8 @@
         13955,
         13982,
         14010,
-        14031
+        14031,
+        14220
     ],
     "8775": "ETF2L Ultiduo #5 Gold Medal",
     "ETF2L Ultiduo #5 Gold Medal": [
@@ -12234,7 +12281,8 @@
         13423,
         13744,
         13764,
-        14075
+        14075,
+        14237
     ],
     "9091": "ozfortress Sixes Premier Second Place",
     "ozfortress Sixes Premier Second Place": [
@@ -12263,7 +12311,8 @@
         13424,
         13745,
         13765,
-        14076
+        14076,
+        14238
     ],
     "9092": "ozfortress Sixes Premier Third Place",
     "ozfortress Sixes Premier Third Place": [
@@ -12292,7 +12341,8 @@
         13425,
         13746,
         13766,
-        14077
+        14077,
+        14239
     ],
     "9093": "ozfortress Sixes Premier Participant",
     "ozfortress Sixes Premier Participant": [
@@ -12321,7 +12371,8 @@
         13426,
         13747,
         13767,
-        14078
+        14078,
+        14240
     ],
     "9094": "ozfortress Sixes Intermediate First Place",
     "ozfortress Sixes Intermediate First Place": [
@@ -12350,7 +12401,8 @@
         13431,
         13752,
         13772,
-        14083
+        14083,
+        14245
     ],
     "9095": "ozfortress Sixes Intermediate Second Place",
     "ozfortress Sixes Intermediate Second Place": [
@@ -12379,7 +12431,8 @@
         13432,
         13753,
         13773,
-        14084
+        14084,
+        14246
     ],
     "9096": "ozfortress Sixes Intermediate Third Place",
     "ozfortress Sixes Intermediate Third Place": [
@@ -12408,7 +12461,8 @@
         13433,
         13754,
         13774,
-        14085
+        14085,
+        14247
     ],
     "9097": "ozfortress Sixes Intermediate Participant",
     "ozfortress Sixes Intermediate Participant": [
@@ -12437,7 +12491,8 @@
         13434,
         13755,
         13775,
-        14086
+        14086,
+        14248
     ],
     "9098": "ozfortress Sixes Open First Place",
     "ozfortress Sixes Open First Place": [
@@ -12466,7 +12521,8 @@
         13439,
         13760,
         13780,
-        14091
+        14091,
+        14249
     ],
     "9099": "ozfortress Sixes Open Second Place",
     "ozfortress Sixes Open Second Place": [
@@ -12495,7 +12551,8 @@
         13440,
         13761,
         13781,
-        14092
+        14092,
+        14250
     ],
     "9100": "ozfortress Sixes Open Third Place",
     "ozfortress Sixes Open Third Place": [
@@ -12524,7 +12581,8 @@
         13441,
         13762,
         13782,
-        14093
+        14093,
+        14251
     ],
     "9101": "ozfortress Sixes Open Participant",
     "ozfortress Sixes Open Participant": [
@@ -12553,7 +12611,8 @@
         13442,
         13763,
         13783,
-        14094
+        14094,
+        14252
     ],
     "9102": "ozfortress Summer Cup First Place",
     "ozfortress Summer Cup First Place": [
@@ -13667,7 +13726,9 @@
         13833,
         13860,
         13890,
-        13917
+        13917,
+        14156,
+        14186
     ],
     "9640": "ETF2L 6v6 Low Silver Medal",
     "ETF2L 6v6 Low Silver Medal": [
@@ -13689,7 +13750,9 @@
         13834,
         13861,
         13891,
-        13918
+        13918,
+        14157,
+        14187
     ],
     "9641": "ETF2L 6v6 Low Bronze Medal",
     "ETF2L 6v6 Low Bronze Medal": [
@@ -13711,7 +13774,9 @@
         13835,
         13862,
         13892,
-        13919
+        13919,
+        14158,
+        14188
     ],
     "9642": "ETF2L 6v6 Low Playoff Medal",
     "ETF2L 6v6 Low Playoff Medal": [
@@ -13733,7 +13798,9 @@
         13836,
         13863,
         13893,
-        13920
+        13920,
+        14159,
+        14189
     ],
     "9643": "ETF2L 6v6 Low Participation Medal",
     "ETF2L 6v6 Low Participation Medal": [
@@ -13755,7 +13822,9 @@
         13837,
         13864,
         13894,
-        13921
+        13921,
+        14160,
+        14190
     ],
     "9644": "ETF2L Highlander Premiership Gold Medal",
     "9645": "ETF2L Highlander Premiership Silver Medal",
@@ -14252,7 +14321,9 @@
         13820,
         13847,
         13874,
-        13904
+        13904,
+        14143,
+        14170
     ],
     "9885": "ETF2L 6v6 Division 1 Silver Medal",
     "ETF2L 6v6 Division 1 Silver Medal": [
@@ -14273,7 +14344,9 @@
         13821,
         13848,
         13875,
-        13905
+        13905,
+        14144,
+        14171
     ],
     "9886": "ETF2L 6v6 Division 1 Bronze Medal",
     "ETF2L 6v6 Division 1 Bronze Medal": [
@@ -14294,7 +14367,9 @@
         13822,
         13849,
         13876,
-        13906
+        13906,
+        14145,
+        14172
     ],
     "9887": "ETF2L 6v6 Division 1 Participation Medal",
     "9888": "ETF2L 6v6 Division 2 Gold Medal",
@@ -14316,7 +14391,9 @@
         13824,
         13851,
         13878,
-        13908
+        13908,
+        14147,
+        14174
     ],
     "9889": "ETF2L 6v6 Division 2 Silver Medal",
     "ETF2L 6v6 Division 2 Silver Medal": [
@@ -14337,7 +14414,9 @@
         13825,
         13852,
         13879,
-        13909
+        13909,
+        14148,
+        14175
     ],
     "9890": "ETF2L 6v6 Division 2 Bronze Medal",
     "ETF2L 6v6 Division 2 Bronze Medal": [
@@ -14358,7 +14437,9 @@
         13826,
         13853,
         13880,
-        13910
+        13910,
+        14149,
+        14176
     ],
     "9891": "ETF2L 6v6 Division 2 Participation Medal",
     "9892": "ETF2L 6v6 Mid Gold Medal",
@@ -15115,7 +15196,8 @@
         13164,
         13935,
         13964,
-        13991
+        13991,
+        14204
     ],
     "10195": "ETF2L Highlander Division 2 Silver Medal",
     "ETF2L Highlander Division 2 Silver Medal": [
@@ -15133,7 +15215,8 @@
         13165,
         13936,
         13965,
-        13992
+        13992,
+        14205
     ],
     "10196": "ETF2L Highlander Division 2 Bronze Medal",
     "ETF2L Highlander Division 2 Bronze Medal": [
@@ -15151,7 +15234,8 @@
         13166,
         13937,
         13966,
-        13993
+        13993,
+        14206
     ],
     "10197": "ETF2L Highlander Division 2 Participation Medal",
     "10198": "ETF2L Highlander Mid Gold Medal",
@@ -15167,7 +15251,8 @@
         12647,
         13121,
         13973,
-        14023
+        14023,
+        14212
     ],
     "10204": "ETF2L Highlander Low Silver Medal",
     "ETF2L Highlander Low Silver Medal": [
@@ -15177,7 +15262,8 @@
         12648,
         13122,
         13974,
-        14024
+        14024,
+        14213
     ],
     "10205": "ETF2L Highlander Low Bronze Medal",
     "ETF2L Highlander Low Bronze Medal": [
@@ -15187,7 +15273,8 @@
         12649,
         13123,
         13975,
-        14025
+        14025,
+        14214
     ],
     "10206": "ETF2L Highlander Low Playoff Medal",
     "ETF2L Highlander Low Playoff Medal": [
@@ -15205,7 +15292,8 @@
         12651,
         13125,
         13977,
-        14027
+        14027,
+        14215
     ],
     "10208": "ETF2L Highlander Open Gold Medal",
     "10209": "ETF2L Highlander Open Silver Medal",
@@ -15513,19 +15601,23 @@
     "10318": "AsiaFortress Cup Division 3 Participant",
     "10319": "Sacred Scouts 6v6 Gold Medal",
     "Sacred Scouts 6v6 Gold Medal": [
-        10319
+        10319,
+        14225
     ],
     "10320": "Sacred Scouts 6v6 Silver Medal",
     "Sacred Scouts 6v6 Silver Medal": [
-        10320
+        10320,
+        14226
     ],
     "10321": "Sacred Scouts 6v6 Bronze Medal",
     "Sacred Scouts 6v6 Bronze Medal": [
-        10321
+        10321,
+        14227
     ],
     "10322": "Sacred Scouts 6v6 Participant",
     "Sacred Scouts 6v6 Participant": [
-        10322
+        10322,
+        14228
     ],
     "10323": "ETF2L 6v6 Premiership Gold Medal",
     "10324": "ETF2L 6v6 Premiership Silver Medal",
@@ -18978,17 +19070,20 @@
     "11484": "ETF2L 6v6 Division 3 Gold Medal",
     "ETF2L 6v6 Division 3 Gold Medal": [
         11484,
-        13882
+        13882,
+        14178
     ],
     "11485": "ETF2L 6v6 Division 3 Silver Medal",
     "ETF2L 6v6 Division 3 Silver Medal": [
         11485,
-        13883
+        13883,
+        14179
     ],
     "11486": "ETF2L 6v6 Division 3 Bronze Medal",
     "ETF2L 6v6 Division 3 Bronze Medal": [
         11486,
-        13884
+        13884,
+        14180
     ],
     "11487": "ETF2L 6v6 Division 3 Participation Medal",
     "11488": "ETF2L 6v6 Mid Gold Medal",
@@ -19219,7 +19314,8 @@
         13427,
         13748,
         13768,
-        14079
+        14079,
+        14241
     ],
     "11590": "ozfortress Sixes High Second Place",
     "ozfortress Sixes High Second Place": [
@@ -19229,7 +19325,8 @@
         13428,
         13749,
         13769,
-        14080
+        14080,
+        14242
     ],
     "11591": "ozfortress Sixes High Third Place",
     "ozfortress Sixes High Third Place": [
@@ -19239,7 +19336,8 @@
         13429,
         13750,
         13770,
-        14081
+        14081,
+        14243
     ],
     "11592": "ozfortress Sixes High Participant",
     "ozfortress Sixes High Participant": [
@@ -19249,7 +19347,8 @@
         13430,
         13751,
         13771,
-        14082
+        14082,
+        14244
     ],
     "11593": "ozfortress Sixes Intermediate First Place",
     "11594": "ozfortress Sixes Intermediate Second Place",
@@ -21629,7 +21728,8 @@
         13443,
         13784,
         13796,
-        14095
+        14095,
+        14253
     ],
     "12970": "ozfortress Highlander Premier Second Place",
     "ozfortress Highlander Premier Second Place": [
@@ -21639,7 +21739,8 @@
         13444,
         13785,
         13797,
-        14096
+        14096,
+        14254
     ],
     "12971": "ozfortress Highlander Premier Third Place",
     "ozfortress Highlander Premier Third Place": [
@@ -21649,7 +21750,8 @@
         13445,
         13786,
         13798,
-        14097
+        14097,
+        14255
     ],
     "12972": "ozfortress Highlander Premier Participant",
     "ozfortress Highlander Premier Participant": [
@@ -21659,7 +21761,8 @@
         13446,
         13787,
         13799,
-        14098
+        14098,
+        14256
     ],
     "12973": "ozfortress Highlander Intermediate First Place",
     "ozfortress Highlander Intermediate First Place": [
@@ -22164,28 +22267,32 @@
         13277,
         13451,
         13800,
-        14099
+        14099,
+        14257
     ],
     "13278": "ozfortress Highlander Main Second Place",
     "ozfortress Highlander Main Second Place": [
         13278,
         13452,
         13801,
-        14100
+        14100,
+        14258
     ],
     "13279": "ozfortress Highlander Main Third Place",
     "ozfortress Highlander Main Third Place": [
         13279,
         13453,
         13802,
-        14101
+        14101,
+        14259
     ],
     "13280": "ozfortress Highlander Main Participant",
     "ozfortress Highlander Main Participant": [
         13280,
         13454,
         13803,
-        14102
+        14102,
+        14260
     ],
     "13281": "RGL.gg - Invite Champions - Highlander",
     "13282": "RGL.gg - Invite 2nd Place - Highlander",
@@ -23192,15 +23299,18 @@
     "13885": "ETF2L 6v6 Division 3 Participation Medal",
     "13886": "ETF2L 6v6 Division 4 Gold Medal",
     "ETF2L 6v6 Division 4 Gold Medal": [
-        13886
+        13886,
+        14182
     ],
     "13887": "ETF2L 6v6 Division 4 Silver Medal",
     "ETF2L 6v6 Division 4 Silver Medal": [
-        13887
+        13887,
+        14183
     ],
     "13888": "ETF2L 6v6 Division 4 Bronze Medal",
     "ETF2L 6v6 Division 4 Bronze Medal": [
-        13888
+        13888,
+        14184
     ],
     "13889": "ETF2L 6v6 Division 4 Participation Medal",
     "13890": "ETF2L 6v6 Low Gold Medal",
@@ -23407,23 +23517,28 @@
     ],
     "14049": "AsiaFortress Liquid.tf Highlander Open 1st Place",
     "AsiaFortress Liquid.tf Highlander Open 1st Place": [
-        14049
+        14049,
+        14232
     ],
     "14050": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
     "AsiaFortress Liquid.tf Highlander Open 2nd Place": [
-        14050
+        14050,
+        14233
     ],
     "14051": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
     "AsiaFortress Liquid.tf Highlander Open 3rd Place": [
-        14051
+        14051,
+        14234
     ],
     "14052": "AsiaFortress Liquid.tf Highlander Invite Participant",
     "AsiaFortress Liquid.tf Highlander Invite Participant": [
-        14052
+        14052,
+        14235
     ],
     "14053": "AsiaFortress Liquid.tf Highlander Open Participant",
     "AsiaFortress Liquid.tf Highlander Open Participant": [
-        14053
+        14053,
+        14236
     ],
     "14054": "AsiaFortress Liquid.tf Mercenary Mashup",
     "AsiaFortress Liquid.tf Mercenary Mashup": [
@@ -23463,15 +23578,18 @@
     "14071": "LBTF2 Highlander Principal Participant",
     "14072": "AsiaFortress Liquid.tf Invite 1st Place",
     "AsiaFortress Liquid.tf Invite 1st Place": [
-        14072
+        14072,
+        14229
     ],
     "14073": "AsiaFortress Liquid.tf Invite 2nd Place",
     "AsiaFortress Liquid.tf Invite 2nd Place": [
-        14073
+        14073,
+        14230
     ],
     "14074": "AsiaFortress Liquid.tf Invite 3rd Place",
     "AsiaFortress Liquid.tf Invite 3rd Place": [
-        14074
+        14074,
+        14231
     ],
     "14075": "ozfortress Sixes Premier First Place",
     "14076": "ozfortress Sixes Premier Second Place",
@@ -23612,6 +23730,140 @@
         14137
     ],
     "14138": "CLTF2 Tournament Supporter",
+    "14139": "ETF2L 6v6 Premiership Gold Medal",
+    "14140": "ETF2L 6v6 Premiership Silver Medal",
+    "14141": "ETF2L 6v6 Premiership Bronze Medal",
+    "14142": "ETF2L 6v6 Premiership Participation Medal",
+    "14143": "ETF2L 6v6 Division 1 Gold Medal",
+    "14144": "ETF2L 6v6 Division 1 Silver Medal",
+    "14145": "ETF2L 6v6 Division 1 Bronze Medal",
+    "14146": "ETF2L 6v6 Division 1 Participation Medal",
+    "14147": "ETF2L 6v6 Division 2 Gold Medal",
+    "14148": "ETF2L 6v6 Division 2 Silver Medal",
+    "14149": "ETF2L 6v6 Division 2 Bronze Medal",
+    "14150": "ETF2L 6v6 Division 2 Participation Medal",
+    "14151": "ETF2L 6v6 Mid Gold Medal",
+    "14152": "ETF2L 6v6 Mid Silver Medal",
+    "14153": "ETF2L 6v6 Mid Bronze Medal",
+    "14154": "ETF2L 6v6 Mid Playoff Medal",
+    "14155": "ETF2L 6v6 Mid Participation Medal",
+    "14156": "ETF2L 6v6 Low Gold Medal",
+    "14157": "ETF2L 6v6 Low Silver Medal",
+    "14158": "ETF2L 6v6 Low Bronze Medal",
+    "14159": "ETF2L 6v6 Low Playoff Medal",
+    "14160": "ETF2L 6v6 Low Participation Medal",
+    "14161": "ETF2L 6v6 Open Gold Medal",
+    "14162": "ETF2L 6v6 Open Silver Medal",
+    "14163": "ETF2L 6v6 Open Bronze Medal",
+    "14164": "ETF2L 6v6 Open Playoff Medal",
+    "14165": "ETF2L 6v6 Open Participation Medal",
+    "14166": "ETF2L 6v6 Premiership Gold Medal",
+    "14167": "ETF2L 6v6 Premiership Silver Medal",
+    "14168": "ETF2L 6v6 Premiership Bronze Medal",
+    "14169": "ETF2L 6v6 Premiership Participation Medal",
+    "14170": "ETF2L 6v6 Division 1 Gold Medal",
+    "14171": "ETF2L 6v6 Division 1 Silver Medal",
+    "14172": "ETF2L 6v6 Division 1 Bronze Medal",
+    "14173": "ETF2L 6v6 Division 1 Participation Medal",
+    "14174": "ETF2L 6v6 Division 2 Gold Medal",
+    "14175": "ETF2L 6v6 Division 2 Silver Medal",
+    "14176": "ETF2L 6v6 Division 2 Bronze Medal",
+    "14177": "ETF2L 6v6 Division 2 Participation Medal",
+    "14178": "ETF2L 6v6 Division 3 Gold Medal",
+    "14179": "ETF2L 6v6 Division 3 Silver Medal",
+    "14180": "ETF2L 6v6 Division 3 Bronze Medal",
+    "14181": "ETF2L 6v6 Division 3 Participation Medal",
+    "14182": "ETF2L 6v6 Division 4 Gold Medal",
+    "14183": "ETF2L 6v6 Division 4 Silver Medal",
+    "14184": "ETF2L 6v6 Division 4 Bronze Medal",
+    "14185": "ETF2L 6v6 Division 4 Participation Medal",
+    "14186": "ETF2L 6v6 Low Gold Medal",
+    "14187": "ETF2L 6v6 Low Silver Medal",
+    "14188": "ETF2L 6v6 Low Bronze Medal",
+    "14189": "ETF2L 6v6 Low Playoff Medal",
+    "14190": "ETF2L 6v6 Low Participation Medal",
+    "14191": "ETF2L 6v6 Open Gold Medal",
+    "14192": "ETF2L 6v6 Open Silver Medal",
+    "14193": "ETF2L 6v6 Open Bronze Medal",
+    "14194": "ETF2L 6v6 Open Playoff Medal",
+    "14195": "ETF2L 6v6 Open Participation Medal",
+    "14196": "ETF2L Highlander Premiership Gold Medal",
+    "14197": "ETF2L Highlander Premiership Silver Medal",
+    "14198": "ETF2L Highlander Premiership Bronze Medal",
+    "14199": "ETF2L Highlander Premiership Participation Medal",
+    "14200": "ETF2L Highlander Division 1 Gold Medal",
+    "14201": "ETF2L Highlander Division 1 Silver Medal",
+    "14202": "ETF2L Highlander Division 1 Bronze Medal",
+    "14203": "ETF2L Highlander Division 1 Participation Medal",
+    "14204": "ETF2L Highlander Division 2 Gold Medal",
+    "14205": "ETF2L Highlander Division 2 Silver Medal",
+    "14206": "ETF2L Highlander Division 2 Bronze Medal",
+    "14207": "ETF2L Highlander Division 2 Participation Medal",
+    "14208": "ETF2L Highlander Mid Gold Medal",
+    "14209": "ETF2L Highlander Mid Silver Medal",
+    "14210": "ETF2L Highlander Mid Bronze Medal",
+    "14211": "ETF2L Highlander Mid Participation Medal",
+    "14212": "ETF2L Highlander Low Gold Medal",
+    "14213": "ETF2L Highlander Low Silver Medal",
+    "14214": "ETF2L Highlander Low Bronze Medal",
+    "14215": "ETF2L Highlander Low Participation Medal",
+    "14216": "ETF2L Highlander Open Gold Medal",
+    "14217": "ETF2L Highlander Open Silver Medal",
+    "14218": "ETF2L Highlander Open Bronze Medal",
+    "14219": "ETF2L Highlander Open Playoff Medal",
+    "14220": "ETF2L Highlander Open Participation Medal",
+    "14221": "ETF2L Highlander Open 4 Gold Medal",
+    "ETF2L Highlander Open 4 Gold Medal": [
+        14221
+    ],
+    "14222": "ETF2L Highlander Open 4 Silver Medal",
+    "ETF2L Highlander Open 4 Silver Medal": [
+        14222
+    ],
+    "14223": "ETF2L Highlander Open 4 Bronze Medal",
+    "ETF2L Highlander Open 4 Bronze Medal": [
+        14223
+    ],
+    "14224": "ETF2L Highlander Open 4 Participation Medal",
+    "ETF2L Highlander Open 4 Participation Medal": [
+        14224
+    ],
+    "14225": "Sacred Scouts 6v6 Gold Medal",
+    "14226": "Sacred Scouts 6v6 Silver Medal",
+    "14227": "Sacred Scouts 6v6 Bronze Medal",
+    "14228": "Sacred Scouts 6v6 Participant",
+    "14229": "AsiaFortress Liquid.tf Invite 1st Place",
+    "14230": "AsiaFortress Liquid.tf Invite 2nd Place",
+    "14231": "AsiaFortress Liquid.tf Invite 3rd Place",
+    "14232": "AsiaFortress Liquid.tf Highlander Open 1st Place",
+    "14233": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
+    "14234": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
+    "14235": "AsiaFortress Liquid.tf Highlander Invite Participant",
+    "14236": "AsiaFortress Liquid.tf Highlander Open Participant",
+    "14237": "ozfortress Sixes Premier First Place",
+    "14238": "ozfortress Sixes Premier Second Place",
+    "14239": "ozfortress Sixes Premier Third Place",
+    "14240": "ozfortress Sixes Premier Participant",
+    "14241": "ozfortress Sixes High First Place",
+    "14242": "ozfortress Sixes High Second Place",
+    "14243": "ozfortress Sixes High Third Place",
+    "14244": "ozfortress Sixes High Participant",
+    "14245": "ozfortress Sixes Intermediate First Place",
+    "14246": "ozfortress Sixes Intermediate Second Place",
+    "14247": "ozfortress Sixes Intermediate Third Place",
+    "14248": "ozfortress Sixes Intermediate Participant",
+    "14249": "ozfortress Sixes Open First Place",
+    "14250": "ozfortress Sixes Open Second Place",
+    "14251": "ozfortress Sixes Open Third Place",
+    "14252": "ozfortress Sixes Open Participant",
+    "14253": "ozfortress Highlander Premier First Place",
+    "14254": "ozfortress Highlander Premier Second Place",
+    "14255": "ozfortress Highlander Premier Third Place",
+    "14256": "ozfortress Highlander Premier Participant",
+    "14257": "ozfortress Highlander Main First Place",
+    "14258": "ozfortress Highlander Main Second Place",
+    "14259": "ozfortress Highlander Main Third Place",
+    "14260": "ozfortress Highlander Main Participant",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
