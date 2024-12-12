@@ -5299,6 +5299,10 @@
     "Map Token Bundle 26": [
         2175
     ],
+    "2176": "Map Token Bundle 27",
+    "Map Token Bundle 27": [
+        2176
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5454,6 +5458,30 @@
     "2538": "Map Token Blazehattan",
     "Map Token Blazehattan": [
         2538
+    ],
+    "2539": "Map Token Overcast",
+    "Map Token Overcast": [
+        2539
+    ],
+    "2540": "Map Token Fortezza",
+    "Map Token Fortezza": [
+        2540
+    ],
+    "2541": "Map Token Penguin Peak",
+    "Map Token Penguin Peak": [
+        2541
+    ],
+    "2542": "Map Token Patagonia",
+    "Map Token Patagonia": [
+        2542
+    ],
+    "2543": "Map Token Cutter",
+    "Map Token Cutter": [
+        2543
+    ],
+    "2544": "Map Token Maul",
+    "Map Token Maul": [
+        2544
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -7043,6 +7071,18 @@
     "Scream Fortress 2024 War Paint Dummy": [
         5965
     ],
+    "5966": "Self Gift - Stocking Stuffer 2024",
+    "Self Gift - Stocking Stuffer 2024": [
+        5966
+    ],
+    "5967": "Winter 2024 Cosmetic Key",
+    "Winter 2024 Cosmetic Key": [
+        5967
+    ],
+    "5968": "Winter 2024 Cosmetic Case",
+    "Winter 2024 Cosmetic Case": [
+        5968
+    ],
     "5999": "Strange Part (Armory)",
     "Strange Part (Armory)": [
         5999
@@ -7870,6 +7910,30 @@
     "6655": "Strange Filter: Blazehattan (Community)",
     "Strange Filter: Blazehattan (Community)": [
         6655
+    ],
+    "6656": "Strange Filter: Overcast (Community)",
+    "Strange Filter: Overcast (Community)": [
+        6656
+    ],
+    "6657": "Strange Filter: Fortezza (Community)",
+    "Strange Filter: Fortezza (Community)": [
+        6657
+    ],
+    "6658": "Strange Filter: Penguin Peak (Community)",
+    "Strange Filter: Penguin Peak (Community)": [
+        6658
+    ],
+    "6659": "Strange Filter: Patagonia (Community)",
+    "Strange Filter: Patagonia (Community)": [
+        6659
+    ],
+    "6660": "Strange Filter: Cutter (Community)",
+    "Strange Filter: Cutter (Community)": [
+        6660
+    ],
+    "6661": "Strange Filter: Maul (Community)",
+    "Strange Filter: Maul (Community)": [
+        6661
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -32675,6 +32739,26 @@
     "ozfortress Highlander Main Participant Season 8": [
         14260
     ],
+    "14261": "Ghoulish Gambit Corrupted Crystal 2024",
+    "Ghoulish Gambit Corrupted Crystal 2024": [
+        14261
+    ],
+    "14262": "Ghoulish Gambit Uncorrupted Crystal 2024",
+    "Ghoulish Gambit Uncorrupted Crystal 2024": [
+        14262
+    ],
+    "14263": "Ghoulish Gambit Mostly-Corrupted Crystal 2024",
+    "Ghoulish Gambit Mostly-Corrupted Crystal 2024": [
+        14263
+    ],
+    "14264": "Ghoulish Gambit Haunted Tank 2024",
+    "Ghoulish Gambit Haunted Tank 2024": [
+        14264
+    ],
+    "14265": "Ghoulish Gambit Poisonous Potato 2024",
+    "Ghoulish Gambit Poisonous Potato 2024": [
+        14265
+    ],
     "15000": "concealedkiller_sniperrifle_nightowl",
     "concealedkiller_sniperrifle_nightowl": [
         15000
@@ -39334,5 +39418,109 @@
     "31489": "Defaced Detonator",
     "Defaced Detonator": [
         31489
+    ],
+    "31491": "Taunt: Curtain Call",
+    "Taunt: Curtain Call": [
+        31491
+    ],
+    "31492": "Taunt: Peace!",
+    "Taunt: Peace!": [
+        31492
+    ],
+    "31493": "Taunt: Fore-Head Slice",
+    "Taunt: Fore-Head Slice": [
+        31493
+    ],
+    "31494": "Dapper Noel",
+    "Dapper Noel": [
+        31494
+    ],
+    "31495": "The Necroprancer",
+    "The Necroprancer": [
+        31495
+    ],
+    "31496": "The Battle Music",
+    "The Battle Music": [
+        31496
+    ],
+    "31497": "Hot Spaniel",
+    "Hot Spaniel": [
+        31497
+    ],
+    "31498": "Frostbite Fit",
+    "Frostbite Fit": [
+        31498
+    ],
+    "31499": "L'aire Filteure",
+    "L'aire Filteure": [
+        31499
+    ],
+    "31500": "Poleur Voyeur",
+    "Poleur Voyeur": [
+        31500
+    ],
+    "31501": "Le Frosteaux",
+    "Le Frosteaux": [
+        31501
+    ],
+    "31502": "Scrooge McDoc",
+    "Scrooge McDoc": [
+        31502
+    ],
+    "31503": "The Checkered Past",
+    "The Checkered Past": [
+        31503
+    ],
+    "31504": "Consigliere's Coverup",
+    "Consigliere's Coverup": [
+        31504
+    ],
+    "31505": "The Crimbo Cap",
+    "The Crimbo Cap": [
+        31505
+    ],
+    "31506": "The Triple Jumper",
+    "The Triple Jumper": [
+        31506
+    ],
+    "31507": "Polar Charger",
+    "Polar Charger": [
+        31507
+    ],
+    "31508": "Field Fatigues",
+    "Field Fatigues": [
+        31508
+    ],
+    "31509": "Cossack Camo",
+    "Cossack Camo": [
+        31509
+    ],
+    "31510": "Battle Balaclava",
+    "Battle Balaclava": [
+        31510
+    ],
+    "31511": "The Top Brass",
+    "The Top Brass": [
+        31511
+    ],
+    "31512": "Commanding Presence",
+    "Commanding Presence": [
+        31512
+    ],
+    "31513": "Mine Sweepers",
+    "Mine Sweepers": [
+        31513
+    ],
+    "31514": "Buck's Brim",
+    "Buck's Brim": [
+        31514
+    ],
+    "31515": "The Westcoat",
+    "The Westcoat": [
+        31515
+    ],
+    "31516": "Snug Sharpshooter",
+    "Snug Sharpshooter": [
+        31516
     ]
 }

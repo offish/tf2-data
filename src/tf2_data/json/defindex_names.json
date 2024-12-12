@@ -1191,8 +1191,8 @@
     "Treasure Hat": [
         333
     ],
-    "334": "Hat of Undeniable Wealth And Respect",
-    "Hat of Undeniable Wealth And Respect": [
+    "334": "Hat of Undeniable Wealth and Respect",
+    "Hat of Undeniable Wealth and Respect": [
         334
     ],
     "335": "Foster's Facade",
@@ -3813,8 +3813,8 @@
     "Br\u00fctal Bouffant": [
         1014
     ],
-    "1015": "Shred Alert",
-    "Shred Alert": [
+    "1015": "Taunt: The Shred Alert",
+    "Taunt: The Shred Alert": [
         1015
     ],
     "1016": "Buck Turner All-Stars",
@@ -4884,7 +4884,8 @@
         2172,
         2173,
         2174,
-        2175
+        2175,
+        2176
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5331,16 +5332,16 @@
     "Robot Heavy Collectible Figure Promo": [
         2128
     ],
-    "2129": "Love And War Taunts Bundle",
-    "Love And War Taunts Bundle": [
+    "2129": "Love and War Taunts Bundle",
+    "Love and War Taunts Bundle": [
         2129
     ],
-    "2130": "Love And War Weapons Bundle",
-    "Love And War Weapons Bundle": [
+    "2130": "Love and War Weapons Bundle",
+    "Love and War Weapons Bundle": [
         2130
     ],
-    "2131": "Love And War Cosmetics Bundle",
-    "Love And War Cosmetics Bundle": [
+    "2131": "Love and War Cosmetics Bundle",
+    "Love and War Cosmetics Bundle": [
         2131,
         2145
     ],
@@ -5384,7 +5385,7 @@
     "Tough Break Community Maps Bundle": [
         2144
     ],
-    "2145": "Love And War Cosmetics Bundle",
+    "2145": "Love and War Cosmetics Bundle",
     "2146": "Scout Starter Pack",
     "2147": "Soldier Starter Pack",
     "2148": "Pyro Starter Pack",
@@ -5428,6 +5429,7 @@
     "2173": "Map Stamps Collection",
     "2174": "Map Stamps Collection",
     "2175": "Map Stamps Collection",
+    "2176": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5583,6 +5585,30 @@
     "2538": "Map Stamp - Blazehattan",
     "Map Stamp - Blazehattan": [
         2538
+    ],
+    "2539": "Map Stamp - Overcast",
+    "Map Stamp - Overcast": [
+        2539
+    ],
+    "2540": "Map Stamp - Fortezza",
+    "Map Stamp - Fortezza": [
+        2540
+    ],
+    "2541": "Map Stamp - Penguin Peak",
+    "Map Stamp - Penguin Peak": [
+        2541
+    ],
+    "2542": "Map Stamp - Patagonia",
+    "Map Stamp - Patagonia": [
+        2542
+    ],
+    "2543": "Map Stamp - Cutter",
+    "Map Stamp - Cutter": [
+        2543
+    ],
+    "2544": "Map Stamp - Maul",
+    "Map Stamp - Maul": [
+        2544
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -7027,6 +7053,18 @@
     "Scream Fortress XVI Collection": [
         5965
     ],
+    "5966": "Gift-Stuffed Stocking 2024",
+    "Gift-Stuffed Stocking 2024": [
+        5966
+    ],
+    "5967": "Winter 2024 Cosmetic Key",
+    "Winter 2024 Cosmetic Key": [
+        5967
+    ],
+    "5968": "Winter 2024 Cosmetic Case",
+    "Winter 2024 Cosmetic Case": [
+        5968
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -7842,6 +7880,30 @@
     "6655": "Strange Filter: Blazehattan (Community)",
     "Strange Filter: Blazehattan (Community)": [
         6655
+    ],
+    "6656": "Strange Filter: Overcast (Community)",
+    "Strange Filter: Overcast (Community)": [
+        6656
+    ],
+    "6657": "Strange Filter: Fortezza (Community)",
+    "Strange Filter: Fortezza (Community)": [
+        6657
+    ],
+    "6658": "Strange Filter: Penguin Peak (Community)",
+    "Strange Filter: Penguin Peak (Community)": [
+        6658
+    ],
+    "6659": "Strange Filter: Patagonia (Community)",
+    "Strange Filter: Patagonia (Community)": [
+        6659
+    ],
+    "6660": "Strange Filter: Cutter (Community)",
+    "Strange Filter: Cutter (Community)": [
+        6660
+    ],
+    "6661": "Strange Filter: Maul (Community)",
+    "Strange Filter: Maul (Community)": [
+        6661
     ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
@@ -23864,6 +23926,26 @@
     "14258": "ozfortress Highlander Main Second Place",
     "14259": "ozfortress Highlander Main Third Place",
     "14260": "ozfortress Highlander Main Participant",
+    "14261": "Ghoulish Gambit Corrupted Crystal 2024",
+    "Ghoulish Gambit Corrupted Crystal 2024": [
+        14261
+    ],
+    "14262": "Ghoulish Gambit Uncorrupted Crystal 2024",
+    "Ghoulish Gambit Uncorrupted Crystal 2024": [
+        14262
+    ],
+    "14263": "Ghoulish Gambit Mostly-Corrupted Crystal 2024",
+    "Ghoulish Gambit Mostly-Corrupted Crystal 2024": [
+        14263
+    ],
+    "14264": "Ghoulish Gambit Haunted Tank 2024",
+    "Ghoulish Gambit Haunted Tank 2024": [
+        14264
+    ],
+    "14265": "Ghoulish Gambit Poisonous Potato 2024",
+    "Ghoulish Gambit Poisonous Potato 2024": [
+        14265
+    ],
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -26053,8 +26135,8 @@
     "Head Hunter": [
         30494
     ],
-    "30495": "Claws And Infect",
-    "Claws And Infect": [
+    "30495": "Claws and Infect",
+    "Claws and Infect": [
         30495
     ],
     "30496": "Crazy Legs",
@@ -28387,8 +28469,8 @@
     "Twisted Topper": [
         31211
     ],
-    "31212": "Beanie The All-Gnawing",
-    "Beanie The All-Gnawing": [
+    "31212": "Beanie the All-Gnawing",
+    "Beanie the All-Gnawing": [
         31212
     ],
     "31213": "Eyequarium",
@@ -29466,5 +29548,109 @@
     "31489": "Defaced Detonator",
     "Defaced Detonator": [
         31489
+    ],
+    "31491": "Taunt: Curtain Call",
+    "Taunt: Curtain Call": [
+        31491
+    ],
+    "31492": "Taunt: Peace!",
+    "Taunt: Peace!": [
+        31492
+    ],
+    "31493": "Taunt: Fore-Head Slice",
+    "Taunt: Fore-Head Slice": [
+        31493
+    ],
+    "31494": "Dapper Noel",
+    "Dapper Noel": [
+        31494
+    ],
+    "31495": "Necroprancer",
+    "Necroprancer": [
+        31495
+    ],
+    "31496": "Battle Music",
+    "Battle Music": [
+        31496
+    ],
+    "31497": "Hot Spaniel",
+    "Hot Spaniel": [
+        31497
+    ],
+    "31498": "Frostbite Fit",
+    "Frostbite Fit": [
+        31498
+    ],
+    "31499": "L'aire Filteure",
+    "L'aire Filteure": [
+        31499
+    ],
+    "31500": "Poleur Voyeur",
+    "Poleur Voyeur": [
+        31500
+    ],
+    "31501": "Le Frosteaux",
+    "Le Frosteaux": [
+        31501
+    ],
+    "31502": "Scrooge McDoc",
+    "Scrooge McDoc": [
+        31502
+    ],
+    "31503": "Checkered Past",
+    "Checkered Past": [
+        31503
+    ],
+    "31504": "Consigliere's Coverup",
+    "Consigliere's Coverup": [
+        31504
+    ],
+    "31505": "Crimbo Cap",
+    "Crimbo Cap": [
+        31505
+    ],
+    "31506": "Triple Jumper",
+    "Triple Jumper": [
+        31506
+    ],
+    "31507": "Polar Charger",
+    "Polar Charger": [
+        31507
+    ],
+    "31508": "Field Fatigues",
+    "Field Fatigues": [
+        31508
+    ],
+    "31509": "Cossack Camo",
+    "Cossack Camo": [
+        31509
+    ],
+    "31510": "Battle Balaclava",
+    "Battle Balaclava": [
+        31510
+    ],
+    "31511": "Top Brass",
+    "Top Brass": [
+        31511
+    ],
+    "31512": "Commanding Presence",
+    "Commanding Presence": [
+        31512
+    ],
+    "31513": "Mine Sweepers",
+    "Mine Sweepers": [
+        31513
+    ],
+    "31514": "Buck's Brim",
+    "Buck's Brim": [
+        31514
+    ],
+    "31515": "Westcoat",
+    "Westcoat": [
+        31515
+    ],
+    "31516": "Snug Sharpshooter",
+    "Snug Sharpshooter": [
+        31516
     ]
 }
