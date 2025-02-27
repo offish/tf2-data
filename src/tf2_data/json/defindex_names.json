@@ -2690,8 +2690,8 @@
     "Dueler": [
         711
     ],
-    "712": "Gifting Man From Gifting Land",
-    "Gifting Man From Gifting Land": [
+    "712": "Gifting Man from Gifting Land",
+    "Gifting Man from Gifting Land": [
         712
     ],
     "713": "Philateler",
@@ -18860,8 +18860,7 @@
         13307,
         13409,
         13556,
-        13706,
-        13724
+        13706
     ],
     "11368": "RGL.gg - Main 2nd Place - 6v6",
     "RGL.gg - Main 2nd Place - 6v6": [
@@ -18876,8 +18875,7 @@
         13308,
         13410,
         13557,
-        13707,
-        13725
+        13707
     ],
     "11369": "RGL.gg - Main 3rd Place - 6v6",
     "RGL.gg - Main 3rd Place - 6v6": [
@@ -18892,8 +18890,7 @@
         13309,
         13411,
         13558,
-        13708,
-        13726
+        13708
     ],
     "11370": "RGL.gg - Main Participant - 6v6",
     "RGL.gg - Main Participant - 6v6": [
@@ -18908,8 +18905,7 @@
         13310,
         13412,
         13559,
-        13709,
-        13727
+        13709
     ],
     "11371": "RGL.gg - Intermediate Champions - 6v6",
     "RGL.gg - Intermediate Champions - 6v6": [
@@ -19613,22 +19609,26 @@
     "11707": "RGL.gg - Div-1 Champions - 6v6",
     "RGL.gg - Div-1 Champions - 6v6": [
         11707,
-        11729
+        11729,
+        13724
     ],
     "11708": "RGL.gg - Div-1 2nd Place - 6v6",
     "RGL.gg - Div-1 2nd Place - 6v6": [
         11708,
-        11730
+        11730,
+        13725
     ],
     "11709": "RGL.gg - Div-1 3rd Place - 6v6",
     "RGL.gg - Div-1 3rd Place - 6v6": [
         11709,
-        11731
+        11731,
+        13726
     ],
     "11710": "RGL.gg - Div-1 Participant - 6v6",
     "RGL.gg - Div-1 Participant - 6v6": [
         11710,
-        11732
+        11732,
+        13727
     ],
     "11711": "RGL.gg - Div-2 Champions - 6v6",
     "RGL.gg - Div-2 Champions - 6v6": [
@@ -23146,10 +23146,10 @@
     "13721": "RGL.gg - Advanced 2nd Place - 6v6",
     "13722": "RGL.gg - Advanced 3rd Place - 6v6",
     "13723": "RGL.gg - Advanced Participant - 6v6",
-    "13724": "RGL.gg - Main Champions - 6v6",
-    "13725": "RGL.gg - Main 2nd Place - 6v6",
-    "13726": "RGL.gg - Main 3rd Place - 6v6",
-    "13727": "RGL.gg - Main Participant - 6v6",
+    "13724": "RGL.gg - Div-1 Champions - 6v6",
+    "13725": "RGL.gg - Div-1 2nd Place - 6v6",
+    "13726": "RGL.gg - Div-1 3rd Place - 6v6",
+    "13727": "RGL.gg - Div-1 Participant - 6v6",
     "13728": "RGL.gg - Intermediate Champions - 6v6",
     "13729": "RGL.gg - Intermediate 2nd Place - 6v6",
     "13730": "RGL.gg - Intermediate 3rd Place - 6v6",
@@ -23945,6 +23945,26 @@
     "14265": "Ghoulish Gambit Poisonous Potato 2024",
     "Ghoulish Gambit Poisonous Potato 2024": [
         14265
+    ],
+    "14266": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
+    "AsiaFortress Liquid.tf Newbie Cup 1st Place": [
+        14266
+    ],
+    "14267": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
+    "AsiaFortress Liquid.tf Newbie Cup 2nd Place": [
+        14267
+    ],
+    "14268": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
+    "AsiaFortress Liquid.tf Newbie Cup 3rd Place": [
+        14268
+    ],
+    "14269": "AsiaFortress Liquid.tf Newbie Cup Participant",
+    "AsiaFortress Liquid.tf Newbie Cup Participant": [
+        14269
+    ],
+    "14270": "AsiaFortress Liquid.tf Newbie Cup Coach",
+    "AsiaFortress Liquid.tf Newbie Cup Coach": [
+        14270
     ],
     "15000": "Sniper Rifle",
     "15001": "SMG",
