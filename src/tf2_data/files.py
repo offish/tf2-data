@@ -1,5 +1,13 @@
 from .utils import read_lib_json_file
 
+__all__ = [
+    "EFFECTS",
+    "SCHEMA_ITEMS",
+    "ITEM_NAME_IDS",
+    "DEFINDEX_NAMES",
+    "DEFINDEX_FULL_NAMES",
+]
+
 EFFECTS = read_lib_json_file("effects")
 SCHEMA_ITEMS = read_lib_json_file("schema_items")
 ITEM_NAME_IDS = read_lib_json_file("item_nameids")
