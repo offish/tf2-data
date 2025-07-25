@@ -1319,8 +1319,8 @@
     "Western Wear": [
         379
     ],
-    "380": "Large Luchadore",
-    "Large Luchadore": [
+    "380": "Large Luchador",
+    "Large Luchador": [
         380
     ],
     "381": "Medic's Mountain Cap",
@@ -2058,8 +2058,8 @@
     "Wrap Battler": [
         546
     ],
-    "547": "B-ankh!",
-    "B-ankh!": [
+    "547": "B-Ankh!",
+    "B-Ankh!": [
         547
     ],
     "548": "Futankhamun",
@@ -2386,8 +2386,8 @@
     "Stereoscopic Shades": [
         630
     ],
-    "631": "Hat With No Name",
-    "Hat With No Name": [
+    "631": "Hat with No Name",
+    "Hat with No Name": [
         631
     ],
     "632": "Cremator's Conscience",
@@ -2458,8 +2458,8 @@
     "Wrap Assassin": [
         648
     ],
-    "649": "Spy-cicle",
-    "Spy-cicle": [
+    "649": "Spy-Cicle",
+    "Spy-Cicle": [
         649
     ],
     "650": "Kringle Collection",
@@ -2747,8 +2747,8 @@
     "Captain's Cocktails": [
         731
     ],
-    "732": "Helmet Without a Home",
-    "Helmet Without a Home": [
+    "732": "Helmet without a Home",
+    "Helmet without a Home": [
         732
     ],
     "733": "RoBro 3000",
@@ -3129,8 +3129,8 @@
     "837": "Marxman",
     "838": "Human Cannonball",
     "839": "Mann Co. Store Package",
-    "840": "U-clank-a",
-    "U-clank-a": [
+    "840": "U-Clank-A",
+    "U-Clank-A": [
         840
     ],
     "841": "Stealth Steeler",
@@ -4885,7 +4885,8 @@
         2173,
         2174,
         2175,
-        2176
+        2176,
+        2177
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5430,6 +5431,7 @@
     "2174": "Map Stamps Collection",
     "2175": "Map Stamps Collection",
     "2176": "Map Stamps Collection",
+    "2177": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5609,6 +5611,46 @@
     "2544": "Map Stamp - Maul",
     "Map Stamp - Maul": [
         2544
+    ],
+    "2545": "Map Stamp - Citadel",
+    "Map Stamp - Citadel": [
+        2545
+    ],
+    "2546": "Map Stamp - Aquarius",
+    "Map Stamp - Aquarius": [
+        2546
+    ],
+    "2547": "Map Stamp - Fulgur",
+    "Map Stamp - Fulgur": [
+        2547
+    ],
+    "2548": "Map Stamp - Cargo",
+    "Map Stamp - Cargo": [
+        2548
+    ],
+    "2549": "Map Stamp - Conifer",
+    "Map Stamp - Conifer": [
+        2549
+    ],
+    "2550": "Map Stamp - Boardwalk",
+    "Map Stamp - Boardwalk": [
+        2550
+    ],
+    "2551": "Map Stamp - Blowout",
+    "Map Stamp - Blowout": [
+        2551
+    ],
+    "2552": "Map Stamp - Mannhole",
+    "Map Stamp - Mannhole": [
+        2552
+    ],
+    "2553": "Map Stamp - Demolition",
+    "Map Stamp - Demolition": [
+        2553
+    ],
+    "2554": "Map Stamp - Pressure",
+    "Map Stamp - Pressure": [
+        2554
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -5966,8 +6008,8 @@
     "Voodoo-Cursed Novelty Bass": [
         5613
     ],
-    "5614": "Voodoo-Cursed Sticky-Bomb",
-    "Voodoo-Cursed Sticky-Bomb": [
+    "5614": "Voodoo-Cursed Stickybomb",
+    "Voodoo-Cursed Stickybomb": [
         5614
     ],
     "5615": "Voodoo-Cursed Nail",
@@ -7065,6 +7107,14 @@
     "Winter 2024 Cosmetic Case": [
         5968
     ],
+    "5969": "Summer 2025 Cosmetic Key",
+    "Summer 2025 Cosmetic Key": [
+        5969
+    ],
+    "5970": "Summer 2025 Cosmetic Case",
+    "Summer 2025 Cosmetic Case": [
+        5970
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -7904,6 +7954,46 @@
     "6661": "Strange Filter: Maul (Community)",
     "Strange Filter: Maul (Community)": [
         6661
+    ],
+    "6662": "Strange Filter: Citadel (Community)",
+    "Strange Filter: Citadel (Community)": [
+        6662
+    ],
+    "6663": "Strange Filter: Aquarius (Community)",
+    "Strange Filter: Aquarius (Community)": [
+        6663
+    ],
+    "6664": "Strange Filter: Fulgur (Community)",
+    "Strange Filter: Fulgur (Community)": [
+        6664
+    ],
+    "6665": "Strange Filter: Cargo (Community)",
+    "Strange Filter: Cargo (Community)": [
+        6665
+    ],
+    "6666": "Strange Filter: Conifer (Community)",
+    "Strange Filter: Conifer (Community)": [
+        6666
+    ],
+    "6667": "Strange Filter: Boardwalk (Community)",
+    "Strange Filter: Boardwalk (Community)": [
+        6667
+    ],
+    "6668": "Strange Filter: Blowout (Community)",
+    "Strange Filter: Blowout (Community)": [
+        6668
+    ],
+    "6669": "Strange Filter: Mannhole (Community)",
+    "Strange Filter: Mannhole (Community)": [
+        6669
+    ],
+    "6670": "Strange Filter: Demolition (Community)",
+    "Strange Filter: Demolition (Community)": [
+        6670
+    ],
+    "6671": "Strange Filter: Pressure (Community)",
+    "Strange Filter: Pressure (Community)": [
+        6671
     ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
@@ -12080,8 +12170,8 @@
     "Halloween Spell: Spy's Creepy Croon": [
         8912
     ],
-    "8913": "Halloween Spell: Medic's Blood-curdling Bellow",
-    "Halloween Spell: Medic's Blood-curdling Bellow": [
+    "8913": "Halloween Spell: Medic's Blood-Curdling Bellow",
+    "Halloween Spell: Medic's Blood-Curdling Bellow": [
         8913
     ],
     "8914": "Halloween Spell: Team Spirit Footprints",
@@ -12345,7 +12435,8 @@
         13764,
         14075,
         14237,
-        14271
+        14271,
+        14460
     ],
     "9091": "ozfortress Sixes Premier Second Place",
     "ozfortress Sixes Premier Second Place": [
@@ -12376,7 +12467,8 @@
         13765,
         14076,
         14238,
-        14272
+        14272,
+        14461
     ],
     "9092": "ozfortress Sixes Premier Third Place",
     "ozfortress Sixes Premier Third Place": [
@@ -12407,7 +12499,8 @@
         13766,
         14077,
         14239,
-        14273
+        14273,
+        14462
     ],
     "9093": "ozfortress Sixes Premier Participant",
     "ozfortress Sixes Premier Participant": [
@@ -12438,7 +12531,8 @@
         13767,
         14078,
         14240,
-        14274
+        14274,
+        14463
     ],
     "9094": "ozfortress Sixes Intermediate First Place",
     "ozfortress Sixes Intermediate First Place": [
@@ -12469,7 +12563,8 @@
         13772,
         14083,
         14245,
-        14279
+        14279,
+        14468
     ],
     "9095": "ozfortress Sixes Intermediate Second Place",
     "ozfortress Sixes Intermediate Second Place": [
@@ -12500,7 +12595,8 @@
         13773,
         14084,
         14246,
-        14280
+        14280,
+        14469
     ],
     "9096": "ozfortress Sixes Intermediate Third Place",
     "ozfortress Sixes Intermediate Third Place": [
@@ -12531,7 +12627,8 @@
         13774,
         14085,
         14247,
-        14281
+        14281,
+        14470
     ],
     "9097": "ozfortress Sixes Intermediate Participant",
     "ozfortress Sixes Intermediate Participant": [
@@ -12562,7 +12659,8 @@
         13775,
         14086,
         14248,
-        14282
+        14282,
+        14471
     ],
     "9098": "ozfortress Sixes Open First Place",
     "ozfortress Sixes Open First Place": [
@@ -12593,7 +12691,8 @@
         13780,
         14091,
         14249,
-        14287
+        14287,
+        14476
     ],
     "9099": "ozfortress Sixes Open Second Place",
     "ozfortress Sixes Open Second Place": [
@@ -12624,7 +12723,8 @@
         13781,
         14092,
         14250,
-        14288
+        14288,
+        14477
     ],
     "9100": "ozfortress Sixes Open Third Place",
     "ozfortress Sixes Open Third Place": [
@@ -12655,7 +12755,8 @@
         13782,
         14093,
         14251,
-        14289
+        14289,
+        14478
     ],
     "9101": "ozfortress Sixes Open Participant",
     "ozfortress Sixes Open Participant": [
@@ -12686,7 +12787,8 @@
         13783,
         14094,
         14252,
-        14290
+        14290,
+        14479
     ],
     "9102": "ozfortress Summer Cup First Place",
     "ozfortress Summer Cup First Place": [
@@ -15791,7 +15893,8 @@
         10380,
         10970,
         12294,
-        14056
+        14056,
+        14496
     ],
     "10381": "LAN Downunder 2nd Place",
     "LAN Downunder 2nd Place": [
@@ -15800,7 +15903,8 @@
         12295,
         12982,
         13420,
-        14057
+        14057,
+        14497
     ],
     "10382": "LAN Downunder 3rd Place",
     "LAN Downunder 3rd Place": [
@@ -15809,7 +15913,8 @@
         12296,
         12983,
         13421,
-        14058
+        14058,
+        14498
     ],
     "10383": "LAN Downunder Participant",
     "LAN Downunder Participant": [
@@ -15818,7 +15923,8 @@
         12297,
         12984,
         13422,
-        14059
+        14059,
+        14499
     ],
     "10384": "Russian Highlander 1st Place",
     "Russian Highlander 1st Place": [
@@ -17142,7 +17248,8 @@
         10671,
         11982,
         13019,
-        13589
+        13589,
+        14441
     ],
     "10672": "Copenhagen Games 6v6 1st Place",
     "10673": "Copenhagen Games 6v6 2nd Place",
@@ -17798,7 +17905,8 @@
         13756,
         13776,
         14087,
-        14283
+        14283,
+        14472
     ],
     "10905": "ozfortress Sixes Main Second Place",
     "ozfortress Sixes Main Second Place": [
@@ -17818,7 +17926,8 @@
         13757,
         13777,
         14088,
-        14284
+        14284,
+        14473
     ],
     "10906": "ozfortress Sixes Main Third Place",
     "ozfortress Sixes Main Third Place": [
@@ -17838,7 +17947,8 @@
         13758,
         13778,
         14089,
-        14285
+        14285,
+        14474
     ],
     "10907": "ozfortress Sixes Main Participant",
     "ozfortress Sixes Main Participant": [
@@ -17858,7 +17968,8 @@
         13759,
         13779,
         14090,
-        14286
+        14286,
+        14475
     ],
     "10908": "ozfortress Sixes Open First Place",
     "10909": "ozfortress Sixes Open Second Place",
@@ -19455,7 +19566,8 @@
         13768,
         14079,
         14241,
-        14275
+        14275,
+        14464
     ],
     "11590": "ozfortress Sixes High Second Place",
     "ozfortress Sixes High Second Place": [
@@ -19467,7 +19579,8 @@
         13769,
         14080,
         14242,
-        14276
+        14276,
+        14465
     ],
     "11591": "ozfortress Sixes High Third Place",
     "ozfortress Sixes High Third Place": [
@@ -19479,7 +19592,8 @@
         13770,
         14081,
         14243,
-        14277
+        14277,
+        14466
     ],
     "11592": "ozfortress Sixes High Participant",
     "ozfortress Sixes High Participant": [
@@ -19491,7 +19605,8 @@
         13771,
         14082,
         14244,
-        14278
+        14278,
+        14467
     ],
     "11593": "ozfortress Sixes Intermediate First Place",
     "11594": "ozfortress Sixes Intermediate Second Place",
@@ -19923,25 +20038,33 @@
     "CappingTV Summer Brawl 1st Place": [
         11804,
         12835,
-        13318
+        13318,
+        13595,
+        14500
     ],
     "11805": "CappingTV Summer Brawl 2nd Place",
     "CappingTV Summer Brawl 2nd Place": [
         11805,
         12836,
-        13319
+        13319,
+        13596,
+        14501
     ],
     "11806": "CappingTV Summer Brawl 3rd Place",
     "CappingTV Summer Brawl 3rd Place": [
         11806,
         12837,
-        13320
+        13320,
+        13597,
+        14502
     ],
     "11807": "CappingTV Summer Brawl Participant",
     "CappingTV Summer Brawl Participant": [
         11807,
         12838,
-        13321
+        13321,
+        13598,
+        14503
     ],
     "11808": "CappingTV PASS Time Championship 1st Place",
     "CappingTV PASS Time Championship 1st Place": [
@@ -21885,7 +22008,8 @@
         13796,
         14095,
         14253,
-        14291
+        14291,
+        14480
     ],
     "12970": "ozfortress Highlander Premier Second Place",
     "ozfortress Highlander Premier Second Place": [
@@ -21897,7 +22021,8 @@
         13797,
         14096,
         14254,
-        14292
+        14292,
+        14481
     ],
     "12971": "ozfortress Highlander Premier Third Place",
     "ozfortress Highlander Premier Third Place": [
@@ -21909,7 +22034,8 @@
         13798,
         14097,
         14255,
-        14293
+        14293,
+        14482
     ],
     "12972": "ozfortress Highlander Premier Participant",
     "ozfortress Highlander Premier Participant": [
@@ -21921,7 +22047,8 @@
         13799,
         14098,
         14256,
-        14294
+        14294,
+        14483
     ],
     "12973": "ozfortress Highlander Intermediate First Place",
     "ozfortress Highlander Intermediate First Place": [
@@ -22435,7 +22562,8 @@
         13451,
         13800,
         14099,
-        14257
+        14257,
+        14484
     ],
     "13278": "ozfortress Highlander Main Second Place",
     "ozfortress Highlander Main Second Place": [
@@ -22443,7 +22571,8 @@
         13452,
         13801,
         14100,
-        14258
+        14258,
+        14485
     ],
     "13279": "ozfortress Highlander Main Third Place",
     "ozfortress Highlander Main Third Place": [
@@ -22451,7 +22580,8 @@
         13453,
         13802,
         14101,
-        14259
+        14259,
+        14486
     ],
     "13280": "ozfortress Highlander Main Participant",
     "ozfortress Highlander Main Participant": [
@@ -22459,7 +22589,8 @@
         13454,
         13803,
         14102,
-        14260
+        14260,
+        14487
     ],
     "13281": "RGL.gg - Invite Champions - Highlander",
     "13282": "RGL.gg - Invite 2nd Place - Highlander",
@@ -23023,22 +23154,10 @@
     "13592": "AsiaFortress Invite 3rd Place",
     "13593": "AsiaFortress Invite Participant",
     "13594": "AsiaFortress Qualifiers Participant",
-    "13595": "TF2 Summer Brawl 1st Place",
-    "TF2 Summer Brawl 1st Place": [
-        13595
-    ],
-    "13596": "TF2 Summer Brawl 2nd Place",
-    "TF2 Summer Brawl 2nd Place": [
-        13596
-    ],
-    "13597": "TF2 Summer Brawl 3rd Place",
-    "TF2 Summer Brawl 3rd Place": [
-        13597
-    ],
-    "13598": "TF2 Summer Brawl Participant",
-    "TF2 Summer Brawl Participant": [
-        13598
-    ],
+    "13595": "CappingTV Summer Brawl 1st Place",
+    "13596": "CappingTV Summer Brawl 2nd Place",
+    "13597": "CappingTV Summer Brawl 3rd Place",
+    "13598": "CappingTV Summer Brawl Participant",
     "13599": "RGB 6 LAN 1st Place",
     "RGB 6 LAN 1st Place": [
         13599
@@ -23687,37 +23806,44 @@
     "14047": "AsiaFortress Liquid.tf Invite Participant",
     "AsiaFortress Liquid.tf Invite Participant": [
         14047,
-        14117
+        14117,
+        14402
     ],
     "14048": "AsiaFortress Liquid.tf Open Participant",
     "AsiaFortress Liquid.tf Open Participant": [
         14048,
-        14116
+        14116,
+        14404
     ],
     "14049": "AsiaFortress Liquid.tf Highlander Open 1st Place",
     "AsiaFortress Liquid.tf Highlander Open 1st Place": [
         14049,
-        14232
+        14232,
+        14416
     ],
     "14050": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
     "AsiaFortress Liquid.tf Highlander Open 2nd Place": [
         14050,
-        14233
+        14233,
+        14417
     ],
     "14051": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
     "AsiaFortress Liquid.tf Highlander Open 3rd Place": [
         14051,
-        14234
+        14234,
+        14418
     ],
     "14052": "AsiaFortress Liquid.tf Highlander Invite Participant",
     "AsiaFortress Liquid.tf Highlander Invite Participant": [
         14052,
-        14235
+        14235,
+        14419
     ],
     "14053": "AsiaFortress Liquid.tf Highlander Open Participant",
     "AsiaFortress Liquid.tf Highlander Open Participant": [
         14053,
-        14236
+        14236,
+        14420
     ],
     "14054": "AsiaFortress Liquid.tf Mercenary Mashup",
     "AsiaFortress Liquid.tf Mercenary Mashup": [
@@ -23758,17 +23884,20 @@
     "14072": "AsiaFortress Liquid.tf Invite 1st Place",
     "AsiaFortress Liquid.tf Invite 1st Place": [
         14072,
-        14229
+        14229,
+        14396
     ],
     "14073": "AsiaFortress Liquid.tf Invite 2nd Place",
     "AsiaFortress Liquid.tf Invite 2nd Place": [
         14073,
-        14230
+        14230,
+        14397
     ],
     "14074": "AsiaFortress Liquid.tf Invite 3rd Place",
     "AsiaFortress Liquid.tf Invite 3rd Place": [
         14074,
-        14231
+        14231,
+        14398
     ],
     "14075": "ozfortress Sixes Premier First Place",
     "14076": "ozfortress Sixes Premier Second Place",
@@ -24065,23 +24194,28 @@
     ],
     "14266": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
     "AsiaFortress Liquid.tf Newbie Cup 1st Place": [
-        14266
+        14266,
+        14405
     ],
     "14267": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
     "AsiaFortress Liquid.tf Newbie Cup 2nd Place": [
-        14267
+        14267,
+        14406
     ],
     "14268": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
     "AsiaFortress Liquid.tf Newbie Cup 3rd Place": [
-        14268
+        14268,
+        14407
     ],
     "14269": "AsiaFortress Liquid.tf Newbie Cup Participant",
     "AsiaFortress Liquid.tf Newbie Cup Participant": [
-        14269
+        14269,
+        14408
     ],
     "14270": "AsiaFortress Liquid.tf Newbie Cup Coach",
     "AsiaFortress Liquid.tf Newbie Cup Coach": [
-        14270
+        14270,
+        14409
     ],
     "14271": "ozfortress Sixes Premier First Place",
     "14272": "ozfortress Sixes Premier Second Place",
@@ -24232,6 +24366,282 @@
     "14393": "RGL.gg - Amateur Participant - 6v6",
     "14394": "RGL.gg - Newcomer Participant - 6v6",
     "14395": "RGL.gg Highlander Experimental Maps Cup",
+    "14396": "AsiaFortress Liquid.tf Invite 1st Place",
+    "14397": "AsiaFortress Liquid.tf Invite 2nd Place",
+    "14398": "AsiaFortress Liquid.tf Invite 3rd Place",
+    "14399": "AsiaFortress Liquid.tf Main 1st Place",
+    "AsiaFortress Liquid.tf Main 1st Place": [
+        14399
+    ],
+    "14400": "AsiaFortress Liquid.tf Main 2nd Place",
+    "AsiaFortress Liquid.tf Main 2nd Place": [
+        14400
+    ],
+    "14401": "AsiaFortress Liquid.tf Main 3rd Place",
+    "AsiaFortress Liquid.tf Main 3rd Place": [
+        14401
+    ],
+    "14402": "AsiaFortress Liquid.tf Invite Participant",
+    "14403": "AsiaFortress Liquid.tf Main Participant",
+    "AsiaFortress Liquid.tf Main Participant": [
+        14403
+    ],
+    "14404": "AsiaFortress Liquid.tf Open Participant",
+    "14405": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
+    "14406": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
+    "14407": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
+    "14408": "AsiaFortress Liquid.tf Newbie Cup Participant",
+    "14409": "AsiaFortress Liquid.tf Newbie Cup Coach",
+    "14410": "AsiaFortress Liquid.tf Gibus Cup 1st Place",
+    "AsiaFortress Liquid.tf Gibus Cup 1st Place": [
+        14410
+    ],
+    "14411": "AsiaFortress Liquid.tf Gibus Cup 2nd Place",
+    "AsiaFortress Liquid.tf Gibus Cup 2nd Place": [
+        14411
+    ],
+    "14412": "AsiaFortress Liquid.tf Gibus Cup 3rd Place",
+    "AsiaFortress Liquid.tf Gibus Cup 3rd Place": [
+        14412
+    ],
+    "14413": "AsiaFortress Liquid.tf Gibus Cup Participant",
+    "AsiaFortress Liquid.tf Gibus Cup Participant": [
+        14413
+    ],
+    "14414": "AsiaFortress Liquid.tf Gibus Cup Coach",
+    "AsiaFortress Liquid.tf Gibus Cup Coach": [
+        14414
+    ],
+    "14415": "AsiaFortress Liquid.tf Champions Cup Participant",
+    "AsiaFortress Liquid.tf Champions Cup Participant": [
+        14415
+    ],
+    "14416": "AsiaFortress Liquid.tf Highlander Open 1st Place",
+    "14417": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
+    "14418": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
+    "14419": "AsiaFortress Liquid.tf Highlander Invite Participant",
+    "14420": "AsiaFortress Liquid.tf Highlander Open Participant",
+    "14421": "TFArena Platinum Division Champions",
+    "TFArena Platinum Division Champions": [
+        14421
+    ],
+    "14422": "TFArena Platinum Division 2nd Place",
+    "TFArena Platinum Division 2nd Place": [
+        14422
+    ],
+    "14423": "TFArena Platinum Division 3rd Place",
+    "TFArena Platinum Division 3rd Place": [
+        14423
+    ],
+    "14424": "TFArena Platinum Division Participant",
+    "TFArena Platinum Division Participant": [
+        14424
+    ],
+    "14425": "TFArena Gold Division Champions",
+    "TFArena Gold Division Champions": [
+        14425
+    ],
+    "14426": "TFArena Gold Division 2nd Place",
+    "TFArena Gold Division 2nd Place": [
+        14426
+    ],
+    "14427": "TFArena Gold Division 3rd Place",
+    "TFArena Gold Division 3rd Place": [
+        14427
+    ],
+    "14428": "TFArena Gold Division Participant",
+    "TFArena Gold Division Participant": [
+        14428
+    ],
+    "14429": "TFArena Silver Division Champions",
+    "TFArena Silver Division Champions": [
+        14429
+    ],
+    "14430": "TFArena Silver Division 2nd Place",
+    "TFArena Silver Division 2nd Place": [
+        14430
+    ],
+    "14431": "TFArena Silver Division 3rd Place",
+    "TFArena Silver Division 3rd Place": [
+        14431
+    ],
+    "14432": "TFArena Silver Division Participant",
+    "TFArena Silver Division Participant": [
+        14432
+    ],
+    "14433": "TFArena Steel Division Champions",
+    "TFArena Steel Division Champions": [
+        14433
+    ],
+    "14434": "TFArena Steel Division 2nd Place",
+    "TFArena Steel Division 2nd Place": [
+        14434
+    ],
+    "14435": "TFArena Steel Division 3rd Place",
+    "TFArena Steel Division 3rd Place": [
+        14435
+    ],
+    "14436": "TFArena Steel Division Participant",
+    "TFArena Steel Division Participant": [
+        14436
+    ],
+    "14437": "TFArena Iron Division Champions",
+    "TFArena Iron Division Champions": [
+        14437
+    ],
+    "14438": "TFArena Iron Division 2nd Place",
+    "TFArena Iron Division 2nd Place": [
+        14438
+    ],
+    "14439": "TFArena Iron Division 3rd Place",
+    "TFArena Iron Division 3rd Place": [
+        14439
+    ],
+    "14440": "TFArena Iron Division Participant",
+    "TFArena Iron Division Participant": [
+        14440
+    ],
+    "14441": "TFArena Helper Medal",
+    "14442": "MGE.tf EU 2v2 Premier 1st Place",
+    "MGE.tf EU 2v2 Premier 1st Place": [
+        14442
+    ],
+    "14443": "MGE.tf EU 2v2 Premier 2nd Place",
+    "MGE.tf EU 2v2 Premier 2nd Place": [
+        14443
+    ],
+    "14444": "MGE.tf EU 2v2 Premier 3rd Place",
+    "MGE.tf EU 2v2 Premier 3rd Place": [
+        14444
+    ],
+    "14445": "MGE.tf EU 2v2 Premier Participant",
+    "MGE.tf EU 2v2 Premier Participant": [
+        14445
+    ],
+    "14446": "MGE.tf EU 2v2 Intermediate 1st Place",
+    "MGE.tf EU 2v2 Intermediate 1st Place": [
+        14446
+    ],
+    "14447": "MGE.tf EU 2v2 Intermediate 2nd Place",
+    "MGE.tf EU 2v2 Intermediate 2nd Place": [
+        14447
+    ],
+    "14448": "MGE.tf EU 2v2 Intermediate 3rd Place",
+    "MGE.tf EU 2v2 Intermediate 3rd Place": [
+        14448
+    ],
+    "14449": "MGE.tf EU 2v2 Intermediate Participant",
+    "MGE.tf EU 2v2 Intermediate Participant": [
+        14449
+    ],
+    "14450": "MGE.tf EU 2v2 Open 1st Place",
+    "MGE.tf EU 2v2 Open 1st Place": [
+        14450
+    ],
+    "14451": "MGE.tf EU 2v2 Open 2nd Place",
+    "MGE.tf EU 2v2 Open 2nd Place": [
+        14451
+    ],
+    "14452": "MGE.tf EU 2v2 Open 3rd Place",
+    "MGE.tf EU 2v2 Open 3rd Place": [
+        14452
+    ],
+    "14453": "MGE.tf EU 2v2 Open Participant",
+    "MGE.tf EU 2v2 Open Participant": [
+        14453
+    ],
+    "14454": "MGE.tf EU 2v2 Helper",
+    "MGE.tf EU 2v2 Helper": [
+        14454
+    ],
+    "14455": "MGE.tf 1v1 World Championship 1st Place",
+    "MGE.tf 1v1 World Championship 1st Place": [
+        14455
+    ],
+    "14456": "MGE.tf 1v1 World Championship 2nd Place",
+    "MGE.tf 1v1 World Championship 2nd Place": [
+        14456
+    ],
+    "14457": "MGE.tf 1v1 World Championship 3rd Place",
+    "MGE.tf 1v1 World Championship 3rd Place": [
+        14457
+    ],
+    "14458": "MGE.tf 1v1 World Championship Participant",
+    "MGE.tf 1v1 World Championship Participant": [
+        14458
+    ],
+    "14459": "MGE.tf 1v1 World Championship Helper",
+    "MGE.tf 1v1 World Championship Helper": [
+        14459
+    ],
+    "14460": "ozfortress Sixes Premier First Place",
+    "14461": "ozfortress Sixes Premier Second Place",
+    "14462": "ozfortress Sixes Premier Third Place",
+    "14463": "ozfortress Sixes Premier Participant",
+    "14464": "ozfortress Sixes High First Place",
+    "14465": "ozfortress Sixes High Second Place",
+    "14466": "ozfortress Sixes High Third Place",
+    "14467": "ozfortress Sixes High Participant",
+    "14468": "ozfortress Sixes Intermediate First Place",
+    "14469": "ozfortress Sixes Intermediate Second Place",
+    "14470": "ozfortress Sixes Intermediate Third Place",
+    "14471": "ozfortress Sixes Intermediate Participant",
+    "14472": "ozfortress Sixes Main First Place",
+    "14473": "ozfortress Sixes Main Second Place",
+    "14474": "ozfortress Sixes Main Third Place",
+    "14475": "ozfortress Sixes Main Participant",
+    "14476": "ozfortress Sixes Open First Place",
+    "14477": "ozfortress Sixes Open Second Place",
+    "14478": "ozfortress Sixes Open Third Place",
+    "14479": "ozfortress Sixes Open Participant",
+    "14480": "ozfortress Highlander Premier First Place",
+    "14481": "ozfortress Highlander Premier Second Place",
+    "14482": "ozfortress Highlander Premier Third Place",
+    "14483": "ozfortress Highlander Premier Participant",
+    "14484": "ozfortress Highlander Main First Place",
+    "14485": "ozfortress Highlander Main Second Place",
+    "14486": "ozfortress Highlander Main Third Place",
+    "14487": "ozfortress Highlander Main Participant",
+    "14488": "ozfortress May Madness Finalist",
+    "ozfortress May Madness Finalist": [
+        14488
+    ],
+    "14489": "ozfortress May Madness Participant",
+    "ozfortress May Madness Participant": [
+        14489
+    ],
+    "14490": "Bolted Barbecue Quintuple-Baked Potato 2025",
+    "Bolted Barbecue Quintuple-Baked Potato 2025": [
+        14490
+    ],
+    "14491": "Bolted Barbecue Parched Patriot Canteen 2025",
+    "Bolted Barbecue Parched Patriot Canteen 2025": [
+        14491
+    ],
+    "14492": "Bolted Barbecue Barbecued Buster 2025",
+    "Bolted Barbecue Barbecued Buster 2025": [
+        14492
+    ],
+    "14493": "Bolted Barbecue Generous Gemstone 2025",
+    "Bolted Barbecue Generous Gemstone 2025": [
+        14493
+    ],
+    "14494": "Bolted Barbecue Star of the Summer Solstice 2025",
+    "Bolted Barbecue Star of the Summer Solstice 2025": [
+        14494
+    ],
+    "14495": "Bolted Barbecue Heart of The Lake 2025",
+    "Bolted Barbecue Heart of The Lake 2025": [
+        14495
+    ],
+    "14496": "LAN Downunder 1st Place",
+    "14497": "LAN Downunder 2nd Place",
+    "14498": "LAN Downunder 3rd Place",
+    "14499": "LAN Downunder Participant",
+    "14500": "CappingTV Summer Brawl 1st Place",
+    "14501": "CappingTV Summer Brawl 2nd Place",
+    "14502": "CappingTV Summer Brawl 3rd Place",
+    "14503": "CappingTV Summer Brawl Participant",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -26777,8 +27187,8 @@
     "Conagher's Combover": [
         30592
     ],
-    "30593": "Clubsy The Seal",
-    "Clubsy The Seal": [
+    "30593": "Clubsy the Seal",
+    "Clubsy the Seal": [
         30593
     ],
     "30595": "Unknown Mann",
@@ -27659,8 +28069,8 @@
     "Fireman's Essentials": [
         30900
     ],
-    "30901": "D-eye-monds",
-    "D-eye-monds": [
+    "30901": "D-Eye-Monds",
+    "D-Eye-Monds": [
         30901
     ],
     "30902": "Deity's Dress",
@@ -27911,8 +28321,8 @@
     "Dell in the Shell": [
         30995
     ],
-    "30996": "Terror-antula",
-    "Terror-antula": [
+    "30996": "Terror-Antula",
+    "Terror-Antula": [
         30996
     ],
     "30997": "Deadbeats",
@@ -29039,8 +29449,8 @@
     "Taunt: Texas Twirl 'Em": [
         31286
     ],
-    "31288": "Taunt: The Scaredy-cat!",
-    "Taunt: The Scaredy-cat!": [
+    "31288": "Taunt: The Scaredy-Cat!",
+    "Taunt: The Scaredy-Cat!": [
         31288
     ],
     "31289": "Taunt: The Crypt Creeper",
@@ -29938,5 +30348,113 @@
     "31516": "Snug Sharpshooter",
     "Snug Sharpshooter": [
         31516
+    ],
+    "31518": "Taunt: The Final Score",
+    "Taunt: The Final Score": [
+        31518
+    ],
+    "31519": "Taunt: Bear Hug",
+    "Taunt: Bear Hug": [
+        31519
+    ],
+    "31520": "Taunt: Texan Trickshot",
+    "Taunt: Texan Trickshot": [
+        31520
+    ],
+    "31521": "Taunt: Flying Colors",
+    "Taunt: Flying Colors": [
+        31521
+    ],
+    "31522": "Team Cap",
+    "Team Cap": [
+        31522
+    ],
+    "31523": "Cattleman's Kettle",
+    "Cattleman's Kettle": [
+        31523
+    ],
+    "31524": "Sir Buildsalot",
+    "Sir Buildsalot": [
+        31524
+    ],
+    "31525": "Hunk Of Monk",
+    "Hunk Of Monk": [
+        31525
+    ],
+    "31526": "Fat Friar",
+    "Fat Friar": [
+        31526
+    ],
+    "31527": "Mr. Rostov",
+    "Mr. Rostov": [
+        31527
+    ],
+    "31528": "Esprit De Corps",
+    "Esprit De Corps": [
+        31528
+    ],
+    "31529": "Hardcore Pantalon",
+    "Hardcore Pantalon": [
+        31529
+    ],
+    "31530": "Abyss Diver",
+    "Abyss Diver": [
+        31530
+    ],
+    "31531": "Frogmann's Fittings",
+    "Frogmann's Fittings": [
+        31531
+    ],
+    "31532": "Oxygen Provider",
+    "Oxygen Provider": [
+        31532
+    ],
+    "31533": "Short Fuse",
+    "Short Fuse": [
+        31533
+    ],
+    "31534": "Blindin' Bonnett",
+    "Blindin' Bonnett": [
+        31534
+    ],
+    "31535": "Shady Shelby",
+    "Shady Shelby": [
+        31535
+    ],
+    "31536": "Mann of the Hour",
+    "Mann of the Hour": [
+        31536
+    ],
+    "31537": "Headliner",
+    "Headliner": [
+        31537
+    ],
+    "31538": "Case of the Blues",
+    "Case of the Blues": [
+        31538
+    ],
+    "31539": "Jarhead",
+    "Jarhead": [
+        31539
+    ],
+    "31540": "Le Sapeur",
+    "Le Sapeur": [
+        31540
+    ],
+    "31541": "Le Morne Uniforme",
+    "Le Morne Uniforme": [
+        31541
+    ],
+    "31542": "Spy Ties",
+    "Spy Ties": [
+        31542
+    ],
+    "31543": "Shadow of Doubt",
+    "Shadow of Doubt": [
+        31543
+    ],
+    "31544": "Clinical Investigator",
+    "Clinical Investigator": [
+        31544
     ]
 }
