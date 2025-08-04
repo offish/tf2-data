@@ -305,8 +305,8 @@
     "Blutsauger": [
         36
     ],
-    "37": "Ubersaw",
-    "Ubersaw": [
+    "37": "\u00dcbersaw",
+    "\u00dcbersaw": [
         37
     ],
     "38": "Axtinguisher",
@@ -3765,8 +3765,8 @@
     "Festive Sandvich": [
         1002
     ],
-    "1003": "Festive Ubersaw",
-    "Festive Ubersaw": [
+    "1003": "Festive \u00dcbersaw",
+    "Festive \u00dcbersaw": [
         1003
     ],
     "1004": "Festive Frontier Justice",
@@ -23937,15 +23937,18 @@
     ],
     "14108": "AsiaFortress Liquid.tf Highlander Invite 1st Place",
     "AsiaFortress Liquid.tf Highlander Invite 1st Place": [
-        14108
+        14108,
+        14504
     ],
     "14109": "AsiaFortress Liquid.tf Highlander Invite 2nd Place",
     "AsiaFortress Liquid.tf Highlander Invite 2nd Place": [
-        14109
+        14109,
+        14505
     ],
     "14110": "AsiaFortress Liquid.tf Highlander Invite 3rd Place",
     "AsiaFortress Liquid.tf Highlander Invite 3rd Place": [
-        14110
+        14110,
+        14506
     ],
     "14111": "TF2Maps Charitable Heart 2024",
     "TF2Maps Charitable Heart 2024": [
@@ -24642,6 +24645,9 @@
     "14501": "CappingTV Summer Brawl 2nd Place",
     "14502": "CappingTV Summer Brawl 3rd Place",
     "14503": "CappingTV Summer Brawl Participant",
+    "14504": "AsiaFortress Liquid.tf Highlander Invite 1st Place",
+    "14505": "AsiaFortress Liquid.tf Highlander Invite 2nd Place",
+    "14506": "AsiaFortress Liquid.tf Highlander Invite 3rd Place",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -25491,8 +25497,8 @@
     "Das Feelinbeterbager": [
         30096
     ],
-    "30097": "Das Ubersternmann",
-    "Das Ubersternmann": [
+    "30097": "Das \u00dcbersternmann",
+    "Das \u00dcbersternmann": [
         30097
     ],
     "30098": "Das Metalmeatencasen",
@@ -30377,8 +30383,8 @@
     "Sir Buildsalot": [
         31524
     ],
-    "31525": "Hunk Of Monk",
-    "Hunk Of Monk": [
+    "31525": "Hunk of Monk",
+    "Hunk of Monk": [
         31525
     ],
     "31526": "Fat Friar",
@@ -30389,8 +30395,8 @@
     "Mr. Rostov": [
         31527
     ],
-    "31528": "Esprit De Corps",
-    "Esprit De Corps": [
+    "31528": "Esprit de Corps",
+    "Esprit de Corps": [
         31528
     ],
     "31529": "Hardcore Pantalon",
