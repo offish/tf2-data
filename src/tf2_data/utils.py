@@ -2,12 +2,12 @@ import json
 from pathlib import Path
 
 
-def get_json_path(name: str) -> str:
+def get_json_path(name: str) -> Path:
     path = Path(__file__).parent
     return path / f"json/{name}.json"
 
 
-def read_json_file(path: str) -> dict | list:
+def read_json_file(path: str | Path) -> dict | list:
     data = {}
 
     with open(path, "r") as f:

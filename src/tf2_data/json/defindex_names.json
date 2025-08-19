@@ -16247,7 +16247,9 @@
         13662,
         13680,
         14323,
-        14341
+        14341,
+        14507,
+        14525
     ],
     "10451": "RGL.gg - Invite 2nd Place - Highlander",
     "RGL.gg - Invite 2nd Place - Highlander": [
@@ -16268,7 +16270,9 @@
         13663,
         13681,
         14324,
-        14342
+        14342,
+        14508,
+        14526
     ],
     "10452": "RGL.gg - Invite 3rd Place - Highlander",
     "RGL.gg - Invite 3rd Place - Highlander": [
@@ -16289,7 +16293,9 @@
         13664,
         13682,
         14325,
-        14343
+        14343,
+        14509,
+        14527
     ],
     "10453": "RGL.gg - Invite Participant - Highlander",
     "RGL.gg - Invite Participant - Highlander": [
@@ -16310,7 +16316,9 @@
         13665,
         13683,
         14326,
-        14344
+        14344,
+        14510,
+        14528
     ],
     "10454": "RGL.gg - Advanced Champions - Highlander",
     "RGL.gg - Advanced Champions - Highlander": [
@@ -16331,7 +16339,9 @@
         13666,
         13684,
         14327,
-        14345
+        14345,
+        14511,
+        14529
     ],
     "10455": "RGL.gg - Advanced 2nd Place - Highlander",
     "RGL.gg - Advanced 2nd Place - Highlander": [
@@ -16352,7 +16362,9 @@
         13667,
         13685,
         14328,
-        14346
+        14346,
+        14512,
+        14530
     ],
     "10456": "RGL.gg - Advanced 3rd Place - Highlander",
     "RGL.gg - Advanced 3rd Place - Highlander": [
@@ -16373,7 +16385,9 @@
         13668,
         13686,
         14329,
-        14347
+        14347,
+        14513,
+        14531
     ],
     "10457": "RGL.gg - Advanced Participant - Highlander",
     "RGL.gg - Advanced Participant - Highlander": [
@@ -16394,7 +16408,9 @@
         13669,
         13687,
         14330,
-        14348
+        14348,
+        14514,
+        14532
     ],
     "10458": "RGL.gg - Main Champions - Highlander",
     "RGL.gg - Main Champions - Highlander": [
@@ -16415,7 +16431,9 @@
         13670,
         13688,
         14331,
-        14349
+        14349,
+        14515,
+        14533
     ],
     "10459": "RGL.gg - Main 2nd Place - Highlander",
     "RGL.gg - Main 2nd Place - Highlander": [
@@ -16436,7 +16454,9 @@
         13671,
         13689,
         14332,
-        14350
+        14350,
+        14516,
+        14534
     ],
     "10460": "RGL.gg - Main 3rd Place - Highlander",
     "RGL.gg - Main 3rd Place - Highlander": [
@@ -16457,7 +16477,9 @@
         13672,
         13690,
         14333,
-        14351
+        14351,
+        14517,
+        14535
     ],
     "10461": "RGL.gg - Main Participant - Highlander",
     "RGL.gg - Main Participant - Highlander": [
@@ -16478,7 +16500,9 @@
         13673,
         13691,
         14334,
-        14352
+        14352,
+        14518,
+        14536
     ],
     "10462": "RGL.gg - Intermediate Champions - Highlander",
     "RGL.gg - Intermediate Champions - Highlander": [
@@ -16499,7 +16523,9 @@
         13674,
         13692,
         14335,
-        14353
+        14353,
+        14519,
+        14537
     ],
     "10463": "RGL.gg - Intermediate 2nd Place - Highlander",
     "RGL.gg - Intermediate 2nd Place - Highlander": [
@@ -16520,7 +16546,9 @@
         13675,
         13693,
         14336,
-        14354
+        14354,
+        14520,
+        14538
     ],
     "10464": "RGL.gg - Intermediate 3rd Place - Highlander",
     "RGL.gg - Intermediate 3rd Place - Highlander": [
@@ -16541,7 +16569,9 @@
         13676,
         13694,
         14337,
-        14355
+        14355,
+        14521,
+        14539
     ],
     "10465": "RGL.gg - Intermediate Participant - Highlander",
     "RGL.gg - Intermediate Participant - Highlander": [
@@ -16562,7 +16592,9 @@
         13677,
         13695,
         14338,
-        14356
+        14356,
+        14522,
+        14540
     ],
     "10466": "RGL.gg - Open Participant - Highlander",
     "RGL.gg - Open Participant - Highlander": [
@@ -16767,71 +16799,79 @@
     "10517": "Ultimate Ultiduo 3rd Place",
     "10518": "Ultimate Ultiduo Participant",
     "10519": "Ultimate Ultiduo Helper",
-    "10520": "Brazil Fortress Jump Cup Soldier Division 1 First Place",
-    "Brazil Fortress Jump Cup Soldier Division 1 First Place": [
+    "10520": "Brazil Fortress Jump Cup Race Soldier Division 1 First Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 1 First Place": [
         10520,
         11099,
-        11641
+        11641,
+        14592
     ],
-    "10521": "Brazil Fortress Jump Cup Soldier Division 1 Second Place",
-    "Brazil Fortress Jump Cup Soldier Division 1 Second Place": [
+    "10521": "Brazil Fortress Jump Cup Race Soldier Division 1 Second Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 1 Second Place": [
         10521,
         11100,
-        11642
+        11642,
+        14593
     ],
-    "10522": "Brazil Fortress Jump Cup Soldier Division 1 Third Place",
-    "Brazil Fortress Jump Cup Soldier Division 1 Third Place": [
+    "10522": "Brazil Fortress Jump Cup Race Soldier Division 1 Third Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 1 Third Place": [
         10522,
         11101,
-        11643
+        11643,
+        14594
     ],
-    "10523": "Brazil Fortress Jump Cup Soldier Division 1 Participant",
-    "Brazil Fortress Jump Cup Soldier Division 1 Participant": [
+    "10523": "Brazil Fortress Jump Cup Race Soldier Division 1 Participant",
+    "Brazil Fortress Jump Cup Race Soldier Division 1 Participant": [
         10523,
         11102,
-        11644
+        11644,
+        14595
     ],
-    "10524": "Brazil Fortress Jump Cup Soldier Division 2 First Place",
-    "Brazil Fortress Jump Cup Soldier Division 2 First Place": [
+    "10524": "Brazil Fortress Jump Cup Race Soldier Division 2 First Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 2 First Place": [
         10524,
         11103,
-        11645
+        11645,
+        14596
     ],
-    "10525": "Brazil Fortress Jump Cup Soldier Division 2 Second Place",
-    "Brazil Fortress Jump Cup Soldier Division 2 Second Place": [
+    "10525": "Brazil Fortress Jump Cup Race Soldier Division 2 Second Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 2 Second Place": [
         10525,
         11104,
-        11646
+        11646,
+        14597
     ],
-    "10526": "Brazil Fortress Jump Cup Soldier Division 2 Third Place",
-    "Brazil Fortress Jump Cup Soldier Division 2 Third Place": [
+    "10526": "Brazil Fortress Jump Cup Race Soldier Division 2 Third Place",
+    "Brazil Fortress Jump Cup Race Soldier Division 2 Third Place": [
         10526,
         11105,
-        11647
+        11647,
+        14598
     ],
-    "10527": "Brazil Fortress Jump Cup Soldier Division 2 Participant",
-    "Brazil Fortress Jump Cup Soldier Division 2 Participant": [
+    "10527": "Brazil Fortress Jump Cup Race Soldier Division 2 Participant",
+    "Brazil Fortress Jump Cup Race Soldier Division 2 Participant": [
         10527,
         11106,
-        11648
+        11648,
+        14599
     ],
-    "10528": "Brazil Fortress Jump Cup Demoman First Place",
-    "Brazil Fortress Jump Cup Demoman First Place": [
+    "10528": "Brazil Fortress Jump Cup Race Demoman First Place",
+    "Brazil Fortress Jump Cup Race Demoman First Place": [
         10528,
         11649
     ],
-    "10529": "Brazil Fortress Jump Cup Demoman Second Place",
-    "Brazil Fortress Jump Cup Demoman Second Place": [
+    "10529": "Brazil Fortress Jump Cup Race Demoman Second Place",
+    "Brazil Fortress Jump Cup Race Demoman Second Place": [
         10529,
         11650
     ],
-    "10530": "Brazil Fortress Jump Cup Demoman Third Place",
-    "Brazil Fortress Jump Cup Demoman Third Place": [
+    "10530": "Brazil Fortress Jump Cup Race Demoman Third Place",
+    "Brazil Fortress Jump Cup Race Demoman Third Place": [
         10530,
         11651
     ],
-    "10531": "Brazil Fortress Jump Cup Demoman Participant",
-    "Brazil Fortress Jump Cup Demoman Participant": [
+    "10531": "Brazil Fortress Jump Cup Race Demoman Participant",
+    "Brazil Fortress Jump Cup Race Demoman Participant": [
         10531,
         11652
     ],
@@ -16839,7 +16879,8 @@
     "Brazil Fortress Jump Cup Helper": [
         10532,
         11115,
-        11661
+        11661,
+        14624
     ],
     "10533": "RGL.gg Highlander Experimental Maps Cup",
     "RGL.gg Highlander Experimental Maps Cup": [
@@ -18406,45 +18447,53 @@
         11450,
         11640
     ],
-    "11099": "Brazil Fortress Jump Cup Soldier Division 1 First Place",
-    "11100": "Brazil Fortress Jump Cup Soldier Division 1 Second Place",
-    "11101": "Brazil Fortress Jump Cup Soldier Division 1 Third Place",
-    "11102": "Brazil Fortress Jump Cup Soldier Division 1 Participant",
-    "11103": "Brazil Fortress Jump Cup Soldier Division 2 First Place",
-    "11104": "Brazil Fortress Jump Cup Soldier Division 2 Second Place",
-    "11105": "Brazil Fortress Jump Cup Soldier Division 2 Third Place",
-    "11106": "Brazil Fortress Jump Cup Soldier Division 2 Participant",
-    "11107": "Brazil Fortress Jump Cup Demoman Division 1 First Place",
-    "Brazil Fortress Jump Cup Demoman Division 1 First Place": [
-        11107
+    "11099": "Brazil Fortress Jump Cup Race Soldier Division 1 First Place",
+    "11100": "Brazil Fortress Jump Cup Race Soldier Division 1 Second Place",
+    "11101": "Brazil Fortress Jump Cup Race Soldier Division 1 Third Place",
+    "11102": "Brazil Fortress Jump Cup Race Soldier Division 1 Participant",
+    "11103": "Brazil Fortress Jump Cup Race Soldier Division 2 First Place",
+    "11104": "Brazil Fortress Jump Cup Race Soldier Division 2 Second Place",
+    "11105": "Brazil Fortress Jump Cup Race Soldier Division 2 Third Place",
+    "11106": "Brazil Fortress Jump Cup Race Soldier Division 2 Participant",
+    "11107": "Brazil Fortress Jump Cup Race Demoman Division 1 First Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 1 First Place": [
+        11107,
+        14600
     ],
-    "11108": "Brazil Fortress Jump Cup Demoman Division 1 Second Place",
-    "Brazil Fortress Jump Cup Demoman Division 1 Second Place": [
-        11108
+    "11108": "Brazil Fortress Jump Cup Race Demoman Division 1 Second Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 1 Second Place": [
+        11108,
+        14601
     ],
-    "11109": "Brazil Fortress Jump Cup Demoman Division 1 Third Place",
-    "Brazil Fortress Jump Cup Demoman Division 1 Third Place": [
-        11109
+    "11109": "Brazil Fortress Jump Cup Race Demoman Division 1 Third Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 1 Third Place": [
+        11109,
+        14602
     ],
-    "11110": "Brazil Fortress Jump Cup Demoman Division 1 Participant",
-    "Brazil Fortress Jump Cup Demoman Division 1 Participant": [
-        11110
+    "11110": "Brazil Fortress Jump Cup Race Demoman Division 1 Participant",
+    "Brazil Fortress Jump Cup Race Demoman Division 1 Participant": [
+        11110,
+        14603
     ],
-    "11111": "Brazil Fortress Jump Cup Demoman Division 2 First Place",
-    "Brazil Fortress Jump Cup Demoman Division 2 First Place": [
-        11111
+    "11111": "Brazil Fortress Jump Cup Race Demoman Division 2 First Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 2 First Place": [
+        11111,
+        14604
     ],
-    "11112": "Brazil Fortress Jump Cup Demoman Division 2 Second Place",
-    "Brazil Fortress Jump Cup Demoman Division 2 Second Place": [
-        11112
+    "11112": "Brazil Fortress Jump Cup Race Demoman Division 2 Second Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 2 Second Place": [
+        11112,
+        14605
     ],
-    "11113": "Brazil Fortress Jump Cup Demoman Division 2 Third Place",
-    "Brazil Fortress Jump Cup Demoman Division 2 Third Place": [
-        11113
+    "11113": "Brazil Fortress Jump Cup Race Demoman Division 2 Third Place",
+    "Brazil Fortress Jump Cup Race Demoman Division 2 Third Place": [
+        11113,
+        14606
     ],
-    "11114": "Brazil Fortress Jump Cup Demoman Division 2 Participant",
-    "Brazil Fortress Jump Cup Demoman Division 2 Participant": [
-        11114
+    "11114": "Brazil Fortress Jump Cup Race Demoman Division 2 Participant",
+    "Brazil Fortress Jump Cup Race Demoman Division 2 Participant": [
+        11114,
+        14607
     ],
     "11115": "Brazil Fortress Jump Cup Helper",
     "11116": "ozfortress Sixes Premier First Place",
@@ -18903,7 +18952,9 @@
         13698,
         13716,
         14359,
-        14377
+        14377,
+        14543,
+        14561
     ],
     "11360": "RGL.gg - Invite 2nd Place - 6v6",
     "RGL.gg - Invite 2nd Place - 6v6": [
@@ -18921,7 +18972,9 @@
         13699,
         13717,
         14360,
-        14378
+        14378,
+        14544,
+        14562
     ],
     "11361": "RGL.gg - Invite 3rd Place - 6v6",
     "RGL.gg - Invite 3rd Place - 6v6": [
@@ -18939,7 +18992,9 @@
         13700,
         13718,
         14361,
-        14379
+        14379,
+        14545,
+        14563
     ],
     "11362": "RGL.gg - Invite Participant - 6v6",
     "RGL.gg - Invite Participant - 6v6": [
@@ -18957,7 +19012,9 @@
         13701,
         13719,
         14362,
-        14380
+        14380,
+        14546,
+        14564
     ],
     "11363": "RGL.gg - Advanced Champions - 6v6",
     "RGL.gg - Advanced Champions - 6v6": [
@@ -18973,7 +19030,9 @@
         13702,
         13720,
         14363,
-        14381
+        14381,
+        14547,
+        14565
     ],
     "11364": "RGL.gg - Advanced 2nd Place - 6v6",
     "RGL.gg - Advanced 2nd Place - 6v6": [
@@ -18989,7 +19048,9 @@
         13703,
         13721,
         14364,
-        14382
+        14382,
+        14548,
+        14566
     ],
     "11365": "RGL.gg - Advanced 3rd Place - 6v6",
     "RGL.gg - Advanced 3rd Place - 6v6": [
@@ -19005,7 +19066,9 @@
         13704,
         13722,
         14365,
-        14383
+        14383,
+        14549,
+        14567
     ],
     "11366": "RGL.gg - Advanced Participant - 6v6",
     "RGL.gg - Advanced Participant - 6v6": [
@@ -19021,7 +19084,9 @@
         13705,
         13723,
         14366,
-        14384
+        14384,
+        14550,
+        14568
     ],
     "11367": "RGL.gg - Main Champions - 6v6",
     "RGL.gg - Main Champions - 6v6": [
@@ -19038,7 +19103,9 @@
         13556,
         13706,
         14367,
-        14385
+        14385,
+        14551,
+        14569
     ],
     "11368": "RGL.gg - Main 2nd Place - 6v6",
     "RGL.gg - Main 2nd Place - 6v6": [
@@ -19055,7 +19122,9 @@
         13557,
         13707,
         14368,
-        14386
+        14386,
+        14552,
+        14570
     ],
     "11369": "RGL.gg - Main 3rd Place - 6v6",
     "RGL.gg - Main 3rd Place - 6v6": [
@@ -19072,7 +19141,9 @@
         13558,
         13708,
         14369,
-        14387
+        14387,
+        14553,
+        14571
     ],
     "11370": "RGL.gg - Main Participant - 6v6",
     "RGL.gg - Main Participant - 6v6": [
@@ -19089,7 +19160,9 @@
         13559,
         13709,
         14370,
-        14388
+        14388,
+        14554,
+        14572
     ],
     "11371": "RGL.gg - Intermediate Champions - 6v6",
     "RGL.gg - Intermediate Champions - 6v6": [
@@ -19107,7 +19180,9 @@
         13710,
         13728,
         14371,
-        14389
+        14389,
+        14555,
+        14573
     ],
     "11372": "RGL.gg - Intermediate 2nd Place - 6v6",
     "RGL.gg - Intermediate 2nd Place - 6v6": [
@@ -19125,7 +19200,9 @@
         13711,
         13729,
         14372,
-        14390
+        14390,
+        14556,
+        14574
     ],
     "11373": "RGL.gg - Intermediate 3rd Place - 6v6",
     "RGL.gg - Intermediate 3rd Place - 6v6": [
@@ -19143,7 +19220,9 @@
         13712,
         13730,
         14373,
-        14391
+        14391,
+        14557,
+        14575
     ],
     "11374": "RGL.gg - Intermediate Participant - 6v6",
     "RGL.gg - Intermediate Participant - 6v6": [
@@ -19161,7 +19240,9 @@
         13713,
         13731,
         14374,
-        14392
+        14392,
+        14558,
+        14576
     ],
     "11375": "RGL.gg - Open Participant - 6v6",
     "RGL.gg - Open Participant - 6v6": [
@@ -19695,18 +19776,18 @@
     "11638": "Brazil Fortress 6v6 Academy Participant",
     "11639": "Brazil Fortress 6v6 Qualified Stage Champions",
     "11640": "Brazil Fortress 6v6 Helper",
-    "11641": "Brazil Fortress Jump Cup Soldier Division 1 First Place",
-    "11642": "Brazil Fortress Jump Cup Soldier Division 1 Second Place",
-    "11643": "Brazil Fortress Jump Cup Soldier Division 1 Third Place",
-    "11644": "Brazil Fortress Jump Cup Soldier Division 1 Participant",
-    "11645": "Brazil Fortress Jump Cup Soldier Division 2 First Place",
-    "11646": "Brazil Fortress Jump Cup Soldier Division 2 Second Place",
-    "11647": "Brazil Fortress Jump Cup Soldier Division 2 Third Place",
-    "11648": "Brazil Fortress Jump Cup Soldier Division 2 Participant",
-    "11649": "Brazil Fortress Jump Cup Demoman First Place",
-    "11650": "Brazil Fortress Jump Cup Demoman Second Place",
-    "11651": "Brazil Fortress Jump Cup Demoman Third Place",
-    "11652": "Brazil Fortress Jump Cup Demoman Participant",
+    "11641": "Brazil Fortress Jump Cup Race Soldier Division 1 First Place",
+    "11642": "Brazil Fortress Jump Cup Race Soldier Division 1 Second Place",
+    "11643": "Brazil Fortress Jump Cup Race Soldier Division 1 Third Place",
+    "11644": "Brazil Fortress Jump Cup Race Soldier Division 1 Participant",
+    "11645": "Brazil Fortress Jump Cup Race Soldier Division 2 First Place",
+    "11646": "Brazil Fortress Jump Cup Race Soldier Division 2 Second Place",
+    "11647": "Brazil Fortress Jump Cup Race Soldier Division 2 Third Place",
+    "11648": "Brazil Fortress Jump Cup Race Soldier Division 2 Participant",
+    "11649": "Brazil Fortress Jump Cup Race Demoman First Place",
+    "11650": "Brazil Fortress Jump Cup Race Demoman Second Place",
+    "11651": "Brazil Fortress Jump Cup Race Demoman Third Place",
+    "11652": "Brazil Fortress Jump Cup Race Demoman Participant",
     "11653": "Brazil Fortress Jump Cup Speed Run Soldier First Place",
     "Brazil Fortress Jump Cup Speed Run Soldier First Place": [
         11653
@@ -19770,7 +19851,9 @@
         13678,
         13696,
         14339,
-        14357
+        14357,
+        14523,
+        14541
     ],
     "11684": "RGL.gg - Newcomer Participant - Highlander",
     "RGL.gg - Newcomer Participant - Highlander": [
@@ -19786,7 +19869,9 @@
         13679,
         13697,
         14340,
-        14358
+        14358,
+        14524,
+        14542
     ],
     "11685": "RGL.gg - Invite Champions - Highlander",
     "11686": "RGL.gg - Invite 2nd Place - Highlander",
@@ -19876,7 +19961,9 @@
         13714,
         13732,
         14375,
-        14393
+        14393,
+        14559,
+        14577
     ],
     "11724": "RGL.gg - Newcomer Participant - 6v6",
     "RGL.gg - Newcomer Participant - 6v6": [
@@ -19892,7 +19979,9 @@
         13715,
         13733,
         14376,
-        14394
+        14394,
+        14560,
+        14578
     ],
     "11725": "RGL.gg - Invite Champions - 6v6",
     "11726": "RGL.gg - Invite 2nd Place - 6v6",
@@ -24648,6 +24737,211 @@
     "14504": "AsiaFortress Liquid.tf Highlander Invite 1st Place",
     "14505": "AsiaFortress Liquid.tf Highlander Invite 2nd Place",
     "14506": "AsiaFortress Liquid.tf Highlander Invite 3rd Place",
+    "14507": "RGL.gg - Invite Champions - Highlander",
+    "14508": "RGL.gg - Invite 2nd Place - Highlander",
+    "14509": "RGL.gg - Invite 3rd Place - Highlander",
+    "14510": "RGL.gg - Invite Participant - Highlander",
+    "14511": "RGL.gg - Advanced Champions - Highlander",
+    "14512": "RGL.gg - Advanced 2nd Place - Highlander",
+    "14513": "RGL.gg - Advanced 3rd Place - Highlander",
+    "14514": "RGL.gg - Advanced Participant - Highlander",
+    "14515": "RGL.gg - Main Champions - Highlander",
+    "14516": "RGL.gg - Main 2nd Place - Highlander",
+    "14517": "RGL.gg - Main 3rd Place - Highlander",
+    "14518": "RGL.gg - Main Participant - Highlander",
+    "14519": "RGL.gg - Intermediate Champions - Highlander",
+    "14520": "RGL.gg - Intermediate 2nd Place - Highlander",
+    "14521": "RGL.gg - Intermediate 3rd Place - Highlander",
+    "14522": "RGL.gg - Intermediate Participant - Highlander",
+    "14523": "RGL.gg - Amateur Participant - Highlander",
+    "14524": "RGL.gg - Newcomer Participant - Highlander",
+    "14525": "RGL.gg - Invite Champions - Highlander",
+    "14526": "RGL.gg - Invite 2nd Place - Highlander",
+    "14527": "RGL.gg - Invite 3rd Place - Highlander",
+    "14528": "RGL.gg - Invite Participant - Highlander",
+    "14529": "RGL.gg - Advanced Champions - Highlander",
+    "14530": "RGL.gg - Advanced 2nd Place - Highlander",
+    "14531": "RGL.gg - Advanced 3rd Place - Highlander",
+    "14532": "RGL.gg - Advanced Participant - Highlander",
+    "14533": "RGL.gg - Main Champions - Highlander",
+    "14534": "RGL.gg - Main 2nd Place - Highlander",
+    "14535": "RGL.gg - Main 3rd Place - Highlander",
+    "14536": "RGL.gg - Main Participant - Highlander",
+    "14537": "RGL.gg - Intermediate Champions - Highlander",
+    "14538": "RGL.gg - Intermediate 2nd Place - Highlander",
+    "14539": "RGL.gg - Intermediate 3rd Place - Highlander",
+    "14540": "RGL.gg - Intermediate Participant - Highlander",
+    "14541": "RGL.gg - Amateur Participant - Highlander",
+    "14542": "RGL.gg - Newcomer Participant - Highlander",
+    "14543": "RGL.gg - Invite Champions - 6v6",
+    "14544": "RGL.gg - Invite 2nd Place - 6v6",
+    "14545": "RGL.gg - Invite 3rd Place - 6v6",
+    "14546": "RGL.gg - Invite Participant - 6v6",
+    "14547": "RGL.gg - Advanced Champions - 6v6",
+    "14548": "RGL.gg - Advanced 2nd Place - 6v6",
+    "14549": "RGL.gg - Advanced 3rd Place - 6v6",
+    "14550": "RGL.gg - Advanced Participant - 6v6",
+    "14551": "RGL.gg - Main Champions - 6v6",
+    "14552": "RGL.gg - Main 2nd Place - 6v6",
+    "14553": "RGL.gg - Main 3rd Place - 6v6",
+    "14554": "RGL.gg - Main Participant - 6v6",
+    "14555": "RGL.gg - Intermediate Champions - 6v6",
+    "14556": "RGL.gg - Intermediate 2nd Place - 6v6",
+    "14557": "RGL.gg - Intermediate 3rd Place - 6v6",
+    "14558": "RGL.gg - Intermediate Participant - 6v6",
+    "14559": "RGL.gg - Amateur Participant - 6v6",
+    "14560": "RGL.gg - Newcomer Participant - 6v6",
+    "14561": "RGL.gg - Invite Champions - 6v6",
+    "14562": "RGL.gg - Invite 2nd Place - 6v6",
+    "14563": "RGL.gg - Invite 3rd Place - 6v6",
+    "14564": "RGL.gg - Invite Participant - 6v6",
+    "14565": "RGL.gg - Advanced Champions - 6v6",
+    "14566": "RGL.gg - Advanced 2nd Place - 6v6",
+    "14567": "RGL.gg - Advanced 3rd Place - 6v6",
+    "14568": "RGL.gg - Advanced Participant - 6v6",
+    "14569": "RGL.gg - Main Champions - 6v6",
+    "14570": "RGL.gg - Main 2nd Place - 6v6",
+    "14571": "RGL.gg - Main 3rd Place - 6v6",
+    "14572": "RGL.gg - Main Participant - 6v6",
+    "14573": "RGL.gg - Intermediate Champions - 6v6",
+    "14574": "RGL.gg - Intermediate 2nd Place - 6v6",
+    "14575": "RGL.gg - Intermediate 3rd Place - 6v6",
+    "14576": "RGL.gg - Intermediate Participant - 6v6",
+    "14577": "RGL.gg - Amateur Participant - 6v6",
+    "14578": "RGL.gg - Newcomer Participant - 6v6",
+    "14579": "TFCL 6v6 Invite 1st Place",
+    "TFCL 6v6 Invite 1st Place": [
+        14579
+    ],
+    "14580": "TFCL 6v6 Invite 2nd Place",
+    "TFCL 6v6 Invite 2nd Place": [
+        14580
+    ],
+    "14581": "TFCL 6v6 Invite 3rd Place",
+    "TFCL 6v6 Invite 3rd Place": [
+        14581
+    ],
+    "14582": "TFCL 6v6 Invite Participant",
+    "TFCL 6v6 Invite Participant": [
+        14582
+    ],
+    "14583": "TFCL 6v6 Division 2 1st Place",
+    "TFCL 6v6 Division 2 1st Place": [
+        14583
+    ],
+    "14584": "TFCL 6v6 Division 2 2nd Place",
+    "TFCL 6v6 Division 2 2nd Place": [
+        14584
+    ],
+    "14585": "TFCL 6v6 Division 2 3rd Place",
+    "TFCL 6v6 Division 2 3rd Place": [
+        14585
+    ],
+    "14586": "TFCL 6v6 Division 2 Participant",
+    "TFCL 6v6 Division 2 Participant": [
+        14586
+    ],
+    "14587": "TFCL 6v6 Division 3 1st Place",
+    "TFCL 6v6 Division 3 1st Place": [
+        14587
+    ],
+    "14588": "TFCL 6v6 Division 3 2nd Place",
+    "TFCL 6v6 Division 3 2nd Place": [
+        14588
+    ],
+    "14589": "TFCL 6v6 Division 3 3rd Place",
+    "TFCL 6v6 Division 3 3rd Place": [
+        14589
+    ],
+    "14590": "TFCL 6v6 Division 3 Participant",
+    "TFCL 6v6 Division 3 Participant": [
+        14590
+    ],
+    "14591": "TFCL 6v6 Helper",
+    "TFCL 6v6 Helper": [
+        14591
+    ],
+    "14592": "Brazil Fortress Jump Cup Race Soldier Division 1 First Place",
+    "14593": "Brazil Fortress Jump Cup Race Soldier Division 1 Second Place",
+    "14594": "Brazil Fortress Jump Cup Race Soldier Division 1 Third Place",
+    "14595": "Brazil Fortress Jump Cup Race Soldier Division 1 Participant",
+    "14596": "Brazil Fortress Jump Cup Race Soldier Division 2 First Place",
+    "14597": "Brazil Fortress Jump Cup Race Soldier Division 2 Second Place",
+    "14598": "Brazil Fortress Jump Cup Race Soldier Division 2 Third Place",
+    "14599": "Brazil Fortress Jump Cup Race Soldier Division 2 Participant",
+    "14600": "Brazil Fortress Jump Cup Race Demoman Division 1 First Place",
+    "14601": "Brazil Fortress Jump Cup Race Demoman Division 1 Second Place",
+    "14602": "Brazil Fortress Jump Cup Race Demoman Division 1 Third Place",
+    "14603": "Brazil Fortress Jump Cup Race Demoman Division 1 Participant",
+    "14604": "Brazil Fortress Jump Cup Race Demoman Division 2 First Place",
+    "14605": "Brazil Fortress Jump Cup Race Demoman Division 2 Second Place",
+    "14606": "Brazil Fortress Jump Cup Race Demoman Division 2 Third Place",
+    "14607": "Brazil Fortress Jump Cup Race Demoman Division 2 Participant",
+    "14608": "Brazil Fortress Jump Cup Speed Run Soldier Division 1 First Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 1 First Place": [
+        14608
+    ],
+    "14609": "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Second Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Second Place": [
+        14609
+    ],
+    "14610": "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Third Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Third Place": [
+        14610
+    ],
+    "14611": "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Participant",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 1 Participant": [
+        14611
+    ],
+    "14612": "Brazil Fortress Jump Cup Speed Run Soldier Division 2 First Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 2 First Place": [
+        14612
+    ],
+    "14613": "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Second Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Second Place": [
+        14613
+    ],
+    "14614": "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Third Place",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Third Place": [
+        14614
+    ],
+    "14615": "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Participant",
+    "Brazil Fortress Jump Cup Speed Run Soldier Division 2 Participant": [
+        14615
+    ],
+    "14616": "Brazil Fortress Jump Cup Speed Run Demoman Division 1 First Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 1 First Place": [
+        14616
+    ],
+    "14617": "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Second Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Second Place": [
+        14617
+    ],
+    "14618": "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Third Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Third Place": [
+        14618
+    ],
+    "14619": "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Participant",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 1 Participant": [
+        14619
+    ],
+    "14620": "Brazil Fortress Jump Cup Speed Run Demoman Division 2 First Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 2 First Place": [
+        14620
+    ],
+    "14621": "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Second Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Second Place": [
+        14621
+    ],
+    "14622": "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Third Place",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Third Place": [
+        14622
+    ],
+    "14623": "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Participant",
+    "Brazil Fortress Jump Cup Speed Run Demoman Division 2 Participant": [
+        14623
+    ],
+    "14624": "Brazil Fortress Jump Cup Helper",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
