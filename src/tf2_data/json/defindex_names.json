@@ -4102,8 +4102,8 @@
     "Taunt: Flippin' Awesome": [
         1107
     ],
-    "1108": "Taunt: Buy A Life",
-    "Taunt: Buy A Life": [
+    "1108": "Taunt: Buy a Life",
+    "Taunt: Buy a Life": [
         1108
     ],
     "1109": "Taunt: Results Are In",
@@ -4813,20 +4813,20 @@
     "Map Stamp - Selbyen": [
         1995
     ],
-    "1996": "Map Stamp - Tiny Rock",
-    "Map Stamp - Tiny Rock": [
+    "1996": "Map Stamp - Tiny Rock (VSH)",
+    "Map Stamp - Tiny Rock (VSH)": [
         1996
     ],
-    "1997": "Map Stamp - Distillery",
-    "Map Stamp - Distillery": [
+    "1997": "Map Stamp - Distillery (VSH)",
+    "Map Stamp - Distillery (VSH)": [
         1997
     ],
-    "1998": "Map Stamp - Skirmish",
-    "Map Stamp - Skirmish": [
+    "1998": "Map Stamp - Skirmish (VSH)",
+    "Map Stamp - Skirmish (VSH)": [
         1998
     ],
-    "1999": "Map Stamp - Nucleus VSH",
-    "Map Stamp - Nucleus VSH": [
+    "1999": "Map Stamp - Nucleus (VSH)",
+    "Map Stamp - Nucleus (VSH)": [
         1999
     ],
     "2000": "The Gas Jockey's Gear",
@@ -4886,7 +4886,8 @@
         2174,
         2175,
         2176,
-        2177
+        2177,
+        2178
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -4996,8 +4997,8 @@
     "Meet the Medic! Bundle": [
         2031
     ],
-    "2032": "The Uber Update Bundle",
-    "The Uber Update Bundle": [
+    "2032": "The \u00dcber Update Bundle",
+    "The \u00dcber Update Bundle": [
         2032
     ],
     "2033": "Summer Sun Bundle",
@@ -5432,6 +5433,7 @@
     "2175": "Map Stamps Collection",
     "2176": "Map Stamps Collection",
     "2177": "Map Stamps Collection",
+    "2178": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5460,24 +5462,24 @@
     "Map Stamp - Corruption": [
         2506
     ],
-    "2507": "Map Stamp - Murky",
-    "Map Stamp - Murky": [
+    "2507": "Map Stamp - Murky (ZI)",
+    "Map Stamp - Murky (ZI)": [
         2507
     ],
-    "2508": "Map Stamp - Atoll",
-    "Map Stamp - Atoll": [
+    "2508": "Map Stamp - Atoll (ZI)",
+    "Map Stamp - Atoll (ZI)": [
         2508
     ],
-    "2509": "Map Stamp - Woods",
-    "Map Stamp - Woods": [
+    "2509": "Map Stamp - Woods (ZI)",
+    "Map Stamp - Woods (ZI)": [
         2509
     ],
-    "2510": "Map Stamp - Sanitarium",
-    "Map Stamp - Sanitarium": [
+    "2510": "Map Stamp - Sanitarium (ZI)",
+    "Map Stamp - Sanitarium (ZI)": [
         2510
     ],
-    "2511": "Map Stamp - Devastation",
-    "Map Stamp - Devastation": [
+    "2511": "Map Stamp - Devastation (ZI)",
+    "Map Stamp - Devastation (ZI)": [
         2511
     ],
     "2512": "Map Stamp - Snowtower",
@@ -5580,12 +5582,12 @@
     "Map Stamp - Circus": [
         2536
     ],
-    "2537": "Map Stamp - Outburst",
-    "Map Stamp - Outburst": [
+    "2537": "Map Stamp - Outburst (VSH)",
+    "Map Stamp - Outburst (VSH)": [
         2537
     ],
-    "2538": "Map Stamp - Blazehattan",
-    "Map Stamp - Blazehattan": [
+    "2538": "Map Stamp - Blazehattan (ZI)",
+    "Map Stamp - Blazehattan (ZI)": [
         2538
     ],
     "2539": "Map Stamp - Overcast",
@@ -5608,8 +5610,8 @@
     "Map Stamp - Cutter": [
         2543
     ],
-    "2544": "Map Stamp - Maul",
-    "Map Stamp - Maul": [
+    "2544": "Map Stamp - Maul (VSH)",
+    "Map Stamp - Maul (VSH)": [
         2544
     ],
     "2545": "Map Stamp - Citadel",
@@ -5651,6 +5653,26 @@
     "2554": "Map Stamp - Pressure",
     "Map Stamp - Pressure": [
         2554
+    ],
+    "2555": "Map Stamp - Cowerhouse",
+    "Map Stamp - Cowerhouse": [
+        2555
+    ],
+    "2556": "Map Stamp - Dusker",
+    "Map Stamp - Dusker": [
+        2556
+    ],
+    "2557": "Map Stamp - Afterlife",
+    "Map Stamp - Afterlife": [
+        2557
+    ],
+    "2558": "Map Stamp - Devilcross",
+    "Map Stamp - Devilcross": [
+        2558
+    ],
+    "2559": "Map Stamp - Marshlands",
+    "Map Stamp - Marshlands": [
+        2559
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -7115,6 +7137,18 @@
     "Summer 2025 Cosmetic Case": [
         5970
     ],
+    "5971": "Spectral Stash Case",
+    "Spectral Stash Case": [
+        5971
+    ],
+    "5972": "Spectral Stash Key",
+    "Spectral Stash Key": [
+        5972
+    ],
+    "5973": "Spectral Stash Collection",
+    "Spectral Stash Collection": [
+        5973
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -7994,6 +8028,26 @@
     "6671": "Strange Filter: Pressure (Community)",
     "Strange Filter: Pressure (Community)": [
         6671
+    ],
+    "6672": "Strange Filter: Cowerhouse (Community)",
+    "Strange Filter: Cowerhouse (Community)": [
+        6672
+    ],
+    "6673": "Strange Filter: Dusker (Community)",
+    "Strange Filter: Dusker (Community)": [
+        6673
+    ],
+    "6674": "Strange Filter: Afterlife (Community)",
+    "Strange Filter: Afterlife (Community)": [
+        6674
+    ],
+    "6675": "Strange Filter: Devilcross (Community)",
+    "Strange Filter: Devilcross (Community)": [
+        6675
+    ],
+    "6676": "Strange Filter: Marshlands (Community)",
+    "Strange Filter: Marshlands (Community)": [
+        6676
     ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
@@ -14637,8 +14691,8 @@
     "Canteen Crasher Platinum Crit 2018": [
         9907
     ],
-    "9908": "Canteen Crasher Gold Uber 2018",
-    "Canteen Crasher Gold Uber 2018": [
+    "9908": "Canteen Crasher Gold \u00dcber 2018",
+    "Canteen Crasher Gold \u00dcber 2018": [
         9908
     ],
     "9909": "Canteen Crasher Silver Building 2018",
@@ -26987,8 +27041,8 @@
     "Frontier Djustice": [
         30421
     ],
-    "30422": "Vive La France",
-    "Vive La France": [
+    "30422": "Vive la France",
+    "Vive la France": [
         30422
     ],
     "30423": "Scoper's Smoke",
@@ -28397,8 +28451,8 @@
     "Battle Boonie": [
         30907
     ],
-    "30908": "Conaghers' Utility Idol",
-    "Conaghers' Utility Idol": [
+    "30908": "Conagher's Utility Idol",
+    "Conagher's Utility Idol": [
         30908
     ],
     "30909": "Tropical Toad",
@@ -30133,8 +30187,8 @@
     "Clown's Cover-Up": [
         31386
     ],
-    "31387": "Shortness Of Breath",
-    "Shortness Of Breath": [
+    "31387": "Shortness of Breath",
+    "Shortness of Breath": [
         31387
     ],
     "31388": "Warlock's Warcloak",
@@ -30756,5 +30810,125 @@
     "31544": "Clinical Investigator",
     "Clinical Investigator": [
         31544
+    ],
+    "31545": "Taunt: Heartbreaker",
+    "Taunt: Heartbreaker": [
+        31545
+    ],
+    "31546": "Taunt: Healthcare Hog",
+    "Taunt: Healthcare Hog": [
+        31546
+    ],
+    "31547": "Taunt: Ring King",
+    "Taunt: Ring King": [
+        31547
+    ],
+    "31549": "Heat Shield",
+    "Heat Shield": [
+        31549
+    ],
+    "31550": "Technician's Tunic",
+    "Technician's Tunic": [
+        31550
+    ],
+    "31551": "Service Satchel",
+    "Service Satchel": [
+        31551
+    ],
+    "31552": "Cigarillo Caballero",
+    "Cigarillo Caballero": [
+        31552
+    ],
+    "31553": "El Gigante's Gunbelt",
+    "El Gigante's Gunbelt": [
+        31553
+    ],
+    "31554": "Poncho del Pesado",
+    "Poncho del Pesado": [
+        31554
+    ],
+    "31555": "Air Exchanger",
+    "Air Exchanger": [
+        31555
+    ],
+    "31556": "Industrial Insurgent",
+    "Industrial Insurgent": [
+        31556
+    ],
+    "31557": "Hellscape",
+    "Hellscape": [
+        31557
+    ],
+    "31558": "Fused Plates",
+    "Fused Plates": [
+        31558
+    ],
+    "31559": "Feathered Villain",
+    "Feathered Villain": [
+        31559
+    ],
+    "31560": "Velveteen Villain",
+    "Velveteen Villain": [
+        31560
+    ],
+    "31561": "Pantaloons of Unabashed Villainy",
+    "Pantaloons of Unabashed Villainy": [
+        31561
+    ],
+    "31562": "Buzz Kill",
+    "Buzz Kill": [
+        31562
+    ],
+    "31563": "Torn Terror",
+    "Torn Terror": [
+        31563
+    ],
+    "31564": "Ripped Runts",
+    "Ripped Runts": [
+        31564
+    ],
+    "31565": "Seamann's Stubble",
+    "Seamann's Stubble": [
+        31565
+    ],
+    "31566": "Misdirector",
+    "Misdirector": [
+        31566
+    ],
+    "31567": "Sleight of Hand",
+    "Sleight of Hand": [
+        31567
+    ],
+    "31568": "Vanishing Act",
+    "Vanishing Act": [
+        31568
+    ],
+    "31569": "Professor Photon",
+    "Professor Photon": [
+        31569
+    ],
+    "31570": "Mad Drip",
+    "Mad Drip": [
+        31570
+    ],
+    "31571": "Viscera Visor",
+    "Viscera Visor": [
+        31571
+    ],
+    "31572": "Pyromantic Plumage",
+    "Pyromantic Plumage": [
+        31572
+    ],
+    "31573": "One-Man Convoy",
+    "One-Man Convoy": [
+        31573
+    ],
+    "31574": "Face Lift",
+    "Face Lift": [
+        31574
+    ],
+    "31575": "Zepheniah's Shroud",
+    "Zepheniah's Shroud": [
+        31575
     ]
 }
