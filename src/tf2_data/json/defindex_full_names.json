@@ -5307,6 +5307,10 @@
     "Map Token Bundle 28": [
         2177
     ],
+    "2178": "Map Token Bundle 29",
+    "Map Token Bundle 29": [
+        2178
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5526,6 +5530,26 @@
     "2554": "Map Token Pressure",
     "Map Token Pressure": [
         2554
+    ],
+    "2555": "Map Token Cowerhouse",
+    "Map Token Cowerhouse": [
+        2555
+    ],
+    "2556": "Map Token Dusker",
+    "Map Token Dusker": [
+        2556
+    ],
+    "2557": "Map Token Afterlife",
+    "Map Token Afterlife": [
+        2557
+    ],
+    "2558": "Map Token Devilcross",
+    "Map Token Devilcross": [
+        2558
+    ],
+    "2559": "Map Token Marshlands",
+    "Map Token Marshlands": [
+        2559
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -7135,6 +7159,18 @@
     "Summer 2025 Cosmetic Case": [
         5970
     ],
+    "5971": "Halloween 2025 Case",
+    "Halloween 2025 Case": [
+        5971
+    ],
+    "5972": "Halloween 2025 Key",
+    "Halloween 2025 Key": [
+        5972
+    ],
+    "5973": "Halloween 2025 Collection Dummy",
+    "Halloween 2025 Collection Dummy": [
+        5973
+    ],
     "5999": "Strange Part (Armory)",
     "Strange Part (Armory)": [
         5999
@@ -8026,6 +8062,26 @@
     "6671": "Strange Filter: Pressure (Community)",
     "Strange Filter: Pressure (Community)": [
         6671
+    ],
+    "6672": "Strange Filter: Cowerhouse (Community)",
+    "Strange Filter: Cowerhouse (Community)": [
+        6672
+    ],
+    "6673": "Strange Filter: Dusker (Community)",
+    "Strange Filter: Dusker (Community)": [
+        6673
+    ],
+    "6674": "Strange Filter: Afterlife (Community)",
+    "Strange Filter: Afterlife (Community)": [
+        6674
+    ],
+    "6675": "Strange Filter: Devilcross (Community)",
+    "Strange Filter: Devilcross (Community)": [
+        6675
+    ],
+    "6676": "Strange Filter: Marshlands (Community)",
+    "Strange Filter: Marshlands (Community)": [
+        6676
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -41158,5 +41214,125 @@
     "31544": "Clinical Investigator",
     "Clinical Investigator": [
         31544
+    ],
+    "31545": "Taunt: Heartbreaker",
+    "Taunt: Heartbreaker": [
+        31545
+    ],
+    "31546": "Taunt: Healthcare Hog",
+    "Taunt: Healthcare Hog": [
+        31546
+    ],
+    "31547": "Taunt: Ring King",
+    "Taunt: Ring King": [
+        31547
+    ],
+    "31549": "Heat Shield",
+    "Heat Shield": [
+        31549
+    ],
+    "31550": "Technician's Tunic",
+    "Technician's Tunic": [
+        31550
+    ],
+    "31551": "Service Satchel",
+    "Service Satchel": [
+        31551
+    ],
+    "31552": "Cigarillo Caballero",
+    "Cigarillo Caballero": [
+        31552
+    ],
+    "31553": "El Gigante's Gunbelt",
+    "El Gigante's Gunbelt": [
+        31553
+    ],
+    "31554": "Poncho del Pesado",
+    "Poncho del Pesado": [
+        31554
+    ],
+    "31555": "Air Exchanger",
+    "Air Exchanger": [
+        31555
+    ],
+    "31556": "Industrial Insurgent",
+    "Industrial Insurgent": [
+        31556
+    ],
+    "31557": "Hellscape",
+    "Hellscape": [
+        31557
+    ],
+    "31558": "Fused Plates",
+    "Fused Plates": [
+        31558
+    ],
+    "31559": "Feathered Villain",
+    "Feathered Villain": [
+        31559
+    ],
+    "31560": "Velveteen Villain",
+    "Velveteen Villain": [
+        31560
+    ],
+    "31561": "Pantaloons of Unabashed Villainy",
+    "Pantaloons of Unabashed Villainy": [
+        31561
+    ],
+    "31562": "Buzz Kill",
+    "Buzz Kill": [
+        31562
+    ],
+    "31563": "Torn Terror",
+    "Torn Terror": [
+        31563
+    ],
+    "31564": "Ripped Runts",
+    "Ripped Runts": [
+        31564
+    ],
+    "31565": "Seamann's Stubble",
+    "Seamann's Stubble": [
+        31565
+    ],
+    "31566": "The Misdirector",
+    "The Misdirector": [
+        31566
+    ],
+    "31567": "Sleight of Hand",
+    "Sleight of Hand": [
+        31567
+    ],
+    "31568": "Vanishing Act",
+    "Vanishing Act": [
+        31568
+    ],
+    "31569": "Professor Photon",
+    "Professor Photon": [
+        31569
+    ],
+    "31570": "Mad Drip",
+    "Mad Drip": [
+        31570
+    ],
+    "31571": "Viscera Visor",
+    "Viscera Visor": [
+        31571
+    ],
+    "31572": "Pyromantic Plumage",
+    "Pyromantic Plumage": [
+        31572
+    ],
+    "31573": "One-Man Convoy",
+    "One-Man Convoy": [
+        31573
+    ],
+    "31574": "Face Lift",
+    "Face Lift": [
+        31574
+    ],
+    "31575": "Zepheniah's Shroud",
+    "Zepheniah's Shroud": [
+        31575
     ]
 }
