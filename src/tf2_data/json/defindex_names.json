@@ -9661,7 +9661,9 @@
         12012,
         12792,
         13469,
-        13481
+        13481,
+        14630,
+        14646
     ],
     "8430": "LBTF2 6v6 Elite 2nd Place",
     "LBTF2 6v6 Elite 2nd Place": [
@@ -9676,7 +9678,9 @@
         12013,
         12793,
         13470,
-        13482
+        13482,
+        14631,
+        14647
     ],
     "8431": "LBTF2 6v6 Elite 3rd Place",
     "LBTF2 6v6 Elite 3rd Place": [
@@ -9691,7 +9695,9 @@
         12014,
         12794,
         13471,
-        13483
+        13483,
+        14632,
+        14648
     ],
     "8432": "LBTF2 6v6 Elite Participant",
     "LBTF2 6v6 Elite Participant": [
@@ -9706,7 +9712,9 @@
         12015,
         12795,
         13472,
-        13484
+        13484,
+        14633,
+        14649
     ],
     "8433": "LBTF2 6v6 Central 1st Place",
     "LBTF2 6v6 Central 1st Place": [
@@ -9719,7 +9727,9 @@
         10933,
         12016,
         12796,
-        13461
+        13461,
+        14634,
+        14650
     ],
     "8434": "LBTF2 6v6 Central 2nd Place",
     "LBTF2 6v6 Central 2nd Place": [
@@ -9732,7 +9742,9 @@
         10934,
         12017,
         12797,
-        13462
+        13462,
+        14635,
+        14651
     ],
     "8435": "LBTF2 6v6 Central 3rd Place",
     "LBTF2 6v6 Central 3rd Place": [
@@ -9745,7 +9757,9 @@
         10935,
         12018,
         12798,
-        13463
+        13463,
+        14636,
+        14652
     ],
     "8436": "LBTF2 6v6 Central Participant",
     "LBTF2 6v6 Central Participant": [
@@ -9759,7 +9773,9 @@
         10936,
         12019,
         12799,
-        13464
+        13464,
+        14637,
+        14653
     ],
     "8437": "LBTF2 6v6 Access 1st Place",
     "LBTF2 6v6 Access 1st Place": [
@@ -9774,7 +9790,9 @@
         12800,
         13473,
         13485,
-        13649
+        13649,
+        14638,
+        14654
     ],
     "8438": "LBTF2 6v6 Access 2nd Place",
     "LBTF2 6v6 Access 2nd Place": [
@@ -9789,7 +9807,9 @@
         12801,
         13474,
         13486,
-        13650
+        13650,
+        14639,
+        14655
     ],
     "8439": "LBTF2 6v6 Access 3rd Place",
     "LBTF2 6v6 Access 3rd Place": [
@@ -9804,7 +9824,9 @@
         12802,
         13475,
         13487,
-        13651
+        13651,
+        14640,
+        14656
     ],
     "8440": "LBTF2 6v6 Access Participant",
     "LBTF2 6v6 Access Participant": [
@@ -9819,7 +9841,9 @@
         12803,
         13476,
         13488,
-        13652
+        13652,
+        14641,
+        14657
     ],
     "8441": "LBTF2 6v6 Open 1st Place",
     "LBTF2 6v6 Open 1st Place": [
@@ -9836,7 +9860,9 @@
         13465,
         13477,
         13489,
-        13653
+        13653,
+        14642,
+        14658
     ],
     "8442": "LBTF2 6v6 Open 2nd Place",
     "LBTF2 6v6 Open 2nd Place": [
@@ -9853,7 +9879,9 @@
         13466,
         13478,
         13490,
-        13654
+        13654,
+        14643,
+        14659
     ],
     "8443": "LBTF2 6v6 Open 3rd Place",
     "LBTF2 6v6 Open 3rd Place": [
@@ -9870,7 +9898,9 @@
         13467,
         13479,
         13491,
-        13655
+        13655,
+        14644,
+        14660
     ],
     "8444": "LBTF2 6v6 Open Participant",
     "LBTF2 6v6 Open Participant": [
@@ -9887,7 +9917,9 @@
         13468,
         13480,
         13492,
-        13656
+        13656,
+        14645,
+        14661
     ],
     "8445": "AsiaFortress Cup Division 1 1st Place",
     "AsiaFortress Cup Division 1 1st Place": [
@@ -12090,7 +12122,8 @@
         9066,
         11171,
         12237,
-        14064
+        14064,
+        14670
     ],
     "8865": "LBTF2 Highlander Access 2nd Place",
     "LBTF2 Highlander Access 2nd Place": [
@@ -12098,7 +12131,8 @@
         9067,
         11172,
         12238,
-        14065
+        14065,
+        14671
     ],
     "8866": "LBTF2 Highlander Access 3rd Place",
     "LBTF2 Highlander Access 3rd Place": [
@@ -12106,7 +12140,8 @@
         9068,
         11173,
         12239,
-        14066
+        14066,
+        14672
     ],
     "8867": "LBTF2 Highlander Access Participant",
     "LBTF2 Highlander Access Participant": [
@@ -12114,7 +12149,8 @@
         9069,
         11174,
         12240,
-        14067
+        14067,
+        14673
     ],
     "8868": "LBTF2 6v6 Elite 1st Place",
     "8869": "LBTF2 6v6 Elite 2nd Place",
@@ -20883,19 +20919,23 @@
     ],
     "12233": "LBTF2 Highlander Central 1st Place",
     "LBTF2 Highlander Central 1st Place": [
-        12233
+        12233,
+        14666
     ],
     "12234": "LBTF2 Highlander Central 2nd Place",
     "LBTF2 Highlander Central 2nd Place": [
-        12234
+        12234,
+        14667
     ],
     "12235": "LBTF2 Highlander Central 3rd Place",
     "LBTF2 Highlander Central 3rd Place": [
-        12235
+        12235,
+        14668
     ],
     "12236": "LBTF2 Highlander Central Participant",
     "LBTF2 Highlander Central Participant": [
-        12236
+        12236,
+        14669
     ],
     "12237": "LBTF2 Highlander Access 1st Place",
     "12238": "LBTF2 Highlander Access 2nd Place",
@@ -21841,19 +21881,23 @@
     "12807": "LBTF2 6v6 Open Participant",
     "12808": "LBTF2 6v6 Beginner 1st Place",
     "LBTF2 6v6 Beginner 1st Place": [
-        12808
+        12808,
+        14662
     ],
     "12809": "LBTF2 6v6 Beginner 2nd Place",
     "LBTF2 6v6 Beginner 2nd Place": [
-        12809
+        12809,
+        14663
     ],
     "12810": "LBTF2 6v6 Beginner 3rd Place",
     "LBTF2 6v6 Beginner 3rd Place": [
-        12810
+        12810,
+        14664
     ],
     "12811": "LBTF2 6v6 Beginner Participant",
     "LBTF2 6v6 Beginner Participant": [
-        12811
+        12811,
+        14665
     ],
     "12812": "Classic MGE Cup Advanced 1st Place",
     "12813": "Classic MGE Cup Advanced 2nd Place",
@@ -24341,27 +24385,32 @@
     "14266": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
     "AsiaFortress Liquid.tf Newbie Cup 1st Place": [
         14266,
-        14405
+        14405,
+        14625
     ],
     "14267": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
     "AsiaFortress Liquid.tf Newbie Cup 2nd Place": [
         14267,
-        14406
+        14406,
+        14626
     ],
     "14268": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
     "AsiaFortress Liquid.tf Newbie Cup 3rd Place": [
         14268,
-        14407
+        14407,
+        14627
     ],
     "14269": "AsiaFortress Liquid.tf Newbie Cup Participant",
     "AsiaFortress Liquid.tf Newbie Cup Participant": [
         14269,
-        14408
+        14408,
+        14628
     ],
     "14270": "AsiaFortress Liquid.tf Newbie Cup Coach",
     "AsiaFortress Liquid.tf Newbie Cup Coach": [
         14270,
-        14409
+        14409,
+        14629
     ],
     "14271": "ozfortress Sixes Premier First Place",
     "14272": "ozfortress Sixes Premier Second Place",
@@ -24996,6 +25045,71 @@
         14623
     ],
     "14624": "Brazil Fortress Jump Cup Helper",
+    "14625": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
+    "14626": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
+    "14627": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
+    "14628": "AsiaFortress Liquid.tf Newbie Cup Participant",
+    "14629": "AsiaFortress Liquid.tf Newbie Cup Coach",
+    "14630": "LBTF2 6v6 Elite 1st Place",
+    "14631": "LBTF2 6v6 Elite 2nd Place",
+    "14632": "LBTF2 6v6 Elite 3rd Place",
+    "14633": "LBTF2 6v6 Elite Participant",
+    "14634": "LBTF2 6v6 Central 1st Place",
+    "14635": "LBTF2 6v6 Central 2nd Place",
+    "14636": "LBTF2 6v6 Central 3rd Place",
+    "14637": "LBTF2 6v6 Central Participant",
+    "14638": "LBTF2 6v6 Access 1st Place",
+    "14639": "LBTF2 6v6 Access 2nd Place",
+    "14640": "LBTF2 6v6 Access 3rd Place",
+    "14641": "LBTF2 6v6 Access Participant",
+    "14642": "LBTF2 6v6 Open 1st Place",
+    "14643": "LBTF2 6v6 Open 2nd Place",
+    "14644": "LBTF2 6v6 Open 3rd Place",
+    "14645": "LBTF2 6v6 Open Participant",
+    "14646": "LBTF2 6v6 Elite 1st Place",
+    "14647": "LBTF2 6v6 Elite 2nd Place",
+    "14648": "LBTF2 6v6 Elite 3rd Place",
+    "14649": "LBTF2 6v6 Elite Participant",
+    "14650": "LBTF2 6v6 Central 1st Place",
+    "14651": "LBTF2 6v6 Central 2nd Place",
+    "14652": "LBTF2 6v6 Central 3rd Place",
+    "14653": "LBTF2 6v6 Central Participant",
+    "14654": "LBTF2 6v6 Access 1st Place",
+    "14655": "LBTF2 6v6 Access 2nd Place",
+    "14656": "LBTF2 6v6 Access 3rd Place",
+    "14657": "LBTF2 6v6 Access Participant",
+    "14658": "LBTF2 6v6 Open 1st Place",
+    "14659": "LBTF2 6v6 Open 2nd Place",
+    "14660": "LBTF2 6v6 Open 3rd Place",
+    "14661": "LBTF2 6v6 Open Participant",
+    "14662": "LBTF2 6v6 Beginner 1st Place",
+    "14663": "LBTF2 6v6 Beginner 2nd Place",
+    "14664": "LBTF2 6v6 Beginner 3rd Place",
+    "14665": "LBTF2 6v6 Beginner Participant",
+    "14666": "LBTF2 Highlander Central 1st Place",
+    "14667": "LBTF2 Highlander Central 2nd Place",
+    "14668": "LBTF2 Highlander Central 3rd Place",
+    "14669": "LBTF2 Highlander Central Participant",
+    "14670": "LBTF2 Highlander Access 1st Place",
+    "14671": "LBTF2 Highlander Access 2nd Place",
+    "14672": "LBTF2 Highlander Access 3rd Place",
+    "14673": "LBTF2 Highlander Access Participant",
+    "14674": "FBTF 4v4 PASS Time 1st Place",
+    "FBTF 4v4 PASS Time 1st Place": [
+        14674
+    ],
+    "14675": "FBTF 4v4 PASS Time 2nd Place",
+    "FBTF 4v4 PASS Time 2nd Place": [
+        14675
+    ],
+    "14676": "FBTF 4v4 PASS Time 3rd Place",
+    "FBTF 4v4 PASS Time 3rd Place": [
+        14676
+    ],
+    "14677": "FBTF 4v4 PASS Time Participant",
+    "FBTF 4v4 PASS Time Participant": [
+        14677
+    ],
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -30375,8 +30489,8 @@
     "Torcher's Trench Coat": [
         31433
     ],
-    "31434": "Balkan's Brute",
-    "Balkan's Brute": [
+    "31434": "Balkans Brute",
+    "Balkans Brute": [
         31434
     ],
     "31435": "Bigger Mann on Campus",
@@ -30767,8 +30881,8 @@
     "Short Fuse": [
         31533
     ],
-    "31534": "Blindin' Bonnett",
-    "Blindin' Bonnett": [
+    "31534": "Blindin' Bonnet",
+    "Blindin' Bonnet": [
         31534
     ],
     "31535": "Shady Shelby",
@@ -30863,8 +30977,8 @@
     "Fused Plates": [
         31558
     ],
-    "31559": "Feathered Villain",
-    "Feathered Villain": [
+    "31559": "Feathered Foe",
+    "Feathered Foe": [
         31559
     ],
     "31560": "Velveteen Villain",
