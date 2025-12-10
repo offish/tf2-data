@@ -337,8 +337,8 @@
     "Sandman": [
         44
     ],
-    "45": "Force-A-Nature",
-    "Force-A-Nature": [
+    "45": "Force-a-Nature",
+    "Force-a-Nature": [
         45
     ],
     "46": "Bonk! Atomic Punch",
@@ -1744,7 +1744,16 @@
     "UGC Highlander Participant": [
         503,
         697,
-        8242
+        8242,
+        14698,
+        14711,
+        14720,
+        14729,
+        14742,
+        14747,
+        14756,
+        14761,
+        14766
     ],
     "504": "UGC Highlander Platinum 1st Place",
     "UGC Highlander Platinum 1st Place": [
@@ -1771,7 +1780,17 @@
         11892,
         11904,
         12411,
-        12451
+        12451,
+        14690,
+        14703,
+        14712,
+        14721,
+        14734,
+        14743,
+        14748,
+        14752,
+        14757,
+        14762
     ],
     "505": "UGC Highlander Platinum 2nd Place",
     "UGC Highlander Platinum 2nd Place": [
@@ -1798,7 +1817,17 @@
         11893,
         11905,
         12412,
-        12452
+        12452,
+        14691,
+        14704,
+        14713,
+        14722,
+        14735,
+        14744,
+        14749,
+        14753,
+        14758,
+        14763
     ],
     "506": "UGC Highlander Platinum 3rd Place",
     "UGC Highlander Platinum 3rd Place": [
@@ -1825,7 +1854,17 @@
         11894,
         11906,
         12413,
-        12453
+        12453,
+        14692,
+        14705,
+        14714,
+        14723,
+        14736,
+        14745,
+        14750,
+        14754,
+        14759,
+        14764
     ],
     "507": "UGC Highlander Silver 1st Place",
     "UGC Highlander Silver 1st Place": [
@@ -1852,7 +1891,12 @@
         11896,
         11908,
         12415,
-        12455
+        12455,
+        14694,
+        14707,
+        14716,
+        14725,
+        14738
     ],
     "508": "UGC Highlander Silver 2nd Place",
     "UGC Highlander Silver 2nd Place": [
@@ -1879,7 +1923,12 @@
         11897,
         11909,
         12416,
-        12456
+        12456,
+        14695,
+        14708,
+        14717,
+        14726,
+        14739
     ],
     "509": "UGC Highlander Silver 3rd Place",
     "UGC Highlander Silver 3rd Place": [
@@ -1906,7 +1955,12 @@
         11898,
         11910,
         12417,
-        12457
+        12457,
+        14696,
+        14709,
+        14718,
+        14727,
+        14740
     ],
     "510": "UGC Highlander Iron 1st Place",
     "UGC Highlander Iron 1st Place": [
@@ -2587,7 +2641,17 @@
         11895,
         11907,
         12414,
-        12454
+        12454,
+        14693,
+        14706,
+        14715,
+        14724,
+        14737,
+        14746,
+        14751,
+        14755,
+        14760,
+        14765
     ],
     "684": "UGC Highlander Euro Platinum",
     "UGC Highlander Euro Platinum": [
@@ -2622,7 +2686,12 @@
         11899,
         11911,
         12418,
-        12458
+        12458,
+        14697,
+        14710,
+        14719,
+        14728,
+        14741
     ],
     "689": "UGC Highlander Euro Silver",
     "UGC Highlander Euro Silver": [
@@ -3982,8 +4051,8 @@
     "Randolph the Blood-Nosed Caribou": [
         1077
     ],
-    "1078": "Festive Force-A-Nature",
-    "Festive Force-A-Nature": [
+    "1078": "Festive Force-a-Nature",
+    "Festive Force-a-Nature": [
         1078
     ],
     "1079": "Festive Crusader's Crossbow",
@@ -4425,6 +4494,14 @@
         1197
     ],
     "1198": "What's in the Team Fortress 2 Soundtrack Box?",
+    "1199": "Festivizers for All Weapons",
+    "Festivizers for All Weapons": [
+        1199
+    ],
+    "1200": "Smissmas Ornament Beach Ball Assets",
+    "Smissmas Ornament Beach Ball Assets": [
+        1200
+    ],
     "1899": "World Traveler's Hat",
     "World Traveler's Hat": [
         1899
@@ -4887,7 +4964,8 @@
         2175,
         2176,
         2177,
-        2178
+        2178,
+        2179
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5434,6 +5512,7 @@
     "2176": "Map Stamps Collection",
     "2177": "Map Stamps Collection",
     "2178": "Map Stamps Collection",
+    "2179": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5673,6 +5752,30 @@
     "2559": "Map Stamp - Marshlands",
     "Map Stamp - Marshlands": [
         2559
+    ],
+    "2560": "Map Stamp - Nutcracker",
+    "Map Stamp - Nutcracker": [
+        2560
+    ],
+    "2561": "Map Stamp - Gavle",
+    "Map Stamp - Gavle": [
+        2561
+    ],
+    "2562": "Map Stamp - Sidewinder",
+    "Map Stamp - Sidewinder": [
+        2562
+    ],
+    "2563": "Map Stamp - Abbey",
+    "Map Stamp - Abbey": [
+        2563
+    ],
+    "2564": "Map Stamp - Winter Ridge",
+    "Map Stamp - Winter Ridge": [
+        2564
+    ],
+    "2565": "Map Stamp - Matterhorn",
+    "Map Stamp - Matterhorn": [
+        2565
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -7149,6 +7252,18 @@
     "Spectral Stash Collection": [
         5973
     ],
+    "5974": "Gift-Stuffed Stocking 2025",
+    "Gift-Stuffed Stocking 2025": [
+        5974
+    ],
+    "5975": "Winter 2025 Cosmetic Key",
+    "Winter 2025 Cosmetic Key": [
+        5975
+    ],
+    "5976": "Winter 2025 Cosmetic Case",
+    "Winter 2025 Cosmetic Case": [
+        5976
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -8049,6 +8164,30 @@
     "Strange Filter: Marshlands (Community)": [
         6676
     ],
+    "6677": "Strange Filter: Nutcracker (Community)",
+    "Strange Filter: Nutcracker (Community)": [
+        6677
+    ],
+    "6678": "Strange Filter: Gavle (Community)",
+    "Strange Filter: Gavle (Community)": [
+        6678
+    ],
+    "6679": "Strange Filter: Sidewinder (Community)",
+    "Strange Filter: Sidewinder (Community)": [
+        6679
+    ],
+    "6680": "Strange Filter: Abbey (Community)",
+    "Strange Filter: Abbey (Community)": [
+        6680
+    ],
+    "6681": "Strange Filter: Winter Ridge (Community)",
+    "Strange Filter: Winter Ridge (Community)": [
+        6681
+    ],
+    "6682": "Strange Filter: Matterhorn (Community)",
+    "Strange Filter: Matterhorn (Community)": [
+        6682
+    ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
         8000
@@ -8172,7 +8311,9 @@
         11903,
         11915,
         12422,
-        12462
+        12462,
+        14702,
+        14733
     ],
     "8027": "ESL Season VI Premier Division 1st Place",
     "ESL Season VI Premier Division 1st Place": [
@@ -9072,7 +9213,9 @@
         11900,
         11912,
         12419,
-        12459
+        12459,
+        14699,
+        14730
     ],
     "8231": "UGC Highlander Steel 2nd Place",
     "UGC Highlander Steel 2nd Place": [
@@ -9091,7 +9234,9 @@
         11901,
         11913,
         12420,
-        12460
+        12460,
+        14700,
+        14731
     ],
     "8232": "UGC Highlander Steel 3rd Place",
     "UGC Highlander Steel 3rd Place": [
@@ -9110,7 +9255,9 @@
         11902,
         11914,
         12421,
-        12461
+        12461,
+        14701,
+        14732
     ],
     "8233": "UGC Highlander Iron 1st Place",
     "8234": "UGC Highlander Iron 2nd Place",
@@ -9265,7 +9412,15 @@
         11919,
         11931,
         12426,
-        12466
+        12466,
+        14770,
+        14779,
+        14787,
+        14795,
+        14800,
+        14808,
+        14812,
+        14816
     ],
     "8272": "UGC 6vs6 Silver Participant",
     "UGC 6vs6 Silver Participant": [
@@ -9317,7 +9472,10 @@
         11927,
         11939,
         12430,
-        12470
+        12470,
+        14775,
+        14783,
+        14791
     ],
     "8274": "UGC 6vs6 European Participant",
     "UGC 6vs6 European Participant": [
@@ -9544,7 +9702,16 @@
         11916,
         11928,
         12423,
-        12463
+        12463,
+        14767,
+        14776,
+        14784,
+        14792,
+        14797,
+        14802,
+        14806,
+        14809,
+        14813
     ],
     "8389": "UGC 6vs6 Platinum 2nd Place",
     "UGC 6vs6 Platinum 2nd Place": [
@@ -9567,7 +9734,16 @@
         11917,
         11929,
         12424,
-        12464
+        12464,
+        14768,
+        14777,
+        14785,
+        14793,
+        14798,
+        14803,
+        14807,
+        14810,
+        14814
     ],
     "8390": "UGC 6vs6 Platinum 3rd Place",
     "UGC 6vs6 Platinum 3rd Place": [
@@ -9590,7 +9766,15 @@
         11918,
         11930,
         12425,
-        12465
+        12465,
+        14769,
+        14778,
+        14786,
+        14794,
+        14799,
+        14804,
+        14811,
+        14815
     ],
     "8391": "UGC 6vs6 Platinum Participant",
     "8392": "UGC 6vs6 Silver Participant",
@@ -10261,7 +10445,8 @@
         11947,
         11959,
         12438,
-        12478
+        12478,
+        14827
     ],
     "8501": "UGC 4vs4 Steel Participant",
     "UGC 4vs4 Steel Participant": [
@@ -10286,7 +10471,13 @@
         11951,
         11963,
         12442,
-        12482
+        12482,
+        14830,
+        14841,
+        14853,
+        14865,
+        14877,
+        14889
     ],
     "8502": "ETF2L 6v6 Premier Division Gold Medal",
     "8503": "ETF2L 6v6 Premier Division Silver Medal",
@@ -10835,7 +11026,16 @@
         11940,
         11952,
         12431,
-        12471
+        12471,
+        14818,
+        14831,
+        14842,
+        14854,
+        14866,
+        14878,
+        14890,
+        14897,
+        14903
     ],
     "8698": "UGC 4vs4 Gold 2nd Place",
     "UGC 4vs4 Gold 2nd Place": [
@@ -10858,7 +11058,16 @@
         11941,
         11953,
         12432,
-        12472
+        12472,
+        14819,
+        14832,
+        14843,
+        14855,
+        14867,
+        14879,
+        14891,
+        14898,
+        14904
     ],
     "8699": "UGC 4vs4 Gold 3rd Place",
     "UGC 4vs4 Gold 3rd Place": [
@@ -10881,7 +11090,12 @@
         11942,
         11954,
         12433,
-        12473
+        12473,
+        14820,
+        14844,
+        14856,
+        14868,
+        14880
     ],
     "8700": "UGC 4vs4 Gold Participant",
     "UGC 4vs4 Gold Participant": [
@@ -10905,7 +11119,16 @@
         11943,
         11955,
         12434,
-        12474
+        12474,
+        14821,
+        14833,
+        14845,
+        14857,
+        14869,
+        14881,
+        14892,
+        14899,
+        14905
     ],
     "8701": "UGC 4vs4 Silver Participant",
     "8702": "UGC 4vs4 Steel Participant",
@@ -15803,7 +16026,8 @@
         10290,
         10492,
         11418,
-        13575
+        13575,
+        18621
     ],
     "10291": "ESEA 6s Invite 1st Place",
     "ESEA 6s Invite 1st Place": [
@@ -15955,28 +16179,36 @@
         10376,
         11081,
         11433,
-        11623
+        11623,
+        18516,
+        18532
     ],
     "10377": "Brazil Fortress 6v6 Invite Second Place",
     "Brazil Fortress 6v6 Invite Second Place": [
         10377,
         11082,
         11434,
-        11624
+        11624,
+        18517,
+        18533
     ],
     "10378": "Brazil Fortress 6v6 Invite Third Place",
     "Brazil Fortress 6v6 Invite Third Place": [
         10378,
         11083,
         11435,
-        11625
+        11625,
+        18518,
+        18534
     ],
     "10379": "Brazil Fortress 6v6 Invite Participant",
     "Brazil Fortress 6v6 Invite Participant": [
         10379,
         11084,
         11436,
-        11626
+        11626,
+        18519,
+        18535
     ],
     "10380": "LAN Downunder 1st Place",
     "LAN Downunder 1st Place": [
@@ -16807,26 +17039,30 @@
     "United Dodgeball League Gold Medal": [
         10489,
         11415,
-        13572
+        13572,
+        18618
     ],
     "10490": "United Dodgeball League Silver Medal",
     "United Dodgeball League Silver Medal": [
         10490,
         11416,
-        13573
+        13573,
+        18619
     ],
     "10491": "United Dodgeball League Bronze Medal",
     "United Dodgeball League Bronze Medal": [
         10491,
         11417,
-        13574
+        13574,
+        18620
     ],
     "10492": "United Dodgeball League Participant",
     "10493": "United Dodgeball League Supporter",
     "United Dodgeball League Supporter": [
         10493,
         11419,
-        13576
+        13576,
+        18622
     ],
     "10494": "Rasslabyxa Cup 1st Place",
     "Rasslabyxa Cup 1st Place": [
@@ -17884,7 +18120,10 @@
         11924,
         11936,
         12427,
-        12467
+        12467,
+        14772,
+        14781,
+        14789
     ],
     "10852": "UGC 6vs6 Steel 2nd Place",
     "UGC 6vs6 Steel 2nd Place": [
@@ -17895,7 +18134,10 @@
         11925,
         11937,
         12428,
-        12468
+        12468,
+        14773,
+        14782,
+        14790
     ],
     "10853": "UGC 6vs6 Steel 3rd Place",
     "UGC 6vs6 Steel 3rd Place": [
@@ -17906,7 +18148,8 @@
         11926,
         11938,
         12429,
-        12469
+        12469,
+        14774
     ],
     "10854": "UGC 6vs6 Steel Participant",
     "10855": "UGC 6vs6 Platinum 1st Place",
@@ -17945,7 +18188,8 @@
         11945,
         11957,
         12436,
-        12476
+        12476,
+        14825
     ],
     "10873": "UGC 4vs4 Silver 3rd Place",
     "UGC 4vs4 Silver 3rd Place": [
@@ -17956,7 +18200,8 @@
         11946,
         11958,
         12437,
-        12477
+        12477,
+        14826
     ],
     "10874": "UGC 4vs4 Silver Participant",
     "10875": "UGC 4vs4 Steel 1st Place",
@@ -17968,7 +18213,13 @@
         11948,
         11960,
         12439,
-        12479
+        12479,
+        14829,
+        14838,
+        14850,
+        14862,
+        14874,
+        14886
     ],
     "10876": "UGC 4vs4 Steel 2nd Place",
     "UGC 4vs4 Steel 2nd Place": [
@@ -17979,7 +18230,12 @@
         11949,
         11961,
         12440,
-        12480
+        12480,
+        14839,
+        14851,
+        14863,
+        14875,
+        14887
     ],
     "10877": "UGC 4vs4 Steel 3rd Place",
     "UGC 4vs4 Steel 3rd Place": [
@@ -17990,7 +18246,12 @@
         11950,
         11962,
         12441,
-        12481
+        12481,
+        14840,
+        14852,
+        14864,
+        14876,
+        14888
     ],
     "10878": "UGC 4vs4 Steel Participant",
     "10879": "UGC 4vs4 Gold 1st Place",
@@ -18457,73 +18718,97 @@
     "Brazil Fortress 6v6 Division 1 First Place": [
         11085,
         11437,
-        11627
+        11627,
+        18520,
+        18536
     ],
     "11086": "Brazil Fortress 6v6 Division 1 Second Place",
     "Brazil Fortress 6v6 Division 1 Second Place": [
         11086,
         11438,
-        11628
+        11628,
+        18521,
+        18537
     ],
     "11087": "Brazil Fortress 6v6 Division 1 Third Place",
     "Brazil Fortress 6v6 Division 1 Third Place": [
         11087,
         11439,
-        11629
+        11629,
+        18522,
+        18538
     ],
     "11088": "Brazil Fortress 6v6 Division 1 Participant",
     "Brazil Fortress 6v6 Division 1 Participant": [
         11088,
         11440,
-        11630
+        11630,
+        18523,
+        18539
     ],
     "11089": "Brazil Fortress 6v6 Division 2 First Place",
     "Brazil Fortress 6v6 Division 2 First Place": [
         11089,
         11441,
-        11631
+        11631,
+        18524,
+        18540
     ],
     "11090": "Brazil Fortress 6v6 Division 2 Second Place",
     "Brazil Fortress 6v6 Division 2 Second Place": [
         11090,
         11442,
-        11632
+        11632,
+        18525,
+        18541
     ],
     "11091": "Brazil Fortress 6v6 Division 2 Third Place",
     "Brazil Fortress 6v6 Division 2 Third Place": [
         11091,
         11443,
-        11633
+        11633,
+        18526,
+        18542
     ],
     "11092": "Brazil Fortress 6v6 Division 2 Participant",
     "Brazil Fortress 6v6 Division 2 Participant": [
         11092,
         11444,
-        11634
+        11634,
+        18527,
+        18543
     ],
     "11093": "Brazil Fortress 6v6 Academy First Place",
     "Brazil Fortress 6v6 Academy First Place": [
         11093,
         11445,
-        11635
+        11635,
+        18528,
+        18544
     ],
     "11094": "Brazil Fortress 6v6 Academy Second Place",
     "Brazil Fortress 6v6 Academy Second Place": [
         11094,
         11446,
-        11636
+        11636,
+        18529,
+        18545
     ],
     "11095": "Brazil Fortress 6v6 Academy Third Place",
     "Brazil Fortress 6v6 Academy Third Place": [
         11095,
         11447,
-        11637
+        11637,
+        18530,
+        18546
     ],
     "11096": "Brazil Fortress 6v6 Academy Participant",
     "Brazil Fortress 6v6 Academy Participant": [
         11096,
         11448,
-        11638
+        11638,
+        18531,
+        18547
     ],
     "11097": "Brazil Fortress 6v6 Qualified Stage Champions",
     "Brazil Fortress 6v6 Qualified Stage Champions": [
@@ -19428,19 +19713,27 @@
     "11450": "Brazil Fortress 6v6 Helper",
     "11451": "Brazil Fortress Halloween - Scary Group First Place",
     "Brazil Fortress Halloween - Scary Group First Place": [
-        11451
+        11451,
+        14990,
+        18503
     ],
     "11452": "Brazil Fortress Halloween - Scary Group Second Place",
     "Brazil Fortress Halloween - Scary Group Second Place": [
-        11452
+        11452,
+        14991,
+        18504
     ],
     "11453": "Brazil Fortress Halloween - Scary Group Third Place",
     "Brazil Fortress Halloween - Scary Group Third Place": [
-        11453
+        11453,
+        14992,
+        18505
     ],
     "11454": "Brazil Fortress Halloween - Scary Group Participant",
     "Brazil Fortress Halloween - Scary Group Participant": [
-        11454
+        11454,
+        14993,
+        18506
     ],
     "11455": "Brazil Fortress Halloween - Haunted Group Winner",
     "Brazil Fortress Halloween - Haunted Group Winner": [
@@ -19449,7 +19742,8 @@
     "11456": "Brazil Fortress Halloween - Haunted Group Participant",
     "Brazil Fortress Halloween - Haunted Group Participant": [
         11456,
-        12712
+        12712,
+        18510
     ],
     "11457": "Brazil Fortress Halloween - Ghastly Group Winner",
     "Brazil Fortress Halloween - Ghastly Group Winner": [
@@ -19458,7 +19752,8 @@
     "11458": "Brazil Fortress Halloween - Ghastly Group Participant",
     "Brazil Fortress Halloween - Ghastly Group Participant": [
         11458,
-        12716
+        12716,
+        18514
     ],
     "11459": "Brazil Fortress Halloween - Helper",
     "Brazil Fortress Halloween - Helper": [
@@ -20207,7 +20502,8 @@
         11802,
         12791,
         13509,
-        14112
+        14112,
+        18624
     ],
     "11803": "TF2Maps Ray of Sunshine 2020",
     "TF2Maps Ray of Sunshine 2020": [
@@ -20447,7 +20743,11 @@
     "11963": "UGC 4vs4 Steel Participant",
     "11964": "UGC League Admin and Contributor",
     "UGC League Admin and Contributor": [
-        11964
+        11964,
+        14986,
+        14987,
+        14988,
+        14989
     ],
     "11965": "South American Vanilla Fortress 6v6 Invite 1st Place",
     "11966": "South American Vanilla Fortress 6v6 Invite 2nd Place",
@@ -21169,52 +21469,116 @@
         12399,
         12407,
         12447,
-        12487
+        12487,
+        14918,
+        14927,
+        14936,
+        14945,
+        14954,
+        14963
     ],
     "12400": "UGC Ultiduo Steel 2nd Place",
     "UGC Ultiduo Steel 2nd Place": [
         12400,
         12408,
         12448,
-        12488
+        12488,
+        14919,
+        14928,
+        14937,
+        14946,
+        14955,
+        14964
     ],
     "12401": "UGC Ultiduo Steel 3rd Place",
     "UGC Ultiduo Steel 3rd Place": [
         12401,
         12409,
         12449,
-        12489
+        12489,
+        14920,
+        14929,
+        14938,
+        14947,
+        14956,
+        14965
     ],
     "12402": "UGC Ultiduo Steel Participant",
     "UGC Ultiduo Steel Participant": [
         12402,
         12410,
         12450,
-        12490
+        12490,
+        14921,
+        14930,
+        14939,
+        14948,
+        14957,
+        14966
     ],
     "12403": "UGC Ultiduo Platinum 1st Place",
     "UGC Ultiduo Platinum 1st Place": [
         12403,
         12443,
-        12483
+        12483,
+        14913,
+        14922,
+        14931,
+        14940,
+        14949,
+        14958,
+        14967,
+        14972,
+        14977,
+        14982
     ],
     "12404": "UGC Ultiduo Platinum 2nd Place",
     "UGC Ultiduo Platinum 2nd Place": [
         12404,
         12444,
-        12484
+        12484,
+        14914,
+        14923,
+        14932,
+        14941,
+        14950,
+        14959,
+        14968,
+        14973,
+        14978,
+        14983
     ],
     "12405": "UGC Ultiduo Platinum 3rd Place",
     "UGC Ultiduo Platinum 3rd Place": [
         12405,
         12445,
-        12485
+        12485,
+        14915,
+        14924,
+        14933,
+        14942,
+        14951,
+        14960,
+        14969,
+        14974,
+        14979,
+        14984
     ],
     "12406": "UGC Ultiduo Platinum Participant",
     "UGC Ultiduo Platinum Participant": [
         12406,
         12446,
-        12486
+        12486,
+        14916,
+        14925,
+        14934,
+        14943,
+        14952,
+        14961,
+        14970,
+        14975,
+        14980,
+        14985
     ],
     "12407": "UGC Ultiduo Steel 1st Place",
     "12408": "UGC Ultiduo Steel 2nd Place",
@@ -21698,28 +22062,34 @@
     ],
     "12709": "Brazil Fortress Halloween - Haunted Group First Place",
     "Brazil Fortress Halloween - Haunted Group First Place": [
-        12709
+        12709,
+        18507
     ],
     "12710": "Brazil Fortress Halloween - Haunted Group Second Place",
     "Brazil Fortress Halloween - Haunted Group Second Place": [
-        12710
+        12710,
+        18508
     ],
     "12711": "Brazil Fortress Halloween - Haunted Group Third Place",
     "Brazil Fortress Halloween - Haunted Group Third Place": [
-        12711
+        12711,
+        18509
     ],
     "12712": "Brazil Fortress Halloween - Haunted Group Participant",
     "12713": "Brazil Fortress Halloween - Ghastly Group First Place",
     "Brazil Fortress Halloween - Ghastly Group First Place": [
-        12713
+        12713,
+        18511
     ],
     "12714": "Brazil Fortress Halloween - Ghastly Group Second Place",
     "Brazil Fortress Halloween - Ghastly Group Second Place": [
-        12714
+        12714,
+        18512
     ],
     "12715": "Brazil Fortress Halloween - Ghastly Group Third Place",
     "Brazil Fortress Halloween - Ghastly Group Third Place": [
-        12715
+        12715,
+        18513
     ],
     "12716": "Brazil Fortress Halloween - Ghastly Group Participant",
     "12717": "Respawn League AUS/NZ BBall Main 1st Place",
@@ -24699,55 +25069,68 @@
     "14441": "TFArena Helper Medal",
     "14442": "MGE.tf EU 2v2 Premier 1st Place",
     "MGE.tf EU 2v2 Premier 1st Place": [
-        14442
+        14442,
+        18556
     ],
     "14443": "MGE.tf EU 2v2 Premier 2nd Place",
     "MGE.tf EU 2v2 Premier 2nd Place": [
-        14443
+        14443,
+        18557
     ],
     "14444": "MGE.tf EU 2v2 Premier 3rd Place",
     "MGE.tf EU 2v2 Premier 3rd Place": [
-        14444
+        14444,
+        18558
     ],
     "14445": "MGE.tf EU 2v2 Premier Participant",
     "MGE.tf EU 2v2 Premier Participant": [
-        14445
+        14445,
+        18559
     ],
     "14446": "MGE.tf EU 2v2 Intermediate 1st Place",
     "MGE.tf EU 2v2 Intermediate 1st Place": [
-        14446
+        14446,
+        18560
     ],
     "14447": "MGE.tf EU 2v2 Intermediate 2nd Place",
     "MGE.tf EU 2v2 Intermediate 2nd Place": [
-        14447
+        14447,
+        18561
     ],
     "14448": "MGE.tf EU 2v2 Intermediate 3rd Place",
     "MGE.tf EU 2v2 Intermediate 3rd Place": [
-        14448
+        14448,
+        18562
     ],
     "14449": "MGE.tf EU 2v2 Intermediate Participant",
     "MGE.tf EU 2v2 Intermediate Participant": [
-        14449
+        14449,
+        18563
     ],
     "14450": "MGE.tf EU 2v2 Open 1st Place",
     "MGE.tf EU 2v2 Open 1st Place": [
-        14450
+        14450,
+        18564
     ],
     "14451": "MGE.tf EU 2v2 Open 2nd Place",
     "MGE.tf EU 2v2 Open 2nd Place": [
-        14451
+        14451,
+        18565
     ],
     "14452": "MGE.tf EU 2v2 Open 3rd Place",
     "MGE.tf EU 2v2 Open 3rd Place": [
-        14452
+        14452,
+        18566
     ],
     "14453": "MGE.tf EU 2v2 Open Participant",
     "MGE.tf EU 2v2 Open Participant": [
-        14453
+        14453,
+        18567
     ],
     "14454": "MGE.tf EU 2v2 Helper",
     "MGE.tf EU 2v2 Helper": [
-        14454
+        14454,
+        18569
     ],
     "14455": "MGE.tf 1v1 World Championship 1st Place",
     "MGE.tf 1v1 World Championship 1st Place": [
@@ -25110,6 +25493,450 @@
     "FBTF 4v4 PASS Time Participant": [
         14677
     ],
+    "14678": "ozfortress Experimental Cup 4 Highlander Division 1 First Place",
+    "ozfortress Experimental Cup 4 Highlander Division 1 First Place": [
+        14678
+    ],
+    "14679": "ozfortress Experimental Cup 4 Highlander Division 1 Second Place",
+    "ozfortress Experimental Cup 4 Highlander Division 1 Second Place": [
+        14679
+    ],
+    "14680": "ozfortress Experimental Cup 4 Highlander Division 1 Third Place",
+    "ozfortress Experimental Cup 4 Highlander Division 1 Third Place": [
+        14680
+    ],
+    "14681": "ozfortress Experimental Cup 4 Highlander Division 1 Participant",
+    "ozfortress Experimental Cup 4 Highlander Division 1 Participant": [
+        14681
+    ],
+    "14682": "ozfortress Experimental Cup 4 Highlander Division 2 First Place",
+    "ozfortress Experimental Cup 4 Highlander Division 2 First Place": [
+        14682
+    ],
+    "14683": "ozfortress Experimental Cup 4 Highlander Division 2 Second Place",
+    "ozfortress Experimental Cup 4 Highlander Division 2 Second Place": [
+        14683
+    ],
+    "14684": "ozfortress Experimental Cup 4 Highlander Division 2 Third Place",
+    "ozfortress Experimental Cup 4 Highlander Division 2 Third Place": [
+        14684
+    ],
+    "14685": "ozfortress Experimental Cup 4 Highlander Division 2 Participant",
+    "ozfortress Experimental Cup 4 Highlander Division 2 Participant": [
+        14685
+    ],
+    "14686": "ozfortress Experimental Cup 4 Highlander Division 3 First Place",
+    "ozfortress Experimental Cup 4 Highlander Division 3 First Place": [
+        14686
+    ],
+    "14687": "ozfortress Experimental Cup 4 Highlander Division 3 Second Place",
+    "ozfortress Experimental Cup 4 Highlander Division 3 Second Place": [
+        14687
+    ],
+    "14688": "ozfortress Experimental Cup 4 Highlander Division 3 Third Place",
+    "ozfortress Experimental Cup 4 Highlander Division 3 Third Place": [
+        14688
+    ],
+    "14689": "ozfortress Experimental Cup 4 Highlander Division 3 Participant",
+    "ozfortress Experimental Cup 4 Highlander Division 3 Participant": [
+        14689
+    ],
+    "14690": "UGC Highlander Platinum 1st Place",
+    "14691": "UGC Highlander Platinum 2nd Place",
+    "14692": "UGC Highlander Platinum 3rd Place",
+    "14693": "UGC Highlander Platinum Participant",
+    "14694": "UGC Highlander Silver 1st Place",
+    "14695": "UGC Highlander Silver 2nd Place",
+    "14696": "UGC Highlander Silver 3rd Place",
+    "14697": "UGC Highlander Silver Participant",
+    "14698": "UGC Highlander Participant",
+    "14699": "UGC Highlander Steel 1st Place",
+    "14700": "UGC Highlander Steel 2nd Place",
+    "14701": "UGC Highlander Steel 3rd Place",
+    "14702": "UGC Highlander Steel Participant",
+    "14703": "UGC Highlander Platinum 1st Place",
+    "14704": "UGC Highlander Platinum 2nd Place",
+    "14705": "UGC Highlander Platinum 3rd Place",
+    "14706": "UGC Highlander Platinum Participant",
+    "14707": "UGC Highlander Silver 1st Place",
+    "14708": "UGC Highlander Silver 2nd Place",
+    "14709": "UGC Highlander Silver 3rd Place",
+    "14710": "UGC Highlander Silver Participant",
+    "14711": "UGC Highlander Participant",
+    "14712": "UGC Highlander Platinum 1st Place",
+    "14713": "UGC Highlander Platinum 2nd Place",
+    "14714": "UGC Highlander Platinum 3rd Place",
+    "14715": "UGC Highlander Platinum Participant",
+    "14716": "UGC Highlander Silver 1st Place",
+    "14717": "UGC Highlander Silver 2nd Place",
+    "14718": "UGC Highlander Silver 3rd Place",
+    "14719": "UGC Highlander Silver Participant",
+    "14720": "UGC Highlander Participant",
+    "14721": "UGC Highlander Platinum 1st Place",
+    "14722": "UGC Highlander Platinum 2nd Place",
+    "14723": "UGC Highlander Platinum 3rd Place",
+    "14724": "UGC Highlander Platinum Participant",
+    "14725": "UGC Highlander Silver 1st Place",
+    "14726": "UGC Highlander Silver 2nd Place",
+    "14727": "UGC Highlander Silver 3rd Place",
+    "14728": "UGC Highlander Silver Participant",
+    "14729": "UGC Highlander Participant",
+    "14730": "UGC Highlander Steel 1st Place",
+    "14731": "UGC Highlander Steel 2nd Place",
+    "14732": "UGC Highlander Steel 3rd Place",
+    "14733": "UGC Highlander Steel Participant",
+    "14734": "UGC Highlander Platinum 1st Place",
+    "14735": "UGC Highlander Platinum 2nd Place",
+    "14736": "UGC Highlander Platinum 3rd Place",
+    "14737": "UGC Highlander Platinum Participant",
+    "14738": "UGC Highlander Silver 1st Place",
+    "14739": "UGC Highlander Silver 2nd Place",
+    "14740": "UGC Highlander Silver 3rd Place",
+    "14741": "UGC Highlander Silver Participant",
+    "14742": "UGC Highlander Participant",
+    "14743": "UGC Highlander Platinum 1st Place",
+    "14744": "UGC Highlander Platinum 2nd Place",
+    "14745": "UGC Highlander Platinum 3rd Place",
+    "14746": "UGC Highlander Platinum Participant",
+    "14747": "UGC Highlander Participant",
+    "14748": "UGC Highlander Platinum 1st Place",
+    "14749": "UGC Highlander Platinum 2nd Place",
+    "14750": "UGC Highlander Platinum 3rd Place",
+    "14751": "UGC Highlander Platinum Participant",
+    "14752": "UGC Highlander Platinum 1st Place",
+    "14753": "UGC Highlander Platinum 2nd Place",
+    "14754": "UGC Highlander Platinum 3rd Place",
+    "14755": "UGC Highlander Platinum Participant",
+    "14756": "UGC Highlander Participant",
+    "14757": "UGC Highlander Platinum 1st Place",
+    "14758": "UGC Highlander Platinum 2nd Place",
+    "14759": "UGC Highlander Platinum 3rd Place",
+    "14760": "UGC Highlander Platinum Participant",
+    "14761": "UGC Highlander Participant",
+    "14762": "UGC Highlander Platinum 1st Place",
+    "14763": "UGC Highlander Platinum 2nd Place",
+    "14764": "UGC Highlander Platinum 3rd Place",
+    "14765": "UGC Highlander Platinum Participant",
+    "14766": "UGC Highlander Participant",
+    "14767": "UGC 6vs6 Platinum 1st Place",
+    "14768": "UGC 6vs6 Platinum 2nd Place",
+    "14769": "UGC 6vs6 Platinum 3rd Place",
+    "14770": "UGC 6vs6 Platinum Participant",
+    "14771": "UGC 6vs6 Participant",
+    "UGC 6vs6 Participant": [
+        14771,
+        14780,
+        14788,
+        14796,
+        14801,
+        14805,
+        14817
+    ],
+    "14772": "UGC 6vs6 Steel 1st Place",
+    "14773": "UGC 6vs6 Steel 2nd Place",
+    "14774": "UGC 6vs6 Steel 3rd Place",
+    "14775": "UGC 6vs6 Steel Participant",
+    "14776": "UGC 6vs6 Platinum 1st Place",
+    "14777": "UGC 6vs6 Platinum 2nd Place",
+    "14778": "UGC 6vs6 Platinum 3rd Place",
+    "14779": "UGC 6vs6 Platinum Participant",
+    "14780": "UGC 6vs6 Participant",
+    "14781": "UGC 6vs6 Steel 1st Place",
+    "14782": "UGC 6vs6 Steel 2nd Place",
+    "14783": "UGC 6vs6 Steel Participant",
+    "14784": "UGC 6vs6 Platinum 1st Place",
+    "14785": "UGC 6vs6 Platinum 2nd Place",
+    "14786": "UGC 6vs6 Platinum 3rd Place",
+    "14787": "UGC 6vs6 Platinum Participant",
+    "14788": "UGC 6vs6 Participant",
+    "14789": "UGC 6vs6 Steel 1st Place",
+    "14790": "UGC 6vs6 Steel 2nd Place",
+    "14791": "UGC 6vs6 Steel Participant",
+    "14792": "UGC 6vs6 Platinum 1st Place",
+    "14793": "UGC 6vs6 Platinum 2nd Place",
+    "14794": "UGC 6vs6 Platinum 3rd Place",
+    "14795": "UGC 6vs6 Platinum Participant",
+    "14796": "UGC 6vs6 Participant",
+    "14797": "UGC 6vs6 Platinum 1st Place",
+    "14798": "UGC 6vs6 Platinum 2nd Place",
+    "14799": "UGC 6vs6 Platinum 3rd Place",
+    "14800": "UGC 6vs6 Platinum Participant",
+    "14801": "UGC 6vs6 Participant",
+    "14802": "UGC 6vs6 Platinum 1st Place",
+    "14803": "UGC 6vs6 Platinum 2nd Place",
+    "14804": "UGC 6vs6 Platinum 3rd Place",
+    "14805": "UGC 6vs6 Participant",
+    "14806": "UGC 6vs6 Platinum 1st Place",
+    "14807": "UGC 6vs6 Platinum 2nd Place",
+    "14808": "UGC 6vs6 Platinum Participant",
+    "14809": "UGC 6vs6 Platinum 1st Place",
+    "14810": "UGC 6vs6 Platinum 2nd Place",
+    "14811": "UGC 6vs6 Platinum 3rd Place",
+    "14812": "UGC 6vs6 Platinum Participant",
+    "14813": "UGC 6vs6 Platinum 1st Place",
+    "14814": "UGC 6vs6 Platinum 2nd Place",
+    "14815": "UGC 6vs6 Platinum 3rd Place",
+    "14816": "UGC 6vs6 Platinum Participant",
+    "14817": "UGC 6vs6 Participant",
+    "14818": "UGC 4vs4 Gold 1st Place",
+    "14819": "UGC 4vs4 Gold 2nd Place",
+    "14820": "UGC 4vs4 Gold 3rd Place",
+    "14821": "UGC 4vs4 Gold Participant",
+    "14822": "UGC 4v4 Platinum 1st Place",
+    "UGC 4v4 Platinum 1st Place": [
+        14822,
+        14834,
+        14846,
+        14858,
+        14870,
+        14882,
+        14893,
+        14900,
+        14906,
+        14909
+    ],
+    "14823": "UGC 4v4 Platinum 2nd Place",
+    "UGC 4v4 Platinum 2nd Place": [
+        14823,
+        14835,
+        14847,
+        14859,
+        14871,
+        14883,
+        14894,
+        14901,
+        14907,
+        14910
+    ],
+    "14824": "UGC 4v4 Platinum 3rd Place",
+    "UGC 4v4 Platinum 3rd Place": [
+        14824,
+        14836,
+        14848,
+        14860,
+        14872,
+        14884,
+        14895,
+        14902,
+        14911
+    ],
+    "14825": "UGC 4vs4 Silver 2nd Place",
+    "14826": "UGC 4vs4 Silver 3rd Place",
+    "14827": "UGC 4vs4 Silver Participant",
+    "14828": "UGC 4vs4 Participant",
+    "UGC 4vs4 Participant": [
+        14828,
+        14837,
+        14849,
+        14861,
+        14873,
+        14885,
+        14896,
+        14908,
+        14912
+    ],
+    "14829": "UGC 4vs4 Steel 1st Place",
+    "14830": "UGC 4vs4 Steel Participant",
+    "14831": "UGC 4vs4 Gold 1st Place",
+    "14832": "UGC 4vs4 Gold 2nd Place",
+    "14833": "UGC 4vs4 Gold Participant",
+    "14834": "UGC 4v4 Platinum 1st Place",
+    "14835": "UGC 4v4 Platinum 2nd Place",
+    "14836": "UGC 4v4 Platinum 3rd Place",
+    "14837": "UGC 4vs4 Participant",
+    "14838": "UGC 4vs4 Steel 1st Place",
+    "14839": "UGC 4vs4 Steel 2nd Place",
+    "14840": "UGC 4vs4 Steel 3rd Place",
+    "14841": "UGC 4vs4 Steel Participant",
+    "14842": "UGC 4vs4 Gold 1st Place",
+    "14843": "UGC 4vs4 Gold 2nd Place",
+    "14844": "UGC 4vs4 Gold 3rd Place",
+    "14845": "UGC 4vs4 Gold Participant",
+    "14846": "UGC 4v4 Platinum 1st Place",
+    "14847": "UGC 4v4 Platinum 2nd Place",
+    "14848": "UGC 4v4 Platinum 3rd Place",
+    "14849": "UGC 4vs4 Participant",
+    "14850": "UGC 4vs4 Steel 1st Place",
+    "14851": "UGC 4vs4 Steel 2nd Place",
+    "14852": "UGC 4vs4 Steel 3rd Place",
+    "14853": "UGC 4vs4 Steel Participant",
+    "14854": "UGC 4vs4 Gold 1st Place",
+    "14855": "UGC 4vs4 Gold 2nd Place",
+    "14856": "UGC 4vs4 Gold 3rd Place",
+    "14857": "UGC 4vs4 Gold Participant",
+    "14858": "UGC 4v4 Platinum 1st Place",
+    "14859": "UGC 4v4 Platinum 2nd Place",
+    "14860": "UGC 4v4 Platinum 3rd Place",
+    "14861": "UGC 4vs4 Participant",
+    "14862": "UGC 4vs4 Steel 1st Place",
+    "14863": "UGC 4vs4 Steel 2nd Place",
+    "14864": "UGC 4vs4 Steel 3rd Place",
+    "14865": "UGC 4vs4 Steel Participant",
+    "14866": "UGC 4vs4 Gold 1st Place",
+    "14867": "UGC 4vs4 Gold 2nd Place",
+    "14868": "UGC 4vs4 Gold 3rd Place",
+    "14869": "UGC 4vs4 Gold Participant",
+    "14870": "UGC 4v4 Platinum 1st Place",
+    "14871": "UGC 4v4 Platinum 2nd Place",
+    "14872": "UGC 4v4 Platinum 3rd Place",
+    "14873": "UGC 4vs4 Participant",
+    "14874": "UGC 4vs4 Steel 1st Place",
+    "14875": "UGC 4vs4 Steel 2nd Place",
+    "14876": "UGC 4vs4 Steel 3rd Place",
+    "14877": "UGC 4vs4 Steel Participant",
+    "14878": "UGC 4vs4 Gold 1st Place",
+    "14879": "UGC 4vs4 Gold 2nd Place",
+    "14880": "UGC 4vs4 Gold 3rd Place",
+    "14881": "UGC 4vs4 Gold Participant",
+    "14882": "UGC 4v4 Platinum 1st Place",
+    "14883": "UGC 4v4 Platinum 2nd Place",
+    "14884": "UGC 4v4 Platinum 3rd Place",
+    "14885": "UGC 4vs4 Participant",
+    "14886": "UGC 4vs4 Steel 1st Place",
+    "14887": "UGC 4vs4 Steel 2nd Place",
+    "14888": "UGC 4vs4 Steel 3rd Place",
+    "14889": "UGC 4vs4 Steel Participant",
+    "14890": "UGC 4vs4 Gold 1st Place",
+    "14891": "UGC 4vs4 Gold 2nd Place",
+    "14892": "UGC 4vs4 Gold Participant",
+    "14893": "UGC 4v4 Platinum 1st Place",
+    "14894": "UGC 4v4 Platinum 2nd Place",
+    "14895": "UGC 4v4 Platinum 3rd Place",
+    "14896": "UGC 4vs4 Participant",
+    "14897": "UGC 4vs4 Gold 1st Place",
+    "14898": "UGC 4vs4 Gold 2nd Place",
+    "14899": "UGC 4vs4 Gold Participant",
+    "14900": "UGC 4v4 Platinum 1st Place",
+    "14901": "UGC 4v4 Platinum 2nd Place",
+    "14902": "UGC 4v4 Platinum 3rd Place",
+    "14903": "UGC 4vs4 Gold 1st Place",
+    "14904": "UGC 4vs4 Gold 2nd Place",
+    "14905": "UGC 4vs4 Gold Participant",
+    "14906": "UGC 4v4 Platinum 1st Place",
+    "14907": "UGC 4v4 Platinum 2nd Place",
+    "14908": "UGC 4vs4 Participant",
+    "14909": "UGC 4v4 Platinum 1st Place",
+    "14910": "UGC 4v4 Platinum 2nd Place",
+    "14911": "UGC 4v4 Platinum 3rd Place",
+    "14912": "UGC 4vs4 Participant",
+    "14913": "UGC Ultiduo Platinum 1st Place",
+    "14914": "UGC Ultiduo Platinum 2nd Place",
+    "14915": "UGC Ultiduo Platinum 3rd Place",
+    "14916": "UGC Ultiduo Platinum Participant",
+    "14917": "UGC Ultiduo Participant",
+    "UGC Ultiduo Participant": [
+        14917,
+        14926,
+        14935,
+        14944,
+        14953,
+        14962,
+        14971,
+        14976,
+        14981
+    ],
+    "14918": "UGC Ultiduo Steel 1st Place",
+    "14919": "UGC Ultiduo Steel 2nd Place",
+    "14920": "UGC Ultiduo Steel 3rd Place",
+    "14921": "UGC Ultiduo Steel Participant",
+    "14922": "UGC Ultiduo Platinum 1st Place",
+    "14923": "UGC Ultiduo Platinum 2nd Place",
+    "14924": "UGC Ultiduo Platinum 3rd Place",
+    "14925": "UGC Ultiduo Platinum Participant",
+    "14926": "UGC Ultiduo Participant",
+    "14927": "UGC Ultiduo Steel 1st Place",
+    "14928": "UGC Ultiduo Steel 2nd Place",
+    "14929": "UGC Ultiduo Steel 3rd Place",
+    "14930": "UGC Ultiduo Steel Participant",
+    "14931": "UGC Ultiduo Platinum 1st Place",
+    "14932": "UGC Ultiduo Platinum 2nd Place",
+    "14933": "UGC Ultiduo Platinum 3rd Place",
+    "14934": "UGC Ultiduo Platinum Participant",
+    "14935": "UGC Ultiduo Participant",
+    "14936": "UGC Ultiduo Steel 1st Place",
+    "14937": "UGC Ultiduo Steel 2nd Place",
+    "14938": "UGC Ultiduo Steel 3rd Place",
+    "14939": "UGC Ultiduo Steel Participant",
+    "14940": "UGC Ultiduo Platinum 1st Place",
+    "14941": "UGC Ultiduo Platinum 2nd Place",
+    "14942": "UGC Ultiduo Platinum 3rd Place",
+    "14943": "UGC Ultiduo Platinum Participant",
+    "14944": "UGC Ultiduo Participant",
+    "14945": "UGC Ultiduo Steel 1st Place",
+    "14946": "UGC Ultiduo Steel 2nd Place",
+    "14947": "UGC Ultiduo Steel 3rd Place",
+    "14948": "UGC Ultiduo Steel Participant",
+    "14949": "UGC Ultiduo Platinum 1st Place",
+    "14950": "UGC Ultiduo Platinum 2nd Place",
+    "14951": "UGC Ultiduo Platinum 3rd Place",
+    "14952": "UGC Ultiduo Platinum Participant",
+    "14953": "UGC Ultiduo Participant",
+    "14954": "UGC Ultiduo Steel 1st Place",
+    "14955": "UGC Ultiduo Steel 2nd Place",
+    "14956": "UGC Ultiduo Steel 3rd Place",
+    "14957": "UGC Ultiduo Steel Participant",
+    "14958": "UGC Ultiduo Platinum 1st Place",
+    "14959": "UGC Ultiduo Platinum 2nd Place",
+    "14960": "UGC Ultiduo Platinum 3rd Place",
+    "14961": "UGC Ultiduo Platinum Participant",
+    "14962": "UGC Ultiduo Participant",
+    "14963": "UGC Ultiduo Steel 1st Place",
+    "14964": "UGC Ultiduo Steel 2nd Place",
+    "14965": "UGC Ultiduo Steel 3rd Place",
+    "14966": "UGC Ultiduo Steel Participant",
+    "14967": "UGC Ultiduo Platinum 1st Place",
+    "14968": "UGC Ultiduo Platinum 2nd Place",
+    "14969": "UGC Ultiduo Platinum 3rd Place",
+    "14970": "UGC Ultiduo Platinum Participant",
+    "14971": "UGC Ultiduo Participant",
+    "14972": "UGC Ultiduo Platinum 1st Place",
+    "14973": "UGC Ultiduo Platinum 2nd Place",
+    "14974": "UGC Ultiduo Platinum 3rd Place",
+    "14975": "UGC Ultiduo Platinum Participant",
+    "14976": "UGC Ultiduo Participant",
+    "14977": "UGC Ultiduo Platinum 1st Place",
+    "14978": "UGC Ultiduo Platinum 2nd Place",
+    "14979": "UGC Ultiduo Platinum 3rd Place",
+    "14980": "UGC Ultiduo Platinum Participant",
+    "14981": "UGC Ultiduo Participant",
+    "14982": "UGC Ultiduo Platinum 1st Place",
+    "14983": "UGC Ultiduo Platinum 2nd Place",
+    "14984": "UGC Ultiduo Platinum 3rd Place",
+    "14985": "UGC Ultiduo Platinum Participant",
+    "14986": "UGC League Admin and Contributor",
+    "14987": "UGC League Admin and Contributor",
+    "14988": "UGC League Admin and Contributor",
+    "14989": "UGC League Admin and Contributor",
+    "14990": "Brazil Fortress Halloween - Scary Group First Place",
+    "14991": "Brazil Fortress Halloween - Scary Group Second Place",
+    "14992": "Brazil Fortress Halloween - Scary Group Third Place",
+    "14993": "Brazil Fortress Halloween - Scary Group Participant",
+    "14994": "Brazil Fortress Halloween - Cursed Assistant",
+    "Brazil Fortress Halloween - Cursed Assistant": [
+        14994,
+        18515
+    ],
+    "14995": "Brazil Fortress Halloween - The First Scary",
+    "Brazil Fortress Halloween - The First Scary": [
+        14995,
+        14999
+    ],
+    "14996": "Brazil Fortress Halloween - The Second Spell",
+    "Brazil Fortress Halloween - The Second Spell": [
+        14996,
+        18500
+    ],
+    "14997": "Brazil Fortress Halloween - The Third Monstrosity",
+    "Brazil Fortress Halloween - The Third Monstrosity": [
+        14997,
+        18501
+    ],
+    "14998": "Brazil Fortress Halloween - The Vampiric Participant",
+    "Brazil Fortress Halloween - The Vampiric Participant": [
+        14998,
+        18502
+    ],
+    "14999": "Brazil Fortress Halloween - The First Scary",
     "15000": "Sniper Rifle",
     "15001": "SMG",
     "15002": "Scattergun",
@@ -25445,6 +26272,297 @@
     "'Contract Campaigner' War Paint\nMercenary Grade Keyless Case": [
         18005
     ],
+    "18500": "Brazil Fortress Halloween - The Second Spell",
+    "18501": "Brazil Fortress Halloween - The Third Monstrosity",
+    "18502": "Brazil Fortress Halloween - The Vampiric Participant",
+    "18503": "Brazil Fortress Halloween - Scary Group First Place",
+    "18504": "Brazil Fortress Halloween - Scary Group Second Place",
+    "18505": "Brazil Fortress Halloween - Scary Group Third Place",
+    "18506": "Brazil Fortress Halloween - Scary Group Participant",
+    "18507": "Brazil Fortress Halloween - Haunted Group First Place",
+    "18508": "Brazil Fortress Halloween - Haunted Group Second Place",
+    "18509": "Brazil Fortress Halloween - Haunted Group Third Place",
+    "18510": "Brazil Fortress Halloween - Haunted Group Participant",
+    "18511": "Brazil Fortress Halloween - Ghastly Group First Place",
+    "18512": "Brazil Fortress Halloween - Ghastly Group Second Place",
+    "18513": "Brazil Fortress Halloween - Ghastly Group Third Place",
+    "18514": "Brazil Fortress Halloween - Ghastly Group Participant",
+    "18515": "Brazil Fortress Halloween - Cursed Assistant",
+    "18516": "Brazil Fortress 6v6 Invite First Place",
+    "18517": "Brazil Fortress 6v6 Invite Second Place",
+    "18518": "Brazil Fortress 6v6 Invite Third Place",
+    "18519": "Brazil Fortress 6v6 Invite Participant",
+    "18520": "Brazil Fortress 6v6 Division 1 First Place",
+    "18521": "Brazil Fortress 6v6 Division 1 Second Place",
+    "18522": "Brazil Fortress 6v6 Division 1 Third Place",
+    "18523": "Brazil Fortress 6v6 Division 1 Participant",
+    "18524": "Brazil Fortress 6v6 Division 2 First Place",
+    "18525": "Brazil Fortress 6v6 Division 2 Second Place",
+    "18526": "Brazil Fortress 6v6 Division 2 Third Place",
+    "18527": "Brazil Fortress 6v6 Division 2 Participant",
+    "18528": "Brazil Fortress 6v6 Academy First Place",
+    "18529": "Brazil Fortress 6v6 Academy Second Place",
+    "18530": "Brazil Fortress 6v6 Academy Third Place",
+    "18531": "Brazil Fortress 6v6 Academy Participant",
+    "18532": "Brazil Fortress 6v6 Invite First Place",
+    "18533": "Brazil Fortress 6v6 Invite Second Place",
+    "18534": "Brazil Fortress 6v6 Invite Third Place",
+    "18535": "Brazil Fortress 6v6 Invite Participant",
+    "18536": "Brazil Fortress 6v6 Division 1 First Place",
+    "18537": "Brazil Fortress 6v6 Division 1 Second Place",
+    "18538": "Brazil Fortress 6v6 Division 1 Third Place",
+    "18539": "Brazil Fortress 6v6 Division 1 Participant",
+    "18540": "Brazil Fortress 6v6 Division 2 First Place",
+    "18541": "Brazil Fortress 6v6 Division 2 Second Place",
+    "18542": "Brazil Fortress 6v6 Division 2 Third Place",
+    "18543": "Brazil Fortress 6v6 Division 2 Participant",
+    "18544": "Brazil Fortress 6v6 Academy First Place",
+    "18545": "Brazil Fortress 6v6 Academy Second Place",
+    "18546": "Brazil Fortress 6v6 Academy Third Place",
+    "18547": "Brazil Fortress 6v6 Academy Participant",
+    "18548": "Brazil Fortress 6v6 Custom Maps CUP First Place",
+    "Brazil Fortress 6v6 Custom Maps CUP First Place": [
+        18548,
+        18552
+    ],
+    "18549": "Brazil Fortress 6v6 Custom Maps CUP Second Place",
+    "Brazil Fortress 6v6 Custom Maps CUP Second Place": [
+        18549,
+        18553
+    ],
+    "18550": "Brazil Fortress 6v6 Custom Maps CUP Third Place",
+    "Brazil Fortress 6v6 Custom Maps CUP Third Place": [
+        18550,
+        18554
+    ],
+    "18551": "Brazil Fortress 6v6 Custom Maps CUP Participant",
+    "Brazil Fortress 6v6 Custom Maps CUP Participant": [
+        18551,
+        18555
+    ],
+    "18552": "Brazil Fortress 6v6 Custom Maps CUP First Place",
+    "18553": "Brazil Fortress 6v6 Custom Maps CUP Second Place",
+    "18554": "Brazil Fortress 6v6 Custom Maps CUP Third Place",
+    "18555": "Brazil Fortress 6v6 Custom Maps CUP Participant",
+    "18556": "MGE.tf EU 2v2 Premier 1st Place",
+    "18557": "MGE.tf EU 2v2 Premier 2nd Place",
+    "18558": "MGE.tf EU 2v2 Premier 3rd Place",
+    "18559": "MGE.tf EU 2v2 Premier Participant",
+    "18560": "MGE.tf EU 2v2 Intermediate 1st Place",
+    "18561": "MGE.tf EU 2v2 Intermediate 2nd Place",
+    "18562": "MGE.tf EU 2v2 Intermediate 3rd Place",
+    "18563": "MGE.tf EU 2v2 Intermediate Participant",
+    "18564": "MGE.tf EU 2v2 Open 1st Place",
+    "18565": "MGE.tf EU 2v2 Open 2nd Place",
+    "18566": "MGE.tf EU 2v2 Open 3rd Place",
+    "18567": "MGE.tf EU 2v2 Open Participant",
+    "18568": "MGE.tf EU 2v2 Newcomer Participant",
+    "MGE.tf EU 2v2 Newcomer Participant": [
+        18568
+    ],
+    "18569": "MGE.tf EU 2v2 Helper",
+    "18570": "MGE.tf NA 2v2 Invite 1st Place",
+    "MGE.tf NA 2v2 Invite 1st Place": [
+        18570
+    ],
+    "18571": "MGE.tf NA 2v2 Invite 2nd Place",
+    "MGE.tf NA 2v2 Invite 2nd Place": [
+        18571
+    ],
+    "18572": "MGE.tf NA 2v2 Invite 3rd Place",
+    "MGE.tf NA 2v2 Invite 3rd Place": [
+        18572
+    ],
+    "18573": "MGE.tf NA 2v2 Invite Participant",
+    "MGE.tf NA 2v2 Invite Participant": [
+        18573
+    ],
+    "18574": "MGE.tf NA 2v2 Intermediate 1st Place",
+    "MGE.tf NA 2v2 Intermediate 1st Place": [
+        18574
+    ],
+    "18575": "MGE.tf NA 2v2 Intermediate 2nd Place",
+    "MGE.tf NA 2v2 Intermediate 2nd Place": [
+        18575
+    ],
+    "18576": "MGE.tf NA 2v2 Intermediate 3rd Place",
+    "MGE.tf NA 2v2 Intermediate 3rd Place": [
+        18576
+    ],
+    "18577": "MGE.tf NA 2v2 Intermediate Participant",
+    "MGE.tf NA 2v2 Intermediate Participant": [
+        18577
+    ],
+    "18578": "MGE.tf NA 2v2 Open 1st Place",
+    "MGE.tf NA 2v2 Open 1st Place": [
+        18578
+    ],
+    "18579": "MGE.tf NA 2v2 Open 2nd Place",
+    "MGE.tf NA 2v2 Open 2nd Place": [
+        18579
+    ],
+    "18580": "MGE.tf NA 2v2 Open 3rd Place",
+    "MGE.tf NA 2v2 Open 3rd Place": [
+        18580
+    ],
+    "18581": "MGE.tf NA 2v2 Open Participant",
+    "MGE.tf NA 2v2 Open Participant": [
+        18581
+    ],
+    "18582": "MGE.tf NA 2v2 Newcomer Participant",
+    "MGE.tf NA 2v2 Newcomer Participant": [
+        18582
+    ],
+    "18583": "MGE.tf NA 2v2 Helper",
+    "MGE.tf NA 2v2 Helper": [
+        18583
+    ],
+    "18584": "Brazil Fortress QEL 4v4 Halloween - Scary Group First Place",
+    "Brazil Fortress QEL 4v4 Halloween - Scary Group First Place": [
+        18584
+    ],
+    "18585": "Brazil Fortress QEL 4v4 Halloween - Scary Group Second Place",
+    "Brazil Fortress QEL 4v4 Halloween - Scary Group Second Place": [
+        18585
+    ],
+    "18586": "Brazil Fortress QEL 4v4 Halloween - Scary Group Third Place",
+    "Brazil Fortress QEL 4v4 Halloween - Scary Group Third Place": [
+        18586
+    ],
+    "18587": "Brazil Fortress QEL 4v4 Halloween - Scary Group Participant",
+    "Brazil Fortress QEL 4v4 Halloween - Scary Group Participant": [
+        18587
+    ],
+    "18588": "Brazil Fortress QEL 4v4 Halloween - Haunted Group First Place",
+    "Brazil Fortress QEL 4v4 Halloween - Haunted Group First Place": [
+        18588
+    ],
+    "18589": "Brazil Fortress QEL 4v4 Halloween - Haunted Group Second Place",
+    "Brazil Fortress QEL 4v4 Halloween - Haunted Group Second Place": [
+        18589
+    ],
+    "18590": "Brazil Fortress QEL 4v4 Halloween - Haunted Group Third Place",
+    "Brazil Fortress QEL 4v4 Halloween - Haunted Group Third Place": [
+        18590
+    ],
+    "18591": "Brazil Fortress QEL 4v4 Halloween - Haunted Group Participant",
+    "Brazil Fortress QEL 4v4 Halloween - Haunted Group Participant": [
+        18591
+    ],
+    "18592": "Brazil Fortress QEL 4v4 Halloween - Ghastly Group First Place",
+    "Brazil Fortress QEL 4v4 Halloween - Ghastly Group First Place": [
+        18592
+    ],
+    "18593": "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Second Place",
+    "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Second Place": [
+        18593
+    ],
+    "18594": "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Third Place",
+    "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Third Place": [
+        18594
+    ],
+    "18595": "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Participant",
+    "Brazil Fortress QEL 4v4 Halloween - Ghastly Group Participant": [
+        18595
+    ],
+    "18596": "Brazil Fortress QEL 4v4 Halloween - Eerie Group First Place",
+    "Brazil Fortress QEL 4v4 Halloween - Eerie Group First Place": [
+        18596
+    ],
+    "18597": "Brazil Fortress QEL 4v4 Halloween - Eerie Group Second Place",
+    "Brazil Fortress QEL 4v4 Halloween - Eerie Group Second Place": [
+        18597
+    ],
+    "18598": "Brazil Fortress QEL 4v4 Halloween - Eerie Group Third Place",
+    "Brazil Fortress QEL 4v4 Halloween - Eerie Group Third Place": [
+        18598
+    ],
+    "18599": "Brazil Fortress QEL 4v4 Halloween - Eerie Group Participant",
+    "Brazil Fortress QEL 4v4 Halloween - Eerie Group Participant": [
+        18599
+    ],
+    "18600": "Brazil Fortress QEL 4v4 Halloween - Spooky Group First Place",
+    "Brazil Fortress QEL 4v4 Halloween - Spooky Group First Place": [
+        18600
+    ],
+    "18601": "Brazil Fortress QEL 4v4 Halloween - Spooky Group Second Place",
+    "Brazil Fortress QEL 4v4 Halloween - Spooky Group Second Place": [
+        18601
+    ],
+    "18602": "Brazil Fortress QEL 4v4 Halloween - Spooky Group Third Place",
+    "Brazil Fortress QEL 4v4 Halloween - Spooky Group Third Place": [
+        18602
+    ],
+    "18603": "Brazil Fortress QEL 4v4 Halloween - Spooky Group Participant",
+    "Brazil Fortress QEL 4v4 Halloween - Spooky Group Participant": [
+        18603
+    ],
+    "18604": "Brazil Fortress QEL 4v4 Halloween - Cursed Assistant",
+    "Brazil Fortress QEL 4v4 Halloween - Cursed Assistant": [
+        18604
+    ],
+    "18605": "Brazil Fortress Highlander Halloween - Scary Group First Place",
+    "Brazil Fortress Highlander Halloween - Scary Group First Place": [
+        18605
+    ],
+    "18606": "Brazil Fortress Highlander Halloween - Scary Group Second Place",
+    "Brazil Fortress Highlander Halloween - Scary Group Second Place": [
+        18606
+    ],
+    "18607": "Brazil Fortress Highlander Halloween - Scary Group Third Place",
+    "Brazil Fortress Highlander Halloween - Scary Group Third Place": [
+        18607
+    ],
+    "18608": "Brazil Fortress Highlander Halloween - Scary Group Participant",
+    "Brazil Fortress Highlander Halloween - Scary Group Participant": [
+        18608
+    ],
+    "18609": "Brazil Fortress Highlander Halloween - Haunted Group First Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group First Place": [
+        18609
+    ],
+    "18610": "Brazil Fortress Highlander Halloween - Haunted Group Second Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group Second Place": [
+        18610
+    ],
+    "18611": "Brazil Fortress Highlander Halloween - Haunted Group Third Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group Third Place": [
+        18611
+    ],
+    "18612": "Brazil Fortress Highlander Halloween - Haunted Group Participant",
+    "Brazil Fortress Highlander Halloween - Haunted Group Participant": [
+        18612
+    ],
+    "18613": "Brazil Fortress Highlander Halloween - Ghastly Group First Place",
+    "Brazil Fortress Highlander Halloween - Ghastly Group First Place": [
+        18613
+    ],
+    "18614": "Brazil Fortress Highlander Halloween - Ghastly Group Second Place",
+    "Brazil Fortress Highlander Halloween - Ghastly Group Second Place": [
+        18614
+    ],
+    "18615": "Brazil Fortress Highlander Halloween - Ghastly Group Third Place",
+    "Brazil Fortress Highlander Halloween - Ghastly Group Third Place": [
+        18615
+    ],
+    "18616": "Brazil Fortress Highlander Halloween - Ghastly Group Participant",
+    "Brazil Fortress Highlander Halloween - Ghastly Group Participant": [
+        18616
+    ],
+    "18617": "Brazil Fortress Highlander Halloween - Cursed Assistant",
+    "Brazil Fortress Highlander Halloween - Cursed Assistant": [
+        18617
+    ],
+    "18618": "United Dodgeball League Gold Medal",
+    "18619": "United Dodgeball League Silver Medal",
+    "18620": "United Dodgeball League Bronze Medal",
+    "18621": "United Dodgeball League Participant",
+    "18622": "United Dodgeball League Supporter",
+    "18623": "TF2Maps Charitable Heart 2025",
+    "TF2Maps Charitable Heart 2025": [
+        18623
+    ],
+    "18624": "TF2Maps 72hr TF2Jam Participant",
     "20000": "Chemistry Set",
     "Chemistry Set": [
         20000,
@@ -29333,8 +30451,8 @@
     "Sir Pumpkinton": [
         31131
     ],
-    "31132": "Wrap-A-Khamon",
-    "Wrap-A-Khamon": [
+    "31132": "Wrap-a-Khamon",
+    "Wrap-a-Khamon": [
         31132
     ],
     "31133": "Boom Boxers",
@@ -29493,8 +30611,8 @@
     "Towering Pile of Presents": [
         31173
     ],
-    "31174": "Round-A-Bout",
-    "Round-A-Bout": [
+    "31174": "Round-a-Bout",
+    "Round-a-Bout": [
         31174
     ],
     "31175": "Blitzen Bowl",
@@ -31044,5 +32162,109 @@
     "31575": "Zepheniah's Shroud",
     "Zepheniah's Shroud": [
         31575
+    ],
+    "31576": "Taunt: Dead Mann's Drink",
+    "Taunt: Dead Mann's Drink": [
+        31576
+    ],
+    "31577": "Taunt: The Critical Fail",
+    "Taunt: The Critical Fail": [
+        31577
+    ],
+    "31578": "Taunt: Chairholder",
+    "Taunt: Chairholder": [
+        31578
+    ],
+    "31579": "Lazer Gazers",
+    "Lazer Gazers": [
+        31579
+    ],
+    "31580": "Snow Merc",
+    "Snow Merc": [
+        31580
+    ],
+    "31581": "Old Days Devotion",
+    "Old Days Devotion": [
+        31581
+    ],
+    "31582": "Alpine Hawk",
+    "Alpine Hawk": [
+        31582
+    ],
+    "31583": "Alpine Apparel",
+    "Alpine Apparel": [
+        31583
+    ],
+    "31584": "Chill-Seeker",
+    "Chill-Seeker": [
+        31584
+    ],
+    "31585": "Puncher's Polar Puffer",
+    "Puncher's Polar Puffer": [
+        31585
+    ],
+    "31586": "Commonwealth Commander",
+    "Commonwealth Commander": [
+        31586
+    ],
+    "31587": "Veteran's Visor",
+    "Veteran's Visor": [
+        31587
+    ],
+    "31588": "Deserter's Duster",
+    "Deserter's Duster": [
+        31588
+    ],
+    "31589": "Blizzard Bonnet",
+    "Blizzard Bonnet": [
+        31589
+    ],
+    "31590": "Festive Fleece",
+    "Festive Fleece": [
+        31590
+    ],
+    "31591": "Air Head",
+    "Air Head": [
+        31591
+    ],
+    "31592": "Sydney Shearling",
+    "Sydney Shearling": [
+        31592
+    ],
+    "31593": "Epilogue Locks",
+    "Epilogue Locks": [
+        31593
+    ],
+    "31594": "Willis' Warmer",
+    "Willis' Warmer": [
+        31594
+    ],
+    "31595": "Sole Providers",
+    "Sole Providers": [
+        31595
+    ],
+    "31596": "Scrooge McCrocket",
+    "Scrooge McCrocket": [
+        31596
+    ],
+    "31597": "Black Tie Affair",
+    "Black Tie Affair": [
+        31597
+    ],
+    "31598": "Aristocravat",
+    "Aristocravat": [
+        31598
+    ],
+    "31599": "Flatline Flatcap",
+    "Flatline Flatcap": [
+        31599
+    ],
+    "31600": "Cardiologist's Cardigan",
+    "Cardiologist's Cardigan": [
+        31600
+    ],
+    "31601": "Scrub Stompers",
+    "Scrub Stompers": [
+        31601
     ]
 }
