@@ -1,7 +1,7 @@
 # flake8: noqa
 __title__ = "tf2-data"
 __author__ = "offish"
-__version__ = "1.0.6"
+__version__ = "1.0.7"
 __license__ = "MIT"
 
 from .constants import COLORS, EXTERIORS, KILLSTREAKS, QUALITIES, QUALITY_COLORS, WEARS
