@@ -4203,6 +4203,30 @@
     "Smissmas Ornament Beach Ball Assets": [
         1200
     ],
+    "1201": "Poker Visor 2026",
+    "Poker Visor 2026": [
+        1201
+    ],
+    "1202": "TTG Max Pistol - Poker Night 2026",
+    "TTG Max Pistol - Poker Night 2026": [
+        1202
+    ],
+    "1203": "TTG Glasses 2026",
+    "TTG Glasses 2026": [
+        1203
+    ],
+    "1204": "TTG Badge 2026",
+    "TTG Badge 2026": [
+        1204
+    ],
+    "1205": "TTG Watch 2026",
+    "TTG Watch 2026": [
+        1205
+    ],
+    "1206": "Iron Curtain 2026",
+    "Iron Curtain 2026": [
+        1206
+    ],
     "1899": "World Traveler",
     "World Traveler": [
         1899
@@ -5323,6 +5347,10 @@
     "Map Token Bundle 30": [
         2179
     ],
+    "2180": "Map Token Bundle 31",
+    "Map Token Bundle 31": [
+        2180
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5586,6 +5614,30 @@
     "2565": "Map Token Matterhorn",
     "Map Token Matterhorn": [
         2565
+    ],
+    "2566": "Map Token Dryfield",
+    "Map Token Dryfield": [
+        2566
+    ],
+    "2567": "Map Token Camp Saxton",
+    "Map Token Camp Saxton": [
+        2567
+    ],
+    "2568": "Map Token Shorelight",
+    "Map Token Shorelight": [
+        2568
+    ],
+    "2569": "Map Token Redwood",
+    "Map Token Redwood": [
+        2569
+    ],
+    "2570": "Map Token Premuda",
+    "Map Token Premuda": [
+        2570
+    ],
+    "2571": "Map Token Mojave",
+    "Map Token Mojave": [
+        2571
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -7219,6 +7271,22 @@
     "Winter 2025 Cosmetic Case": [
         5976
     ],
+    "5977": "Summer 2026 Cosmetic Key",
+    "Summer 2026 Cosmetic Key": [
+        5977
+    ],
+    "5978": "Summer 2026 Cosmetic Case",
+    "Summer 2026 Cosmetic Case": [
+        5978
+    ],
+    "5979": "Summer 2026 War Paint Key",
+    "Summer 2026 War Paint Key": [
+        5979
+    ],
+    "5980": "Summer 2026 War Paint Case",
+    "Summer 2026 War Paint Case": [
+        5980
+    ],
     "5999": "Strange Part (Armory)",
     "Strange Part (Armory)": [
         5999
@@ -8154,6 +8222,30 @@
     "6682": "Strange Filter: Matterhorn (Community)",
     "Strange Filter: Matterhorn (Community)": [
         6682
+    ],
+    "6683": "Strange Filter: Dryfield (Community)",
+    "Strange Filter: Dryfield (Community)": [
+        6683
+    ],
+    "6684": "Strange Filter: Camp Saxton (Community)",
+    "Strange Filter: Camp Saxton (Community)": [
+        6684
+    ],
+    "6685": "Strange Filter: Shorelight (Community)",
+    "Strange Filter: Shorelight (Community)": [
+        6685
+    ],
+    "6686": "Strange Filter: Redwood (Community)",
+    "Strange Filter: Redwood (Community)": [
+        6686
+    ],
+    "6687": "Strange Filter: Premuda (Community)",
+    "Strange Filter: Premuda (Community)": [
+        6687
+    ],
+    "6688": "Strange Filter: Mojave (Community)",
+    "Strange Filter: Mojave (Community)": [
+        6688
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -32091,48 +32183,48 @@
     "Osmium Ordinance Bohrium Buster 2024": [
         14043
     ],
-    "14044": "AsiaFortress Liquid.tf Open 1st Place Spring 2024",
-    "AsiaFortress Liquid.tf Open 1st Place Spring 2024": [
+    "14044": "AsiaFortress Open 1st Place Spring 2024",
+    "AsiaFortress Open 1st Place Spring 2024": [
         14044
     ],
-    "14045": "AsiaFortress Liquid.tf Open 2nd Place Spring 2024",
-    "AsiaFortress Liquid.tf Open 2nd Place Spring 2024": [
+    "14045": "AsiaFortress Open 2nd Place Spring 2024",
+    "AsiaFortress Open 2nd Place Spring 2024": [
         14045
     ],
-    "14046": "AsiaFortress Liquid.tf Open 3rd Place Spring 2024",
-    "AsiaFortress Liquid.tf Open 3rd Place Spring 2024": [
+    "14046": "AsiaFortress Open 3rd Place Spring 2024",
+    "AsiaFortress Open 3rd Place Spring 2024": [
         14046
     ],
-    "14047": "AsiaFortress Liquid.tf Invite Participant Spring 2024",
-    "AsiaFortress Liquid.tf Invite Participant Spring 2024": [
+    "14047": "AsiaFortress Invite Participant Spring 2024",
+    "AsiaFortress Invite Participant Spring 2024": [
         14047
     ],
-    "14048": "AsiaFortress Liquid.tf Open Participant Spring 2024",
-    "AsiaFortress Liquid.tf Open Participant Spring 2024": [
+    "14048": "AsiaFortress Open Participant Spring 2024",
+    "AsiaFortress Open Participant Spring 2024": [
         14048
     ],
-    "14049": "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2024": [
+    "14049": "AsiaFortress Highlander Open 1st Place Summer 2024",
+    "AsiaFortress Highlander Open 1st Place Summer 2024": [
         14049
     ],
-    "14050": "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2024": [
+    "14050": "AsiaFortress Highlander Open 2nd Place Summer 2024",
+    "AsiaFortress Highlander Open 2nd Place Summer 2024": [
         14050
     ],
-    "14051": "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2024": [
+    "14051": "AsiaFortress Highlander Open 3rd Place Summer 2024",
+    "AsiaFortress Highlander Open 3rd Place Summer 2024": [
         14051
     ],
-    "14052": "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2024": [
+    "14052": "AsiaFortress Highlander Invite Participant Summer 2024",
+    "AsiaFortress Highlander Invite Participant Summer 2024": [
         14052
     ],
-    "14053": "AsiaFortress Liquid.tf Highlander Open Participant Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Open Participant Summer 2024": [
+    "14053": "AsiaFortress Highlander Open Participant Summer 2024",
+    "AsiaFortress Highlander Open Participant Summer 2024": [
         14053
     ],
-    "14054": "AsiaFortress Liquid.tf Mercenary Mashup May 2024",
-    "AsiaFortress Liquid.tf Mercenary Mashup May 2024": [
+    "14054": "AsiaFortress Mercenary Mashup May 2024",
+    "AsiaFortress Mercenary Mashup May 2024": [
         14054
     ],
     "14055": "Osmium Ordinance Cobalt Keepsake 2024",
@@ -32203,16 +32295,16 @@
     "LBTF2 Highlander Principal Participant Season 7": [
         14071
     ],
-    "14072": "AsiaFortress Liquid.tf Invite 1st Place Spring 2024",
-    "AsiaFortress Liquid.tf Invite 1st Place Spring 2024": [
+    "14072": "AsiaFortress Invite 1st Place Spring 2024",
+    "AsiaFortress Invite 1st Place Spring 2024": [
         14072
     ],
-    "14073": "AsiaFortress Liquid.tf Invite 2nd Place Spring 2024",
-    "AsiaFortress Liquid.tf Invite 2nd Place Spring 2024": [
+    "14073": "AsiaFortress Invite 2nd Place Spring 2024",
+    "AsiaFortress Invite 2nd Place Spring 2024": [
         14073
     ],
-    "14074": "AsiaFortress Liquid.tf Invite 3rd Place Spring 2024",
-    "AsiaFortress Liquid.tf Invite 3rd Place Spring 2024": [
+    "14074": "AsiaFortress Invite 3rd Place Spring 2024",
+    "AsiaFortress Invite 3rd Place Spring 2024": [
         14074
     ],
     "14075": "ozfortress Premier 1st Place Season 40",
@@ -32347,16 +32439,16 @@
     "PASS Time Federation Volunteer Season 4": [
         14107
     ],
-    "14108": "AsiaFortress Liquid.tf Highlander Invite 1st Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 1st Place Summer 2024": [
+    "14108": "AsiaFortress Highlander Invite 1st Place Summer 2024",
+    "AsiaFortress Highlander Invite 1st Place Summer 2024": [
         14108
     ],
-    "14109": "AsiaFortress Liquid.tf Highlander Invite 2nd Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 2nd Place Summer 2024": [
+    "14109": "AsiaFortress Highlander Invite 2nd Place Summer 2024",
+    "AsiaFortress Highlander Invite 2nd Place Summer 2024": [
         14109
     ],
-    "14110": "AsiaFortress Liquid.tf Highlander Invite 3rd Place Summer 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 3rd Place Summer 2024": [
+    "14110": "AsiaFortress Highlander Invite 3rd Place Summer 2024",
+    "AsiaFortress Highlander Invite 3rd Place Summer 2024": [
         14110
     ],
     "14111": "TF2Maps Charitable Heart 2024",
@@ -32367,24 +32459,24 @@
     "TF2Maps 72hr TF2Jam Participant 2024": [
         14112
     ],
-    "14113": "AsiaFortress Liquid.tf Open 1st Place Fall 2024",
-    "AsiaFortress Liquid.tf Open 1st Place Fall 2024": [
+    "14113": "AsiaFortress Open 1st Place Fall 2024",
+    "AsiaFortress Open 1st Place Fall 2024": [
         14113
     ],
-    "14114": "AsiaFortress Liquid.tf Open 2nd Place Fall 2024",
-    "AsiaFortress Liquid.tf Open 2nd Place Fall 2024": [
+    "14114": "AsiaFortress Open 2nd Place Fall 2024",
+    "AsiaFortress Open 2nd Place Fall 2024": [
         14114
     ],
-    "14115": "AsiaFortress Liquid.tf Open 3rd Place Fall 2024",
-    "AsiaFortress Liquid.tf Open 3rd Place Fall 2024": [
+    "14115": "AsiaFortress Open 3rd Place Fall 2024",
+    "AsiaFortress Open 3rd Place Fall 2024": [
         14115
     ],
-    "14116": "AsiaFortress Liquid.tf Open Participant Fall 2024",
-    "AsiaFortress Liquid.tf Open Participant Fall 2024": [
+    "14116": "AsiaFortress Open Participant Fall 2024",
+    "AsiaFortress Open Participant Fall 2024": [
         14116
     ],
-    "14117": "AsiaFortress Liquid.tf Invite Participant Fall 2024",
-    "AsiaFortress Liquid.tf Invite Participant Fall 2024": [
+    "14117": "AsiaFortress Invite Participant Fall 2024",
+    "AsiaFortress Invite Participant Fall 2024": [
         14117
     ],
     "14118": "ozfortress Experimental Cup 3 Division 1 1st Place 2024",
@@ -32831,36 +32923,36 @@
     "Sacred Scouts 6v6 Participant 2024": [
         14228
     ],
-    "14229": "AsiaFortress Liquid.tf Invite 1st Place Fall 2024",
-    "AsiaFortress Liquid.tf Invite 1st Place Fall 2024": [
+    "14229": "AsiaFortress Invite 1st Place Fall 2024",
+    "AsiaFortress Invite 1st Place Fall 2024": [
         14229
     ],
-    "14230": "AsiaFortress Liquid.tf Invite 2nd Place Fall 2024",
-    "AsiaFortress Liquid.tf Invite 2nd Place Fall 2024": [
+    "14230": "AsiaFortress Invite 2nd Place Fall 2024",
+    "AsiaFortress Invite 2nd Place Fall 2024": [
         14230
     ],
-    "14231": "AsiaFortress Liquid.tf Invite 3rd Place Fall 2024",
-    "AsiaFortress Liquid.tf Invite 3rd Place Fall 2024": [
+    "14231": "AsiaFortress Invite 3rd Place Fall 2024",
+    "AsiaFortress Invite 3rd Place Fall 2024": [
         14231
     ],
-    "14232": "AsiaFortress Liquid.tf Highlander Open 1st Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Open 1st Place Winter 2024": [
+    "14232": "AsiaFortress Highlander Open 1st Place Winter 2024",
+    "AsiaFortress Highlander Open 1st Place Winter 2024": [
         14232
     ],
-    "14233": "AsiaFortress Liquid.tf Highlander Open 2nd Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Open 2nd Place Winter 2024": [
+    "14233": "AsiaFortress Highlander Open 2nd Place Winter 2024",
+    "AsiaFortress Highlander Open 2nd Place Winter 2024": [
         14233
     ],
-    "14234": "AsiaFortress Liquid.tf Highlander Open 3rd Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Open 3rd Place Winter 2024": [
+    "14234": "AsiaFortress Highlander Open 3rd Place Winter 2024",
+    "AsiaFortress Highlander Open 3rd Place Winter 2024": [
         14234
     ],
-    "14235": "AsiaFortress Liquid.tf Highlander Invite Participant Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Invite Participant Winter 2024": [
+    "14235": "AsiaFortress Highlander Invite Participant Winter 2024",
+    "AsiaFortress Highlander Invite Participant Winter 2024": [
         14235
     ],
-    "14236": "AsiaFortress Liquid.tf Highlander Open Participant Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Open Participant Winter 2024": [
+    "14236": "AsiaFortress Highlander Open Participant Winter 2024",
+    "AsiaFortress Highlander Open Participant Winter 2024": [
         14236
     ],
     "14237": "ozfortress Premier 1st Place Season 41",
@@ -32979,24 +33071,24 @@
     "Ghoulish Gambit Poisonous Potato 2024": [
         14265
     ],
-    "14266": "AsiaFortress Liquid.tf Newbie Cup 9 1st Place",
-    "AsiaFortress Liquid.tf Newbie Cup 9 1st Place": [
+    "14266": "AsiaFortress Newbie Cup 9 1st Place",
+    "AsiaFortress Newbie Cup 9 1st Place": [
         14266
     ],
-    "14267": "AsiaFortress Liquid.tf Newbie Cup 9 2nd Place",
-    "AsiaFortress Liquid.tf Newbie Cup 9 2nd Place": [
+    "14267": "AsiaFortress Newbie Cup 9 2nd Place",
+    "AsiaFortress Newbie Cup 9 2nd Place": [
         14267
     ],
-    "14268": "AsiaFortress Liquid.tf Newbie Cup 9 3rd Place",
-    "AsiaFortress Liquid.tf Newbie Cup 9 3rd Place": [
+    "14268": "AsiaFortress Newbie Cup 9 3rd Place",
+    "AsiaFortress Newbie Cup 9 3rd Place": [
         14268
     ],
-    "14269": "AsiaFortress Liquid.tf Newbie Cup 9 Participant",
-    "AsiaFortress Liquid.tf Newbie Cup 9 Participant": [
+    "14269": "AsiaFortress Newbie Cup 9 Participant",
+    "AsiaFortress Newbie Cup 9 Participant": [
         14269
     ],
-    "14270": "AsiaFortress Liquid.tf Newbie Cup 9 Coach",
-    "AsiaFortress Liquid.tf Newbie Cup 9 Coach": [
+    "14270": "AsiaFortress Newbie Cup 9 Coach",
+    "AsiaFortress Newbie Cup 9 Coach": [
         14270
     ],
     "14271": "ozfortress Premier 1st Place Season 42",
@@ -33499,104 +33591,104 @@
     "RGLgg Highlander Experimental Cup Spring 2024": [
         14395
     ],
-    "14396": "AsiaFortress Liquid.tf Invite 1st Place Spring 2025",
-    "AsiaFortress Liquid.tf Invite 1st Place Spring 2025": [
+    "14396": "AsiaFortress Invite 1st Place Spring 2025",
+    "AsiaFortress Invite 1st Place Spring 2025": [
         14396
     ],
-    "14397": "AsiaFortress Liquid.tf Invite 2nd Place Spring 2025",
-    "AsiaFortress Liquid.tf Invite 2nd Place Spring 2025": [
+    "14397": "AsiaFortress Invite 2nd Place Spring 2025",
+    "AsiaFortress Invite 2nd Place Spring 2025": [
         14397
     ],
-    "14398": "AsiaFortress Liquid.tf Invite 3rd Place Spring 2025",
-    "AsiaFortress Liquid.tf Invite 3rd Place Spring 2025": [
+    "14398": "AsiaFortress Invite 3rd Place Spring 2025",
+    "AsiaFortress Invite 3rd Place Spring 2025": [
         14398
     ],
-    "14399": "AsiaFortress Liquid.tf Main 1st Place Spring 2025",
-    "AsiaFortress Liquid.tf Main 1st Place Spring 2025": [
+    "14399": "AsiaFortress Main 1st Place Spring 2025",
+    "AsiaFortress Main 1st Place Spring 2025": [
         14399
     ],
-    "14400": "AsiaFortress Liquid.tf Main 2nd Place Spring 2025",
-    "AsiaFortress Liquid.tf Main 2nd Place Spring 2025": [
+    "14400": "AsiaFortress Main 2nd Place Spring 2025",
+    "AsiaFortress Main 2nd Place Spring 2025": [
         14400
     ],
-    "14401": "AsiaFortress Liquid.tf Main 3rd Place Spring 2025",
-    "AsiaFortress Liquid.tf Main 3rd Place Spring 2025": [
+    "14401": "AsiaFortress Main 3rd Place Spring 2025",
+    "AsiaFortress Main 3rd Place Spring 2025": [
         14401
     ],
-    "14402": "AsiaFortress Liquid.tf Invite Participant Spring 2025",
-    "AsiaFortress Liquid.tf Invite Participant Spring 2025": [
+    "14402": "AsiaFortress Invite Participant Spring 2025",
+    "AsiaFortress Invite Participant Spring 2025": [
         14402
     ],
-    "14403": "AsiaFortress Liquid.tf Main Participant Spring 2025",
-    "AsiaFortress Liquid.tf Main Participant Spring 2025": [
+    "14403": "AsiaFortress Main Participant Spring 2025",
+    "AsiaFortress Main Participant Spring 2025": [
         14403
     ],
-    "14404": "AsiaFortress Liquid.tf Open Participant Spring 2025",
-    "AsiaFortress Liquid.tf Open Participant Spring 2025": [
+    "14404": "AsiaFortress Open Participant Spring 2025",
+    "AsiaFortress Open Participant Spring 2025": [
         14404
     ],
-    "14405": "AsiaFortress Liquid.tf Newbie 1st Place Cup 10",
-    "AsiaFortress Liquid.tf Newbie 1st Place Cup 10": [
+    "14405": "AsiaFortress Newbie 1st Place Cup 10",
+    "AsiaFortress Newbie 1st Place Cup 10": [
         14405
     ],
-    "14406": "AsiaFortress Liquid.tf Newbie 2nd Place Cup 10",
-    "AsiaFortress Liquid.tf Newbie 2nd Place Cup 10": [
+    "14406": "AsiaFortress Newbie 2nd Place Cup 10",
+    "AsiaFortress Newbie 2nd Place Cup 10": [
         14406
     ],
-    "14407": "AsiaFortress Liquid.tf Newbie 3rd Place Cup 10",
-    "AsiaFortress Liquid.tf Newbie 3rd Place Cup 10": [
+    "14407": "AsiaFortress Newbie 3rd Place Cup 10",
+    "AsiaFortress Newbie 3rd Place Cup 10": [
         14407
     ],
-    "14408": "AsiaFortress Liquid.tf Newbie Participant Cup 10",
-    "AsiaFortress Liquid.tf Newbie Participant Cup 10": [
+    "14408": "AsiaFortress Newbie Participant Cup 10",
+    "AsiaFortress Newbie Participant Cup 10": [
         14408
     ],
-    "14409": "AsiaFortress Liquid.tf Newbie Coach Cup 10",
-    "AsiaFortress Liquid.tf Newbie Coach Cup 10": [
+    "14409": "AsiaFortress Newbie Coach Cup 10",
+    "AsiaFortress Newbie Coach Cup 10": [
         14409
     ],
-    "14410": "AsiaFortress Liquid.tf Gibus 1st Place Cup 1",
-    "AsiaFortress Liquid.tf Gibus 1st Place Cup 1": [
+    "14410": "AsiaFortress Gibus 1st Place Cup 1",
+    "AsiaFortress Gibus 1st Place Cup 1": [
         14410
     ],
-    "14411": "AsiaFortress Liquid.tf Gibus 2nd Place Cup 1",
-    "AsiaFortress Liquid.tf Gibus 2nd Place Cup 1": [
+    "14411": "AsiaFortress Gibus 2nd Place Cup 1",
+    "AsiaFortress Gibus 2nd Place Cup 1": [
         14411
     ],
-    "14412": "AsiaFortress Liquid.tf Gibus 3rd Place Cup 1",
-    "AsiaFortress Liquid.tf Gibus 3rd Place Cup 1": [
+    "14412": "AsiaFortress Gibus 3rd Place Cup 1",
+    "AsiaFortress Gibus 3rd Place Cup 1": [
         14412
     ],
-    "14413": "AsiaFortress Liquid.tf Gibus Participant Cup 1",
-    "AsiaFortress Liquid.tf Gibus Participant Cup 1": [
+    "14413": "AsiaFortress Gibus Participant Cup 1",
+    "AsiaFortress Gibus Participant Cup 1": [
         14413
     ],
-    "14414": "AsiaFortress Liquid.tf Gibus Coach Cup 1",
-    "AsiaFortress Liquid.tf Gibus Coach Cup 1": [
+    "14414": "AsiaFortress Gibus Coach Cup 1",
+    "AsiaFortress Gibus Coach Cup 1": [
         14414
     ],
-    "14415": "AsiaFortress Liquid.tf Champions Cup Participant",
-    "AsiaFortress Liquid.tf Champions Cup Participant": [
+    "14415": "AsiaFortress Champions Cup Participant",
+    "AsiaFortress Champions Cup Participant": [
         14415
     ],
-    "14416": "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2025",
-    "AsiaFortress Liquid.tf Highlander Open 1st Place Summer 2025": [
+    "14416": "AsiaFortress Highlander Open 1st Place Summer 2025",
+    "AsiaFortress Highlander Open 1st Place Summer 2025": [
         14416
     ],
-    "14417": "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2025",
-    "AsiaFortress Liquid.tf Highlander Open 2nd Place Summer 2025": [
+    "14417": "AsiaFortress Highlander Open 2nd Place Summer 2025",
+    "AsiaFortress Highlander Open 2nd Place Summer 2025": [
         14417
     ],
-    "14418": "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2025",
-    "AsiaFortress Liquid.tf Highlander Open 3rd Place Summer 2025": [
+    "14418": "AsiaFortress Highlander Open 3rd Place Summer 2025",
+    "AsiaFortress Highlander Open 3rd Place Summer 2025": [
         14418
     ],
-    "14419": "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2025",
-    "AsiaFortress Liquid.tf Highlander Invite Participant Summer 2025": [
+    "14419": "AsiaFortress Highlander Invite Participant Summer 2025",
+    "AsiaFortress Highlander Invite Participant Summer 2025": [
         14419
     ],
-    "14420": "AsiaFortress Liquid.tf Highlander Open Participant Summer 2025",
-    "AsiaFortress Liquid.tf Highlander Open Participant Summer 2025": [
+    "14420": "AsiaFortress Highlander Open Participant Summer 2025",
+    "AsiaFortress Highlander Open Participant Summer 2025": [
         14420
     ],
     "14421": "TFArena 6v6 Cup Platinum Champions Spring 2025",
@@ -33931,16 +34023,16 @@
     "CappingTV Summer Brawl Participant 2025": [
         14503
     ],
-    "14504": "AsiaFortress Liquid.tf Highlander Invite 1st Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 1st Place Winter 2024": [
+    "14504": "AsiaFortress Highlander Invite 1st Place Winter 2024",
+    "AsiaFortress Highlander Invite 1st Place Winter 2024": [
         14504
     ],
-    "14505": "AsiaFortress Liquid.tf Highlander Invite 2nd Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 2nd Place Winter 2024": [
+    "14505": "AsiaFortress Highlander Invite 2nd Place Winter 2024",
+    "AsiaFortress Highlander Invite 2nd Place Winter 2024": [
         14505
     ],
-    "14506": "AsiaFortress Liquid.tf Highlander Invite 3rd Place Winter 2024",
-    "AsiaFortress Liquid.tf Highlander Invite 3rd Place Winter 2024": [
+    "14506": "AsiaFortress Highlander Invite 3rd Place Winter 2024",
+    "AsiaFortress Highlander Invite 3rd Place Winter 2024": [
         14506
     ],
     "14507": "RGLgg Highlander Invite Champions Season 19",
@@ -34415,24 +34507,24 @@
     "Brazil Fortress JumpCup Helper Season 4": [
         14624
     ],
-    "14625": "AsiaFortress Liquid.tf Newbie 1st Place Cup 11",
-    "AsiaFortress Liquid.tf Newbie 1st Place Cup 11": [
+    "14625": "AsiaFortress Newbie 1st Place Cup 11",
+    "AsiaFortress Newbie 1st Place Cup 11": [
         14625
     ],
-    "14626": "AsiaFortress Liquid.tf Newbie 2nd Place Cup 11",
-    "AsiaFortress Liquid.tf Newbie 2nd Place Cup 11": [
+    "14626": "AsiaFortress Newbie 2nd Place Cup 11",
+    "AsiaFortress Newbie 2nd Place Cup 11": [
         14626
     ],
-    "14627": "AsiaFortress Liquid.tf Newbie 3rd Place Cup 11",
-    "AsiaFortress Liquid.tf Newbie 3rd Place Cup 11": [
+    "14627": "AsiaFortress Newbie 3rd Place Cup 11",
+    "AsiaFortress Newbie 3rd Place Cup 11": [
         14627
     ],
-    "14628": "AsiaFortress Liquid.tf Newbie Participant Cup 11",
-    "AsiaFortress Liquid.tf Newbie Participant Cup 11": [
+    "14628": "AsiaFortress Newbie Participant Cup 11",
+    "AsiaFortress Newbie Participant Cup 11": [
         14628
     ],
-    "14629": "AsiaFortress Liquid.tf Newbie Coach Cup 11",
-    "AsiaFortress Liquid.tf Newbie Coach Cup 11": [
+    "14629": "AsiaFortress Newbie Coach Cup 11",
+    "AsiaFortress Newbie Coach Cup 11": [
         14629
     ],
     "14630": "LBTF2 6v6 Elite 1st Place Season 23",
@@ -37159,6 +37251,46 @@
     "Paintkit 432": [
         17432
     ],
+    "17433": "Paintkit 433",
+    "Paintkit 433": [
+        17433
+    ],
+    "17434": "Paintkit 434",
+    "Paintkit 434": [
+        17434
+    ],
+    "17435": "Paintkit 435",
+    "Paintkit 435": [
+        17435
+    ],
+    "17436": "Paintkit 436",
+    "Paintkit 436": [
+        17436
+    ],
+    "17437": "Paintkit 437",
+    "Paintkit 437": [
+        17437
+    ],
+    "17438": "Paintkit 438",
+    "Paintkit 438": [
+        17438
+    ],
+    "17439": "Paintkit 439",
+    "Paintkit 439": [
+        17439
+    ],
+    "17440": "Paintkit 440",
+    "Paintkit 440": [
+        17440
+    ],
+    "17441": "Paintkit 441",
+    "Paintkit 441": [
+        17441
+    ],
+    "17442": "Paintkit 442",
+    "Paintkit 442": [
+        17442
+    ],
     "18000": "Warpaint Collection 1 Tier 1 Keyless Case",
     "Warpaint Collection 1 Tier 1 Keyless Case": [
         18000
@@ -37603,36 +37735,36 @@
     "Brazil Fortress QEL 4v4 Halloween Cursed Assistant 2025": [
         18604
     ],
-    "18605": "Brazil Fortress Highlander Halloween Scary Group First 2025",
-    "Brazil Fortress Highlander Halloween Scary Group First 2025": [
+    "18605": "Brazil Fortress Highlander Halloween Haunted Group First 2025",
+    "Brazil Fortress Highlander Halloween Haunted Group First 2025": [
         18605
     ],
-    "18606": "Brazil Fortress Highlander Halloween Scary Group Second 2025",
-    "Brazil Fortress Highlander Halloween Scary Group Second 2025": [
+    "18606": "Brazil Fortress Highlander Halloween Haunted Group Second 2025",
+    "Brazil Fortress Highlander Halloween Haunted Group Second 2025": [
         18606
     ],
-    "18607": "Brazil Fortress Highlander Halloween Scary Group Third 2025",
-    "Brazil Fortress Highlander Halloween Scary Group Third 2025": [
+    "18607": "Brazil Fortress Highlander Halloween Haunted Group Third 2025",
+    "Brazil Fortress Highlander Halloween Haunted Group Third 2025": [
         18607
     ],
-    "18608": "Brazil Fortress Highlander Halloween Scary Group Participant 2025",
-    "Brazil Fortress Highlander Halloween Scary Group Participant 2025": [
+    "18608": "Brazil Fortress Highlander Halloween Haunted Group Participant 2025",
+    "Brazil Fortress Highlander Halloween Haunted Group Participant 2025": [
         18608
     ],
-    "18609": "Brazil Fortress Highlander Halloween Haunted Group First 2025",
-    "Brazil Fortress Highlander Halloween Haunted Group First 2025": [
+    "18609": "Brazil Fortress Highlander Halloween Scary Group First 2025",
+    "Brazil Fortress Highlander Halloween Scary Group First 2025": [
         18609
     ],
-    "18610": "Brazil Fortress Highlander Halloween Haunted Group Second 2025",
-    "Brazil Fortress Highlander Halloween Haunted Group Second 2025": [
+    "18610": "Brazil Fortress Highlander Halloween Scary Group Second 2025",
+    "Brazil Fortress Highlander Halloween Scary Group Second 2025": [
         18610
     ],
-    "18611": "Brazil Fortress Highlander Halloween Haunted Group Third 2025",
-    "Brazil Fortress Highlander Halloween Haunted Group Third 2025": [
+    "18611": "Brazil Fortress Highlander Halloween Scary Group Third 2025",
+    "Brazil Fortress Highlander Halloween Scary Group Third 2025": [
         18611
     ],
-    "18612": "Brazil Fortress Highlander Halloween Haunted Group Participant 2025",
-    "Brazil Fortress Highlander Halloween Haunted Group Participant 2025": [
+    "18612": "Brazil Fortress Highlander Halloween Scary Group Participant 2025",
+    "Brazil Fortress Highlander Halloween Scary Group Participant 2025": [
         18612
     ],
     "18613": "Brazil Fortress Highlander Halloween Ghastly Group First 2025",
@@ -37682,6 +37814,2206 @@
     "18624": "TF2Maps 72hr TF2Jam Participant 2025",
     "TF2Maps 72hr TF2Jam Participant 2025": [
         18624
+    ],
+    "18625": "ETF2L Highlander Premiership Gold Medal AFA 2025",
+    "ETF2L Highlander Premiership Gold Medal AFA 2025": [
+        18625
+    ],
+    "18626": "ETF2L Highlander Premiership Silver Medal AFA 2025",
+    "ETF2L Highlander Premiership Silver Medal AFA 2025": [
+        18626
+    ],
+    "18627": "ETF2L Highlander Premiership Bronze Medal AFA 2025",
+    "ETF2L Highlander Premiership Bronze Medal AFA 2025": [
+        18627
+    ],
+    "18628": "ETF2L Highlander Premiership Participation Medal AFA 2025",
+    "ETF2L Highlander Premiership Participation Medal AFA 2025": [
+        18628
+    ],
+    "18629": "ETF2L Highlander Division 1 Gold Medal AFA 2025",
+    "ETF2L Highlander Division 1 Gold Medal AFA 2025": [
+        18629
+    ],
+    "18630": "ETF2L Highlander Division 1 Silver Medal AFA 2025",
+    "ETF2L Highlander Division 1 Silver Medal AFA 2025": [
+        18630
+    ],
+    "18631": "ETF2L Highlander Division 1 Bronze Medal AFA 2025",
+    "ETF2L Highlander Division 1 Bronze Medal AFA 2025": [
+        18631
+    ],
+    "18632": "ETF2L Highlander Division 1 Participation Medal AFA 2025",
+    "ETF2L Highlander Division 1 Participation Medal AFA 2025": [
+        18632
+    ],
+    "18633": "ETF2L Highlander Division 2 Gold Medal AFA 2025",
+    "ETF2L Highlander Division 2 Gold Medal AFA 2025": [
+        18633
+    ],
+    "18634": "ETF2L Highlander Division 2 Silver Medal AFA 2025",
+    "ETF2L Highlander Division 2 Silver Medal AFA 2025": [
+        18634
+    ],
+    "18635": "ETF2L Highlander Division 2 Bronze Medal AFA 2025",
+    "ETF2L Highlander Division 2 Bronze Medal AFA 2025": [
+        18635
+    ],
+    "18636": "ETF2L Highlander Division 2 Participation Medal AFA 2025",
+    "ETF2L Highlander Division 2 Participation Medal AFA 2025": [
+        18636
+    ],
+    "18637": "ETF2L Highlander Division 3 Gold Medal AFA 2025",
+    "ETF2L Highlander Division 3 Gold Medal AFA 2025": [
+        18637
+    ],
+    "18638": "ETF2L Highlander Division 3 Silver Medal AFA 2025",
+    "ETF2L Highlander Division 3 Silver Medal AFA 2025": [
+        18638
+    ],
+    "18639": "ETF2L Highlander Division 3 Bronze Medal AFA 2025",
+    "ETF2L Highlander Division 3 Bronze Medal AFA 2025": [
+        18639
+    ],
+    "18640": "ETF2L Highlander Division 3 Participation Medal AFA 2025",
+    "ETF2L Highlander Division 3 Participation Medal AFA 2025": [
+        18640
+    ],
+    "18641": "ETF2L Highlander Division 4 Gold Medal AFA 2025",
+    "ETF2L Highlander Division 4 Gold Medal AFA 2025": [
+        18641
+    ],
+    "18642": "ETF2L Highlander Division 4 Silver Medal AFA 2025",
+    "ETF2L Highlander Division 4 Silver Medal AFA 2025": [
+        18642
+    ],
+    "18643": "ETF2L Highlander Division 4 Bronze Medal AFA 2025",
+    "ETF2L Highlander Division 4 Bronze Medal AFA 2025": [
+        18643
+    ],
+    "18644": "ETF2L Highlander Division 4 Participation Medal AFA 2025",
+    "ETF2L Highlander Division 4 Participation Medal AFA 2025": [
+        18644
+    ],
+    "18645": "ETF2L Highlander Low Gold Medal AFA 2025",
+    "ETF2L Highlander Low Gold Medal AFA 2025": [
+        18645
+    ],
+    "18646": "ETF2L Highlander Low Silver Medal AFA 2025",
+    "ETF2L Highlander Low Silver Medal AFA 2025": [
+        18646
+    ],
+    "18647": "ETF2L Highlander Low Bronze Medal AFA 2025",
+    "ETF2L Highlander Low Bronze Medal AFA 2025": [
+        18647
+    ],
+    "18648": "ETF2L Highlander Low Playoff Medal AFA 2025",
+    "ETF2L Highlander Low Playoff Medal AFA 2025": [
+        18648
+    ],
+    "18649": "ETF2L Highlander Low Participation Medal AFA 2025",
+    "ETF2L Highlander Low Participation Medal AFA 2025": [
+        18649
+    ],
+    "18650": "ETF2L Highlander Open Gold Medal AFA 2025",
+    "ETF2L Highlander Open Gold Medal AFA 2025": [
+        18650
+    ],
+    "18651": "ETF2L Highlander Open Silver Medal AFA 2025",
+    "ETF2L Highlander Open Silver Medal AFA 2025": [
+        18651
+    ],
+    "18652": "ETF2L Highlander Open Bronze Medal AFA 2025",
+    "ETF2L Highlander Open Bronze Medal AFA 2025": [
+        18652
+    ],
+    "18653": "ETF2L Highlander Open Playoff Medal AFA 2025",
+    "ETF2L Highlander Open Playoff Medal AFA 2025": [
+        18653
+    ],
+    "18654": "ETF2L Highlander Open Participation Medal AFA 2025",
+    "ETF2L Highlander Open Participation Medal AFA 2025": [
+        18654
+    ],
+    "18655": "ETF2L Highlander Premiership Gold Medal Season 33",
+    "ETF2L Highlander Premiership Gold Medal Season 33": [
+        18655
+    ],
+    "18656": "ETF2L Highlander Premiership Silver Medal Season 33",
+    "ETF2L Highlander Premiership Silver Medal Season 33": [
+        18656
+    ],
+    "18657": "ETF2L Highlander Premiership Bronze Medal Season 33",
+    "ETF2L Highlander Premiership Bronze Medal Season 33": [
+        18657
+    ],
+    "18658": "ETF2L Highlander Premiership Participation Medal Season 33",
+    "ETF2L Highlander Premiership Participation Medal Season 33": [
+        18658
+    ],
+    "18659": "ETF2L Highlander High Gold Medal Season 33",
+    "ETF2L Highlander High Gold Medal Season 33": [
+        18659
+    ],
+    "18660": "ETF2L Highlander High Silver Medal Season 33",
+    "ETF2L Highlander High Silver Medal Season 33": [
+        18660
+    ],
+    "18661": "ETF2L Highlander High Bronze Medal Season 33",
+    "ETF2L Highlander High Bronze Medal Season 33": [
+        18661
+    ],
+    "18662": "ETF2L Highlander High Participation Medal Season 33",
+    "ETF2L Highlander High Participation Medal Season 33": [
+        18662
+    ],
+    "18663": "ETF2L Highlander Mid Gold Medal Season 33",
+    "ETF2L Highlander Mid Gold Medal Season 33": [
+        18663
+    ],
+    "18664": "ETF2L Highlander Mid Silver Medal Season 33",
+    "ETF2L Highlander Mid Silver Medal Season 33": [
+        18664
+    ],
+    "18665": "ETF2L Highlander Mid Bronze Medal Season 33",
+    "ETF2L Highlander Mid Bronze Medal Season 33": [
+        18665
+    ],
+    "18666": "ETF2L Highlander Mid Participation Medal Season 33",
+    "ETF2L Highlander Mid Participation Medal Season 33": [
+        18666
+    ],
+    "18667": "ETF2L Highlander Low Gold Medal Season 33",
+    "ETF2L Highlander Low Gold Medal Season 33": [
+        18667
+    ],
+    "18668": "ETF2L Highlander Low Silver Medal Season 33",
+    "ETF2L Highlander Low Silver Medal Season 33": [
+        18668
+    ],
+    "18669": "ETF2L Highlander Low Bronze Medal Season 33",
+    "ETF2L Highlander Low Bronze Medal Season 33": [
+        18669
+    ],
+    "18670": "ETF2L Highlander Low Participation Medal Season 33",
+    "ETF2L Highlander Low Participation Medal Season 33": [
+        18670
+    ],
+    "18671": "ETF2L Highlander Open Gold Medal Season 33",
+    "ETF2L Highlander Open Gold Medal Season 33": [
+        18671
+    ],
+    "18672": "ETF2L Highlander Open Silver Medal Season 33",
+    "ETF2L Highlander Open Silver Medal Season 33": [
+        18672
+    ],
+    "18673": "ETF2L Highlander Open Bronze Medal Season 33",
+    "ETF2L Highlander Open Bronze Medal Season 33": [
+        18673
+    ],
+    "18674": "ETF2L Highlander Open Participation Medal Season 33",
+    "ETF2L Highlander Open Participation Medal Season 33": [
+        18674
+    ],
+    "18675": "ETF2L Highlander Fresh Gold Medal Season 33",
+    "ETF2L Highlander Fresh Gold Medal Season 33": [
+        18675
+    ],
+    "18676": "ETF2L Highlander Fresh Silver Medal Season 33",
+    "ETF2L Highlander Fresh Silver Medal Season 33": [
+        18676
+    ],
+    "18677": "ETF2L Highlander Fresh Bronze Medal Season 33",
+    "ETF2L Highlander Fresh Bronze Medal Season 33": [
+        18677
+    ],
+    "18678": "ETF2L Highlander Fresh Participation Medal Season 33",
+    "ETF2L Highlander Fresh Participation Medal Season 33": [
+        18678
+    ],
+    "18679": "ETF2L Highlander Freshest Gold Medal Season 33",
+    "ETF2L Highlander Freshest Gold Medal Season 33": [
+        18679
+    ],
+    "18680": "ETF2L Highlander Freshest Silver Medal Season 33",
+    "ETF2L Highlander Freshest Silver Medal Season 33": [
+        18680
+    ],
+    "18681": "ETF2L Highlander Freshest Bronze Medal Season 33",
+    "ETF2L Highlander Freshest Bronze Medal Season 33": [
+        18681
+    ],
+    "18682": "ETF2L Highlander Premiership Gold Medal Season 34",
+    "ETF2L Highlander Premiership Gold Medal Season 34": [
+        18682
+    ],
+    "18683": "ETF2L Highlander Premiership Silver Medal Season 34",
+    "ETF2L Highlander Premiership Silver Medal Season 34": [
+        18683
+    ],
+    "18684": "ETF2L Highlander Premiership Bronze Medal Season 34",
+    "ETF2L Highlander Premiership Bronze Medal Season 34": [
+        18684
+    ],
+    "18685": "ETF2L Highlander Premiership Participation Medal Season 34",
+    "ETF2L Highlander Premiership Participation Medal Season 34": [
+        18685
+    ],
+    "18686": "ETF2L Highlander High Gold Medal Season 34",
+    "ETF2L Highlander High Gold Medal Season 34": [
+        18686
+    ],
+    "18687": "ETF2L Highlander High Silver Medal Season 34",
+    "ETF2L Highlander High Silver Medal Season 34": [
+        18687
+    ],
+    "18688": "ETF2L Highlander High Bronze Medal Season 34",
+    "ETF2L Highlander High Bronze Medal Season 34": [
+        18688
+    ],
+    "18689": "ETF2L Highlander High Playoff Medal Season 34",
+    "ETF2L Highlander High Playoff Medal Season 34": [
+        18689
+    ],
+    "18690": "ETF2L Highlander High Participation Medal Season 34",
+    "ETF2L Highlander High Participation Medal Season 34": [
+        18690
+    ],
+    "18691": "ETF2L Highlander Mid Gold Medal Season 34",
+    "ETF2L Highlander Mid Gold Medal Season 34": [
+        18691
+    ],
+    "18692": "ETF2L Highlander Mid Silver Medal Season 34",
+    "ETF2L Highlander Mid Silver Medal Season 34": [
+        18692
+    ],
+    "18693": "ETF2L Highlander Mid Bronze Medal Season 34",
+    "ETF2L Highlander Mid Bronze Medal Season 34": [
+        18693
+    ],
+    "18694": "ETF2L Highlander Mid Playoff Medal Season 34",
+    "ETF2L Highlander Mid Playoff Medal Season 34": [
+        18694
+    ],
+    "18695": "ETF2L Highlander Mid Participation Medal Season 34",
+    "ETF2L Highlander Mid Participation Medal Season 34": [
+        18695
+    ],
+    "18696": "ETF2L Highlander Low Gold Medal Season 34",
+    "ETF2L Highlander Low Gold Medal Season 34": [
+        18696
+    ],
+    "18697": "ETF2L Highlander Low Silver Medal Season 34",
+    "ETF2L Highlander Low Silver Medal Season 34": [
+        18697
+    ],
+    "18698": "ETF2L Highlander Low Bronze Medal Season 34",
+    "ETF2L Highlander Low Bronze Medal Season 34": [
+        18698
+    ],
+    "18699": "ETF2L Highlander Low Playoff Medal Season 34",
+    "ETF2L Highlander Low Playoff Medal Season 34": [
+        18699
+    ],
+    "18700": "ETF2L Highlander Low Participation Medal Season 34",
+    "ETF2L Highlander Low Participation Medal Season 34": [
+        18700
+    ],
+    "18701": "ETF2L Highlander Open Gold Medal Season 34",
+    "ETF2L Highlander Open Gold Medal Season 34": [
+        18701
+    ],
+    "18702": "ETF2L Highlander Open Silver Medal Season 34",
+    "ETF2L Highlander Open Silver Medal Season 34": [
+        18702
+    ],
+    "18703": "ETF2L Highlander Open Bronze Medal Season 34",
+    "ETF2L Highlander Open Bronze Medal Season 34": [
+        18703
+    ],
+    "18704": "ETF2L Highlander Open Playoff Medal Season 34",
+    "ETF2L Highlander Open Playoff Medal Season 34": [
+        18704
+    ],
+    "18705": "ETF2L Highlander Open Participation Medal Season 34",
+    "ETF2L Highlander Open Participation Medal Season 34": [
+        18705
+    ],
+    "18706": "ETF2L 6v6 Premiership Gold Medal AFS 2025",
+    "ETF2L 6v6 Premiership Gold Medal AFS 2025": [
+        18706
+    ],
+    "18707": "ETF2L 6v6 Premiership Silver Medal AFS 2025",
+    "ETF2L 6v6 Premiership Silver Medal AFS 2025": [
+        18707
+    ],
+    "18708": "ETF2L 6v6 Premiership Bronze Medal AFS 2025",
+    "ETF2L 6v6 Premiership Bronze Medal AFS 2025": [
+        18708
+    ],
+    "18709": "ETF2L 6v6 Premiership Participation Medal AFS 2025",
+    "ETF2L 6v6 Premiership Participation Medal AFS 2025": [
+        18709
+    ],
+    "18710": "ETF2L 6v6 Division 1 Gold Medal AFS 2025",
+    "ETF2L 6v6 Division 1 Gold Medal AFS 2025": [
+        18710
+    ],
+    "18711": "ETF2L 6v6 Division 1 Silver Medal AFS 2025",
+    "ETF2L 6v6 Division 1 Silver Medal AFS 2025": [
+        18711
+    ],
+    "18712": "ETF2L 6v6 Division 1 Bronze Medal AFS 2025",
+    "ETF2L 6v6 Division 1 Bronze Medal AFS 2025": [
+        18712
+    ],
+    "18713": "ETF2L 6v6 Division 1 Participation Medal AFS 2025",
+    "ETF2L 6v6 Division 1 Participation Medal AFS 2025": [
+        18713
+    ],
+    "18714": "ETF2L 6v6 Division 2 Gold Medal AFS 2025",
+    "ETF2L 6v6 Division 2 Gold Medal AFS 2025": [
+        18714
+    ],
+    "18715": "ETF2L 6v6 Division 2 Silver Medal AFS 2025",
+    "ETF2L 6v6 Division 2 Silver Medal AFS 2025": [
+        18715
+    ],
+    "18716": "ETF2L 6v6 Division 2 Bronze Medal AFS 2025",
+    "ETF2L 6v6 Division 2 Bronze Medal AFS 2025": [
+        18716
+    ],
+    "18717": "ETF2L 6v6 Division 2 Playoff Medal AFS 2025",
+    "ETF2L 6v6 Division 2 Playoff Medal AFS 2025": [
+        18717
+    ],
+    "18718": "ETF2L 6v6 Division 2 Participation Medal AFS 2025",
+    "ETF2L 6v6 Division 2 Participation Medal AFS 2025": [
+        18718
+    ],
+    "18719": "ETF2L 6v6 Mid Gold Medal AFS 2025",
+    "ETF2L 6v6 Mid Gold Medal AFS 2025": [
+        18719
+    ],
+    "18720": "ETF2L 6v6 Mid Silver Medal AFS 2025",
+    "ETF2L 6v6 Mid Silver Medal AFS 2025": [
+        18720
+    ],
+    "18721": "ETF2L 6v6 Mid Bronze Medal AFS 2025",
+    "ETF2L 6v6 Mid Bronze Medal AFS 2025": [
+        18721
+    ],
+    "18722": "ETF2L 6v6 Mid Playoff Medal AFS 2025",
+    "ETF2L 6v6 Mid Playoff Medal AFS 2025": [
+        18722
+    ],
+    "18723": "ETF2L 6v6 Mid Participation Medal AFS 2025",
+    "ETF2L 6v6 Mid Participation Medal AFS 2025": [
+        18723
+    ],
+    "18724": "ETF2L 6v6 Low Gold Medal AFS 2025",
+    "ETF2L 6v6 Low Gold Medal AFS 2025": [
+        18724
+    ],
+    "18725": "ETF2L 6v6 Low Silver Medal AFS 2025",
+    "ETF2L 6v6 Low Silver Medal AFS 2025": [
+        18725
+    ],
+    "18726": "ETF2L 6v6 Low Bronze Medal AFS 2025",
+    "ETF2L 6v6 Low Bronze Medal AFS 2025": [
+        18726
+    ],
+    "18727": "ETF2L 6v6 Low Playoff Medal AFS 2025",
+    "ETF2L 6v6 Low Playoff Medal AFS 2025": [
+        18727
+    ],
+    "18728": "ETF2L 6v6 Low Participation Medal AFS 2025",
+    "ETF2L 6v6 Low Participation Medal AFS 2025": [
+        18728
+    ],
+    "18729": "ETF2L 6v6 Open Gold Medal AFS 2025",
+    "ETF2L 6v6 Open Gold Medal AFS 2025": [
+        18729
+    ],
+    "18730": "ETF2L 6v6 Open Silver Medal AFS 2025",
+    "ETF2L 6v6 Open Silver Medal AFS 2025": [
+        18730
+    ],
+    "18731": "ETF2L 6v6 Open Bronze Medal AFS 2025",
+    "ETF2L 6v6 Open Bronze Medal AFS 2025": [
+        18731
+    ],
+    "18732": "ETF2L 6v6 Open Playoff Medal AFS 2025",
+    "ETF2L 6v6 Open Playoff Medal AFS 2025": [
+        18732
+    ],
+    "18733": "ETF2L 6v6 Open Participation Medal AFS 2025",
+    "ETF2L 6v6 Open Participation Medal AFS 2025": [
+        18733
+    ],
+    "18734": "ETF2L 6v6 Fresh Gold Medal AFS 2025",
+    "ETF2L 6v6 Fresh Gold Medal AFS 2025": [
+        18734
+    ],
+    "18735": "ETF2L 6v6 Fresh Silver Medal AFS 2025",
+    "ETF2L 6v6 Fresh Silver Medal AFS 2025": [
+        18735
+    ],
+    "18736": "ETF2L 6v6 Fresh Bronze Medal AFS 2025",
+    "ETF2L 6v6 Fresh Bronze Medal AFS 2025": [
+        18736
+    ],
+    "18737": "ETF2L 6v6 Fresh Playoff Medal AFS 2025",
+    "ETF2L 6v6 Fresh Playoff Medal AFS 2025": [
+        18737
+    ],
+    "18738": "ETF2L 6v6 Fresh Participation Medal AFS 2025",
+    "ETF2L 6v6 Fresh Participation Medal AFS 2025": [
+        18738
+    ],
+    "18739": "ETF2L 6v6 Premiership Gold Medal Season 49",
+    "ETF2L 6v6 Premiership Gold Medal Season 49": [
+        18739
+    ],
+    "18740": "ETF2L 6v6 Premiership Silver Medal Season 49",
+    "ETF2L 6v6 Premiership Silver Medal Season 49": [
+        18740
+    ],
+    "18741": "ETF2L 6v6 Premiership Bronze Medal Season 49",
+    "ETF2L 6v6 Premiership Bronze Medal Season 49": [
+        18741
+    ],
+    "18742": "ETF2L 6v6 Premiership Participation Medal Season 49",
+    "ETF2L 6v6 Premiership Participation Medal Season 49": [
+        18742
+    ],
+    "18743": "ETF2L 6v6 Division 1 Gold Medal Season 49",
+    "ETF2L 6v6 Division 1 Gold Medal Season 49": [
+        18743
+    ],
+    "18744": "ETF2L 6v6 Division 1 Silver Medal Season 49",
+    "ETF2L 6v6 Division 1 Silver Medal Season 49": [
+        18744
+    ],
+    "18745": "ETF2L 6v6 Division 1 Bronze Medal Season 49",
+    "ETF2L 6v6 Division 1 Bronze Medal Season 49": [
+        18745
+    ],
+    "18746": "ETF2L 6v6 Division 1 Participation Medal Season 49",
+    "ETF2L 6v6 Division 1 Participation Medal Season 49": [
+        18746
+    ],
+    "18747": "ETF2L 6v6 Division 2 Gold Medal Season 49",
+    "ETF2L 6v6 Division 2 Gold Medal Season 49": [
+        18747
+    ],
+    "18748": "ETF2L 6v6 Division 2 Silver Medal Season 49",
+    "ETF2L 6v6 Division 2 Silver Medal Season 49": [
+        18748
+    ],
+    "18749": "ETF2L 6v6 Division 2 Bronze Medal Season 49",
+    "ETF2L 6v6 Division 2 Bronze Medal Season 49": [
+        18749
+    ],
+    "18750": "ETF2L 6v6 Division 2 Participation Medal Season 49",
+    "ETF2L 6v6 Division 2 Participation Medal Season 49": [
+        18750
+    ],
+    "18751": "ETF2L 6v6 Division 3 Gold Medal Season 49",
+    "ETF2L 6v6 Division 3 Gold Medal Season 49": [
+        18751
+    ],
+    "18752": "ETF2L 6v6 Division 3 Silver Medal Season 49",
+    "ETF2L 6v6 Division 3 Silver Medal Season 49": [
+        18752
+    ],
+    "18753": "ETF2L 6v6 Division 3 Bronze Medal Season 49",
+    "ETF2L 6v6 Division 3 Bronze Medal Season 49": [
+        18753
+    ],
+    "18754": "ETF2L 6v6 Division 3 Participation Medal Season 49",
+    "ETF2L 6v6 Division 3 Participation Medal Season 49": [
+        18754
+    ],
+    "18755": "ETF2L 6v6 Division 4 Gold Medal Season 49",
+    "ETF2L 6v6 Division 4 Gold Medal Season 49": [
+        18755
+    ],
+    "18756": "ETF2L 6v6 Division 4 Silver Medal Season 49",
+    "ETF2L 6v6 Division 4 Silver Medal Season 49": [
+        18756
+    ],
+    "18757": "ETF2L 6v6 Division 4 Bronze Medal Season 49",
+    "ETF2L 6v6 Division 4 Bronze Medal Season 49": [
+        18757
+    ],
+    "18758": "ETF2L 6v6 Division 4 Participation Medal Season 49",
+    "ETF2L 6v6 Division 4 Participation Medal Season 49": [
+        18758
+    ],
+    "18759": "ETF2L 6v6 Low Gold Medal Season 49",
+    "ETF2L 6v6 Low Gold Medal Season 49": [
+        18759
+    ],
+    "18760": "ETF2L 6v6 Low Silver Medal Season 49",
+    "ETF2L 6v6 Low Silver Medal Season 49": [
+        18760
+    ],
+    "18761": "ETF2L 6v6 Low Bronze Medal Season 49",
+    "ETF2L 6v6 Low Bronze Medal Season 49": [
+        18761
+    ],
+    "18762": "ETF2L 6v6 Low Playoff Medal Season 49",
+    "ETF2L 6v6 Low Playoff Medal Season 49": [
+        18762
+    ],
+    "18763": "ETF2L 6v6 Low Participation Medal Season 49",
+    "ETF2L 6v6 Low Participation Medal Season 49": [
+        18763
+    ],
+    "18764": "ETF2L 6v6 Open Gold Medal Season 49",
+    "ETF2L 6v6 Open Gold Medal Season 49": [
+        18764
+    ],
+    "18765": "ETF2L 6v6 Open Silver Medal Season 49",
+    "ETF2L 6v6 Open Silver Medal Season 49": [
+        18765
+    ],
+    "18766": "ETF2L 6v6 Open Bronze Medal Season 49",
+    "ETF2L 6v6 Open Bronze Medal Season 49": [
+        18766
+    ],
+    "18767": "ETF2L 6v6 Open Playoff Medal Season 49",
+    "ETF2L 6v6 Open Playoff Medal Season 49": [
+        18767
+    ],
+    "18768": "ETF2L 6v6 Open Participation Medal Season 49",
+    "ETF2L 6v6 Open Participation Medal Season 49": [
+        18768
+    ],
+    "18769": "ETF2L 6v6 Premiership Gold Medal Season 50",
+    "ETF2L 6v6 Premiership Gold Medal Season 50": [
+        18769
+    ],
+    "18770": "ETF2L 6v6 Premiership Silver Medal Season 50",
+    "ETF2L 6v6 Premiership Silver Medal Season 50": [
+        18770
+    ],
+    "18771": "ETF2L 6v6 Premiership Bronze Medal Season 50",
+    "ETF2L 6v6 Premiership Bronze Medal Season 50": [
+        18771
+    ],
+    "18772": "ETF2L 6v6 Premiership Participation Medal Season 50",
+    "ETF2L 6v6 Premiership Participation Medal Season 50": [
+        18772
+    ],
+    "18773": "ETF2L 6v6 High Gold Medal Season 50",
+    "ETF2L 6v6 High Gold Medal Season 50": [
+        18773
+    ],
+    "18774": "ETF2L 6v6 High Silver Medal Season 50",
+    "ETF2L 6v6 High Silver Medal Season 50": [
+        18774
+    ],
+    "18775": "ETF2L 6v6 High Bronze Medal Season 50",
+    "ETF2L 6v6 High Bronze Medal Season 50": [
+        18775
+    ],
+    "18776": "ETF2L 6v6 High Playoff Medal Season 50",
+    "ETF2L 6v6 High Playoff Medal Season 50": [
+        18776
+    ],
+    "18777": "ETF2L 6v6 High Participation Medal Season 50",
+    "ETF2L 6v6 High Participation Medal Season 50": [
+        18777
+    ],
+    "18778": "ETF2L 6v6 Division 3 Gold Medal Season 50",
+    "ETF2L 6v6 Division 3 Gold Medal Season 50": [
+        18778
+    ],
+    "18779": "ETF2L 6v6 Division 3 Silver Medal Season 50",
+    "ETF2L 6v6 Division 3 Silver Medal Season 50": [
+        18779
+    ],
+    "18780": "ETF2L 6v6 Division 3 Bronze Medal Season 50",
+    "ETF2L 6v6 Division 3 Bronze Medal Season 50": [
+        18780
+    ],
+    "18781": "ETF2L 6v6 Division 3 Playoff Medal Season 50",
+    "ETF2L 6v6 Division 3 Playoff Medal Season 50": [
+        18781
+    ],
+    "18782": "ETF2L 6v6 Division 3 Participation Medal Season 50",
+    "ETF2L 6v6 Division 3 Participation Medal Season 50": [
+        18782
+    ],
+    "18783": "ETF2L 6v6 Division 4 Gold Medal Season 50",
+    "ETF2L 6v6 Division 4 Gold Medal Season 50": [
+        18783
+    ],
+    "18784": "ETF2L 6v6 Division 4 Silver Medal Season 50",
+    "ETF2L 6v6 Division 4 Silver Medal Season 50": [
+        18784
+    ],
+    "18785": "ETF2L 6v6 Division 4 Bronze Medal Season 50",
+    "ETF2L 6v6 Division 4 Bronze Medal Season 50": [
+        18785
+    ],
+    "18786": "ETF2L 6v6 Division 4 Playoff Medal Season 50",
+    "ETF2L 6v6 Division 4 Playoff Medal Season 50": [
+        18786
+    ],
+    "18787": "ETF2L 6v6 Division 4 Participation Medal Season 50",
+    "ETF2L 6v6 Division 4 Participation Medal Season 50": [
+        18787
+    ],
+    "18788": "ETF2L 6v6 Low Gold Medal Season 50",
+    "ETF2L 6v6 Low Gold Medal Season 50": [
+        18788
+    ],
+    "18789": "ETF2L 6v6 Low Silver Medal Season 50",
+    "ETF2L 6v6 Low Silver Medal Season 50": [
+        18789
+    ],
+    "18790": "ETF2L 6v6 Low Bronze Medal Season 50",
+    "ETF2L 6v6 Low Bronze Medal Season 50": [
+        18790
+    ],
+    "18791": "ETF2L 6v6 Low Playoff Medal Season 50",
+    "ETF2L 6v6 Low Playoff Medal Season 50": [
+        18791
+    ],
+    "18792": "ETF2L 6v6 Low Participation Medal Season 50",
+    "ETF2L 6v6 Low Participation Medal Season 50": [
+        18792
+    ],
+    "18793": "ETF2L 6v6 Open Gold Medal Season 50",
+    "ETF2L 6v6 Open Gold Medal Season 50": [
+        18793
+    ],
+    "18794": "ETF2L 6v6 Open Silver Medal Season 50",
+    "ETF2L 6v6 Open Silver Medal Season 50": [
+        18794
+    ],
+    "18795": "ETF2L 6v6 Open Bronze Medal Season 50",
+    "ETF2L 6v6 Open Bronze Medal Season 50": [
+        18795
+    ],
+    "18796": "ETF2L 6v6 Open Playoff Medal Season 50",
+    "ETF2L 6v6 Open Playoff Medal Season 50": [
+        18796
+    ],
+    "18797": "ETF2L 6v6 Open Participation Medal Season 50",
+    "ETF2L 6v6 Open Participation Medal Season 50": [
+        18797
+    ],
+    "18798": "ETF2L 6v6 Fresh Gold Medal Season 50",
+    "ETF2L 6v6 Fresh Gold Medal Season 50": [
+        18798
+    ],
+    "18799": "ETF2L 6v6 Fresh Silver Medal Season 50",
+    "ETF2L 6v6 Fresh Silver Medal Season 50": [
+        18799
+    ],
+    "18800": "ETF2L 6v6 Fresh Bronze Medal Season 50",
+    "ETF2L 6v6 Fresh Bronze Medal Season 50": [
+        18800
+    ],
+    "18801": "ETF2L 6v6 Fresh Playoff Medal Season 50",
+    "ETF2L 6v6 Fresh Playoff Medal Season 50": [
+        18801
+    ],
+    "18802": "ETF2L 6v6 Fresh Participation Medal Season 50",
+    "ETF2L 6v6 Fresh Participation Medal Season 50": [
+        18802
+    ],
+    "18803": "ETF2L Ultiduo 8 Professional Gold Medal",
+    "ETF2L Ultiduo 8 Professional Gold Medal": [
+        18803
+    ],
+    "18804": "ETF2L Ultiduo 8 Professional Silver Medal",
+    "ETF2L Ultiduo 8 Professional Silver Medal": [
+        18804
+    ],
+    "18805": "ETF2L Ultiduo 8 Professional Bronze Medal",
+    "ETF2L Ultiduo 8 Professional Bronze Medal": [
+        18805
+    ],
+    "18806": "ETF2L Ultiduo 8 Professional Participation Medal",
+    "ETF2L Ultiduo 8 Professional Participation Medal": [
+        18806
+    ],
+    "18807": "ETF2L Ultiduo 8 Amateur Gold Medal",
+    "ETF2L Ultiduo 8 Amateur Gold Medal": [
+        18807
+    ],
+    "18808": "ETF2L Ultiduo 8 Amateur Silver Medal",
+    "ETF2L Ultiduo 8 Amateur Silver Medal": [
+        18808
+    ],
+    "18809": "ETF2L Ultiduo 8 Amateur Bronze Medal",
+    "ETF2L Ultiduo 8 Amateur Bronze Medal": [
+        18809
+    ],
+    "18810": "ETF2L Ultiduo 8 Amateur Participation Medal",
+    "ETF2L Ultiduo 8 Amateur Participation Medal": [
+        18810
+    ],
+    "18811": "RGLgg Highlander Invite Champions Season 21",
+    "RGLgg Highlander Invite Champions Season 21": [
+        18811
+    ],
+    "18812": "RGLgg Highlander Invite 2nd Place Season 21",
+    "RGLgg Highlander Invite 2nd Place Season 21": [
+        18812
+    ],
+    "18813": "RGLgg Highlander Invite 3rd Place Season 21",
+    "RGLgg Highlander Invite 3rd Place Season 21": [
+        18813
+    ],
+    "18814": "RGLgg Highlander Invite Participant Season 21",
+    "RGLgg Highlander Invite Participant Season 21": [
+        18814
+    ],
+    "18815": "RGLgg Highlander Advanced Champions Season 21",
+    "RGLgg Highlander Advanced Champions Season 21": [
+        18815
+    ],
+    "18816": "RGLgg Highlander Advanced 2nd Place Season 21",
+    "RGLgg Highlander Advanced 2nd Place Season 21": [
+        18816
+    ],
+    "18817": "RGLgg Highlander Advanced 3rd Place Season 21",
+    "RGLgg Highlander Advanced 3rd Place Season 21": [
+        18817
+    ],
+    "18818": "RGLgg Highlander Advanced Participant Season 21",
+    "RGLgg Highlander Advanced Participant Season 21": [
+        18818
+    ],
+    "18819": "RGLgg Highlander Main Champions Season 21",
+    "RGLgg Highlander Main Champions Season 21": [
+        18819
+    ],
+    "18820": "RGLgg Highlander Main 2nd Place Season 21",
+    "RGLgg Highlander Main 2nd Place Season 21": [
+        18820
+    ],
+    "18821": "RGLgg Highlander Main 3rd Place Season 21",
+    "RGLgg Highlander Main 3rd Place Season 21": [
+        18821
+    ],
+    "18822": "RGLgg Highlander Main Participant Season 21",
+    "RGLgg Highlander Main Participant Season 21": [
+        18822
+    ],
+    "18823": "RGLgg Highlander Intermediate Champions Season 21",
+    "RGLgg Highlander Intermediate Champions Season 21": [
+        18823
+    ],
+    "18824": "RGLgg Highlander Intermediate 2nd Place Season 21",
+    "RGLgg Highlander Intermediate 2nd Place Season 21": [
+        18824
+    ],
+    "18825": "RGLgg Highlander Intermediate 3rd Place Season 21",
+    "RGLgg Highlander Intermediate 3rd Place Season 21": [
+        18825
+    ],
+    "18826": "RGLgg Highlander Intermediate Participant Season 21",
+    "RGLgg Highlander Intermediate Participant Season 21": [
+        18826
+    ],
+    "18827": "RGLgg Highlander Amateur Participant Season 21",
+    "RGLgg Highlander Amateur Participant Season 21": [
+        18827
+    ],
+    "18828": "RGLgg Highlander Newcomer Participant Season 21",
+    "RGLgg Highlander Newcomer Participant Season 21": [
+        18828
+    ],
+    "18829": "RGLgg Highlander Invite Champions Season 22",
+    "RGLgg Highlander Invite Champions Season 22": [
+        18829
+    ],
+    "18830": "RGLgg Highlander Invite 2nd Place Season 22",
+    "RGLgg Highlander Invite 2nd Place Season 22": [
+        18830
+    ],
+    "18831": "RGLgg Highlander Invite 3rd Place Season 22",
+    "RGLgg Highlander Invite 3rd Place Season 22": [
+        18831
+    ],
+    "18832": "RGLgg Highlander Invite Participant Season 22",
+    "RGLgg Highlander Invite Participant Season 22": [
+        18832
+    ],
+    "18833": "RGLgg Highlander Advanced1 Champions Season 22",
+    "RGLgg Highlander Advanced1 Champions Season 22": [
+        18833
+    ],
+    "18834": "RGLgg Highlander Advanced1 2nd Place Season 22",
+    "RGLgg Highlander Advanced1 2nd Place Season 22": [
+        18834
+    ],
+    "18835": "RGLgg Highlander Advanced1 3rd Place Season 22",
+    "RGLgg Highlander Advanced1 3rd Place Season 22": [
+        18835
+    ],
+    "18836": "RGLgg Highlander Advanced1 Participant Season 22",
+    "RGLgg Highlander Advanced1 Participant Season 22": [
+        18836
+    ],
+    "18837": "RGLgg Highlander Main Champions Season 22",
+    "RGLgg Highlander Main Champions Season 22": [
+        18837
+    ],
+    "18838": "RGLgg Highlander Main 2nd Place Season 22",
+    "RGLgg Highlander Main 2nd Place Season 22": [
+        18838
+    ],
+    "18839": "RGLgg Highlander Main 3rd Place Season 22",
+    "RGLgg Highlander Main 3rd Place Season 22": [
+        18839
+    ],
+    "18840": "RGLgg Highlander Main Participant Season 22",
+    "RGLgg Highlander Main Participant Season 22": [
+        18840
+    ],
+    "18841": "RGLgg Highlander Intermediate Champions Season 22",
+    "RGLgg Highlander Intermediate Champions Season 22": [
+        18841
+    ],
+    "18842": "RGLgg Highlander Intermediate 2nd Place Season 22",
+    "RGLgg Highlander Intermediate 2nd Place Season 22": [
+        18842
+    ],
+    "18843": "RGLgg Highlander Intermediate 3rd Place Season 22",
+    "RGLgg Highlander Intermediate 3rd Place Season 22": [
+        18843
+    ],
+    "18844": "RGLgg Highlander Intermediate Participant Season 22",
+    "RGLgg Highlander Intermediate Participant Season 22": [
+        18844
+    ],
+    "18845": "RGLgg Highlander Amateur Participant Season 22",
+    "RGLgg Highlander Amateur Participant Season 22": [
+        18845
+    ],
+    "18846": "RGLgg Highlander Newcomer Participant Season 22",
+    "RGLgg Highlander Newcomer Participant Season 22": [
+        18846
+    ],
+    "18847": "RGLgg 6v6 Invite Champions Season 18",
+    "RGLgg 6v6 Invite Champions Season 18": [
+        18847
+    ],
+    "18848": "RGLgg 6v6 Invite 2nd Place Season 18",
+    "RGLgg 6v6 Invite 2nd Place Season 18": [
+        18848
+    ],
+    "18849": "RGLgg 6v6 Invite 3rd Place Season 18",
+    "RGLgg 6v6 Invite 3rd Place Season 18": [
+        18849
+    ],
+    "18850": "RGLgg 6v6 Invite Participant Season 18",
+    "RGLgg 6v6 Invite Participant Season 18": [
+        18850
+    ],
+    "18851": "RGLgg 6v6 Advanced Champions Season 18",
+    "RGLgg 6v6 Advanced Champions Season 18": [
+        18851
+    ],
+    "18852": "RGLgg 6v6 Advanced 2nd Place Season 18",
+    "RGLgg 6v6 Advanced 2nd Place Season 18": [
+        18852
+    ],
+    "18853": "RGLgg 6v6 Advanced 3rd Place Season 18",
+    "RGLgg 6v6 Advanced 3rd Place Season 18": [
+        18853
+    ],
+    "18854": "RGLgg 6v6 Advanced Participant Season 18",
+    "RGLgg 6v6 Advanced Participant Season 18": [
+        18854
+    ],
+    "18855": "RGLgg 6v6 Main Champions Season 18",
+    "RGLgg 6v6 Main Champions Season 18": [
+        18855
+    ],
+    "18856": "RGLgg 6v6 Main 2nd Place Season 18",
+    "RGLgg 6v6 Main 2nd Place Season 18": [
+        18856
+    ],
+    "18857": "RGLgg 6v6 Main 3rd Place Season 18",
+    "RGLgg 6v6 Main 3rd Place Season 18": [
+        18857
+    ],
+    "18858": "RGLgg 6v6 Main Participant Season 18",
+    "RGLgg 6v6 Main Participant Season 18": [
+        18858
+    ],
+    "18859": "RGLgg 6v6 Intermediate Champions Season 18",
+    "RGLgg 6v6 Intermediate Champions Season 18": [
+        18859
+    ],
+    "18860": "RGLgg 6v6 Intermediate 2nd Place Season 18",
+    "RGLgg 6v6 Intermediate 2nd Place Season 18": [
+        18860
+    ],
+    "18861": "RGLgg 6v6 Intermediate 3rd Place Season 18",
+    "RGLgg 6v6 Intermediate 3rd Place Season 18": [
+        18861
+    ],
+    "18862": "RGLgg 6v6 Intermediate Participant Season 18",
+    "RGLgg 6v6 Intermediate Participant Season 18": [
+        18862
+    ],
+    "18863": "RGLgg 6v6 Amateur Participant Season 18",
+    "RGLgg 6v6 Amateur Participant Season 18": [
+        18863
+    ],
+    "18864": "RGLgg 6v6 Newcomer Participant Season 18",
+    "RGLgg 6v6 Newcomer Participant Season 18": [
+        18864
+    ],
+    "18865": "RGLgg 6v6 Invite Champions Season 19",
+    "RGLgg 6v6 Invite Champions Season 19": [
+        18865
+    ],
+    "18866": "RGLgg 6v6 Invite 2nd Place Season 19",
+    "RGLgg 6v6 Invite 2nd Place Season 19": [
+        18866
+    ],
+    "18867": "RGLgg 6v6 Invite 3rd Place Season 19",
+    "RGLgg 6v6 Invite 3rd Place Season 19": [
+        18867
+    ],
+    "18868": "RGLgg 6v6 Invite Participant Season 19",
+    "RGLgg 6v6 Invite Participant Season 19": [
+        18868
+    ],
+    "18869": "RGLgg 6v6 Advanced Champions Season 19",
+    "RGLgg 6v6 Advanced Champions Season 19": [
+        18869
+    ],
+    "18870": "RGLgg 6v6 Advanced 2nd Place Season 19",
+    "RGLgg 6v6 Advanced 2nd Place Season 19": [
+        18870
+    ],
+    "18871": "RGLgg 6v6 Advanced 3rd Place Season 19",
+    "RGLgg 6v6 Advanced 3rd Place Season 19": [
+        18871
+    ],
+    "18872": "RGLgg 6v6 Advanced Participant Season 19",
+    "RGLgg 6v6 Advanced Participant Season 19": [
+        18872
+    ],
+    "18873": "RGLgg 6v6 Main Champions Season 19",
+    "RGLgg 6v6 Main Champions Season 19": [
+        18873
+    ],
+    "18874": "RGLgg 6v6 Main 2nd Place Season 19",
+    "RGLgg 6v6 Main 2nd Place Season 19": [
+        18874
+    ],
+    "18875": "RGLgg 6v6 Main 3rd Place Season 19",
+    "RGLgg 6v6 Main 3rd Place Season 19": [
+        18875
+    ],
+    "18876": "RGLgg 6v6 Main Participant Season 19",
+    "RGLgg 6v6 Main Participant Season 19": [
+        18876
+    ],
+    "18877": "RGLgg 6v6 Intermediate Champions Season 19",
+    "RGLgg 6v6 Intermediate Champions Season 19": [
+        18877
+    ],
+    "18878": "RGLgg 6v6 Intermediate 2nd Place Season 19",
+    "RGLgg 6v6 Intermediate 2nd Place Season 19": [
+        18878
+    ],
+    "18879": "RGLgg 6v6 Intermediate 3rd Place Season 19",
+    "RGLgg 6v6 Intermediate 3rd Place Season 19": [
+        18879
+    ],
+    "18880": "RGLgg 6v6 Intermediate Participant Season 19",
+    "RGLgg 6v6 Intermediate Participant Season 19": [
+        18880
+    ],
+    "18881": "RGLgg 6v6 Amateur Participant Season 19",
+    "RGLgg 6v6 Amateur Participant Season 19": [
+        18881
+    ],
+    "18882": "RGLgg 6v6 Newcomer Participant Season 19",
+    "RGLgg 6v6 Newcomer Participant Season 19": [
+        18882
+    ],
+    "18883": "Brazil Fortress QEL 6v6 PG1 SA Invite First Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Invite First Place": [
+        18883
+    ],
+    "18884": "Brazil Fortress QEL 6v6 PG1 SA Invite Second Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Invite Second Place": [
+        18884
+    ],
+    "18885": "Brazil Fortress QEL 6v6 PG1 SA Invite Third Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Invite Third Place": [
+        18885
+    ],
+    "18886": "Brazil Fortress QEL 6v6 PG1 SA Invite Participant",
+    "Brazil Fortress QEL 6v6 PG1 SA Invite Participant": [
+        18886
+    ],
+    "18887": "Brazil Fortress QEL 6v6 PG1 SA Dv1 First Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv1 First Place": [
+        18887
+    ],
+    "18888": "Brazil Fortress QEL 6v6 PG1 SA Dv1 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv1 Second Place": [
+        18888
+    ],
+    "18889": "Brazil Fortress QEL 6v6 PG1 SA Dv1 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv1 Third Place": [
+        18889
+    ],
+    "18890": "Brazil Fortress QEL 6v6 PG1 SA Dv1 Participant",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv1 Participant": [
+        18890
+    ],
+    "18891": "Brazil Fortress QEL 6v6 PG1 SA Dv2 First Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv2 First Place": [
+        18891
+    ],
+    "18892": "Brazil Fortress QEL 6v6 PG1 SA Dv2 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv2 Second Place": [
+        18892
+    ],
+    "18893": "Brazil Fortress QEL 6v6 PG1 SA Dv2 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv2 Third Place": [
+        18893
+    ],
+    "18894": "Brazil Fortress QEL 6v6 PG1 SA Dv2 Participant",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv2 Participant": [
+        18894
+    ],
+    "18895": "Brazil Fortress QEL 6v6 PG1 SA Dv3 First Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv3 First Place": [
+        18895
+    ],
+    "18896": "Brazil Fortress QEL 6v6 PG1 SA Dv3 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv3 Second Place": [
+        18896
+    ],
+    "18897": "Brazil Fortress QEL 6v6 PG1 SA Dv3 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv3 Third Place": [
+        18897
+    ],
+    "18898": "Brazil Fortress QEL 6v6 PG1 SA Dv3 Participant",
+    "Brazil Fortress QEL 6v6 PG1 SA Dv3 Participant": [
+        18898
+    ],
+    "18899": "Brazil Fortress QEL 6v6 PG1 NA Invite First Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Invite First Place": [
+        18899
+    ],
+    "18900": "Brazil Fortress QEL 6v6 PG1 NA Invite Second Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Invite Second Place": [
+        18900
+    ],
+    "18901": "Brazil Fortress QEL 6v6 PG1 NA Invite Third Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Invite Third Place": [
+        18901
+    ],
+    "18902": "Brazil Fortress QEL 6v6 PG1 NA Invite Participant",
+    "Brazil Fortress QEL 6v6 PG1 NA Invite Participant": [
+        18902
+    ],
+    "18903": "Brazil Fortress QEL 6v6 PG1 NA Dv1 First Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv1 First Place": [
+        18903
+    ],
+    "18904": "Brazil Fortress QEL 6v6 PG1 NA Dv1 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv1 Second Place": [
+        18904
+    ],
+    "18905": "Brazil Fortress QEL 6v6 PG1 NA Dv1 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv1 Third Place": [
+        18905
+    ],
+    "18906": "Brazil Fortress QEL 6v6 PG1 NA Dv1 Participant",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv1 Participant": [
+        18906
+    ],
+    "18907": "Brazil Fortress QEL 6v6 PG1 NA Dv2 First Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv2 First Place": [
+        18907
+    ],
+    "18908": "Brazil Fortress QEL 6v6 PG1 NA Dv2 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv2 Second Place": [
+        18908
+    ],
+    "18909": "Brazil Fortress QEL 6v6 PG1 NA Dv2 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv2 Third Place": [
+        18909
+    ],
+    "18910": "Brazil Fortress QEL 6v6 PG1 NA Dv2 Participant",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv2 Participant": [
+        18910
+    ],
+    "18911": "Brazil Fortress QEL 6v6 PG1 NA Dv3 First Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv3 First Place": [
+        18911
+    ],
+    "18912": "Brazil Fortress QEL 6v6 PG1 NA Dv3 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv3 Second Place": [
+        18912
+    ],
+    "18913": "Brazil Fortress QEL 6v6 PG1 NA Dv3 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv3 Third Place": [
+        18913
+    ],
+    "18914": "Brazil Fortress QEL 6v6 PG1 NA Dv3 Participant",
+    "Brazil Fortress QEL 6v6 PG1 NA Dv3 Participant": [
+        18914
+    ],
+    "18915": "Brazil Fortress QEL 6v6 PG1 EU Invite First Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Invite First Place": [
+        18915
+    ],
+    "18916": "Brazil Fortress QEL 6v6 PG1 EU Invite Second Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Invite Second Place": [
+        18916
+    ],
+    "18917": "Brazil Fortress QEL 6v6 PG1 EU Invite Third Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Invite Third Place": [
+        18917
+    ],
+    "18918": "Brazil Fortress QEL 6v6 PG1 EU Invite Participant",
+    "Brazil Fortress QEL 6v6 PG1 EU Invite Participant": [
+        18918
+    ],
+    "18919": "Brazil Fortress QEL 6v6 PG1 EU Dv1 First Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv1 First Place": [
+        18919
+    ],
+    "18920": "Brazil Fortress QEL 6v6 PG1 EU Dv1 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv1 Second Place": [
+        18920
+    ],
+    "18921": "Brazil Fortress QEL 6v6 PG1 EU Dv1 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv1 Third Place": [
+        18921
+    ],
+    "18922": "Brazil Fortress QEL 6v6 PG1 EU Dv1 Participant",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv1 Participant": [
+        18922
+    ],
+    "18923": "Brazil Fortress QEL 6v6 PG1 EU Dv2 First Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv2 First Place": [
+        18923
+    ],
+    "18924": "Brazil Fortress QEL 6v6 PG1 EU Dv2 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv2 Second Place": [
+        18924
+    ],
+    "18925": "Brazil Fortress QEL 6v6 PG1 EU Dv2 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv2 Third Place": [
+        18925
+    ],
+    "18926": "Brazil Fortress QEL 6v6 PG1 EU Dv2 Participant",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv2 Participant": [
+        18926
+    ],
+    "18927": "Brazil Fortress QEL 6v6 PG1 EU Dv3 First Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv3 First Place": [
+        18927
+    ],
+    "18928": "Brazil Fortress QEL 6v6 PG1 EU Dv3 Second Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv3 Second Place": [
+        18928
+    ],
+    "18929": "Brazil Fortress QEL 6v6 PG1 EU Dv3 Third Place",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv3 Third Place": [
+        18929
+    ],
+    "18930": "Brazil Fortress QEL 6v6 PG1 EU Dv3 Participant",
+    "Brazil Fortress QEL 6v6 PG1 EU Dv3 Participant": [
+        18930
+    ],
+    "18931": "Brazil Fortress QEL 6v6 PG1 Staff Member",
+    "Brazil Fortress QEL 6v6 PG1 Staff Member": [
+        18931
+    ],
+    "18932": "Gette it Onne Champion Season 2",
+    "Gette it Onne Champion Season 2": [
+        18932
+    ],
+    "18933": "Gette it Onne Playoffs Season 2",
+    "Gette it Onne Playoffs Season 2": [
+        18933
+    ],
+    "18934": "Gette it Onne Participant Season 2",
+    "Gette it Onne Participant Season 2": [
+        18934
+    ],
+    "18935": "Gette it Onne Helper Season 2",
+    "Gette it Onne Helper Season 2": [
+        18935
+    ],
+    "18936": "TFCL Alpha Participant Season 1",
+    "TFCL Alpha Participant Season 1": [
+        18936
+    ],
+    "18937": "ozfortress Summer Cup Sixes Division 1 1st Place 2026",
+    "ozfortress Summer Cup Sixes Division 1 1st Place 2026": [
+        18937
+    ],
+    "18938": "ozfortress Summer Cup Sixes Division 1 2nd Place 2026",
+    "ozfortress Summer Cup Sixes Division 1 2nd Place 2026": [
+        18938
+    ],
+    "18939": "ozfortress Summer Cup Sixes Division 1 3rd Place 2026",
+    "ozfortress Summer Cup Sixes Division 1 3rd Place 2026": [
+        18939
+    ],
+    "18940": "ozfortress Summer Cup Sixes Division 1 Participant 2026",
+    "ozfortress Summer Cup Sixes Division 1 Participant 2026": [
+        18940
+    ],
+    "18941": "ozfortress Summer Cup Sixes Division 2 1st Place 2026",
+    "ozfortress Summer Cup Sixes Division 2 1st Place 2026": [
+        18941
+    ],
+    "18942": "ozfortress Summer Cup Sixes Division 2 2nd Place 2026",
+    "ozfortress Summer Cup Sixes Division 2 2nd Place 2026": [
+        18942
+    ],
+    "18943": "ozfortress Summer Cup Sixes Division 2 3rd Place 2026",
+    "ozfortress Summer Cup Sixes Division 2 3rd Place 2026": [
+        18943
+    ],
+    "18944": "ozfortress Summer Cup Sixes Division 2 Participant 2026",
+    "ozfortress Summer Cup Sixes Division 2 Participant 2026": [
+        18944
+    ],
+    "18945": "ozfortress Summer Cup Sixes Division 3 1st Place 2026",
+    "ozfortress Summer Cup Sixes Division 3 1st Place 2026": [
+        18945
+    ],
+    "18946": "ozfortress Summer Cup Sixes Division 3 2nd Place 2026",
+    "ozfortress Summer Cup Sixes Division 3 2nd Place 2026": [
+        18946
+    ],
+    "18947": "ozfortress Summer Cup Sixes Division 3 3rd Place 2026",
+    "ozfortress Summer Cup Sixes Division 3 3rd Place 2026": [
+        18947
+    ],
+    "18948": "ozfortress Summer Cup Sixes Division 3 Participant 2026",
+    "ozfortress Summer Cup Sixes Division 3 Participant 2026": [
+        18948
+    ],
+    "18949": "ozfortress Summer Cup Sixes Division 4 1st Place 2026",
+    "ozfortress Summer Cup Sixes Division 4 1st Place 2026": [
+        18949
+    ],
+    "18950": "ozfortress Summer Cup Sixes Division 4 2nd Place 2026",
+    "ozfortress Summer Cup Sixes Division 4 2nd Place 2026": [
+        18950
+    ],
+    "18951": "ozfortress Summer Cup Sixes Division 4 3rd Place 2026",
+    "ozfortress Summer Cup Sixes Division 4 3rd Place 2026": [
+        18951
+    ],
+    "18952": "ozfortress Summer Cup Sixes Division 4 Participant 2026",
+    "ozfortress Summer Cup Sixes Division 4 Participant 2026": [
+        18952
+    ],
+    "18953": "MGE.tf 1v1 World Championship 1st Place 2026",
+    "MGE.tf 1v1 World Championship 1st Place 2026": [
+        18953
+    ],
+    "18954": "MGE.tf 1v1 World Championship 2nd Place 2026",
+    "MGE.tf 1v1 World Championship 2nd Place 2026": [
+        18954
+    ],
+    "18955": "MGE.tf 1v1 World Championship 3rd Place 2026",
+    "MGE.tf 1v1 World Championship 3rd Place 2026": [
+        18955
+    ],
+    "18956": "MGE.tf 1v1 World Championship Participant 2026",
+    "MGE.tf 1v1 World Championship Participant 2026": [
+        18956
+    ],
+    "18957": "MGE.tf 1v1 World Championship Helper 2026",
+    "MGE.tf 1v1 World Championship Helper 2026": [
+        18957
+    ],
+    "18958": "RGLgg Highlander Advanced2 Champions Season 22",
+    "RGLgg Highlander Advanced2 Champions Season 22": [
+        18958
+    ],
+    "18959": "RGLgg Highlander Advanced2 2nd Place Season 22",
+    "RGLgg Highlander Advanced2 2nd Place Season 22": [
+        18959
+    ],
+    "18960": "RGLgg Highlander Advanced2 3rd Place Season 22",
+    "RGLgg Highlander Advanced2 3rd Place Season 22": [
+        18960
+    ],
+    "18961": "RGLgg Highlander Advanced2 Participant Season 22",
+    "RGLgg Highlander Advanced2 Participant Season 22": [
+        18961
+    ],
+    "18962": "UDL Season 1 Cup Gold Medal 2026",
+    "UDL Season 1 Cup Gold Medal 2026": [
+        18962
+    ],
+    "18963": "UDL Season 1 Cup Silver Medal 2026",
+    "UDL Season 1 Cup Silver Medal 2026": [
+        18963
+    ],
+    "18964": "UDL Season 1 Cup Bronze Medal 2026",
+    "UDL Season 1 Cup Bronze Medal 2026": [
+        18964
+    ],
+    "18965": "UDL Season 1 Cup Participant 2026",
+    "UDL Season 1 Cup Participant 2026": [
+        18965
+    ],
+    "18966": "UDL Season 1 Cup Supporter 2026",
+    "UDL Season 1 Cup Supporter 2026": [
+        18966
+    ],
+    "18967": "TFCL Alpha Participant Season 2",
+    "TFCL Alpha Participant Season 2": [
+        18967
+    ],
+    "18968": "AsiaFortress Invite 1st Place Winter 2026",
+    "AsiaFortress Invite 1st Place Winter 2026": [
+        18968
+    ],
+    "18969": "AsiaFortress Invite 2nd Place Winter 2026",
+    "AsiaFortress Invite 2nd Place Winter 2026": [
+        18969
+    ],
+    "18970": "AsiaFortress Invite 3rd Place Winter 2026",
+    "AsiaFortress Invite 3rd Place Winter 2026": [
+        18970
+    ],
+    "18971": "AsiaFortress Main 1st Place Winter 2026",
+    "AsiaFortress Main 1st Place Winter 2026": [
+        18971
+    ],
+    "18972": "AsiaFortress Main 2nd Place Winter 2026",
+    "AsiaFortress Main 2nd Place Winter 2026": [
+        18972
+    ],
+    "18973": "AsiaFortress Main 3rd Place Winter 2026",
+    "AsiaFortress Main 3rd Place Winter 2026": [
+        18973
+    ],
+    "18974": "AsiaFortress Invite Participant Winter 2026",
+    "AsiaFortress Invite Participant Winter 2026": [
+        18974
+    ],
+    "18975": "AsiaFortress Main Participant Winter 2026",
+    "AsiaFortress Main Participant Winter 2026": [
+        18975
+    ],
+    "18976": "AsiaFortress Open Participant Winter 2026",
+    "AsiaFortress Open Participant Winter 2026": [
+        18976
+    ],
+    "18977": "AsiaFortress Newbie 1st Place Cup 12",
+    "AsiaFortress Newbie 1st Place Cup 12": [
+        18977
+    ],
+    "18978": "AsiaFortress Newbie 2nd Place Cup 12",
+    "AsiaFortress Newbie 2nd Place Cup 12": [
+        18978
+    ],
+    "18979": "AsiaFortress Newbie 3rd Place Cup 12",
+    "AsiaFortress Newbie 3rd Place Cup 12": [
+        18979
+    ],
+    "18980": "AsiaFortress Newbie Participant Cup 12",
+    "AsiaFortress Newbie Participant Cup 12": [
+        18980
+    ],
+    "18981": "AsiaFortress Newbie Coach Cup 12",
+    "AsiaFortress Newbie Coach Cup 12": [
+        18981
+    ],
+    "18982": "AsiaFortress Highlander Cup 1st Place Winter 2026",
+    "AsiaFortress Highlander Cup 1st Place Winter 2026": [
+        18982
+    ],
+    "18983": "AsiaFortress Highlander Cup 2nd Place Winter 2026",
+    "AsiaFortress Highlander Cup 2nd Place Winter 2026": [
+        18983
+    ],
+    "18984": "AsiaFortress Highlander Cup 3rd Place Winter 2026",
+    "AsiaFortress Highlander Cup 3rd Place Winter 2026": [
+        18984
+    ],
+    "18985": "AsiaFortress Highlander Cup Participant Winter 2026",
+    "AsiaFortress Highlander Cup Participant Winter 2026": [
+        18985
+    ],
+    "18986": "Memes vs Machines: Re-Peeled Un-Peeled Potato 2026",
+    "Memes vs Machines: Re-Peeled Un-Peeled Potato 2026": [
+        18986
+    ],
+    "18987": "Memes vs Machines: Re-Peeled Giving Tanks 2026",
+    "Memes vs Machines: Re-Peeled Giving Tanks 2026": [
+        18987
+    ],
+    "18988": "Memes vs Machines: Re-Peeled Equestrian Eosphorite 2026",
+    "Memes vs Machines: Re-Peeled Equestrian Eosphorite 2026": [
+        18988
+    ],
+    "18989": "Memes vs Machines: Re-Peeled Soggy Sapphire 2026",
+    "Memes vs Machines: Re-Peeled Soggy Sapphire 2026": [
+        18989
+    ],
+    "18990": "MGE.tf EU 2v2 Premier 1st Place Season 3",
+    "MGE.tf EU 2v2 Premier 1st Place Season 3": [
+        18990
+    ],
+    "18991": "MGE.tf EU 2v2 Premier 2nd Place Season 3",
+    "MGE.tf EU 2v2 Premier 2nd Place Season 3": [
+        18991
+    ],
+    "18992": "MGE.tf EU 2v2 Premier 3rd Place Season 3",
+    "MGE.tf EU 2v2 Premier 3rd Place Season 3": [
+        18992
+    ],
+    "18993": "MGE.tf EU 2v2 Premier Participant Season 3",
+    "MGE.tf EU 2v2 Premier Participant Season 3": [
+        18993
+    ],
+    "18994": "MGE.tf EU 2v2 Intermediate 1st Place Season 3",
+    "MGE.tf EU 2v2 Intermediate 1st Place Season 3": [
+        18994
+    ],
+    "18995": "MGE.tf EU 2v2 Intermediate 2nd Place Season 3",
+    "MGE.tf EU 2v2 Intermediate 2nd Place Season 3": [
+        18995
+    ],
+    "18996": "MGE.tf EU 2v2 Intermediate 3rd Place Season 3",
+    "MGE.tf EU 2v2 Intermediate 3rd Place Season 3": [
+        18996
+    ],
+    "18997": "MGE.tf EU 2v2 Intermediate Participant Season 3",
+    "MGE.tf EU 2v2 Intermediate Participant Season 3": [
+        18997
+    ],
+    "18998": "MGE.tf EU 2v2 Open 1st Place Season 3",
+    "MGE.tf EU 2v2 Open 1st Place Season 3": [
+        18998
+    ],
+    "18999": "MGE.tf EU 2v2 Open 2nd Place Season 3",
+    "MGE.tf EU 2v2 Open 2nd Place Season 3": [
+        18999
+    ],
+    "19000": "MGE.tf EU 2v2 Open 3rd Place Season 3",
+    "MGE.tf EU 2v2 Open 3rd Place Season 3": [
+        19000
+    ],
+    "19001": "MGE.tf EU 2v2 Open Participant Season 3",
+    "MGE.tf EU 2v2 Open Participant Season 3": [
+        19001
+    ],
+    "19002": "MGE.tf EU 2v2 Newcomer 1st Place Season 3",
+    "MGE.tf EU 2v2 Newcomer 1st Place Season 3": [
+        19002
+    ],
+    "19003": "MGE.tf EU 2v2 Newcomer 2nd Place Season 3",
+    "MGE.tf EU 2v2 Newcomer 2nd Place Season 3": [
+        19003
+    ],
+    "19004": "MGE.tf EU 2v2 Newcomer Participant Season 3",
+    "MGE.tf EU 2v2 Newcomer Participant Season 3": [
+        19004
+    ],
+    "19005": "MGE.tf NA 2v2 Invite 1st Place Season 2",
+    "MGE.tf NA 2v2 Invite 1st Place Season 2": [
+        19005
+    ],
+    "19006": "MGE.tf NA 2v2 Invite 2nd Place Season 2",
+    "MGE.tf NA 2v2 Invite 2nd Place Season 2": [
+        19006
+    ],
+    "19007": "MGE.tf NA 2v2 Invite 3rd Place Season 2",
+    "MGE.tf NA 2v2 Invite 3rd Place Season 2": [
+        19007
+    ],
+    "19008": "MGE.tf NA 2v2 Invite Participant Season 2",
+    "MGE.tf NA 2v2 Invite Participant Season 2": [
+        19008
+    ],
+    "19009": "MGE.tf NA 2v2 Intermediate 1st Place Season 2",
+    "MGE.tf NA 2v2 Intermediate 1st Place Season 2": [
+        19009
+    ],
+    "19010": "MGE.tf NA 2v2 Intermediate 2nd Place Season 2",
+    "MGE.tf NA 2v2 Intermediate 2nd Place Season 2": [
+        19010
+    ],
+    "19011": "MGE.tf NA 2v2 Intermediate 3rd Place Season 2",
+    "MGE.tf NA 2v2 Intermediate 3rd Place Season 2": [
+        19011
+    ],
+    "19012": "MGE.tf NA 2v2 Intermediate Participant Season 2",
+    "MGE.tf NA 2v2 Intermediate Participant Season 2": [
+        19012
+    ],
+    "19013": "MGE.tf NA 2v2 Open 1st Place Season 2",
+    "MGE.tf NA 2v2 Open 1st Place Season 2": [
+        19013
+    ],
+    "19014": "MGE.tf NA 2v2 Open 2nd Place Season 2",
+    "MGE.tf NA 2v2 Open 2nd Place Season 2": [
+        19014
+    ],
+    "19015": "MGE.tf NA 2v2 Open 3rd Place Season 2",
+    "MGE.tf NA 2v2 Open 3rd Place Season 2": [
+        19015
+    ],
+    "19016": "MGE.tf NA 2v2 Open Participant Season 2",
+    "MGE.tf NA 2v2 Open Participant Season 2": [
+        19016
+    ],
+    "19017": "MGE.tf NA 2v2 Newcomer 1st Place Season 2",
+    "MGE.tf NA 2v2 Newcomer 1st Place Season 2": [
+        19017
+    ],
+    "19018": "MGE.tf NA 2v2 Newcomer 2nd Place Season 2",
+    "MGE.tf NA 2v2 Newcomer 2nd Place Season 2": [
+        19018
+    ],
+    "19019": "MGE.tf NA 2v2 Newcomer Participant Season 2",
+    "MGE.tf NA 2v2 Newcomer Participant Season 2": [
+        19019
+    ],
+    "19020": "MGE.tf ASIA 2v2 Invite 1st Place Season 1",
+    "MGE.tf ASIA 2v2 Invite 1st Place Season 1": [
+        19020
+    ],
+    "19021": "MGE.tf ASIA 2v2 Invite 2nd Place Season 1",
+    "MGE.tf ASIA 2v2 Invite 2nd Place Season 1": [
+        19021
+    ],
+    "19022": "MGE.tf ASIA 2v2 Invite 3rd Place Season 1",
+    "MGE.tf ASIA 2v2 Invite 3rd Place Season 1": [
+        19022
+    ],
+    "19023": "MGE.tf ASIA 2v2 Invite Participant Season 1",
+    "MGE.tf ASIA 2v2 Invite Participant Season 1": [
+        19023
+    ],
+    "19024": "MGE.tf ASIA 2v2 Open 1st Place Season 1",
+    "MGE.tf ASIA 2v2 Open 1st Place Season 1": [
+        19024
+    ],
+    "19025": "MGE.tf ASIA 2v2 Open 2nd Place Season 1",
+    "MGE.tf ASIA 2v2 Open 2nd Place Season 1": [
+        19025
+    ],
+    "19026": "MGE.tf ASIA 2v2 Open 3rd Place Season 1",
+    "MGE.tf ASIA 2v2 Open 3rd Place Season 1": [
+        19026
+    ],
+    "19027": "MGE.tf ASIA 2v2 Open Participant Season 1",
+    "MGE.tf ASIA 2v2 Open Participant Season 1": [
+        19027
+    ],
+    "19028": "MGE.tf ASIA 2v2 Newcomer 1st Place Season 1",
+    "MGE.tf ASIA 2v2 Newcomer 1st Place Season 1": [
+        19028
+    ],
+    "19029": "MGE.tf ASIA 2v2 Newcomer 2nd Place Season 1",
+    "MGE.tf ASIA 2v2 Newcomer 2nd Place Season 1": [
+        19029
+    ],
+    "19030": "MGE.tf ASIA 2v2 Newcomer Participant Season 1",
+    "MGE.tf ASIA 2v2 Newcomer Participant Season 1": [
+        19030
+    ],
+    "19031": "MGE.tf EU 1v1 Premier 1st Place Season 1",
+    "MGE.tf EU 1v1 Premier 1st Place Season 1": [
+        19031
+    ],
+    "19032": "MGE.tf EU 1v1 Premier 2nd Place Season 1",
+    "MGE.tf EU 1v1 Premier 2nd Place Season 1": [
+        19032
+    ],
+    "19033": "MGE.tf EU 1v1 Premier 3rd Place Season 1",
+    "MGE.tf EU 1v1 Premier 3rd Place Season 1": [
+        19033
+    ],
+    "19034": "MGE.tf EU 1v1 Premier Participant Season 1",
+    "MGE.tf EU 1v1 Premier Participant Season 1": [
+        19034
+    ],
+    "19035": "MGE.tf EU 1v1 Intermediate 1st Place Season 1",
+    "MGE.tf EU 1v1 Intermediate 1st Place Season 1": [
+        19035
+    ],
+    "19036": "MGE.tf EU 1v1 Intermediate 2nd Place Season 1",
+    "MGE.tf EU 1v1 Intermediate 2nd Place Season 1": [
+        19036
+    ],
+    "19037": "MGE.tf EU 1v1 Intermediate 3rd Place Season 1",
+    "MGE.tf EU 1v1 Intermediate 3rd Place Season 1": [
+        19037
+    ],
+    "19038": "MGE.tf EU 1v1 Intermediate Participant Season 1",
+    "MGE.tf EU 1v1 Intermediate Participant Season 1": [
+        19038
+    ],
+    "19039": "MGE.tf EU 1v1 Open 1st Place Season 1",
+    "MGE.tf EU 1v1 Open 1st Place Season 1": [
+        19039
+    ],
+    "19040": "MGE.tf EU 1v1 Open 2nd Place Season 1",
+    "MGE.tf EU 1v1 Open 2nd Place Season 1": [
+        19040
+    ],
+    "19041": "MGE.tf EU 1v1 Open 3rd Place Season 1",
+    "MGE.tf EU 1v1 Open 3rd Place Season 1": [
+        19041
+    ],
+    "19042": "MGE.tf EU 1v1 Open Participant Season 1",
+    "MGE.tf EU 1v1 Open Participant Season 1": [
+        19042
+    ],
+    "19043": "MGE.tf EU 1v1 Newcomer 1st Place Season 1",
+    "MGE.tf EU 1v1 Newcomer 1st Place Season 1": [
+        19043
+    ],
+    "19044": "MGE.tf EU 1v1 Newcomer 2nd Place Season 1",
+    "MGE.tf EU 1v1 Newcomer 2nd Place Season 1": [
+        19044
+    ],
+    "19045": "MGE.tf EU 1v1 Newcomer Participant Season 1",
+    "MGE.tf EU 1v1 Newcomer Participant Season 1": [
+        19045
+    ],
+    "19046": "MGE.tf NA 1v1 Invite 1st Place Season 1",
+    "MGE.tf NA 1v1 Invite 1st Place Season 1": [
+        19046
+    ],
+    "19047": "MGE.tf NA 1v1 Invite 2nd Place Season 1",
+    "MGE.tf NA 1v1 Invite 2nd Place Season 1": [
+        19047
+    ],
+    "19048": "MGE.tf NA 1v1 Invite 3rd Place Season 1",
+    "MGE.tf NA 1v1 Invite 3rd Place Season 1": [
+        19048
+    ],
+    "19049": "MGE.tf NA 1v1 Invite Participant Season 1",
+    "MGE.tf NA 1v1 Invite Participant Season 1": [
+        19049
+    ],
+    "19050": "MGE.tf NA 1v1 Intermediate 1st Place Season 1",
+    "MGE.tf NA 1v1 Intermediate 1st Place Season 1": [
+        19050
+    ],
+    "19051": "MGE.tf NA 1v1 Intermediate 2nd Place Season 1",
+    "MGE.tf NA 1v1 Intermediate 2nd Place Season 1": [
+        19051
+    ],
+    "19052": "MGE.tf NA 1v1 Intermediate 3rd Place Season 1",
+    "MGE.tf NA 1v1 Intermediate 3rd Place Season 1": [
+        19052
+    ],
+    "19053": "MGE.tf NA 1v1 Intermediate Participant Season 1",
+    "MGE.tf NA 1v1 Intermediate Participant Season 1": [
+        19053
+    ],
+    "19054": "MGE.tf NA 1v1 Open 1st Place Season 1",
+    "MGE.tf NA 1v1 Open 1st Place Season 1": [
+        19054
+    ],
+    "19055": "MGE.tf NA 1v1 Open 2nd Place Season 1",
+    "MGE.tf NA 1v1 Open 2nd Place Season 1": [
+        19055
+    ],
+    "19056": "MGE.tf NA 1v1 Open 3rd Place Season 1",
+    "MGE.tf NA 1v1 Open 3rd Place Season 1": [
+        19056
+    ],
+    "19057": "MGE.tf NA 1v1 Open Participant Season 1",
+    "MGE.tf NA 1v1 Open Participant Season 1": [
+        19057
+    ],
+    "19058": "MGE.tf NA 1v1 Newcomer 1st Place Season 1",
+    "MGE.tf NA 1v1 Newcomer 1st Place Season 1": [
+        19058
+    ],
+    "19059": "MGE.tf NA 1v1 Newcomer 2nd Place Season 1",
+    "MGE.tf NA 1v1 Newcomer 2nd Place Season 1": [
+        19059
+    ],
+    "19060": "MGE.tf NA 1v1 Newcomer Participant Season 1",
+    "MGE.tf NA 1v1 Newcomer Participant Season 1": [
+        19060
+    ],
+    "19061": "MGE.tf ASIA 1v1 Invite 1st Place Season 1",
+    "MGE.tf ASIA 1v1 Invite 1st Place Season 1": [
+        19061
+    ],
+    "19062": "MGE.tf ASIA 1v1 Invite 2nd Place Season 1",
+    "MGE.tf ASIA 1v1 Invite 2nd Place Season 1": [
+        19062
+    ],
+    "19063": "MGE.tf ASIA 1v1 Invite 3rd Place Season 1",
+    "MGE.tf ASIA 1v1 Invite 3rd Place Season 1": [
+        19063
+    ],
+    "19064": "MGE.tf ASIA 1v1 Invite Participant Season 1",
+    "MGE.tf ASIA 1v1 Invite Participant Season 1": [
+        19064
+    ],
+    "19065": "MGE.tf ASIA 1v1 Intermediate 1st Place Season 1",
+    "MGE.tf ASIA 1v1 Intermediate 1st Place Season 1": [
+        19065
+    ],
+    "19066": "MGE.tf ASIA 1v1 Intermediate 2nd Place Season 1",
+    "MGE.tf ASIA 1v1 Intermediate 2nd Place Season 1": [
+        19066
+    ],
+    "19067": "MGE.tf ASIA 1v1 Intermediate 3rd Place Season 1",
+    "MGE.tf ASIA 1v1 Intermediate 3rd Place Season 1": [
+        19067
+    ],
+    "19068": "MGE.tf ASIA 1v1 Intermediate Participant Season 1",
+    "MGE.tf ASIA 1v1 Intermediate Participant Season 1": [
+        19068
+    ],
+    "19069": "MGE.tf ASIA 1v1 Open 1st Place Season 1",
+    "MGE.tf ASIA 1v1 Open 1st Place Season 1": [
+        19069
+    ],
+    "19070": "MGE.tf ASIA 1v1 Open 2nd Place Season 1",
+    "MGE.tf ASIA 1v1 Open 2nd Place Season 1": [
+        19070
+    ],
+    "19071": "MGE.tf ASIA 1v1 Open 3rd Place Season 1",
+    "MGE.tf ASIA 1v1 Open 3rd Place Season 1": [
+        19071
+    ],
+    "19072": "MGE.tf ASIA 1v1 Open Participant Season 1",
+    "MGE.tf ASIA 1v1 Open Participant Season 1": [
+        19072
+    ],
+    "19073": "MGE.tf ASIA 1v1 Newcomer 1st Place Season 1",
+    "MGE.tf ASIA 1v1 Newcomer 1st Place Season 1": [
+        19073
+    ],
+    "19074": "MGE.tf ASIA 1v1 Newcomer 2nd Place Season 1",
+    "MGE.tf ASIA 1v1 Newcomer 2nd Place Season 1": [
+        19074
+    ],
+    "19075": "MGE.tf ASIA 1v1 Newcomer Participant Season 1",
+    "MGE.tf ASIA 1v1 Newcomer Participant Season 1": [
+        19075
+    ],
+    "19076": "MGE.tf EU Helper Spring 2026",
+    "MGE.tf EU Helper Spring 2026": [
+        19076
+    ],
+    "19077": "MGE.tf NA Helper Spring 2026",
+    "MGE.tf NA Helper Spring 2026": [
+        19077
+    ],
+    "19078": "MGE.tf ASIA Helper Spring 2026",
+    "MGE.tf ASIA Helper Spring 2026": [
+        19078
+    ],
+    "19079": "ozfortress Premier 1st Place Season 44",
+    "ozfortress Premier 1st Place Season 44": [
+        19079
+    ],
+    "19080": "ozfortress Premier 2nd Place Season 44",
+    "ozfortress Premier 2nd Place Season 44": [
+        19080
+    ],
+    "19081": "ozfortress Premier 3rd Place Season 44",
+    "ozfortress Premier 3rd Place Season 44": [
+        19081
+    ],
+    "19082": "ozfortress Premier Participant Season 44",
+    "ozfortress Premier Participant Season 44": [
+        19082
+    ],
+    "19083": "ozfortress High 1st Place Season 44",
+    "ozfortress High 1st Place Season 44": [
+        19083
+    ],
+    "19084": "ozfortress High 2nd Place Season 44",
+    "ozfortress High 2nd Place Season 44": [
+        19084
+    ],
+    "19085": "ozfortress High 3rd Place Season 44",
+    "ozfortress High 3rd Place Season 44": [
+        19085
+    ],
+    "19086": "ozfortress High Participant Season 44",
+    "ozfortress High Participant Season 44": [
+        19086
+    ],
+    "19087": "ozfortress Intermediate 1st Place Season 44",
+    "ozfortress Intermediate 1st Place Season 44": [
+        19087
+    ],
+    "19088": "ozfortress Intermediate 2nd Place Season 44",
+    "ozfortress Intermediate 2nd Place Season 44": [
+        19088
+    ],
+    "19089": "ozfortress Intermediate 3rd Place Season 44",
+    "ozfortress Intermediate 3rd Place Season 44": [
+        19089
+    ],
+    "19090": "ozfortress Intermediate Participant Season 44",
+    "ozfortress Intermediate Participant Season 44": [
+        19090
+    ],
+    "19091": "ozfortress Main 1st Place Season 44",
+    "ozfortress Main 1st Place Season 44": [
+        19091
+    ],
+    "19092": "ozfortress Main 2nd Place Season 44",
+    "ozfortress Main 2nd Place Season 44": [
+        19092
+    ],
+    "19093": "ozfortress Main 3rd Place Season 44",
+    "ozfortress Main 3rd Place Season 44": [
+        19093
+    ],
+    "19094": "ozfortress Main Participant Season 44",
+    "ozfortress Main Participant Season 44": [
+        19094
+    ],
+    "19095": "ozfortress Open 1st Place Season 44",
+    "ozfortress Open 1st Place Season 44": [
+        19095
+    ],
+    "19096": "ozfortress Open 2nd Place Season 44",
+    "ozfortress Open 2nd Place Season 44": [
+        19096
+    ],
+    "19097": "ozfortress Open 3rd Place Season 44",
+    "ozfortress Open 3rd Place Season 44": [
+        19097
+    ],
+    "19098": "ozfortress Open Participant Season 44",
+    "ozfortress Open Participant Season 44": [
+        19098
+    ],
+    "19099": "ozfortress Highlander Premier First Place Season 11",
+    "ozfortress Highlander Premier First Place Season 11": [
+        19099
+    ],
+    "19100": "ozfortress Highlander Premier Second Place Season 11",
+    "ozfortress Highlander Premier Second Place Season 11": [
+        19100
+    ],
+    "19101": "ozfortress Highlander Premier Third Place Season 11",
+    "ozfortress Highlander Premier Third Place Season 11": [
+        19101
+    ],
+    "19102": "ozfortress Highlander Premier Participant Season 11",
+    "ozfortress Highlander Premier Participant Season 11": [
+        19102
+    ],
+    "19103": "ozfortress Highlander Intermediate First Place Season 11",
+    "ozfortress Highlander Intermediate First Place Season 11": [
+        19103
+    ],
+    "19104": "ozfortress Highlander Intermediate Second Place Season 11",
+    "ozfortress Highlander Intermediate Second Place Season 11": [
+        19104
+    ],
+    "19105": "ozfortress Highlander Intermediate Third Place Season 11",
+    "ozfortress Highlander Intermediate Third Place Season 11": [
+        19105
+    ],
+    "19106": "ozfortress Highlander Intermediate Participant Season 11",
+    "ozfortress Highlander Intermediate Participant Season 11": [
+        19106
+    ],
+    "19107": "ozfortress Highlander Open First Place Season 11",
+    "ozfortress Highlander Open First Place Season 11": [
+        19107
+    ],
+    "19108": "ozfortress Highlander Open Second Place Season 11",
+    "ozfortress Highlander Open Second Place Season 11": [
+        19108
+    ],
+    "19109": "ozfortress Highlander Open Third Place Season 11",
+    "ozfortress Highlander Open Third Place Season 11": [
+        19109
+    ],
+    "19110": "ozfortress Highlander Open Participant Season 11",
+    "ozfortress Highlander Open Participant Season 11": [
+        19110
+    ],
+    "19111": "ozfortress Premier 1st Place Season 45",
+    "ozfortress Premier 1st Place Season 45": [
+        19111
+    ],
+    "19112": "ozfortress Premier 2nd Place Season 45",
+    "ozfortress Premier 2nd Place Season 45": [
+        19112
+    ],
+    "19113": "ozfortress Premier 3rd Place Season 45",
+    "ozfortress Premier 3rd Place Season 45": [
+        19113
+    ],
+    "19114": "ozfortress Premier Participant Season 45",
+    "ozfortress Premier Participant Season 45": [
+        19114
+    ],
+    "19115": "ozfortress Intermediate 1st Place Season 45",
+    "ozfortress Intermediate 1st Place Season 45": [
+        19115
+    ],
+    "19116": "ozfortress Intermediate 2nd Place Season 45",
+    "ozfortress Intermediate 2nd Place Season 45": [
+        19116
+    ],
+    "19117": "ozfortress Intermediate 3rd Place Season 45",
+    "ozfortress Intermediate 3rd Place Season 45": [
+        19117
+    ],
+    "19118": "ozfortress Intermediate Participant Season 45",
+    "ozfortress Intermediate Participant Season 45": [
+        19118
+    ],
+    "19119": "ozfortress Main 1st Place Season 45",
+    "ozfortress Main 1st Place Season 45": [
+        19119
+    ],
+    "19120": "ozfortress Main 2nd Place Season 45",
+    "ozfortress Main 2nd Place Season 45": [
+        19120
+    ],
+    "19121": "ozfortress Main 3rd Place Season 45",
+    "ozfortress Main 3rd Place Season 45": [
+        19121
+    ],
+    "19122": "ozfortress Main Participant Season 45",
+    "ozfortress Main Participant Season 45": [
+        19122
+    ],
+    "19123": "ozfortress Open 1st Place Season 45",
+    "ozfortress Open 1st Place Season 45": [
+        19123
+    ],
+    "19124": "ozfortress Open 2nd Place Season 45",
+    "ozfortress Open 2nd Place Season 45": [
+        19124
+    ],
+    "19125": "ozfortress Open 3rd Place Season 45",
+    "ozfortress Open 3rd Place Season 45": [
+        19125
+    ],
+    "19126": "ozfortress Open Participant Season 45",
+    "ozfortress Open Participant Season 45": [
+        19126
+    ],
+    "19127": "ozfortress Highlander Premier First Place Season 12",
+    "ozfortress Highlander Premier First Place Season 12": [
+        19127
+    ],
+    "19128": "ozfortress Highlander Premier Second Place Season 12",
+    "ozfortress Highlander Premier Second Place Season 12": [
+        19128
+    ],
+    "19129": "ozfortress Highlander Premier Third Place Season 12",
+    "ozfortress Highlander Premier Third Place Season 12": [
+        19129
+    ],
+    "19130": "ozfortress Highlander Premier Participant Season 12",
+    "ozfortress Highlander Premier Participant Season 12": [
+        19130
+    ],
+    "19131": "ozfortress Highlander Main First Place Season 12",
+    "ozfortress Highlander Main First Place Season 12": [
+        19131
+    ],
+    "19132": "ozfortress Highlander Main Second Place Season 12",
+    "ozfortress Highlander Main Second Place Season 12": [
+        19132
+    ],
+    "19133": "ozfortress Highlander Main Third Place Season 12",
+    "ozfortress Highlander Main Third Place Season 12": [
+        19133
+    ],
+    "19134": "ozfortress Highlander Main Participant Season 12",
+    "ozfortress Highlander Main Participant Season 12": [
+        19134
+    ],
+    "19135": "TFCL Alpha First Place Season 2",
+    "TFCL Alpha First Place Season 2": [
+        19135
+    ],
+    "19136": "TFCL Alpha Second Place Season 2",
+    "TFCL Alpha Second Place Season 2": [
+        19136
+    ],
+    "19137": "TFCL Alpha Third Place Season 2",
+    "TFCL Alpha Third Place Season 2": [
+        19137
+    ],
+    "19138": "LBTF2 Highlander Elite 1st Place Season 9",
+    "LBTF2 Highlander Elite 1st Place Season 9": [
+        19138
+    ],
+    "19139": "LBTF2 Highlander Elite 2nd Place Season 9",
+    "LBTF2 Highlander Elite 2nd Place Season 9": [
+        19139
+    ],
+    "19140": "LBTF2 Highlander Elite 3rd Place Season 9",
+    "LBTF2 Highlander Elite 3rd Place Season 9": [
+        19140
+    ],
+    "19141": "LBTF2 Highlander Elite Participant Season 9",
+    "LBTF2 Highlander Elite Participant Season 9": [
+        19141
+    ],
+    "19142": "LBTF2 Highlander Central 1st Place Season 9",
+    "LBTF2 Highlander Central 1st Place Season 9": [
+        19142
+    ],
+    "19143": "LBTF2 Highlander Central 2nd Place Season 9",
+    "LBTF2 Highlander Central 2nd Place Season 9": [
+        19143
+    ],
+    "19144": "LBTF2 Highlander Central 3rd Place Season 9",
+    "LBTF2 Highlander Central 3rd Place Season 9": [
+        19144
+    ],
+    "19145": "LBTF2 Highlander Central Participant Season 9",
+    "LBTF2 Highlander Central Participant Season 9": [
+        19145
+    ],
+    "19146": "LBTF2 Highlander Open 1st Place Season 9",
+    "LBTF2 Highlander Open 1st Place Season 9": [
+        19146
+    ],
+    "19147": "LBTF2 Highlander Open 2nd Place Season 9",
+    "LBTF2 Highlander Open 2nd Place Season 9": [
+        19147
+    ],
+    "19148": "LBTF2 Highlander Open 3rd Place Season 9",
+    "LBTF2 Highlander Open 3rd Place Season 9": [
+        19148
+    ],
+    "19149": "LBTF2 Highlander Open Participant Season 9",
+    "LBTF2 Highlander Open Participant Season 9": [
+        19149
+    ],
+    "19150": "LBTF2 6v6 Central 1st Place Season 25",
+    "LBTF2 6v6 Central 1st Place Season 25": [
+        19150
+    ],
+    "19151": "LBTF2 6v6 Central 2nd Place Season 25",
+    "LBTF2 6v6 Central 2nd Place Season 25": [
+        19151
+    ],
+    "19152": "LBTF2 6v6 Central 3rd Place Season 25",
+    "LBTF2 6v6 Central 3rd Place Season 25": [
+        19152
+    ],
+    "19153": "LBTF2 6v6 Central Participant Season 25",
+    "LBTF2 6v6 Central Participant Season 25": [
+        19153
+    ],
+    "19154": "LBTF2 6v6 Open 1st Place Season 25",
+    "LBTF2 6v6 Open 1st Place Season 25": [
+        19154
+    ],
+    "19155": "LBTF2 6v6 Open 2nd Place Season 25",
+    "LBTF2 6v6 Open 2nd Place Season 25": [
+        19155
+    ],
+    "19156": "LBTF2 6v6 Open 3rd Place Season 25",
+    "LBTF2 6v6 Open 3rd Place Season 25": [
+        19156
+    ],
+    "19157": "LBTF2 6v6 Open Participant Season 25",
+    "LBTF2 6v6 Open Participant Season 25": [
+        19157
+    ],
+    "19158": "FBTF Conecta Supporter 2025",
+    "FBTF Conecta Supporter 2025": [
+        19158
+    ],
+    "19159": "FBTF Conecta Pass Time Participant 2025",
+    "FBTF Conecta Pass Time Participant 2025": [
+        19159
+    ],
+    "19160": "FBTF Conecta Pub vs Pro Participant 2025",
+    "FBTF Conecta Pub vs Pro Participant 2025": [
+        19160
+    ],
+    "19161": "FBTF Conecta Jump Cup Participant 2025",
+    "FBTF Conecta Jump Cup Participant 2025": [
+        19161
+    ],
+    "19162": "Jump Fortress Playoffs Soldier 1st Place Summer 2026",
+    "Jump Fortress Playoffs Soldier 1st Place Summer 2026": [
+        19162
+    ],
+    "19163": "Jump Fortress Playoffs Soldier 2nd Place Summer 2026",
+    "Jump Fortress Playoffs Soldier 2nd Place Summer 2026": [
+        19163
+    ],
+    "19164": "Jump Fortress Playoffs Soldier 3rd Place Summer 2026",
+    "Jump Fortress Playoffs Soldier 3rd Place Summer 2026": [
+        19164
+    ],
+    "19165": "Jump Fortress Playoffs Soldier Participant Summer 2026",
+    "Jump Fortress Playoffs Soldier Participant Summer 2026": [
+        19165
+    ],
+    "19166": "Jump Fortress Playoffs Demoman 1st Place Summer 2026",
+    "Jump Fortress Playoffs Demoman 1st Place Summer 2026": [
+        19166
+    ],
+    "19167": "Jump Fortress Playoffs Demoman 2nd Place Summer 2026",
+    "Jump Fortress Playoffs Demoman 2nd Place Summer 2026": [
+        19167
+    ],
+    "19168": "Jump Fortress Playoffs Demoman 3rd Place Summer 2026",
+    "Jump Fortress Playoffs Demoman 3rd Place Summer 2026": [
+        19168
+    ],
+    "19169": "Jump Fortress Playoffs Demoman Participant Summer 2026",
+    "Jump Fortress Playoffs Demoman Participant Summer 2026": [
+        19169
+    ],
+    "19170": "Jump Fortress Playoffs Contributor Summer 2026",
+    "Jump Fortress Playoffs Contributor Summer 2026": [
+        19170
+    ],
+    "19171": "RGB 8 LAN 1st Place 2026",
+    "RGB 8 LAN 1st Place 2026": [
+        19171
+    ],
+    "19172": "RGB 8 LAN 2nd Place 2026",
+    "RGB 8 LAN 2nd Place 2026": [
+        19172
+    ],
+    "19173": "RGB 8 LAN 3rd Place 2026",
+    "RGB 8 LAN 3rd Place 2026": [
+        19173
+    ],
+    "19174": "RGB 8 LAN Participant 2026",
+    "RGB 8 LAN Participant 2026": [
+        19174
     ],
     "20000": "Cosmetic Strangifier Recipe 1",
     "Cosmetic Strangifier Recipe 1": [
@@ -43510,5 +45842,117 @@
     "31601": "Scrub Stompers",
     "Scrub Stompers": [
         31601
+    ],
+    "31602": "Taunt: The Circuit Breaker",
+    "Taunt: The Circuit Breaker": [
+        31602
+    ],
+    "31603": "Taunt: Buffoon's Bivouac",
+    "Taunt: Buffoon's Bivouac": [
+        31603
+    ],
+    "31604": "Taunt: Faux-calization",
+    "Taunt: Faux-calization": [
+        31604
+    ],
+    "31605": "Taunt: Friendly Fire",
+    "Taunt: Friendly Fire": [
+        31605
+    ],
+    "31606": "Hard Hearing",
+    "Hard Hearing": [
+        31606
+    ],
+    "31607": "Deadwave Communicator",
+    "Deadwave Communicator": [
+        31607
+    ],
+    "31608": "Beachcomber's Brim",
+    "Beachcomber's Brim": [
+        31608
+    ],
+    "31609": "Chief Executor",
+    "Chief Executor": [
+        31609
+    ],
+    "31610": "Vested Investor's Vest",
+    "Vested Investor's Vest": [
+        31610
+    ],
+    "31611": "Standing Offer",
+    "Standing Offer": [
+        31611
+    ],
+    "31612": "Tzar Athlete",
+    "Tzar Athlete": [
+        31612
+    ],
+    "31613": "Barbeque Bacon Britches",
+    "Barbeque Bacon Britches": [
+        31613
+    ],
+    "31614": "The Unknown Warrior",
+    "The Unknown Warrior": [
+        31614
+    ],
+    "31615": "Tropical Torcher",
+    "Tropical Torcher": [
+        31615
+    ],
+    "31616": "Pyro's Overalls",
+    "Pyro's Overalls": [
+        31616
+    ],
+    "31617": "The Deadliest Match",
+    "The Deadliest Match": [
+        31617
+    ],
+    "31618": "Bomb Blanket",
+    "Bomb Blanket": [
+        31618
+    ],
+    "31619": "The Handsome Ranger",
+    "The Handsome Ranger": [
+        31619
+    ],
+    "31620": "The Long Shot",
+    "The Long Shot": [
+        31620
+    ],
+    "31621": "The Night Riders",
+    "The Night Riders": [
+        31621
+    ],
+    "31622": "Atomic Bomber",
+    "Atomic Bomber": [
+        31622
+    ],
+    "31623": "Bonk! Atomic Kicks",
+    "Bonk! Atomic Kicks": [
+        31623
+    ],
+    "31624": "Lieutenant's Cut",
+    "Lieutenant's Cut": [
+        31624
+    ],
+    "31625": "Inglorious Patriot",
+    "Inglorious Patriot": [
+        31625
+    ],
+    "31626": "Delusions of Grandeur",
+    "Delusions of Grandeur": [
+        31626
+    ],
+    "31627": "Unruly Ruler",
+    "Unruly Ruler": [
+        31627
+    ],
+    "31628": "Bald Spotter",
+    "Bald Spotter": [
+        31628
+    ],
+    "31629": "Surgical Shroud",
+    "Surgical Shroud": [
+        31629
     ]
 }
