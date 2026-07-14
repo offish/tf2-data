@@ -801,8 +801,8 @@
     "Familiar Fez": [
         223
     ],
-    "224": "L'Etranger",
-    "L'Etranger": [
+    "224": "L'\u00c9tranger",
+    "L'\u00c9tranger": [
         224
     ],
     "225": "Your Eternal Reward",
@@ -4502,6 +4502,30 @@
     "Smissmas Ornament Beach Ball Assets": [
         1200
     ],
+    "1201": "Reissued Dealer's Visor",
+    "Reissued Dealer's Visor": [
+        1201
+    ],
+    "1202": "Reissued Lugermorph",
+    "Reissued Lugermorph": [
+        1202
+    ],
+    "1203": "Reissued Dangeresque, Too?",
+    "Reissued Dangeresque, Too?": [
+        1203
+    ],
+    "1204": "Reissued License to Maim",
+    "Reissued License to Maim": [
+        1204
+    ],
+    "1205": "Reissued Enthusiast's Timepiece",
+    "Reissued Enthusiast's Timepiece": [
+        1205
+    ],
+    "1206": "Reissued Iron Curtain",
+    "Reissued Iron Curtain": [
+        1206
+    ],
     "1899": "World Traveler's Hat",
     "World Traveler's Hat": [
         1899
@@ -4965,7 +4989,8 @@
         2176,
         2177,
         2178,
-        2179
+        2179,
+        2180
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5513,6 +5538,7 @@
     "2177": "Map Stamps Collection",
     "2178": "Map Stamps Collection",
     "2179": "Map Stamps Collection",
+    "2180": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5776,6 +5802,30 @@
     "2565": "Map Stamp - Matterhorn",
     "Map Stamp - Matterhorn": [
         2565
+    ],
+    "2566": "Map Stamp - Dryfield",
+    "Map Stamp - Dryfield": [
+        2566
+    ],
+    "2567": "Map Stamp - Camp Saxton",
+    "Map Stamp - Camp Saxton": [
+        2567
+    ],
+    "2568": "Map Stamp - Shorelight",
+    "Map Stamp - Shorelight": [
+        2568
+    ],
+    "2569": "Map Stamp - Redwood",
+    "Map Stamp - Redwood": [
+        2569
+    ],
+    "2570": "Map Stamp - Premuda",
+    "Map Stamp - Premuda": [
+        2570
+    ],
+    "2571": "Map Stamp - Mojave",
+    "Map Stamp - Mojave": [
+        2571
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -7264,6 +7314,22 @@
     "Winter 2025 Cosmetic Case": [
         5976
     ],
+    "5977": "Summer 2026 Cosmetic Key",
+    "Summer 2026 Cosmetic Key": [
+        5977
+    ],
+    "5978": "Summer 2026 Cosmetic Case",
+    "Summer 2026 Cosmetic Case": [
+        5978
+    ],
+    "5979": "Summer 2026 War Paint Key",
+    "Summer 2026 War Paint Key": [
+        5979
+    ],
+    "5980": "Summer 2026 War Paint Case",
+    "Summer 2026 War Paint Case": [
+        5980
+    ],
     "5999": "Strange Part",
     "Strange Part": [
         5999
@@ -8188,6 +8254,30 @@
     "Strange Filter: Matterhorn (Community)": [
         6682
     ],
+    "6683": "Strange Filter: Dryfield (Community)",
+    "Strange Filter: Dryfield (Community)": [
+        6683
+    ],
+    "6684": "Strange Filter: Camp Saxton (Community)",
+    "Strange Filter: Camp Saxton (Community)": [
+        6684
+    ],
+    "6685": "Strange Filter: Shorelight (Community)",
+    "Strange Filter: Shorelight (Community)": [
+        6685
+    ],
+    "6686": "Strange Filter: Redwood (Community)",
+    "Strange Filter: Redwood (Community)": [
+        6686
+    ],
+    "6687": "Strange Filter: Premuda (Community)",
+    "Strange Filter: Premuda (Community)": [
+        6687
+    ],
+    "6688": "Strange Filter: Mojave (Community)",
+    "Strange Filter: Mojave (Community)": [
+        6688
+    ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
         8000
@@ -8722,7 +8812,9 @@
         13877,
         13907,
         14146,
-        14173
+        14173,
+        18713,
+        18746
     ],
     "8128": "ETF2L 6v6 Division 2 Participation Medal",
     "ETF2L 6v6 Division 2 Participation Medal": [
@@ -8757,7 +8849,9 @@
         13881,
         13911,
         14150,
-        14177
+        14177,
+        18718,
+        18750
     ],
     "8129": "ETF2L 6v6 Division 3 Participation Medal",
     "ETF2L 6v6 Division 3 Participation Medal": [
@@ -8775,7 +8869,9 @@
         8546,
         11487,
         13885,
-        14181
+        14181,
+        18754,
+        18782
     ],
     "8130": "ETF2L 6v6 Division 4 Participation Medal",
     "ETF2L 6v6 Division 4 Participation Medal": [
@@ -8792,7 +8888,9 @@
         8515,
         8547,
         13889,
-        14185
+        14185,
+        18758,
+        18787
     ],
     "8131": "ETF2L 6v6 Division 5 Participation Medal",
     "ETF2L 6v6 Division 5 Participation Medal": [
@@ -8878,7 +8976,8 @@
         13931,
         13960,
         13987,
-        14200
+        14200,
+        18629
     ],
     "8169": "ETF2L Highlander Division 1 Silver Medal",
     "ETF2L Highlander Division 1 Silver Medal": [
@@ -8899,7 +8998,8 @@
         13932,
         13961,
         13988,
-        14201
+        14201,
+        18630
     ],
     "8170": "ETF2L Highlander Division 1 Bronze Medal",
     "ETF2L Highlander Division 1 Bronze Medal": [
@@ -8920,7 +9020,8 @@
         13933,
         13962,
         13989,
-        14202
+        14202,
+        18631
     ],
     "8171": "ETF2L Highlander Division 1 Gold Medal",
     "8172": "ETF2L Highlander Division 1 Silver Medal",
@@ -9041,7 +9142,8 @@
         13934,
         13963,
         13990,
-        14203
+        14203,
+        18632
     ],
     "8194": "ETF2L Highlander Division 2 Participation Medal",
     "ETF2L Highlander Division 2 Participation Medal": [
@@ -9067,7 +9169,8 @@
         13938,
         13967,
         13994,
-        14207
+        14207,
+        18636
     ],
     "8195": "ETF2L Highlander Division 3 Participation Medal",
     "ETF2L Highlander Division 3 Participation Medal": [
@@ -9082,7 +9185,8 @@
         13116,
         13146,
         13942,
-        13998
+        13998,
+        18640
     ],
     "8196": "ETF2L Highlander Division 4 Participation Medal",
     "ETF2L Highlander Division 4 Participation Medal": [
@@ -9097,7 +9201,8 @@
         13120,
         13150,
         13946,
-        14002
+        14002,
+        18644
     ],
     "8197": "ETF2L Highlander Division 5 Participation Medal",
     "ETF2L Highlander Division 5 Participation Medal": [
@@ -9913,7 +10018,8 @@
         12796,
         13461,
         14634,
-        14650
+        14650,
+        19150
     ],
     "8434": "LBTF2 6v6 Central 2nd Place",
     "LBTF2 6v6 Central 2nd Place": [
@@ -9928,7 +10034,8 @@
         12797,
         13462,
         14635,
-        14651
+        14651,
+        19151
     ],
     "8435": "LBTF2 6v6 Central 3rd Place",
     "LBTF2 6v6 Central 3rd Place": [
@@ -9943,7 +10050,8 @@
         12798,
         13463,
         14636,
-        14652
+        14652,
+        19152
     ],
     "8436": "LBTF2 6v6 Central Participant",
     "LBTF2 6v6 Central Participant": [
@@ -9959,7 +10067,8 @@
         12799,
         13464,
         14637,
-        14653
+        14653,
+        19153
     ],
     "8437": "LBTF2 6v6 Access 1st Place",
     "LBTF2 6v6 Access 1st Place": [
@@ -10046,7 +10155,8 @@
         13489,
         13653,
         14642,
-        14658
+        14658,
+        19154
     ],
     "8442": "LBTF2 6v6 Open 2nd Place",
     "LBTF2 6v6 Open 2nd Place": [
@@ -10065,7 +10175,8 @@
         13490,
         13654,
         14643,
-        14659
+        14659,
+        19155
     ],
     "8443": "LBTF2 6v6 Open 3rd Place",
     "LBTF2 6v6 Open 3rd Place": [
@@ -10084,7 +10195,8 @@
         13491,
         13655,
         14644,
-        14660
+        14660,
+        19156
     ],
     "8444": "LBTF2 6v6 Open Participant",
     "LBTF2 6v6 Open Participant": [
@@ -10103,7 +10215,8 @@
         13492,
         13656,
         14645,
-        14661
+        14661,
+        19157
     ],
     "8445": "AsiaFortress Cup Division 1 1st Place",
     "AsiaFortress Cup Division 1 1st Place": [
@@ -11205,7 +11318,10 @@
         13870,
         13900,
         14139,
-        14166
+        14166,
+        18706,
+        18739,
+        18769
     ],
     "8738": "ETF2L 6v6 Premiership Silver Medal",
     "ETF2L 6v6 Premiership Silver Medal": [
@@ -11237,7 +11353,10 @@
         13871,
         13901,
         14140,
-        14167
+        14167,
+        18707,
+        18740,
+        18770
     ],
     "8739": "ETF2L 6v6 Premiership Bronze Medal",
     "ETF2L 6v6 Premiership Bronze Medal": [
@@ -11269,7 +11388,10 @@
         13872,
         13902,
         14141,
-        14168
+        14168,
+        18708,
+        18741,
+        18771
     ],
     "8740": "ETF2L 6v6 Premiership Participation Medal",
     "ETF2L 6v6 Premiership Participation Medal": [
@@ -11301,7 +11423,10 @@
         13873,
         13903,
         14142,
-        14169
+        14169,
+        18709,
+        18742,
+        18772
     ],
     "8741": "ETF2L 6v6 High Gold Medal",
     "ETF2L 6v6 High Gold Medal": [
@@ -11313,7 +11438,8 @@
         9435,
         9454,
         9553,
-        9667
+        9667,
+        18773
     ],
     "8742": "ETF2L 6v6 High Silver Medal",
     "ETF2L 6v6 High Silver Medal": [
@@ -11325,7 +11451,8 @@
         9436,
         9455,
         9554,
-        9668
+        9668,
+        18774
     ],
     "8743": "ETF2L 6v6 High Bronze Medal",
     "ETF2L 6v6 High Bronze Medal": [
@@ -11337,7 +11464,8 @@
         9437,
         9456,
         9555,
-        9669
+        9669,
+        18775
     ],
     "8744": "ETF2L 6v6 High Playoff Medal",
     "ETF2L 6v6 High Playoff Medal": [
@@ -11349,7 +11477,8 @@
         9438,
         9457,
         9556,
-        9670
+        9670,
+        18776
     ],
     "8745": "ETF2L 6v6 High Participation Medal",
     "ETF2L 6v6 High Participation Medal": [
@@ -11361,7 +11490,8 @@
         9439,
         9458,
         9557,
-        9671
+        9671,
+        18777
     ],
     "8746": "ETF2L 6v6 Mid Gold Medal",
     "ETF2L 6v6 Mid Gold Medal": [
@@ -11391,7 +11521,8 @@
         13828,
         13855,
         13912,
-        14151
+        14151,
+        18719
     ],
     "8747": "ETF2L 6v6 Mid Silver Medal",
     "ETF2L 6v6 Mid Silver Medal": [
@@ -11421,7 +11552,8 @@
         13829,
         13856,
         13913,
-        14152
+        14152,
+        18720
     ],
     "8748": "ETF2L 6v6 Mid Bronze Medal",
     "ETF2L 6v6 Mid Bronze Medal": [
@@ -11451,7 +11583,8 @@
         13830,
         13857,
         13914,
-        14153
+        14153,
+        18721
     ],
     "8749": "ETF2L 6v6 Mid Playoff Medal",
     "ETF2L 6v6 Mid Playoff Medal": [
@@ -11481,7 +11614,8 @@
         13831,
         13858,
         13915,
-        14154
+        14154,
+        18722
     ],
     "8750": "ETF2L 6v6 Mid Participation Medal",
     "ETF2L 6v6 Mid Participation Medal": [
@@ -11511,7 +11645,8 @@
         13832,
         13859,
         13916,
-        14155
+        14155,
+        18723
     ],
     "8751": "ETF2L 6v6 Open Gold Medal",
     "ETF2L 6v6 Open Gold Medal": [
@@ -11543,7 +11678,10 @@
         13895,
         13922,
         14161,
-        14191
+        14191,
+        18729,
+        18764,
+        18793
     ],
     "8752": "ETF2L 6v6 Open Silver Medal",
     "ETF2L 6v6 Open Silver Medal": [
@@ -11575,7 +11713,10 @@
         13896,
         13923,
         14162,
-        14192
+        14192,
+        18730,
+        18765,
+        18794
     ],
     "8753": "ETF2L 6v6 Open Bronze Medal",
     "ETF2L 6v6 Open Bronze Medal": [
@@ -11607,7 +11748,10 @@
         13897,
         13924,
         14163,
-        14193
+        14193,
+        18731,
+        18766,
+        18795
     ],
     "8754": "ETF2L 6v6 Open Playoff Medal",
     "ETF2L 6v6 Open Playoff Medal": [
@@ -11639,7 +11783,10 @@
         13898,
         13925,
         14164,
-        14194
+        14194,
+        18732,
+        18767,
+        18796
     ],
     "8755": "ETF2L 6v6 Open Participation Medal",
     "ETF2L 6v6 Open Participation Medal": [
@@ -11671,7 +11818,10 @@
         13899,
         13926,
         14165,
-        14195
+        14195,
+        18733,
+        18768,
+        18797
     ],
     "8756": "ETF2L Highlander Premiership Gold Medal",
     "ETF2L Highlander Premiership Gold Medal": [
@@ -11699,7 +11849,10 @@
         13956,
         13983,
         14011,
-        14196
+        14196,
+        18625,
+        18655,
+        18682
     ],
     "8757": "ETF2L Highlander Premiership Silver Medal",
     "ETF2L Highlander Premiership Silver Medal": [
@@ -11727,7 +11880,10 @@
         13957,
         13984,
         14012,
-        14197
+        14197,
+        18626,
+        18656,
+        18683
     ],
     "8758": "ETF2L Highlander Premiership Bronze Medal",
     "ETF2L Highlander Premiership Bronze Medal": [
@@ -11755,7 +11911,10 @@
         13958,
         13985,
         14013,
-        14198
+        14198,
+        18627,
+        18657,
+        18684
     ],
     "8759": "ETF2L Highlander Premiership Participation Medal",
     "ETF2L Highlander Premiership Participation Medal": [
@@ -11783,7 +11942,10 @@
         13959,
         13986,
         14014,
-        14199
+        14199,
+        18628,
+        18658,
+        18685
     ],
     "8760": "ETF2L Highlander High Gold Medal",
     "ETF2L Highlander High Gold Medal": [
@@ -11794,7 +11956,9 @@
         9648,
         9866,
         10145,
-        14015
+        14015,
+        18659,
+        18686
     ],
     "8761": "ETF2L Highlander High Silver Medal",
     "ETF2L Highlander High Silver Medal": [
@@ -11805,7 +11969,9 @@
         9649,
         9867,
         10146,
-        14016
+        14016,
+        18660,
+        18687
     ],
     "8762": "ETF2L Highlander High Bronze Medal",
     "ETF2L Highlander High Bronze Medal": [
@@ -11816,7 +11982,9 @@
         9650,
         9868,
         10147,
-        14017
+        14017,
+        18661,
+        18688
     ],
     "8763": "ETF2L Highlander High Playoff Medal",
     "ETF2L Highlander High Playoff Medal": [
@@ -11824,7 +11992,8 @@
         9151,
         9170,
         9490,
-        9651
+        9651,
+        18689
     ],
     "8764": "ETF2L Highlander High Participation Medal",
     "ETF2L Highlander High Participation Medal": [
@@ -11835,7 +12004,9 @@
         9652,
         9869,
         10148,
-        14018
+        14018,
+        18662,
+        18690
     ],
     "8765": "ETF2L Highlander Mid Gold Medal",
     "ETF2L Highlander Mid Gold Medal": [
@@ -11857,7 +12028,9 @@
         13168,
         13968,
         14019,
-        14208
+        14208,
+        18663,
+        18691
     ],
     "8766": "ETF2L Highlander Mid Silver Medal",
     "ETF2L Highlander Mid Silver Medal": [
@@ -11879,7 +12052,9 @@
         13169,
         13969,
         14020,
-        14209
+        14209,
+        18664,
+        18692
     ],
     "8767": "ETF2L Highlander Mid Bronze Medal",
     "ETF2L Highlander Mid Bronze Medal": [
@@ -11901,7 +12076,9 @@
         13170,
         13970,
         14021,
-        14210
+        14210,
+        18665,
+        18693
     ],
     "8768": "ETF2L Highlander Mid Playoff Medal",
     "ETF2L Highlander Mid Playoff Medal": [
@@ -11919,7 +12096,8 @@
         11247,
         12645,
         13171,
-        13971
+        13971,
+        18694
     ],
     "8769": "ETF2L Highlander Mid Participation Medal",
     "ETF2L Highlander Mid Participation Medal": [
@@ -11941,7 +12119,9 @@
         13172,
         13972,
         14022,
-        14211
+        14211,
+        18666,
+        18695
     ],
     "8770": "ETF2L Highlander Open Gold Medal",
     "ETF2L Highlander Open Gold Medal": [
@@ -11969,7 +12149,10 @@
         13978,
         14007,
         14028,
-        14216
+        14216,
+        18650,
+        18671,
+        18701
     ],
     "8771": "ETF2L Highlander Open Silver Medal",
     "ETF2L Highlander Open Silver Medal": [
@@ -11997,7 +12180,10 @@
         13979,
         14008,
         14029,
-        14217
+        14217,
+        18651,
+        18672,
+        18702
     ],
     "8772": "ETF2L Highlander Open Bronze Medal",
     "ETF2L Highlander Open Bronze Medal": [
@@ -12025,7 +12211,10 @@
         13980,
         14009,
         14030,
-        14218
+        14218,
+        18652,
+        18673,
+        18703
     ],
     "8773": "ETF2L Highlander Open Playoff Medal",
     "ETF2L Highlander Open Playoff Medal": [
@@ -12050,7 +12239,9 @@
         13154,
         13176,
         13954,
-        14219
+        14219,
+        18653,
+        18704
     ],
     "8774": "ETF2L Highlander Open Participation Medal",
     "ETF2L Highlander Open Participation Medal": [
@@ -12078,7 +12269,10 @@
         13982,
         14010,
         14031,
-        14220
+        14220,
+        18654,
+        18674,
+        18705
     ],
     "8775": "ETF2L Ultiduo #5 Gold Medal",
     "ETF2L Ultiduo #5 Gold Medal": [
@@ -12749,7 +12943,9 @@
         14075,
         14237,
         14271,
-        14460
+        14460,
+        19079,
+        19111
     ],
     "9091": "ozfortress Sixes Premier Second Place",
     "ozfortress Sixes Premier Second Place": [
@@ -12781,7 +12977,9 @@
         14076,
         14238,
         14272,
-        14461
+        14461,
+        19080,
+        19112
     ],
     "9092": "ozfortress Sixes Premier Third Place",
     "ozfortress Sixes Premier Third Place": [
@@ -12813,7 +13011,9 @@
         14077,
         14239,
         14273,
-        14462
+        14462,
+        19081,
+        19113
     ],
     "9093": "ozfortress Sixes Premier Participant",
     "ozfortress Sixes Premier Participant": [
@@ -12845,7 +13045,9 @@
         14078,
         14240,
         14274,
-        14463
+        14463,
+        19082,
+        19114
     ],
     "9094": "ozfortress Sixes Intermediate First Place",
     "ozfortress Sixes Intermediate First Place": [
@@ -12877,7 +13079,9 @@
         14083,
         14245,
         14279,
-        14468
+        14468,
+        19087,
+        19115
     ],
     "9095": "ozfortress Sixes Intermediate Second Place",
     "ozfortress Sixes Intermediate Second Place": [
@@ -12909,7 +13113,9 @@
         14084,
         14246,
         14280,
-        14469
+        14469,
+        19088,
+        19116
     ],
     "9096": "ozfortress Sixes Intermediate Third Place",
     "ozfortress Sixes Intermediate Third Place": [
@@ -12941,7 +13147,9 @@
         14085,
         14247,
         14281,
-        14470
+        14470,
+        19089,
+        19117
     ],
     "9097": "ozfortress Sixes Intermediate Participant",
     "ozfortress Sixes Intermediate Participant": [
@@ -12973,7 +13181,9 @@
         14086,
         14248,
         14282,
-        14471
+        14471,
+        19090,
+        19118
     ],
     "9098": "ozfortress Sixes Open First Place",
     "ozfortress Sixes Open First Place": [
@@ -13005,7 +13215,9 @@
         14091,
         14249,
         14287,
-        14476
+        14476,
+        19095,
+        19123
     ],
     "9099": "ozfortress Sixes Open Second Place",
     "ozfortress Sixes Open Second Place": [
@@ -13037,7 +13249,9 @@
         14092,
         14250,
         14288,
-        14477
+        14477,
+        19096,
+        19124
     ],
     "9100": "ozfortress Sixes Open Third Place",
     "ozfortress Sixes Open Third Place": [
@@ -13069,7 +13283,9 @@
         14093,
         14251,
         14289,
-        14478
+        14478,
+        19097,
+        19125
     ],
     "9101": "ozfortress Sixes Open Participant",
     "ozfortress Sixes Open Participant": [
@@ -13101,7 +13317,9 @@
         14094,
         14252,
         14290,
-        14479
+        14479,
+        19098,
+        19126
     ],
     "9102": "ozfortress Summer Cup First Place",
     "ozfortress Summer Cup First Place": [
@@ -13956,7 +14174,17 @@
         17429,
         17430,
         17431,
-        17432
+        17432,
+        17433,
+        17434,
+        17435,
+        17436,
+        17437,
+        17438,
+        17439,
+        17440,
+        17441,
+        17442
     ],
     "9537": "ozfortress Sixes Premier First Place",
     "9538": "ozfortress Sixes Premier Second Place",
@@ -14217,7 +14445,10 @@
         13890,
         13917,
         14156,
-        14186
+        14186,
+        18724,
+        18759,
+        18788
     ],
     "9640": "ETF2L 6v6 Low Silver Medal",
     "ETF2L 6v6 Low Silver Medal": [
@@ -14241,7 +14472,10 @@
         13891,
         13918,
         14157,
-        14187
+        14187,
+        18725,
+        18760,
+        18789
     ],
     "9641": "ETF2L 6v6 Low Bronze Medal",
     "ETF2L 6v6 Low Bronze Medal": [
@@ -14265,7 +14499,10 @@
         13892,
         13919,
         14158,
-        14188
+        14188,
+        18726,
+        18761,
+        18790
     ],
     "9642": "ETF2L 6v6 Low Playoff Medal",
     "ETF2L 6v6 Low Playoff Medal": [
@@ -14289,7 +14526,10 @@
         13893,
         13920,
         14159,
-        14189
+        14189,
+        18727,
+        18762,
+        18791
     ],
     "9643": "ETF2L 6v6 Low Participation Medal",
     "ETF2L 6v6 Low Participation Medal": [
@@ -14313,7 +14553,10 @@
         13894,
         13921,
         14160,
-        14190
+        14190,
+        18728,
+        18763,
+        18792
     ],
     "9644": "ETF2L Highlander Premiership Gold Medal",
     "9645": "ETF2L Highlander Premiership Silver Medal",
@@ -14812,7 +15055,9 @@
         13874,
         13904,
         14143,
-        14170
+        14170,
+        18710,
+        18743
     ],
     "9885": "ETF2L 6v6 Division 1 Silver Medal",
     "ETF2L 6v6 Division 1 Silver Medal": [
@@ -14835,7 +15080,9 @@
         13875,
         13905,
         14144,
-        14171
+        14171,
+        18711,
+        18744
     ],
     "9886": "ETF2L 6v6 Division 1 Bronze Medal",
     "ETF2L 6v6 Division 1 Bronze Medal": [
@@ -14858,7 +15105,9 @@
         13876,
         13906,
         14145,
-        14172
+        14172,
+        18712,
+        18745
     ],
     "9887": "ETF2L 6v6 Division 1 Participation Medal",
     "9888": "ETF2L 6v6 Division 2 Gold Medal",
@@ -14882,7 +15131,9 @@
         13878,
         13908,
         14147,
-        14174
+        14174,
+        18714,
+        18747
     ],
     "9889": "ETF2L 6v6 Division 2 Silver Medal",
     "ETF2L 6v6 Division 2 Silver Medal": [
@@ -14905,7 +15156,9 @@
         13879,
         13909,
         14148,
-        14175
+        14175,
+        18715,
+        18748
     ],
     "9890": "ETF2L 6v6 Division 2 Bronze Medal",
     "ETF2L 6v6 Division 2 Bronze Medal": [
@@ -14928,7 +15181,9 @@
         13880,
         13910,
         14149,
-        14176
+        14176,
+        18716,
+        18749
     ],
     "9891": "ETF2L 6v6 Division 2 Participation Medal",
     "9892": "ETF2L 6v6 Mid Gold Medal",
@@ -15016,19 +15271,23 @@
     ],
     "9932": "Gette it Onne! Champion",
     "Gette it Onne! Champion": [
-        9932
+        9932,
+        18932
     ],
     "9933": "Gette it Onne! Playoffs Participant",
     "Gette it Onne! Playoffs Participant": [
-        9933
+        9933,
+        18933
     ],
     "9934": "Gette it Onne! Participant",
     "Gette it Onne! Participant": [
-        9934
+        9934,
+        18934
     ],
     "9935": "Gette it Onne! Helper",
     "Gette it Onne! Helper": [
-        9935
+        9935,
+        18935
     ],
     "9936": "HLPugs.tf Highlander Cup 1st Place",
     "HLPugs.tf Highlander Cup 1st Place": [
@@ -15686,7 +15945,8 @@
         13935,
         13964,
         13991,
-        14204
+        14204,
+        18633
     ],
     "10195": "ETF2L Highlander Division 2 Silver Medal",
     "ETF2L Highlander Division 2 Silver Medal": [
@@ -15705,7 +15965,8 @@
         13936,
         13965,
         13992,
-        14205
+        14205,
+        18634
     ],
     "10196": "ETF2L Highlander Division 2 Bronze Medal",
     "ETF2L Highlander Division 2 Bronze Medal": [
@@ -15724,7 +15985,8 @@
         13937,
         13966,
         13993,
-        14206
+        14206,
+        18635
     ],
     "10197": "ETF2L Highlander Division 2 Participation Medal",
     "10198": "ETF2L Highlander Mid Gold Medal",
@@ -15741,7 +16003,10 @@
         13121,
         13973,
         14023,
-        14212
+        14212,
+        18645,
+        18667,
+        18696
     ],
     "10204": "ETF2L Highlander Low Silver Medal",
     "ETF2L Highlander Low Silver Medal": [
@@ -15752,7 +16017,10 @@
         13122,
         13974,
         14024,
-        14213
+        14213,
+        18646,
+        18668,
+        18697
     ],
     "10205": "ETF2L Highlander Low Bronze Medal",
     "ETF2L Highlander Low Bronze Medal": [
@@ -15763,7 +16031,10 @@
         13123,
         13975,
         14025,
-        14214
+        14214,
+        18647,
+        18669,
+        18698
     ],
     "10206": "ETF2L Highlander Low Playoff Medal",
     "ETF2L Highlander Low Playoff Medal": [
@@ -15771,7 +16042,9 @@
         12650,
         13124,
         13976,
-        14026
+        14026,
+        18648,
+        18699
     ],
     "10207": "ETF2L Highlander Low Participation Medal",
     "ETF2L Highlander Low Participation Medal": [
@@ -15782,7 +16055,10 @@
         13125,
         13977,
         14027,
-        14215
+        14215,
+        18649,
+        18670,
+        18700
     ],
     "10208": "ETF2L Highlander Open Gold Medal",
     "10209": "ETF2L Highlander Open Silver Medal",
@@ -16571,7 +16847,9 @@
         14323,
         14341,
         14507,
-        14525
+        14525,
+        18811,
+        18829
     ],
     "10451": "RGL.gg - Invite 2nd Place - Highlander",
     "RGL.gg - Invite 2nd Place - Highlander": [
@@ -16594,7 +16872,9 @@
         14324,
         14342,
         14508,
-        14526
+        14526,
+        18812,
+        18830
     ],
     "10452": "RGL.gg - Invite 3rd Place - Highlander",
     "RGL.gg - Invite 3rd Place - Highlander": [
@@ -16617,7 +16897,9 @@
         14325,
         14343,
         14509,
-        14527
+        14527,
+        18813,
+        18831
     ],
     "10453": "RGL.gg - Invite Participant - Highlander",
     "RGL.gg - Invite Participant - Highlander": [
@@ -16640,7 +16922,9 @@
         14326,
         14344,
         14510,
-        14528
+        14528,
+        18814,
+        18832
     ],
     "10454": "RGL.gg - Advanced Champions - Highlander",
     "RGL.gg - Advanced Champions - Highlander": [
@@ -16663,7 +16947,8 @@
         14327,
         14345,
         14511,
-        14529
+        14529,
+        18815
     ],
     "10455": "RGL.gg - Advanced 2nd Place - Highlander",
     "RGL.gg - Advanced 2nd Place - Highlander": [
@@ -16686,7 +16971,8 @@
         14328,
         14346,
         14512,
-        14530
+        14530,
+        18816
     ],
     "10456": "RGL.gg - Advanced 3rd Place - Highlander",
     "RGL.gg - Advanced 3rd Place - Highlander": [
@@ -16709,7 +16995,8 @@
         14329,
         14347,
         14513,
-        14531
+        14531,
+        18817
     ],
     "10457": "RGL.gg - Advanced Participant - Highlander",
     "RGL.gg - Advanced Participant - Highlander": [
@@ -16732,7 +17019,8 @@
         14330,
         14348,
         14514,
-        14532
+        14532,
+        18818
     ],
     "10458": "RGL.gg - Main Champions - Highlander",
     "RGL.gg - Main Champions - Highlander": [
@@ -16755,7 +17043,9 @@
         14331,
         14349,
         14515,
-        14533
+        14533,
+        18819,
+        18837
     ],
     "10459": "RGL.gg - Main 2nd Place - Highlander",
     "RGL.gg - Main 2nd Place - Highlander": [
@@ -16778,7 +17068,9 @@
         14332,
         14350,
         14516,
-        14534
+        14534,
+        18820,
+        18838
     ],
     "10460": "RGL.gg - Main 3rd Place - Highlander",
     "RGL.gg - Main 3rd Place - Highlander": [
@@ -16801,7 +17093,9 @@
         14333,
         14351,
         14517,
-        14535
+        14535,
+        18821,
+        18839
     ],
     "10461": "RGL.gg - Main Participant - Highlander",
     "RGL.gg - Main Participant - Highlander": [
@@ -16824,7 +17118,9 @@
         14334,
         14352,
         14518,
-        14536
+        14536,
+        18822,
+        18840
     ],
     "10462": "RGL.gg - Intermediate Champions - Highlander",
     "RGL.gg - Intermediate Champions - Highlander": [
@@ -16847,7 +17143,9 @@
         14335,
         14353,
         14519,
-        14537
+        14537,
+        18823,
+        18841
     ],
     "10463": "RGL.gg - Intermediate 2nd Place - Highlander",
     "RGL.gg - Intermediate 2nd Place - Highlander": [
@@ -16870,7 +17168,9 @@
         14336,
         14354,
         14520,
-        14538
+        14538,
+        18824,
+        18842
     ],
     "10464": "RGL.gg - Intermediate 3rd Place - Highlander",
     "RGL.gg - Intermediate 3rd Place - Highlander": [
@@ -16893,7 +17193,9 @@
         14337,
         14355,
         14521,
-        14539
+        14539,
+        18825,
+        18843
     ],
     "10465": "RGL.gg - Intermediate Participant - Highlander",
     "RGL.gg - Intermediate Participant - Highlander": [
@@ -16916,7 +17218,9 @@
         14338,
         14356,
         14522,
-        14540
+        14540,
+        18826,
+        18844
     ],
     "10466": "RGL.gg - Open Participant - Highlander",
     "RGL.gg - Open Participant - Highlander": [
@@ -17633,25 +17937,29 @@
     "LBTF2 Highlander Open 1st Place": [
         10680,
         11179,
-        12241
+        12241,
+        19146
     ],
     "10681": "LBTF2 Highlander Open 2nd Place",
     "LBTF2 Highlander Open 2nd Place": [
         10681,
         11180,
-        12242
+        12242,
+        19147
     ],
     "10682": "LBTF2 Highlander Open 3rd Place",
     "LBTF2 Highlander Open 3rd Place": [
         10682,
         11181,
-        12243
+        12243,
+        19148
     ],
     "10683": "LBTF2 Highlander Open Participant",
     "LBTF2 Highlander Open Participant": [
         10683,
         11182,
-        12244
+        12244,
+        19149
     ],
     "10684": "LBTF2 Highlander Main 1st Place",
     "LBTF2 Highlander Main 1st Place": [
@@ -18298,7 +18606,9 @@
         13776,
         14087,
         14283,
-        14472
+        14472,
+        19091,
+        19119
     ],
     "10905": "ozfortress Sixes Main Second Place",
     "ozfortress Sixes Main Second Place": [
@@ -18319,7 +18629,9 @@
         13777,
         14088,
         14284,
-        14473
+        14473,
+        19092,
+        19120
     ],
     "10906": "ozfortress Sixes Main Third Place",
     "ozfortress Sixes Main Third Place": [
@@ -18340,7 +18652,9 @@
         13778,
         14089,
         14285,
-        14474
+        14474,
+        19093,
+        19121
     ],
     "10907": "ozfortress Sixes Main Participant",
     "ozfortress Sixes Main Participant": [
@@ -18361,7 +18675,9 @@
         13779,
         14090,
         14286,
-        14475
+        14475,
+        19094,
+        19122
     ],
     "10908": "ozfortress Sixes Open First Place",
     "10909": "ozfortress Sixes Open Second Place",
@@ -19329,7 +19645,9 @@
         14359,
         14377,
         14543,
-        14561
+        14561,
+        18847,
+        18865
     ],
     "11360": "RGL.gg - Invite 2nd Place - 6v6",
     "RGL.gg - Invite 2nd Place - 6v6": [
@@ -19349,7 +19667,9 @@
         14360,
         14378,
         14544,
-        14562
+        14562,
+        18848,
+        18866
     ],
     "11361": "RGL.gg - Invite 3rd Place - 6v6",
     "RGL.gg - Invite 3rd Place - 6v6": [
@@ -19369,7 +19689,9 @@
         14361,
         14379,
         14545,
-        14563
+        14563,
+        18849,
+        18867
     ],
     "11362": "RGL.gg - Invite Participant - 6v6",
     "RGL.gg - Invite Participant - 6v6": [
@@ -19389,7 +19711,9 @@
         14362,
         14380,
         14546,
-        14564
+        14564,
+        18850,
+        18868
     ],
     "11363": "RGL.gg - Advanced Champions - 6v6",
     "RGL.gg - Advanced Champions - 6v6": [
@@ -19407,7 +19731,9 @@
         14363,
         14381,
         14547,
-        14565
+        14565,
+        18851,
+        18869
     ],
     "11364": "RGL.gg - Advanced 2nd Place - 6v6",
     "RGL.gg - Advanced 2nd Place - 6v6": [
@@ -19425,7 +19751,9 @@
         14364,
         14382,
         14548,
-        14566
+        14566,
+        18852,
+        18870
     ],
     "11365": "RGL.gg - Advanced 3rd Place - 6v6",
     "RGL.gg - Advanced 3rd Place - 6v6": [
@@ -19443,7 +19771,9 @@
         14365,
         14383,
         14549,
-        14567
+        14567,
+        18853,
+        18871
     ],
     "11366": "RGL.gg - Advanced Participant - 6v6",
     "RGL.gg - Advanced Participant - 6v6": [
@@ -19461,7 +19791,9 @@
         14366,
         14384,
         14550,
-        14568
+        14568,
+        18854,
+        18872
     ],
     "11367": "RGL.gg - Main Champions - 6v6",
     "RGL.gg - Main Champions - 6v6": [
@@ -19480,7 +19812,9 @@
         14367,
         14385,
         14551,
-        14569
+        14569,
+        18855,
+        18873
     ],
     "11368": "RGL.gg - Main 2nd Place - 6v6",
     "RGL.gg - Main 2nd Place - 6v6": [
@@ -19499,7 +19833,9 @@
         14368,
         14386,
         14552,
-        14570
+        14570,
+        18856,
+        18874
     ],
     "11369": "RGL.gg - Main 3rd Place - 6v6",
     "RGL.gg - Main 3rd Place - 6v6": [
@@ -19518,7 +19854,9 @@
         14369,
         14387,
         14553,
-        14571
+        14571,
+        18857,
+        18875
     ],
     "11370": "RGL.gg - Main Participant - 6v6",
     "RGL.gg - Main Participant - 6v6": [
@@ -19537,7 +19875,9 @@
         14370,
         14388,
         14554,
-        14572
+        14572,
+        18858,
+        18876
     ],
     "11371": "RGL.gg - Intermediate Champions - 6v6",
     "RGL.gg - Intermediate Champions - 6v6": [
@@ -19557,7 +19897,9 @@
         14371,
         14389,
         14555,
-        14573
+        14573,
+        18859,
+        18877
     ],
     "11372": "RGL.gg - Intermediate 2nd Place - 6v6",
     "RGL.gg - Intermediate 2nd Place - 6v6": [
@@ -19577,7 +19919,9 @@
         14372,
         14390,
         14556,
-        14574
+        14574,
+        18860,
+        18878
     ],
     "11373": "RGL.gg - Intermediate 3rd Place - 6v6",
     "RGL.gg - Intermediate 3rd Place - 6v6": [
@@ -19597,7 +19941,9 @@
         14373,
         14391,
         14557,
-        14575
+        14575,
+        18861,
+        18879
     ],
     "11374": "RGL.gg - Intermediate Participant - 6v6",
     "RGL.gg - Intermediate Participant - 6v6": [
@@ -19617,7 +19963,9 @@
         14374,
         14392,
         14558,
-        14576
+        14576,
+        18862,
+        18880
     ],
     "11375": "RGL.gg - Open Participant - 6v6",
     "RGL.gg - Open Participant - 6v6": [
@@ -19787,19 +20135,25 @@
     "ETF2L 6v6 Division 3 Gold Medal": [
         11484,
         13882,
-        14178
+        14178,
+        18751,
+        18778
     ],
     "11485": "ETF2L 6v6 Division 3 Silver Medal",
     "ETF2L 6v6 Division 3 Silver Medal": [
         11485,
         13883,
-        14179
+        14179,
+        18752,
+        18779
     ],
     "11486": "ETF2L 6v6 Division 3 Bronze Medal",
     "ETF2L 6v6 Division 3 Bronze Medal": [
         11486,
         13884,
-        14180
+        14180,
+        18753,
+        18780
     ],
     "11487": "ETF2L 6v6 Division 3 Participation Medal",
     "11488": "ETF2L 6v6 Mid Gold Medal",
@@ -20033,7 +20387,8 @@
         14079,
         14241,
         14275,
-        14464
+        14464,
+        19083
     ],
     "11590": "ozfortress Sixes High Second Place",
     "ozfortress Sixes High Second Place": [
@@ -20046,7 +20401,8 @@
         14080,
         14242,
         14276,
-        14465
+        14465,
+        19084
     ],
     "11591": "ozfortress Sixes High Third Place",
     "ozfortress Sixes High Third Place": [
@@ -20059,7 +20415,8 @@
         14081,
         14243,
         14277,
-        14466
+        14466,
+        19085
     ],
     "11592": "ozfortress Sixes High Participant",
     "ozfortress Sixes High Participant": [
@@ -20072,7 +20429,8 @@
         14082,
         14244,
         14278,
-        14467
+        14467,
+        19086
     ],
     "11593": "ozfortress Sixes Intermediate First Place",
     "11594": "ozfortress Sixes Intermediate Second Place",
@@ -20238,7 +20596,9 @@
         14339,
         14357,
         14523,
-        14541
+        14541,
+        18827,
+        18845
     ],
     "11684": "RGL.gg - Newcomer Participant - Highlander",
     "RGL.gg - Newcomer Participant - Highlander": [
@@ -20256,7 +20616,9 @@
         14340,
         14358,
         14524,
-        14542
+        14542,
+        18828,
+        18846
     ],
     "11685": "RGL.gg - Invite Champions - Highlander",
     "11686": "RGL.gg - Invite 2nd Place - Highlander",
@@ -20348,7 +20710,9 @@
         14375,
         14393,
         14559,
-        14577
+        14577,
+        18863,
+        18881
     ],
     "11724": "RGL.gg - Newcomer Participant - 6v6",
     "RGL.gg - Newcomer Participant - 6v6": [
@@ -20366,7 +20730,9 @@
         14376,
         14394,
         14560,
-        14578
+        14578,
+        18864,
+        18882
     ],
     "11725": "RGL.gg - Invite Champions - 6v6",
     "11726": "RGL.gg - Invite 2nd Place - 6v6",
@@ -21203,39 +21569,47 @@
     "12228": "ozfortress Sixes Open Participant",
     "12229": "LBTF2 Highlander Elite 1st Place",
     "LBTF2 Highlander Elite 1st Place": [
-        12229
+        12229,
+        19138
     ],
     "12230": "LBTF2 Highlander Elite 2nd Place",
     "LBTF2 Highlander Elite 2nd Place": [
-        12230
+        12230,
+        19139
     ],
     "12231": "LBTF2 Highlander Elite 3rd Place",
     "LBTF2 Highlander Elite 3rd Place": [
-        12231
+        12231,
+        19140
     ],
     "12232": "LBTF2 Highlander Elite Participant",
     "LBTF2 Highlander Elite Participant": [
-        12232
+        12232,
+        19141
     ],
     "12233": "LBTF2 Highlander Central 1st Place",
     "LBTF2 Highlander Central 1st Place": [
         12233,
-        14666
+        14666,
+        19142
     ],
     "12234": "LBTF2 Highlander Central 2nd Place",
     "LBTF2 Highlander Central 2nd Place": [
         12234,
-        14667
+        14667,
+        19143
     ],
     "12235": "LBTF2 Highlander Central 3rd Place",
     "LBTF2 Highlander Central 3rd Place": [
         12235,
-        14668
+        14668,
+        19144
     ],
     "12236": "LBTF2 Highlander Central Participant",
     "LBTF2 Highlander Central Participant": [
         12236,
-        14669
+        14669,
+        19145
     ],
     "12237": "LBTF2 Highlander Access 1st Place",
     "12238": "LBTF2 Highlander Access 2nd Place",
@@ -21808,7 +22182,8 @@
         13113,
         13143,
         13939,
-        13995
+        13995,
+        18637
     ],
     "12614": "ETF2L Highlander Division 3 Silver Medal",
     "ETF2L Highlander Division 3 Silver Medal": [
@@ -21816,7 +22191,8 @@
         13114,
         13144,
         13940,
-        13996
+        13996,
+        18638
     ],
     "12615": "ETF2L Highlander Division 3 Bronze Medal",
     "ETF2L Highlander Division 3 Bronze Medal": [
@@ -21824,7 +22200,8 @@
         13115,
         13145,
         13941,
-        13997
+        13997,
+        18639
     ],
     "12616": "ETF2L Highlander Division 3 Participation Medal",
     "12617": "ETF2L Highlander Division 4 Gold Medal",
@@ -21833,7 +22210,8 @@
         13117,
         13147,
         13943,
-        13999
+        13999,
+        18641
     ],
     "12618": "ETF2L Highlander Division 4 Silver Medal",
     "ETF2L Highlander Division 4 Silver Medal": [
@@ -21841,7 +22219,8 @@
         13118,
         13148,
         13944,
-        14000
+        14000,
+        18642
     ],
     "12619": "ETF2L Highlander Division 4 Bronze Medal",
     "ETF2L Highlander Division 4 Bronze Medal": [
@@ -21849,7 +22228,8 @@
         13119,
         13149,
         13945,
-        14001
+        14001,
+        18643
     ],
     "12620": "ETF2L Highlander Division 4 Participation Medal",
     "12621": "ETF2L Highlander Division 5 Gold Medal",
@@ -22566,7 +22946,9 @@
         14095,
         14253,
         14291,
-        14480
+        14480,
+        19099,
+        19127
     ],
     "12970": "ozfortress Highlander Premier Second Place",
     "ozfortress Highlander Premier Second Place": [
@@ -22579,7 +22961,9 @@
         14096,
         14254,
         14292,
-        14481
+        14481,
+        19100,
+        19128
     ],
     "12971": "ozfortress Highlander Premier Third Place",
     "ozfortress Highlander Premier Third Place": [
@@ -22592,7 +22976,9 @@
         14097,
         14255,
         14293,
-        14482
+        14482,
+        19101,
+        19129
     ],
     "12972": "ozfortress Highlander Premier Participant",
     "ozfortress Highlander Premier Participant": [
@@ -22605,7 +22991,9 @@
         14098,
         14256,
         14294,
-        14483
+        14483,
+        19102,
+        19130
     ],
     "12973": "ozfortress Highlander Intermediate First Place",
     "ozfortress Highlander Intermediate First Place": [
@@ -22613,7 +23001,8 @@
         13372,
         13447,
         13788,
-        14295
+        14295,
+        19103
     ],
     "12974": "ozfortress Highlander Intermediate Second Place",
     "ozfortress Highlander Intermediate Second Place": [
@@ -22621,7 +23010,8 @@
         13373,
         13448,
         13789,
-        14296
+        14296,
+        19104
     ],
     "12975": "ozfortress Highlander Intermediate Third Place",
     "ozfortress Highlander Intermediate Third Place": [
@@ -22629,7 +23019,8 @@
         13374,
         13449,
         13790,
-        14297
+        14297,
+        19105
     ],
     "12976": "ozfortress Highlander Intermediate Participant",
     "ozfortress Highlander Intermediate Participant": [
@@ -22637,7 +23028,8 @@
         13375,
         13450,
         13791,
-        14298
+        14298,
+        19106
     ],
     "12977": "ozfortress Highlander Open First Place",
     "ozfortress Highlander Open First Place": [
@@ -22645,7 +23037,8 @@
         13376,
         13455,
         13792,
-        14299
+        14299,
+        19107
     ],
     "12978": "ozfortress Highlander Open Second Place",
     "ozfortress Highlander Open Second Place": [
@@ -22653,7 +23046,8 @@
         13377,
         13456,
         13793,
-        14300
+        14300,
+        19108
     ],
     "12979": "ozfortress Highlander Open Third Place",
     "ozfortress Highlander Open Third Place": [
@@ -22661,7 +23055,8 @@
         13378,
         13457,
         13794,
-        14301
+        14301,
+        19109
     ],
     "12980": "ozfortress Highlander Open Participant",
     "ozfortress Highlander Open Participant": [
@@ -22669,7 +23064,8 @@
         13379,
         13458,
         13795,
-        14302
+        14302,
+        19110
     ],
     "12981": "LAN Downunder Champion",
     "LAN Downunder Champion": [
@@ -23120,7 +23516,8 @@
         13800,
         14099,
         14257,
-        14484
+        14484,
+        19131
     ],
     "13278": "ozfortress Highlander Main Second Place",
     "ozfortress Highlander Main Second Place": [
@@ -23129,7 +23526,8 @@
         13801,
         14100,
         14258,
-        14485
+        14485,
+        19132
     ],
     "13279": "ozfortress Highlander Main Third Place",
     "ozfortress Highlander Main Third Place": [
@@ -23138,7 +23536,8 @@
         13802,
         14101,
         14259,
-        14486
+        14486,
+        19133
     ],
     "13280": "ozfortress Highlander Main Participant",
     "ozfortress Highlander Main Participant": [
@@ -23147,7 +23546,8 @@
         13803,
         14102,
         14260,
-        14487
+        14487,
+        19134
     ],
     "13281": "RGL.gg - Invite Champions - Highlander",
     "13282": "RGL.gg - Invite 2nd Place - Highlander",
@@ -23197,62 +23597,74 @@
     "13323": "ozfortress Summer Cup Sixes Division 1 First Place",
     "ozfortress Summer Cup Sixes Division 1 First Place": [
         13323,
-        14303
+        14303,
+        18937
     ],
     "13324": "ozfortress Summer Cup Sixes Division 1 Second Place",
     "ozfortress Summer Cup Sixes Division 1 Second Place": [
         13324,
-        14304
+        14304,
+        18938
     ],
     "13325": "ozfortress Summer Cup Sixes Division 1 Third Place",
     "ozfortress Summer Cup Sixes Division 1 Third Place": [
         13325,
-        14305
+        14305,
+        18939
     ],
     "13326": "ozfortress Summer Cup Sixes Division 1 Participant",
     "ozfortress Summer Cup Sixes Division 1 Participant": [
         13326,
-        14306
+        14306,
+        18940
     ],
     "13327": "ozfortress Summer Cup Sixes Division 2 First Place",
     "ozfortress Summer Cup Sixes Division 2 First Place": [
         13327,
-        14307
+        14307,
+        18941
     ],
     "13328": "ozfortress Summer Cup Sixes Division 2 Second Place",
     "ozfortress Summer Cup Sixes Division 2 Second Place": [
         13328,
-        14308
+        14308,
+        18942
     ],
     "13329": "ozfortress Summer Cup Sixes Division 2 Third Place",
     "ozfortress Summer Cup Sixes Division 2 Third Place": [
         13329,
-        14309
+        14309,
+        18943
     ],
     "13330": "ozfortress Summer Cup Sixes Division 2 Participant",
     "ozfortress Summer Cup Sixes Division 2 Participant": [
         13330,
-        14310
+        14310,
+        18944
     ],
     "13331": "ozfortress Summer Cup Sixes Division 3 First Place",
     "ozfortress Summer Cup Sixes Division 3 First Place": [
         13331,
-        14311
+        14311,
+        18945
     ],
     "13332": "ozfortress Summer Cup Sixes Division 3 Second Place",
     "ozfortress Summer Cup Sixes Division 3 Second Place": [
         13332,
-        14312
+        14312,
+        18946
     ],
     "13333": "ozfortress Summer Cup Sixes Division 3 Third Place",
     "ozfortress Summer Cup Sixes Division 3 Third Place": [
         13333,
-        14313
+        14313,
+        18947
     ],
     "13334": "ozfortress Summer Cup Sixes Division 3 Participant",
     "ozfortress Summer Cup Sixes Division 3 Participant": [
         13334,
-        14314
+        14314,
+        18948
     ],
     "13335": "Last Laugh Copper Chicanery 2023",
     "Last Laugh Copper Chicanery 2023": [
@@ -23497,22 +23909,38 @@
     "13497": "AsiaFortress Invite 1st Place",
     "AsiaFortress Invite 1st Place": [
         13497,
-        13590
+        13590,
+        14072,
+        14229,
+        14396,
+        18968
     ],
     "13498": "AsiaFortress Invite 2nd Place",
     "AsiaFortress Invite 2nd Place": [
         13498,
-        13591
+        13591,
+        14073,
+        14230,
+        14397,
+        18969
     ],
     "13499": "AsiaFortress Invite 3rd Place",
     "AsiaFortress Invite 3rd Place": [
         13499,
-        13592
+        13592,
+        14074,
+        14231,
+        14398,
+        18970
     ],
     "13500": "AsiaFortress Invite Participant",
     "AsiaFortress Invite Participant": [
         13500,
-        13593
+        13593,
+        14047,
+        14117,
+        14402,
+        18974
     ],
     "13501": "AsiaFortress Qualifiers Participant",
     "AsiaFortress Qualifiers Participant": [
@@ -24155,17 +24583,23 @@
     "13886": "ETF2L 6v6 Division 4 Gold Medal",
     "ETF2L 6v6 Division 4 Gold Medal": [
         13886,
-        14182
+        14182,
+        18755,
+        18783
     ],
     "13887": "ETF2L 6v6 Division 4 Silver Medal",
     "ETF2L 6v6 Division 4 Silver Medal": [
         13887,
-        14183
+        14183,
+        18756,
+        18784
     ],
     "13888": "ETF2L 6v6 Division 4 Bronze Medal",
     "ETF2L 6v6 Division 4 Bronze Medal": [
         13888,
-        14184
+        14184,
+        18757,
+        18785
     ],
     "13889": "ETF2L 6v6 Division 4 Participation Medal",
     "13890": "ETF2L 6v6 Low Gold Medal",
@@ -24345,65 +24779,61 @@
     "Osmium Ordinance Bohrium Buster 2024": [
         14043
     ],
-    "14044": "AsiaFortress Liquid.tf Open 1st Place",
-    "AsiaFortress Liquid.tf Open 1st Place": [
+    "14044": "AsiaFortress Open 1st Place",
+    "AsiaFortress Open 1st Place": [
         14044,
         14113
     ],
-    "14045": "AsiaFortress Liquid.tf Open 2nd Place",
-    "AsiaFortress Liquid.tf Open 2nd Place": [
+    "14045": "AsiaFortress Open 2nd Place",
+    "AsiaFortress Open 2nd Place": [
         14045,
         14114
     ],
-    "14046": "AsiaFortress Liquid.tf Open 3rd Place",
-    "AsiaFortress Liquid.tf Open 3rd Place": [
+    "14046": "AsiaFortress Open 3rd Place",
+    "AsiaFortress Open 3rd Place": [
         14046,
         14115
     ],
-    "14047": "AsiaFortress Liquid.tf Invite Participant",
-    "AsiaFortress Liquid.tf Invite Participant": [
-        14047,
-        14117,
-        14402
-    ],
-    "14048": "AsiaFortress Liquid.tf Open Participant",
-    "AsiaFortress Liquid.tf Open Participant": [
+    "14047": "AsiaFortress Invite Participant",
+    "14048": "AsiaFortress Open Participant",
+    "AsiaFortress Open Participant": [
         14048,
         14116,
-        14404
+        14404,
+        18976
     ],
-    "14049": "AsiaFortress Liquid.tf Highlander Open 1st Place",
-    "AsiaFortress Liquid.tf Highlander Open 1st Place": [
+    "14049": "AsiaFortress Highlander Open 1st Place",
+    "AsiaFortress Highlander Open 1st Place": [
         14049,
         14232,
         14416
     ],
-    "14050": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
-    "AsiaFortress Liquid.tf Highlander Open 2nd Place": [
+    "14050": "AsiaFortress Highlander Open 2nd Place",
+    "AsiaFortress Highlander Open 2nd Place": [
         14050,
         14233,
         14417
     ],
-    "14051": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
-    "AsiaFortress Liquid.tf Highlander Open 3rd Place": [
+    "14051": "AsiaFortress Highlander Open 3rd Place",
+    "AsiaFortress Highlander Open 3rd Place": [
         14051,
         14234,
         14418
     ],
-    "14052": "AsiaFortress Liquid.tf Highlander Invite Participant",
-    "AsiaFortress Liquid.tf Highlander Invite Participant": [
+    "14052": "AsiaFortress Highlander Invite Participant",
+    "AsiaFortress Highlander Invite Participant": [
         14052,
         14235,
         14419
     ],
-    "14053": "AsiaFortress Liquid.tf Highlander Open Participant",
-    "AsiaFortress Liquid.tf Highlander Open Participant": [
+    "14053": "AsiaFortress Highlander Open Participant",
+    "AsiaFortress Highlander Open Participant": [
         14053,
         14236,
         14420
     ],
-    "14054": "AsiaFortress Liquid.tf Mercenary Mashup",
-    "AsiaFortress Liquid.tf Mercenary Mashup": [
+    "14054": "AsiaFortress Mercenary Mashup",
+    "AsiaFortress Mercenary Mashup": [
         14054
     ],
     "14055": "Osmium Ordinance Cobalt Keepsake 2024",
@@ -24438,24 +24868,9 @@
     "14069": "LBTF2 Highlander Principal 2nd Place",
     "14070": "LBTF2 Highlander Principal 3rd Place",
     "14071": "LBTF2 Highlander Principal Participant",
-    "14072": "AsiaFortress Liquid.tf Invite 1st Place",
-    "AsiaFortress Liquid.tf Invite 1st Place": [
-        14072,
-        14229,
-        14396
-    ],
-    "14073": "AsiaFortress Liquid.tf Invite 2nd Place",
-    "AsiaFortress Liquid.tf Invite 2nd Place": [
-        14073,
-        14230,
-        14397
-    ],
-    "14074": "AsiaFortress Liquid.tf Invite 3rd Place",
-    "AsiaFortress Liquid.tf Invite 3rd Place": [
-        14074,
-        14231,
-        14398
-    ],
+    "14072": "AsiaFortress Invite 1st Place",
+    "14073": "AsiaFortress Invite 2nd Place",
+    "14074": "AsiaFortress Invite 3rd Place",
     "14075": "ozfortress Sixes Premier First Place",
     "14076": "ozfortress Sixes Premier Second Place",
     "14077": "ozfortress Sixes Premier Third Place",
@@ -24492,18 +24907,18 @@
     "PASS Time Federation Volunteer Medal": [
         14107
     ],
-    "14108": "AsiaFortress Liquid.tf Highlander Invite 1st Place",
-    "AsiaFortress Liquid.tf Highlander Invite 1st Place": [
+    "14108": "AsiaFortress Highlander Invite 1st Place",
+    "AsiaFortress Highlander Invite 1st Place": [
         14108,
         14504
     ],
-    "14109": "AsiaFortress Liquid.tf Highlander Invite 2nd Place",
-    "AsiaFortress Liquid.tf Highlander Invite 2nd Place": [
+    "14109": "AsiaFortress Highlander Invite 2nd Place",
+    "AsiaFortress Highlander Invite 2nd Place": [
         14109,
         14505
     ],
-    "14110": "AsiaFortress Liquid.tf Highlander Invite 3rd Place",
-    "AsiaFortress Liquid.tf Highlander Invite 3rd Place": [
+    "14110": "AsiaFortress Highlander Invite 3rd Place",
+    "AsiaFortress Highlander Invite 3rd Place": [
         14110,
         14506
     ],
@@ -24512,11 +24927,11 @@
         14111
     ],
     "14112": "TF2Maps 72hr TF2Jam Participant",
-    "14113": "AsiaFortress Liquid.tf Open 1st Place",
-    "14114": "AsiaFortress Liquid.tf Open 2nd Place",
-    "14115": "AsiaFortress Liquid.tf Open 3rd Place",
-    "14116": "AsiaFortress Liquid.tf Open Participant",
-    "14117": "AsiaFortress Liquid.tf Invite Participant",
+    "14113": "AsiaFortress Open 1st Place",
+    "14114": "AsiaFortress Open 2nd Place",
+    "14115": "AsiaFortress Open 3rd Place",
+    "14116": "AsiaFortress Open Participant",
+    "14117": "AsiaFortress Invite Participant",
     "14118": "ozfortress Experimental Cup 3 Division 1 First Place",
     "ozfortress Experimental Cup 3 Division 1 First Place": [
         14118
@@ -24700,14 +25115,14 @@
     "14226": "Sacred Scouts 6v6 Silver Medal",
     "14227": "Sacred Scouts 6v6 Bronze Medal",
     "14228": "Sacred Scouts 6v6 Participant",
-    "14229": "AsiaFortress Liquid.tf Invite 1st Place",
-    "14230": "AsiaFortress Liquid.tf Invite 2nd Place",
-    "14231": "AsiaFortress Liquid.tf Invite 3rd Place",
-    "14232": "AsiaFortress Liquid.tf Highlander Open 1st Place",
-    "14233": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
-    "14234": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
-    "14235": "AsiaFortress Liquid.tf Highlander Invite Participant",
-    "14236": "AsiaFortress Liquid.tf Highlander Open Participant",
+    "14229": "AsiaFortress Invite 1st Place",
+    "14230": "AsiaFortress Invite 2nd Place",
+    "14231": "AsiaFortress Invite 3rd Place",
+    "14232": "AsiaFortress Highlander Open 1st Place",
+    "14233": "AsiaFortress Highlander Open 2nd Place",
+    "14234": "AsiaFortress Highlander Open 3rd Place",
+    "14235": "AsiaFortress Highlander Invite Participant",
+    "14236": "AsiaFortress Highlander Open Participant",
     "14237": "ozfortress Sixes Premier First Place",
     "14238": "ozfortress Sixes Premier Second Place",
     "14239": "ozfortress Sixes Premier Third Place",
@@ -24752,35 +25167,40 @@
     "Ghoulish Gambit Poisonous Potato 2024": [
         14265
     ],
-    "14266": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
-    "AsiaFortress Liquid.tf Newbie Cup 1st Place": [
+    "14266": "AsiaFortress Newbie Cup 1st Place",
+    "AsiaFortress Newbie Cup 1st Place": [
         14266,
         14405,
-        14625
+        14625,
+        18977
     ],
-    "14267": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
-    "AsiaFortress Liquid.tf Newbie Cup 2nd Place": [
+    "14267": "AsiaFortress Newbie Cup 2nd Place",
+    "AsiaFortress Newbie Cup 2nd Place": [
         14267,
         14406,
-        14626
+        14626,
+        18978
     ],
-    "14268": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
-    "AsiaFortress Liquid.tf Newbie Cup 3rd Place": [
+    "14268": "AsiaFortress Newbie Cup 3rd Place",
+    "AsiaFortress Newbie Cup 3rd Place": [
         14268,
         14407,
-        14627
+        14627,
+        18979
     ],
-    "14269": "AsiaFortress Liquid.tf Newbie Cup Participant",
-    "AsiaFortress Liquid.tf Newbie Cup Participant": [
+    "14269": "AsiaFortress Newbie Cup Participant",
+    "AsiaFortress Newbie Cup Participant": [
         14269,
         14408,
-        14628
+        14628,
+        18980
     ],
-    "14270": "AsiaFortress Liquid.tf Newbie Cup Coach",
-    "AsiaFortress Liquid.tf Newbie Cup Coach": [
+    "14270": "AsiaFortress Newbie Cup Coach",
+    "AsiaFortress Newbie Cup Coach": [
         14270,
         14409,
-        14629
+        14629,
+        18981
     ],
     "14271": "ozfortress Sixes Premier First Place",
     "14272": "ozfortress Sixes Premier Second Place",
@@ -24828,19 +25248,23 @@
     "14314": "ozfortress Summer Cup Sixes Division 3 Participant",
     "14315": "ozfortress Summer Cup Sixes Division 4 First Place",
     "ozfortress Summer Cup Sixes Division 4 First Place": [
-        14315
+        14315,
+        18949
     ],
     "14316": "ozfortress Summer Cup Sixes Division 4 Second Place",
     "ozfortress Summer Cup Sixes Division 4 Second Place": [
-        14316
+        14316,
+        18950
     ],
     "14317": "ozfortress Summer Cup Sixes Division 4 Third Place",
     "ozfortress Summer Cup Sixes Division 4 Third Place": [
-        14317
+        14317,
+        18951
     ],
     "14318": "ozfortress Summer Cup Sixes Division 4 Participant",
     "ozfortress Summer Cup Sixes Division 4 Participant": [
-        14318
+        14318,
+        18952
     ],
     "14319": "ozfortress Summer Cup Sixes Division 5 First Place",
     "ozfortress Summer Cup Sixes Division 5 First Place": [
@@ -24931,61 +25355,65 @@
     "14393": "RGL.gg - Amateur Participant - 6v6",
     "14394": "RGL.gg - Newcomer Participant - 6v6",
     "14395": "RGL.gg Highlander Experimental Maps Cup",
-    "14396": "AsiaFortress Liquid.tf Invite 1st Place",
-    "14397": "AsiaFortress Liquid.tf Invite 2nd Place",
-    "14398": "AsiaFortress Liquid.tf Invite 3rd Place",
-    "14399": "AsiaFortress Liquid.tf Main 1st Place",
-    "AsiaFortress Liquid.tf Main 1st Place": [
-        14399
+    "14396": "AsiaFortress Invite 1st Place",
+    "14397": "AsiaFortress Invite 2nd Place",
+    "14398": "AsiaFortress Invite 3rd Place",
+    "14399": "AsiaFortress Main 1st Place",
+    "AsiaFortress Main 1st Place": [
+        14399,
+        18971
     ],
-    "14400": "AsiaFortress Liquid.tf Main 2nd Place",
-    "AsiaFortress Liquid.tf Main 2nd Place": [
-        14400
+    "14400": "AsiaFortress Main 2nd Place",
+    "AsiaFortress Main 2nd Place": [
+        14400,
+        18972
     ],
-    "14401": "AsiaFortress Liquid.tf Main 3rd Place",
-    "AsiaFortress Liquid.tf Main 3rd Place": [
-        14401
+    "14401": "AsiaFortress Main 3rd Place",
+    "AsiaFortress Main 3rd Place": [
+        14401,
+        18973
     ],
-    "14402": "AsiaFortress Liquid.tf Invite Participant",
-    "14403": "AsiaFortress Liquid.tf Main Participant",
-    "AsiaFortress Liquid.tf Main Participant": [
-        14403
+    "14402": "AsiaFortress Invite Participant",
+    "14403": "AsiaFortress Main Participant",
+    "AsiaFortress Main Participant": [
+        14403,
+        18975
     ],
-    "14404": "AsiaFortress Liquid.tf Open Participant",
-    "14405": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
-    "14406": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
-    "14407": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
-    "14408": "AsiaFortress Liquid.tf Newbie Cup Participant",
-    "14409": "AsiaFortress Liquid.tf Newbie Cup Coach",
-    "14410": "AsiaFortress Liquid.tf Gibus Cup 1st Place",
-    "AsiaFortress Liquid.tf Gibus Cup 1st Place": [
+    "14404": "AsiaFortress Open Participant",
+    "14405": "AsiaFortress Newbie Cup 1st Place",
+    "14406": "AsiaFortress Newbie Cup 2nd Place",
+    "14407": "AsiaFortress Newbie Cup 3rd Place",
+    "14408": "AsiaFortress Newbie Cup Participant",
+    "14409": "AsiaFortress Newbie Cup Coach",
+    "14410": "AsiaFortress Gibus Cup 1st Place",
+    "AsiaFortress Gibus Cup 1st Place": [
         14410
     ],
-    "14411": "AsiaFortress Liquid.tf Gibus Cup 2nd Place",
-    "AsiaFortress Liquid.tf Gibus Cup 2nd Place": [
+    "14411": "AsiaFortress Gibus Cup 2nd Place",
+    "AsiaFortress Gibus Cup 2nd Place": [
         14411
     ],
-    "14412": "AsiaFortress Liquid.tf Gibus Cup 3rd Place",
-    "AsiaFortress Liquid.tf Gibus Cup 3rd Place": [
+    "14412": "AsiaFortress Gibus Cup 3rd Place",
+    "AsiaFortress Gibus Cup 3rd Place": [
         14412
     ],
-    "14413": "AsiaFortress Liquid.tf Gibus Cup Participant",
-    "AsiaFortress Liquid.tf Gibus Cup Participant": [
+    "14413": "AsiaFortress Gibus Cup Participant",
+    "AsiaFortress Gibus Cup Participant": [
         14413
     ],
-    "14414": "AsiaFortress Liquid.tf Gibus Cup Coach",
-    "AsiaFortress Liquid.tf Gibus Cup Coach": [
+    "14414": "AsiaFortress Gibus Cup Coach",
+    "AsiaFortress Gibus Cup Coach": [
         14414
     ],
-    "14415": "AsiaFortress Liquid.tf Champions Cup Participant",
-    "AsiaFortress Liquid.tf Champions Cup Participant": [
+    "14415": "AsiaFortress Champions Cup Participant",
+    "AsiaFortress Champions Cup Participant": [
         14415
     ],
-    "14416": "AsiaFortress Liquid.tf Highlander Open 1st Place",
-    "14417": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
-    "14418": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
-    "14419": "AsiaFortress Liquid.tf Highlander Invite Participant",
-    "14420": "AsiaFortress Liquid.tf Highlander Open Participant",
+    "14416": "AsiaFortress Highlander Open 1st Place",
+    "14417": "AsiaFortress Highlander Open 2nd Place",
+    "14418": "AsiaFortress Highlander Open 3rd Place",
+    "14419": "AsiaFortress Highlander Invite Participant",
+    "14420": "AsiaFortress Highlander Open Participant",
     "14421": "TFArena Platinum Division Champions",
     "TFArena Platinum Division Champions": [
         14421
@@ -25070,62 +25498,74 @@
     "14442": "MGE.tf EU 2v2 Premier 1st Place",
     "MGE.tf EU 2v2 Premier 1st Place": [
         14442,
-        18556
+        18556,
+        18990
     ],
     "14443": "MGE.tf EU 2v2 Premier 2nd Place",
     "MGE.tf EU 2v2 Premier 2nd Place": [
         14443,
-        18557
+        18557,
+        18991
     ],
     "14444": "MGE.tf EU 2v2 Premier 3rd Place",
     "MGE.tf EU 2v2 Premier 3rd Place": [
         14444,
-        18558
+        18558,
+        18992
     ],
     "14445": "MGE.tf EU 2v2 Premier Participant",
     "MGE.tf EU 2v2 Premier Participant": [
         14445,
-        18559
+        18559,
+        18993
     ],
     "14446": "MGE.tf EU 2v2 Intermediate 1st Place",
     "MGE.tf EU 2v2 Intermediate 1st Place": [
         14446,
-        18560
+        18560,
+        18994
     ],
     "14447": "MGE.tf EU 2v2 Intermediate 2nd Place",
     "MGE.tf EU 2v2 Intermediate 2nd Place": [
         14447,
-        18561
+        18561,
+        18995
     ],
     "14448": "MGE.tf EU 2v2 Intermediate 3rd Place",
     "MGE.tf EU 2v2 Intermediate 3rd Place": [
         14448,
-        18562
+        18562,
+        18996
     ],
     "14449": "MGE.tf EU 2v2 Intermediate Participant",
     "MGE.tf EU 2v2 Intermediate Participant": [
         14449,
-        18563
+        18563,
+        18997
     ],
     "14450": "MGE.tf EU 2v2 Open 1st Place",
     "MGE.tf EU 2v2 Open 1st Place": [
         14450,
-        18564
+        18564,
+        18998
     ],
     "14451": "MGE.tf EU 2v2 Open 2nd Place",
     "MGE.tf EU 2v2 Open 2nd Place": [
         14451,
-        18565
+        18565,
+        18999
     ],
     "14452": "MGE.tf EU 2v2 Open 3rd Place",
     "MGE.tf EU 2v2 Open 3rd Place": [
         14452,
-        18566
+        18566,
+        19000
     ],
     "14453": "MGE.tf EU 2v2 Open Participant",
     "MGE.tf EU 2v2 Open Participant": [
         14453,
-        18567
+        18567,
+        19001
     ],
     "14454": "MGE.tf EU 2v2 Helper",
     "MGE.tf EU 2v2 Helper": [
@@ -25134,23 +25574,28 @@
     ],
     "14455": "MGE.tf 1v1 World Championship 1st Place",
     "MGE.tf 1v1 World Championship 1st Place": [
-        14455
+        14455,
+        18953
     ],
     "14456": "MGE.tf 1v1 World Championship 2nd Place",
     "MGE.tf 1v1 World Championship 2nd Place": [
-        14456
+        14456,
+        18954
     ],
     "14457": "MGE.tf 1v1 World Championship 3rd Place",
     "MGE.tf 1v1 World Championship 3rd Place": [
-        14457
+        14457,
+        18955
     ],
     "14458": "MGE.tf 1v1 World Championship Participant",
     "MGE.tf 1v1 World Championship Participant": [
-        14458
+        14458,
+        18956
     ],
     "14459": "MGE.tf 1v1 World Championship Helper",
     "MGE.tf 1v1 World Championship Helper": [
-        14459
+        14459,
+        18957
     ],
     "14460": "ozfortress Sixes Premier First Place",
     "14461": "ozfortress Sixes Premier Second Place",
@@ -25220,9 +25665,9 @@
     "14501": "CappingTV Summer Brawl 2nd Place",
     "14502": "CappingTV Summer Brawl 3rd Place",
     "14503": "CappingTV Summer Brawl Participant",
-    "14504": "AsiaFortress Liquid.tf Highlander Invite 1st Place",
-    "14505": "AsiaFortress Liquid.tf Highlander Invite 2nd Place",
-    "14506": "AsiaFortress Liquid.tf Highlander Invite 3rd Place",
+    "14504": "AsiaFortress Highlander Invite 1st Place",
+    "14505": "AsiaFortress Highlander Invite 2nd Place",
+    "14506": "AsiaFortress Highlander Invite 3rd Place",
     "14507": "RGL.gg - Invite Champions - Highlander",
     "14508": "RGL.gg - Invite 2nd Place - Highlander",
     "14509": "RGL.gg - Invite 3rd Place - Highlander",
@@ -25428,11 +25873,11 @@
         14623
     ],
     "14624": "Brazil Fortress Jump Cup Helper",
-    "14625": "AsiaFortress Liquid.tf Newbie Cup 1st Place",
-    "14626": "AsiaFortress Liquid.tf Newbie Cup 2nd Place",
-    "14627": "AsiaFortress Liquid.tf Newbie Cup 3rd Place",
-    "14628": "AsiaFortress Liquid.tf Newbie Cup Participant",
-    "14629": "AsiaFortress Liquid.tf Newbie Cup Coach",
+    "14625": "AsiaFortress Newbie Cup 1st Place",
+    "14626": "AsiaFortress Newbie Cup 2nd Place",
+    "14627": "AsiaFortress Newbie Cup 3rd Place",
+    "14628": "AsiaFortress Newbie Cup Participant",
+    "14629": "AsiaFortress Newbie Cup Coach",
     "14630": "LBTF2 6v6 Elite 1st Place",
     "14631": "LBTF2 6v6 Elite 2nd Place",
     "14632": "LBTF2 6v6 Elite 3rd Place",
@@ -26248,6 +26693,16 @@
     "17430": "War Paint",
     "17431": "War Paint",
     "17432": "War Paint",
+    "17433": "War Paint",
+    "17434": "War Paint",
+    "17435": "War Paint",
+    "17436": "War Paint",
+    "17437": "War Paint",
+    "17438": "War Paint",
+    "17439": "War Paint",
+    "17440": "War Paint",
+    "17441": "War Paint",
+    "17442": "War Paint",
     "18000": "'Decorated War Hero' War Paint\nCivilian Grade Keyless Case",
     "'Decorated War Hero' War Paint\nCivilian Grade Keyless Case": [
         18000
@@ -26358,60 +26813,74 @@
     "18567": "MGE.tf EU 2v2 Open Participant",
     "18568": "MGE.tf EU 2v2 Newcomer Participant",
     "MGE.tf EU 2v2 Newcomer Participant": [
-        18568
+        18568,
+        19004
     ],
     "18569": "MGE.tf EU 2v2 Helper",
     "18570": "MGE.tf NA 2v2 Invite 1st Place",
     "MGE.tf NA 2v2 Invite 1st Place": [
-        18570
+        18570,
+        19005
     ],
     "18571": "MGE.tf NA 2v2 Invite 2nd Place",
     "MGE.tf NA 2v2 Invite 2nd Place": [
-        18571
+        18571,
+        19006
     ],
     "18572": "MGE.tf NA 2v2 Invite 3rd Place",
     "MGE.tf NA 2v2 Invite 3rd Place": [
-        18572
+        18572,
+        19007
     ],
     "18573": "MGE.tf NA 2v2 Invite Participant",
     "MGE.tf NA 2v2 Invite Participant": [
-        18573
+        18573,
+        19008
     ],
     "18574": "MGE.tf NA 2v2 Intermediate 1st Place",
     "MGE.tf NA 2v2 Intermediate 1st Place": [
-        18574
+        18574,
+        19009
     ],
     "18575": "MGE.tf NA 2v2 Intermediate 2nd Place",
     "MGE.tf NA 2v2 Intermediate 2nd Place": [
-        18575
+        18575,
+        19010
     ],
     "18576": "MGE.tf NA 2v2 Intermediate 3rd Place",
     "MGE.tf NA 2v2 Intermediate 3rd Place": [
-        18576
+        18576,
+        19011
     ],
     "18577": "MGE.tf NA 2v2 Intermediate Participant",
     "MGE.tf NA 2v2 Intermediate Participant": [
-        18577
+        18577,
+        19012
     ],
     "18578": "MGE.tf NA 2v2 Open 1st Place",
     "MGE.tf NA 2v2 Open 1st Place": [
-        18578
+        18578,
+        19013
     ],
     "18579": "MGE.tf NA 2v2 Open 2nd Place",
     "MGE.tf NA 2v2 Open 2nd Place": [
-        18579
+        18579,
+        19014
     ],
     "18580": "MGE.tf NA 2v2 Open 3rd Place",
     "MGE.tf NA 2v2 Open 3rd Place": [
-        18580
+        18580,
+        19015
     ],
     "18581": "MGE.tf NA 2v2 Open Participant",
     "MGE.tf NA 2v2 Open Participant": [
-        18581
+        18581,
+        19016
     ],
     "18582": "MGE.tf NA 2v2 Newcomer Participant",
     "MGE.tf NA 2v2 Newcomer Participant": [
-        18582
+        18582,
+        19019
     ],
     "18583": "MGE.tf NA 2v2 Helper",
     "MGE.tf NA 2v2 Helper": [
@@ -26501,36 +26970,36 @@
     "Brazil Fortress QEL 4v4 Halloween - Cursed Assistant": [
         18604
     ],
-    "18605": "Brazil Fortress Highlander Halloween - Scary Group First Place",
-    "Brazil Fortress Highlander Halloween - Scary Group First Place": [
+    "18605": "Brazil Fortress Highlander Halloween - Haunted Group First Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group First Place": [
         18605
     ],
-    "18606": "Brazil Fortress Highlander Halloween - Scary Group Second Place",
-    "Brazil Fortress Highlander Halloween - Scary Group Second Place": [
+    "18606": "Brazil Fortress Highlander Halloween - Haunted Group Second Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group Second Place": [
         18606
     ],
-    "18607": "Brazil Fortress Highlander Halloween - Scary Group Third Place",
-    "Brazil Fortress Highlander Halloween - Scary Group Third Place": [
+    "18607": "Brazil Fortress Highlander Halloween - Haunted Group Third Place",
+    "Brazil Fortress Highlander Halloween - Haunted Group Third Place": [
         18607
     ],
-    "18608": "Brazil Fortress Highlander Halloween - Scary Group Participant",
-    "Brazil Fortress Highlander Halloween - Scary Group Participant": [
+    "18608": "Brazil Fortress Highlander Halloween - Haunted Group Participant",
+    "Brazil Fortress Highlander Halloween - Haunted Group Participant": [
         18608
     ],
-    "18609": "Brazil Fortress Highlander Halloween - Haunted Group First Place",
-    "Brazil Fortress Highlander Halloween - Haunted Group First Place": [
+    "18609": "Brazil Fortress Highlander Halloween - Scary Group First Place",
+    "Brazil Fortress Highlander Halloween - Scary Group First Place": [
         18609
     ],
-    "18610": "Brazil Fortress Highlander Halloween - Haunted Group Second Place",
-    "Brazil Fortress Highlander Halloween - Haunted Group Second Place": [
+    "18610": "Brazil Fortress Highlander Halloween - Scary Group Second Place",
+    "Brazil Fortress Highlander Halloween - Scary Group Second Place": [
         18610
     ],
-    "18611": "Brazil Fortress Highlander Halloween - Haunted Group Third Place",
-    "Brazil Fortress Highlander Halloween - Haunted Group Third Place": [
+    "18611": "Brazil Fortress Highlander Halloween - Scary Group Third Place",
+    "Brazil Fortress Highlander Halloween - Scary Group Third Place": [
         18611
     ],
-    "18612": "Brazil Fortress Highlander Halloween - Haunted Group Participant",
-    "Brazil Fortress Highlander Halloween - Haunted Group Participant": [
+    "18612": "Brazil Fortress Highlander Halloween - Scary Group Participant",
+    "Brazil Fortress Highlander Halloween - Scary Group Participant": [
         18612
     ],
     "18613": "Brazil Fortress Highlander Halloween - Ghastly Group First Place",
@@ -26563,6 +27032,1093 @@
         18623
     ],
     "18624": "TF2Maps 72hr TF2Jam Participant",
+    "18625": "ETF2L Highlander Premiership Gold Medal",
+    "18626": "ETF2L Highlander Premiership Silver Medal",
+    "18627": "ETF2L Highlander Premiership Bronze Medal",
+    "18628": "ETF2L Highlander Premiership Participation Medal",
+    "18629": "ETF2L Highlander Division 1 Gold Medal",
+    "18630": "ETF2L Highlander Division 1 Silver Medal",
+    "18631": "ETF2L Highlander Division 1 Bronze Medal",
+    "18632": "ETF2L Highlander Division 1 Participation Medal",
+    "18633": "ETF2L Highlander Division 2 Gold Medal",
+    "18634": "ETF2L Highlander Division 2 Silver Medal",
+    "18635": "ETF2L Highlander Division 2 Bronze Medal",
+    "18636": "ETF2L Highlander Division 2 Participation Medal",
+    "18637": "ETF2L Highlander Division 3 Gold Medal",
+    "18638": "ETF2L Highlander Division 3 Silver Medal",
+    "18639": "ETF2L Highlander Division 3 Bronze Medal",
+    "18640": "ETF2L Highlander Division 3 Participation Medal",
+    "18641": "ETF2L Highlander Division 4 Gold Medal",
+    "18642": "ETF2L Highlander Division 4 Silver Medal",
+    "18643": "ETF2L Highlander Division 4 Bronze Medal",
+    "18644": "ETF2L Highlander Division 4 Participation Medal",
+    "18645": "ETF2L Highlander Low Gold Medal",
+    "18646": "ETF2L Highlander Low Silver Medal",
+    "18647": "ETF2L Highlander Low Bronze Medal",
+    "18648": "ETF2L Highlander Low Playoff Medal",
+    "18649": "ETF2L Highlander Low Participation Medal",
+    "18650": "ETF2L Highlander Open Gold Medal",
+    "18651": "ETF2L Highlander Open Silver Medal",
+    "18652": "ETF2L Highlander Open Bronze Medal",
+    "18653": "ETF2L Highlander Open Playoff Medal",
+    "18654": "ETF2L Highlander Open Participation Medal",
+    "18655": "ETF2L Highlander Premiership Gold Medal",
+    "18656": "ETF2L Highlander Premiership Silver Medal",
+    "18657": "ETF2L Highlander Premiership Bronze Medal",
+    "18658": "ETF2L Highlander Premiership Participation Medal",
+    "18659": "ETF2L Highlander High Gold Medal",
+    "18660": "ETF2L Highlander High Silver Medal",
+    "18661": "ETF2L Highlander High Bronze Medal",
+    "18662": "ETF2L Highlander High Participation Medal",
+    "18663": "ETF2L Highlander Mid Gold Medal",
+    "18664": "ETF2L Highlander Mid Silver Medal",
+    "18665": "ETF2L Highlander Mid Bronze Medal",
+    "18666": "ETF2L Highlander Mid Participation Medal",
+    "18667": "ETF2L Highlander Low Gold Medal",
+    "18668": "ETF2L Highlander Low Silver Medal",
+    "18669": "ETF2L Highlander Low Bronze Medal",
+    "18670": "ETF2L Highlander Low Participation Medal",
+    "18671": "ETF2L Highlander Open Gold Medal",
+    "18672": "ETF2L Highlander Open Silver Medal",
+    "18673": "ETF2L Highlander Open Bronze Medal",
+    "18674": "ETF2L Highlander Open Participation Medal",
+    "18675": "ETF2L Highlander Fresh Gold Medal",
+    "ETF2L Highlander Fresh Gold Medal": [
+        18675
+    ],
+    "18676": "ETF2L Highlander Fresh Silver Medal",
+    "ETF2L Highlander Fresh Silver Medal": [
+        18676
+    ],
+    "18677": "ETF2L Highlander Fresh Bronze Medal",
+    "ETF2L Highlander Fresh Bronze Medal": [
+        18677
+    ],
+    "18678": "ETF2L Highlander Fresh Participation Medal",
+    "ETF2L Highlander Fresh Participation Medal": [
+        18678
+    ],
+    "18679": "ETF2L Highlander Freshest Gold Medal",
+    "ETF2L Highlander Freshest Gold Medal": [
+        18679
+    ],
+    "18680": "ETF2L Highlander Freshest Silver Medal",
+    "ETF2L Highlander Freshest Silver Medal": [
+        18680
+    ],
+    "18681": "ETF2L Highlander Freshest Bronze Medal",
+    "ETF2L Highlander Freshest Bronze Medal": [
+        18681
+    ],
+    "18682": "ETF2L Highlander Premiership Gold Medal",
+    "18683": "ETF2L Highlander Premiership Silver Medal",
+    "18684": "ETF2L Highlander Premiership Bronze Medal",
+    "18685": "ETF2L Highlander Premiership Participation Medal",
+    "18686": "ETF2L Highlander High Gold Medal",
+    "18687": "ETF2L Highlander High Silver Medal",
+    "18688": "ETF2L Highlander High Bronze Medal",
+    "18689": "ETF2L Highlander High Playoff Medal",
+    "18690": "ETF2L Highlander High Participation Medal",
+    "18691": "ETF2L Highlander Mid Gold Medal",
+    "18692": "ETF2L Highlander Mid Silver Medal",
+    "18693": "ETF2L Highlander Mid Bronze Medal",
+    "18694": "ETF2L Highlander Mid Playoff Medal",
+    "18695": "ETF2L Highlander Mid Participation Medal",
+    "18696": "ETF2L Highlander Low Gold Medal",
+    "18697": "ETF2L Highlander Low Silver Medal",
+    "18698": "ETF2L Highlander Low Bronze Medal",
+    "18699": "ETF2L Highlander Low Playoff Medal",
+    "18700": "ETF2L Highlander Low Participation Medal",
+    "18701": "ETF2L Highlander Open Gold Medal",
+    "18702": "ETF2L Highlander Open Silver Medal",
+    "18703": "ETF2L Highlander Open Bronze Medal",
+    "18704": "ETF2L Highlander Open Playoff Medal",
+    "18705": "ETF2L Highlander Open Participation Medal",
+    "18706": "ETF2L 6v6 Premiership Gold Medal",
+    "18707": "ETF2L 6v6 Premiership Silver Medal",
+    "18708": "ETF2L 6v6 Premiership Bronze Medal",
+    "18709": "ETF2L 6v6 Premiership Participation Medal",
+    "18710": "ETF2L 6v6 Division 1 Gold Medal",
+    "18711": "ETF2L 6v6 Division 1 Silver Medal",
+    "18712": "ETF2L 6v6 Division 1 Bronze Medal",
+    "18713": "ETF2L 6v6 Division 1 Participation Medal",
+    "18714": "ETF2L 6v6 Division 2 Gold Medal",
+    "18715": "ETF2L 6v6 Division 2 Silver Medal",
+    "18716": "ETF2L 6v6 Division 2 Bronze Medal",
+    "18717": "ETF2L 6v6 Division 2 Playoff Medal",
+    "ETF2L 6v6 Division 2 Playoff Medal": [
+        18717
+    ],
+    "18718": "ETF2L 6v6 Division 2 Participation Medal",
+    "18719": "ETF2L 6v6 Mid Gold Medal",
+    "18720": "ETF2L 6v6 Mid Silver Medal",
+    "18721": "ETF2L 6v6 Mid Bronze Medal",
+    "18722": "ETF2L 6v6 Mid Playoff Medal",
+    "18723": "ETF2L 6v6 Mid Participation Medal",
+    "18724": "ETF2L 6v6 Low Gold Medal",
+    "18725": "ETF2L 6v6 Low Silver Medal",
+    "18726": "ETF2L 6v6 Low Bronze Medal",
+    "18727": "ETF2L 6v6 Low Playoff Medal",
+    "18728": "ETF2L 6v6 Low Participation Medal",
+    "18729": "ETF2L 6v6 Open Gold Medal",
+    "18730": "ETF2L 6v6 Open Silver Medal",
+    "18731": "ETF2L 6v6 Open Bronze Medal",
+    "18732": "ETF2L 6v6 Open Playoff Medal",
+    "18733": "ETF2L 6v6 Open Participation Medal",
+    "18734": "ETF2L 6v6 Fresh Gold Medal",
+    "ETF2L 6v6 Fresh Gold Medal": [
+        18734,
+        18798
+    ],
+    "18735": "ETF2L 6v6 Fresh Silver Medal",
+    "ETF2L 6v6 Fresh Silver Medal": [
+        18735,
+        18799
+    ],
+    "18736": "ETF2L 6v6 Fresh Bronze Medal",
+    "ETF2L 6v6 Fresh Bronze Medal": [
+        18736,
+        18800
+    ],
+    "18737": "ETF2L 6v6 Fresh Playoff Medal",
+    "ETF2L 6v6 Fresh Playoff Medal": [
+        18737,
+        18801
+    ],
+    "18738": "ETF2L 6v6 Fresh Participation Medal",
+    "ETF2L 6v6 Fresh Participation Medal": [
+        18738,
+        18802
+    ],
+    "18739": "ETF2L 6v6 Premiership Gold Medal",
+    "18740": "ETF2L 6v6 Premiership Silver Medal",
+    "18741": "ETF2L 6v6 Premiership Bronze Medal",
+    "18742": "ETF2L 6v6 Premiership Participation Medal",
+    "18743": "ETF2L 6v6 Division 1 Gold Medal",
+    "18744": "ETF2L 6v6 Division 1 Silver Medal",
+    "18745": "ETF2L 6v6 Division 1 Bronze Medal",
+    "18746": "ETF2L 6v6 Division 1 Participation Medal",
+    "18747": "ETF2L 6v6 Division 2 Gold Medal",
+    "18748": "ETF2L 6v6 Division 2 Silver Medal",
+    "18749": "ETF2L 6v6 Division 2 Bronze Medal",
+    "18750": "ETF2L 6v6 Division 2 Participation Medal",
+    "18751": "ETF2L 6v6 Division 3 Gold Medal",
+    "18752": "ETF2L 6v6 Division 3 Silver Medal",
+    "18753": "ETF2L 6v6 Division 3 Bronze Medal",
+    "18754": "ETF2L 6v6 Division 3 Participation Medal",
+    "18755": "ETF2L 6v6 Division 4 Gold Medal",
+    "18756": "ETF2L 6v6 Division 4 Silver Medal",
+    "18757": "ETF2L 6v6 Division 4 Bronze Medal",
+    "18758": "ETF2L 6v6 Division 4 Participation Medal",
+    "18759": "ETF2L 6v6 Low Gold Medal",
+    "18760": "ETF2L 6v6 Low Silver Medal",
+    "18761": "ETF2L 6v6 Low Bronze Medal",
+    "18762": "ETF2L 6v6 Low Playoff Medal",
+    "18763": "ETF2L 6v6 Low Participation Medal",
+    "18764": "ETF2L 6v6 Open Gold Medal",
+    "18765": "ETF2L 6v6 Open Silver Medal",
+    "18766": "ETF2L 6v6 Open Bronze Medal",
+    "18767": "ETF2L 6v6 Open Playoff Medal",
+    "18768": "ETF2L 6v6 Open Participation Medal",
+    "18769": "ETF2L 6v6 Premiership Gold Medal",
+    "18770": "ETF2L 6v6 Premiership Silver Medal",
+    "18771": "ETF2L 6v6 Premiership Bronze Medal",
+    "18772": "ETF2L 6v6 Premiership Participation Medal",
+    "18773": "ETF2L 6v6 High Gold Medal",
+    "18774": "ETF2L 6v6 High Silver Medal",
+    "18775": "ETF2L 6v6 High Bronze Medal",
+    "18776": "ETF2L 6v6 High Playoff Medal",
+    "18777": "ETF2L 6v6 High Participation Medal",
+    "18778": "ETF2L 6v6 Division 3 Gold Medal",
+    "18779": "ETF2L 6v6 Division 3 Silver Medal",
+    "18780": "ETF2L 6v6 Division 3 Bronze Medal",
+    "18781": "ETF2L 6v6 Division 3 Playoff Medal",
+    "ETF2L 6v6 Division 3 Playoff Medal": [
+        18781
+    ],
+    "18782": "ETF2L 6v6 Division 3 Participation Medal",
+    "18783": "ETF2L 6v6 Division 4 Gold Medal",
+    "18784": "ETF2L 6v6 Division 4 Silver Medal",
+    "18785": "ETF2L 6v6 Division 4 Bronze Medal",
+    "18786": "ETF2L 6v6 Division 4 Playoff Medal",
+    "ETF2L 6v6 Division 4 Playoff Medal": [
+        18786
+    ],
+    "18787": "ETF2L 6v6 Division 4 Participation Medal",
+    "18788": "ETF2L 6v6 Low Gold Medal",
+    "18789": "ETF2L 6v6 Low Silver Medal",
+    "18790": "ETF2L 6v6 Low Bronze Medal",
+    "18791": "ETF2L 6v6 Low Playoff Medal",
+    "18792": "ETF2L 6v6 Low Participation Medal",
+    "18793": "ETF2L 6v6 Open Gold Medal",
+    "18794": "ETF2L 6v6 Open Silver Medal",
+    "18795": "ETF2L 6v6 Open Bronze Medal",
+    "18796": "ETF2L 6v6 Open Playoff Medal",
+    "18797": "ETF2L 6v6 Open Participation Medal",
+    "18798": "ETF2L 6v6 Fresh Gold Medal",
+    "18799": "ETF2L 6v6 Fresh Silver Medal",
+    "18800": "ETF2L 6v6 Fresh Bronze Medal",
+    "18801": "ETF2L 6v6 Fresh Playoff Medal",
+    "18802": "ETF2L 6v6 Fresh Participation Medal",
+    "18803": "ETF2L Ultiduo #8 Professional Gold Medal",
+    "ETF2L Ultiduo #8 Professional Gold Medal": [
+        18803
+    ],
+    "18804": "ETF2L Ultiduo #8 Professional Silver Medal",
+    "ETF2L Ultiduo #8 Professional Silver Medal": [
+        18804
+    ],
+    "18805": "ETF2L Ultiduo #8 Professional Bronze Medal",
+    "ETF2L Ultiduo #8 Professional Bronze Medal": [
+        18805
+    ],
+    "18806": "ETF2L Ultiduo #8 Professional Participation Medal",
+    "ETF2L Ultiduo #8 Professional Participation Medal": [
+        18806
+    ],
+    "18807": "ETF2L Ultiduo #8 Amateur Gold Medal",
+    "ETF2L Ultiduo #8 Amateur Gold Medal": [
+        18807
+    ],
+    "18808": "ETF2L Ultiduo #8 Amateur Silver Medal",
+    "ETF2L Ultiduo #8 Amateur Silver Medal": [
+        18808
+    ],
+    "18809": "ETF2L Ultiduo #8 Amateur Bronze Medal",
+    "ETF2L Ultiduo #8 Amateur Bronze Medal": [
+        18809
+    ],
+    "18810": "ETF2L Ultiduo #8 Amateur Participation Medal",
+    "ETF2L Ultiduo #8 Amateur Participation Medal": [
+        18810
+    ],
+    "18811": "RGL.gg - Invite Champions - Highlander",
+    "18812": "RGL.gg - Invite 2nd Place - Highlander",
+    "18813": "RGL.gg - Invite 3rd Place - Highlander",
+    "18814": "RGL.gg - Invite Participant - Highlander",
+    "18815": "RGL.gg - Advanced Champions - Highlander",
+    "18816": "RGL.gg - Advanced 2nd Place - Highlander",
+    "18817": "RGL.gg - Advanced 3rd Place - Highlander",
+    "18818": "RGL.gg - Advanced Participant - Highlander",
+    "18819": "RGL.gg - Main Champions - Highlander",
+    "18820": "RGL.gg - Main 2nd Place - Highlander",
+    "18821": "RGL.gg - Main 3rd Place - Highlander",
+    "18822": "RGL.gg - Main Participant - Highlander",
+    "18823": "RGL.gg - Intermediate Champions - Highlander",
+    "18824": "RGL.gg - Intermediate 2nd Place - Highlander",
+    "18825": "RGL.gg - Intermediate 3rd Place - Highlander",
+    "18826": "RGL.gg - Intermediate Participant - Highlander",
+    "18827": "RGL.gg - Amateur Participant - Highlander",
+    "18828": "RGL.gg - Newcomer Participant - Highlander",
+    "18829": "RGL.gg - Invite Champions - Highlander",
+    "18830": "RGL.gg - Invite 2nd Place - Highlander",
+    "18831": "RGL.gg - Invite 3rd Place - Highlander",
+    "18832": "RGL.gg - Invite Participant - Highlander",
+    "18833": "RGL.gg - Advanced-1 Champions - Highlander",
+    "RGL.gg - Advanced-1 Champions - Highlander": [
+        18833
+    ],
+    "18834": "RGL.gg - Advanced-1 2nd Place - Highlander",
+    "RGL.gg - Advanced-1 2nd Place - Highlander": [
+        18834
+    ],
+    "18835": "RGL.gg - Advanced-1 3rd Place - Highlander",
+    "RGL.gg - Advanced-1 3rd Place - Highlander": [
+        18835
+    ],
+    "18836": "RGL.gg - Advanced-1 Participant - Highlander",
+    "RGL.gg - Advanced-1 Participant - Highlander": [
+        18836
+    ],
+    "18837": "RGL.gg - Main Champions - Highlander",
+    "18838": "RGL.gg - Main 2nd Place - Highlander",
+    "18839": "RGL.gg - Main 3rd Place - Highlander",
+    "18840": "RGL.gg - Main Participant - Highlander",
+    "18841": "RGL.gg - Intermediate Champions - Highlander",
+    "18842": "RGL.gg - Intermediate 2nd Place - Highlander",
+    "18843": "RGL.gg - Intermediate 3rd Place - Highlander",
+    "18844": "RGL.gg - Intermediate Participant - Highlander",
+    "18845": "RGL.gg - Amateur Participant - Highlander",
+    "18846": "RGL.gg - Newcomer Participant - Highlander",
+    "18847": "RGL.gg - Invite Champions - 6v6",
+    "18848": "RGL.gg - Invite 2nd Place - 6v6",
+    "18849": "RGL.gg - Invite 3rd Place - 6v6",
+    "18850": "RGL.gg - Invite Participant - 6v6",
+    "18851": "RGL.gg - Advanced Champions - 6v6",
+    "18852": "RGL.gg - Advanced 2nd Place - 6v6",
+    "18853": "RGL.gg - Advanced 3rd Place - 6v6",
+    "18854": "RGL.gg - Advanced Participant - 6v6",
+    "18855": "RGL.gg - Main Champions - 6v6",
+    "18856": "RGL.gg - Main 2nd Place - 6v6",
+    "18857": "RGL.gg - Main 3rd Place - 6v6",
+    "18858": "RGL.gg - Main Participant - 6v6",
+    "18859": "RGL.gg - Intermediate Champions - 6v6",
+    "18860": "RGL.gg - Intermediate 2nd Place - 6v6",
+    "18861": "RGL.gg - Intermediate 3rd Place - 6v6",
+    "18862": "RGL.gg - Intermediate Participant - 6v6",
+    "18863": "RGL.gg - Amateur Participant - 6v6",
+    "18864": "RGL.gg - Newcomer Participant - 6v6",
+    "18865": "RGL.gg - Invite Champions - 6v6",
+    "18866": "RGL.gg - Invite 2nd Place - 6v6",
+    "18867": "RGL.gg - Invite 3rd Place - 6v6",
+    "18868": "RGL.gg - Invite Participant - 6v6",
+    "18869": "RGL.gg - Advanced Champions - 6v6",
+    "18870": "RGL.gg - Advanced 2nd Place - 6v6",
+    "18871": "RGL.gg - Advanced 3rd Place - 6v6",
+    "18872": "RGL.gg - Advanced Participant - 6v6",
+    "18873": "RGL.gg - Main Champions - 6v6",
+    "18874": "RGL.gg - Main 2nd Place - 6v6",
+    "18875": "RGL.gg - Main 3rd Place - 6v6",
+    "18876": "RGL.gg - Main Participant - 6v6",
+    "18877": "RGL.gg - Intermediate Champions - 6v6",
+    "18878": "RGL.gg - Intermediate 2nd Place - 6v6",
+    "18879": "RGL.gg - Intermediate 3rd Place - 6v6",
+    "18880": "RGL.gg - Intermediate Participant - 6v6",
+    "18881": "RGL.gg - Amateur Participant - 6v6",
+    "18882": "RGL.gg - Newcomer Participant - 6v6",
+    "18883": "Brazil Fortress QEL 6v6 Proving Grounds SA Invite First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Invite First Place": [
+        18883
+    ],
+    "18884": "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Second Place": [
+        18884
+    ],
+    "18885": "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Third Place": [
+        18885
+    ],
+    "18886": "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Invite Participant": [
+        18886
+    ],
+    "18887": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 First Place": [
+        18887
+    ],
+    "18888": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Second Place": [
+        18888
+    ],
+    "18889": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Third Place": [
+        18889
+    ],
+    "18890": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 1 Participant": [
+        18890
+    ],
+    "18891": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 First Place": [
+        18891
+    ],
+    "18892": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Second Place": [
+        18892
+    ],
+    "18893": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Third Place": [
+        18893
+    ],
+    "18894": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 2 Participant": [
+        18894
+    ],
+    "18895": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 First Place": [
+        18895
+    ],
+    "18896": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Second Place": [
+        18896
+    ],
+    "18897": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Third Place": [
+        18897
+    ],
+    "18898": "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds SA Division 3 Participant": [
+        18898
+    ],
+    "18899": "Brazil Fortress QEL 6v6 Proving Grounds NA Invite First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Invite First Place": [
+        18899
+    ],
+    "18900": "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Second Place": [
+        18900
+    ],
+    "18901": "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Third Place": [
+        18901
+    ],
+    "18902": "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Invite Participant": [
+        18902
+    ],
+    "18903": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 First Place": [
+        18903
+    ],
+    "18904": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Second Place": [
+        18904
+    ],
+    "18905": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Third Place": [
+        18905
+    ],
+    "18906": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 1 Participant": [
+        18906
+    ],
+    "18907": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 First Place": [
+        18907
+    ],
+    "18908": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Second Place": [
+        18908
+    ],
+    "18909": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Third Place": [
+        18909
+    ],
+    "18910": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 2 Participant": [
+        18910
+    ],
+    "18911": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 First Place": [
+        18911
+    ],
+    "18912": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Second Place": [
+        18912
+    ],
+    "18913": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Third Place": [
+        18913
+    ],
+    "18914": "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds NA Division 3 Participant": [
+        18914
+    ],
+    "18915": "Brazil Fortress QEL 6v6 Proving Grounds EU Invite First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Invite First Place": [
+        18915
+    ],
+    "18916": "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Second Place": [
+        18916
+    ],
+    "18917": "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Third Place": [
+        18917
+    ],
+    "18918": "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Invite Participant": [
+        18918
+    ],
+    "18919": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 First Place": [
+        18919
+    ],
+    "18920": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Second Place": [
+        18920
+    ],
+    "18921": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Third Place": [
+        18921
+    ],
+    "18922": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 1 Participant": [
+        18922
+    ],
+    "18923": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 First Place": [
+        18923
+    ],
+    "18924": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Second Place": [
+        18924
+    ],
+    "18925": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Third Place": [
+        18925
+    ],
+    "18926": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 2 Participant": [
+        18926
+    ],
+    "18927": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 First Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 First Place": [
+        18927
+    ],
+    "18928": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Second Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Second Place": [
+        18928
+    ],
+    "18929": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Third Place",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Third Place": [
+        18929
+    ],
+    "18930": "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Participant",
+    "Brazil Fortress QEL 6v6 Proving Grounds EU Division 3 Participant": [
+        18930
+    ],
+    "18931": "Brazil Fortress QEL 6v6 Proving Grounds Staff Member",
+    "Brazil Fortress QEL 6v6 Proving Grounds Staff Member": [
+        18931
+    ],
+    "18932": "Gette it Onne! Champion",
+    "18933": "Gette it Onne! Playoffs Participant",
+    "18934": "Gette it Onne! Participant",
+    "18935": "Gette it Onne! Helper",
+    "18936": "TFCL Alpha Participant",
+    "TFCL Alpha Participant": [
+        18936,
+        18967
+    ],
+    "18937": "ozfortress Summer Cup Sixes Division 1 First Place",
+    "18938": "ozfortress Summer Cup Sixes Division 1 Second Place",
+    "18939": "ozfortress Summer Cup Sixes Division 1 Third Place",
+    "18940": "ozfortress Summer Cup Sixes Division 1 Participant",
+    "18941": "ozfortress Summer Cup Sixes Division 2 First Place",
+    "18942": "ozfortress Summer Cup Sixes Division 2 Second Place",
+    "18943": "ozfortress Summer Cup Sixes Division 2 Third Place",
+    "18944": "ozfortress Summer Cup Sixes Division 2 Participant",
+    "18945": "ozfortress Summer Cup Sixes Division 3 First Place",
+    "18946": "ozfortress Summer Cup Sixes Division 3 Second Place",
+    "18947": "ozfortress Summer Cup Sixes Division 3 Third Place",
+    "18948": "ozfortress Summer Cup Sixes Division 3 Participant",
+    "18949": "ozfortress Summer Cup Sixes Division 4 First Place",
+    "18950": "ozfortress Summer Cup Sixes Division 4 Second Place",
+    "18951": "ozfortress Summer Cup Sixes Division 4 Third Place",
+    "18952": "ozfortress Summer Cup Sixes Division 4 Participant",
+    "18953": "MGE.tf 1v1 World Championship 1st Place",
+    "18954": "MGE.tf 1v1 World Championship 2nd Place",
+    "18955": "MGE.tf 1v1 World Championship 3rd Place",
+    "18956": "MGE.tf 1v1 World Championship Participant",
+    "18957": "MGE.tf 1v1 World Championship Helper",
+    "18958": "RGL.gg - Advanced-2 Champions - Highlander",
+    "RGL.gg - Advanced-2 Champions - Highlander": [
+        18958
+    ],
+    "18959": "RGL.gg - Advanced-2 2nd Place - Highlander",
+    "RGL.gg - Advanced-2 2nd Place - Highlander": [
+        18959
+    ],
+    "18960": "RGL.gg - Advanced-2 3rd Place - Highlander",
+    "RGL.gg - Advanced-2 3rd Place - Highlander": [
+        18960
+    ],
+    "18961": "RGL.gg - Advanced-2 Participant - Highlander",
+    "RGL.gg - Advanced-2 Participant - Highlander": [
+        18961
+    ],
+    "18962": "United Dodgeball League Season 1 Cup Gold Medal",
+    "United Dodgeball League Season 1 Cup Gold Medal": [
+        18962
+    ],
+    "18963": "United Dodgeball League Season 1 Cup Silver Medal",
+    "United Dodgeball League Season 1 Cup Silver Medal": [
+        18963
+    ],
+    "18964": "United Dodgeball League Season 1 Cup Bronze Medal",
+    "United Dodgeball League Season 1 Cup Bronze Medal": [
+        18964
+    ],
+    "18965": "United Dodgeball League Season 1 Cup Participant",
+    "United Dodgeball League Season 1 Cup Participant": [
+        18965
+    ],
+    "18966": "United Dodgeball League Season 1 Cup Supporter",
+    "United Dodgeball League Season 1 Cup Supporter": [
+        18966
+    ],
+    "18967": "TFCL Alpha Participant",
+    "18968": "AsiaFortress Invite 1st Place",
+    "18969": "AsiaFortress Invite 2nd Place",
+    "18970": "AsiaFortress Invite 3rd Place",
+    "18971": "AsiaFortress Main 1st Place",
+    "18972": "AsiaFortress Main 2nd Place",
+    "18973": "AsiaFortress Main 3rd Place",
+    "18974": "AsiaFortress Invite Participant",
+    "18975": "AsiaFortress Main Participant",
+    "18976": "AsiaFortress Open Participant",
+    "18977": "AsiaFortress Newbie Cup 1st Place",
+    "18978": "AsiaFortress Newbie Cup 2nd Place",
+    "18979": "AsiaFortress Newbie Cup 3rd Place",
+    "18980": "AsiaFortress Newbie Cup Participant",
+    "18981": "AsiaFortress Newbie Cup Coach",
+    "18982": "AsiaFortress Highlander Cup 1st Place",
+    "AsiaFortress Highlander Cup 1st Place": [
+        18982
+    ],
+    "18983": "AsiaFortress Highlander Cup 2nd Place",
+    "AsiaFortress Highlander Cup 2nd Place": [
+        18983
+    ],
+    "18984": "AsiaFortress Highlander Cup 3rd Place",
+    "AsiaFortress Highlander Cup 3rd Place": [
+        18984
+    ],
+    "18985": "AsiaFortress Highlander Cup Participant",
+    "AsiaFortress Highlander Cup Participant": [
+        18985
+    ],
+    "18986": "Memes vs Machines: Re-Peeled Un-Peeled Potato 2026",
+    "Memes vs Machines: Re-Peeled Un-Peeled Potato 2026": [
+        18986
+    ],
+    "18987": "Memes vs Machines: Re-Peeled Giving Tanks 2026",
+    "Memes vs Machines: Re-Peeled Giving Tanks 2026": [
+        18987
+    ],
+    "18988": "Memes vs Machines: Re-Peeled Equestrian Eosphorite 2026",
+    "Memes vs Machines: Re-Peeled Equestrian Eosphorite 2026": [
+        18988
+    ],
+    "18989": "Memes vs Machines: Re-Peeled Soggy Sapphire 2026",
+    "Memes vs Machines: Re-Peeled Soggy Sapphire 2026": [
+        18989
+    ],
+    "18990": "MGE.tf EU 2v2 Premier 1st Place",
+    "18991": "MGE.tf EU 2v2 Premier 2nd Place",
+    "18992": "MGE.tf EU 2v2 Premier 3rd Place",
+    "18993": "MGE.tf EU 2v2 Premier Participant",
+    "18994": "MGE.tf EU 2v2 Intermediate 1st Place",
+    "18995": "MGE.tf EU 2v2 Intermediate 2nd Place",
+    "18996": "MGE.tf EU 2v2 Intermediate 3rd Place",
+    "18997": "MGE.tf EU 2v2 Intermediate Participant",
+    "18998": "MGE.tf EU 2v2 Open 1st Place",
+    "18999": "MGE.tf EU 2v2 Open 2nd Place",
+    "19000": "MGE.tf EU 2v2 Open 3rd Place",
+    "19001": "MGE.tf EU 2v2 Open Participant",
+    "19002": "MGE.tf EU 2v2 Newcomer 1st Place",
+    "MGE.tf EU 2v2 Newcomer 1st Place": [
+        19002
+    ],
+    "19003": "MGE.tf EU 2v2 Newcomer 2nd Place",
+    "MGE.tf EU 2v2 Newcomer 2nd Place": [
+        19003
+    ],
+    "19004": "MGE.tf EU 2v2 Newcomer Participant",
+    "19005": "MGE.tf NA 2v2 Invite 1st Place",
+    "19006": "MGE.tf NA 2v2 Invite 2nd Place",
+    "19007": "MGE.tf NA 2v2 Invite 3rd Place",
+    "19008": "MGE.tf NA 2v2 Invite Participant",
+    "19009": "MGE.tf NA 2v2 Intermediate 1st Place",
+    "19010": "MGE.tf NA 2v2 Intermediate 2nd Place",
+    "19011": "MGE.tf NA 2v2 Intermediate 3rd Place",
+    "19012": "MGE.tf NA 2v2 Intermediate Participant",
+    "19013": "MGE.tf NA 2v2 Open 1st Place",
+    "19014": "MGE.tf NA 2v2 Open 2nd Place",
+    "19015": "MGE.tf NA 2v2 Open 3rd Place",
+    "19016": "MGE.tf NA 2v2 Open Participant",
+    "19017": "MGE.tf NA 2v2 Newcomer 1st Place",
+    "MGE.tf NA 2v2 Newcomer 1st Place": [
+        19017
+    ],
+    "19018": "MGE.tf NA 2v2 Newcomer 2nd Place",
+    "MGE.tf NA 2v2 Newcomer 2nd Place": [
+        19018
+    ],
+    "19019": "MGE.tf NA 2v2 Newcomer Participant",
+    "19020": "MGE.tf ASIA 2v2 Invite 1st Place",
+    "MGE.tf ASIA 2v2 Invite 1st Place": [
+        19020
+    ],
+    "19021": "MGE.tf ASIA 2v2 Invite 2nd Place",
+    "MGE.tf ASIA 2v2 Invite 2nd Place": [
+        19021
+    ],
+    "19022": "MGE.tf ASIA 2v2 Invite 3rd Place",
+    "MGE.tf ASIA 2v2 Invite 3rd Place": [
+        19022
+    ],
+    "19023": "MGE.tf ASIA 2v2 Invite Participant",
+    "MGE.tf ASIA 2v2 Invite Participant": [
+        19023
+    ],
+    "19024": "MGE.tf ASIA 2v2 Open 1st Place",
+    "MGE.tf ASIA 2v2 Open 1st Place": [
+        19024
+    ],
+    "19025": "MGE.tf ASIA 2v2 Open 2nd Place",
+    "MGE.tf ASIA 2v2 Open 2nd Place": [
+        19025
+    ],
+    "19026": "MGE.tf ASIA 2v2 Open 3rd Place",
+    "MGE.tf ASIA 2v2 Open 3rd Place": [
+        19026
+    ],
+    "19027": "MGE.tf ASIA 2v2 Open Participant",
+    "MGE.tf ASIA 2v2 Open Participant": [
+        19027
+    ],
+    "19028": "MGE.tf ASIA 2v2 Newcomer 1st Place",
+    "MGE.tf ASIA 2v2 Newcomer 1st Place": [
+        19028
+    ],
+    "19029": "MGE.tf ASIA 2v2 Newcomer 2nd Place",
+    "MGE.tf ASIA 2v2 Newcomer 2nd Place": [
+        19029
+    ],
+    "19030": "MGE.tf ASIA 2v2 Newcomer Participant",
+    "MGE.tf ASIA 2v2 Newcomer Participant": [
+        19030
+    ],
+    "19031": "MGE.tf EU 1v1 Premier 1st Place",
+    "MGE.tf EU 1v1 Premier 1st Place": [
+        19031
+    ],
+    "19032": "MGE.tf EU 1v1 Premier 2nd Place",
+    "MGE.tf EU 1v1 Premier 2nd Place": [
+        19032
+    ],
+    "19033": "MGE.tf EU 1v1 Premier 3rd Place",
+    "MGE.tf EU 1v1 Premier 3rd Place": [
+        19033
+    ],
+    "19034": "MGE.tf EU 1v1 Premier Participant",
+    "MGE.tf EU 1v1 Premier Participant": [
+        19034
+    ],
+    "19035": "MGE.tf EU 1v1 Intermediate 1st Place",
+    "MGE.tf EU 1v1 Intermediate 1st Place": [
+        19035
+    ],
+    "19036": "MGE.tf EU 1v1 Intermediate 2nd Place",
+    "MGE.tf EU 1v1 Intermediate 2nd Place": [
+        19036
+    ],
+    "19037": "MGE.tf EU 1v1 Intermediate 3rd Place",
+    "MGE.tf EU 1v1 Intermediate 3rd Place": [
+        19037
+    ],
+    "19038": "MGE.tf EU 1v1 Intermediate Participant",
+    "MGE.tf EU 1v1 Intermediate Participant": [
+        19038
+    ],
+    "19039": "MGE.tf EU 1v1 Open 1st Place",
+    "MGE.tf EU 1v1 Open 1st Place": [
+        19039
+    ],
+    "19040": "MGE.tf EU 1v1 Open 2nd Place",
+    "MGE.tf EU 1v1 Open 2nd Place": [
+        19040
+    ],
+    "19041": "MGE.tf EU 1v1 Open 3rd Place",
+    "MGE.tf EU 1v1 Open 3rd Place": [
+        19041
+    ],
+    "19042": "MGE.tf EU 1v1 Open Participant",
+    "MGE.tf EU 1v1 Open Participant": [
+        19042
+    ],
+    "19043": "MGE.tf EU 1v1 Newcomer 1st Place",
+    "MGE.tf EU 1v1 Newcomer 1st Place": [
+        19043
+    ],
+    "19044": "MGE.tf EU 1v1 Newcomer 2nd Place",
+    "MGE.tf EU 1v1 Newcomer 2nd Place": [
+        19044
+    ],
+    "19045": "MGE.tf EU 1v1 Newcomer Participant",
+    "MGE.tf EU 1v1 Newcomer Participant": [
+        19045
+    ],
+    "19046": "MGE.tf NA 1v1 Invite 1st Place",
+    "MGE.tf NA 1v1 Invite 1st Place": [
+        19046
+    ],
+    "19047": "MGE.tf NA 1v1 Invite 2nd Place",
+    "MGE.tf NA 1v1 Invite 2nd Place": [
+        19047
+    ],
+    "19048": "MGE.tf NA 1v1 Invite 3rd Place",
+    "MGE.tf NA 1v1 Invite 3rd Place": [
+        19048
+    ],
+    "19049": "MGE.tf NA 1v1 Invite Participant",
+    "MGE.tf NA 1v1 Invite Participant": [
+        19049
+    ],
+    "19050": "MGE.tf NA 1v1 Intermediate 1st Place",
+    "MGE.tf NA 1v1 Intermediate 1st Place": [
+        19050
+    ],
+    "19051": "MGE.tf NA 1v1 Intermediate 2nd Place",
+    "MGE.tf NA 1v1 Intermediate 2nd Place": [
+        19051
+    ],
+    "19052": "MGE.tf NA 1v1 Intermediate 3rd Place",
+    "MGE.tf NA 1v1 Intermediate 3rd Place": [
+        19052
+    ],
+    "19053": "MGE.tf NA 1v1 Intermediate Participant",
+    "MGE.tf NA 1v1 Intermediate Participant": [
+        19053
+    ],
+    "19054": "MGE.tf NA 1v1 Open 1st Place",
+    "MGE.tf NA 1v1 Open 1st Place": [
+        19054
+    ],
+    "19055": "MGE.tf NA 1v1 Open 2nd Place",
+    "MGE.tf NA 1v1 Open 2nd Place": [
+        19055
+    ],
+    "19056": "MGE.tf NA 1v1 Open 3rd Place",
+    "MGE.tf NA 1v1 Open 3rd Place": [
+        19056
+    ],
+    "19057": "MGE.tf NA 1v1 Open Participant",
+    "MGE.tf NA 1v1 Open Participant": [
+        19057
+    ],
+    "19058": "MGE.tf NA 1v1 Newcomer 1st Place",
+    "MGE.tf NA 1v1 Newcomer 1st Place": [
+        19058
+    ],
+    "19059": "MGE.tf NA 1v1 Newcomer 2nd Place",
+    "MGE.tf NA 1v1 Newcomer 2nd Place": [
+        19059
+    ],
+    "19060": "MGE.tf NA 1v1 Newcomer Participant",
+    "MGE.tf NA 1v1 Newcomer Participant": [
+        19060
+    ],
+    "19061": "MGE.tf ASIA 1v1 Invite 1st Place",
+    "MGE.tf ASIA 1v1 Invite 1st Place": [
+        19061
+    ],
+    "19062": "MGE.tf ASIA 1v1 Invite 2nd Place",
+    "MGE.tf ASIA 1v1 Invite 2nd Place": [
+        19062
+    ],
+    "19063": "MGE.tf ASIA 1v1 Invite 3rd Place",
+    "MGE.tf ASIA 1v1 Invite 3rd Place": [
+        19063
+    ],
+    "19064": "MGE.tf ASIA 1v1 Invite Participant",
+    "MGE.tf ASIA 1v1 Invite Participant": [
+        19064
+    ],
+    "19065": "MGE.tf ASIA 1v1 Intermediate 1st Place",
+    "MGE.tf ASIA 1v1 Intermediate 1st Place": [
+        19065
+    ],
+    "19066": "MGE.tf ASIA 1v1 Intermediate 2nd Place",
+    "MGE.tf ASIA 1v1 Intermediate 2nd Place": [
+        19066
+    ],
+    "19067": "MGE.tf ASIA 1v1 Intermediate 3rd Place",
+    "MGE.tf ASIA 1v1 Intermediate 3rd Place": [
+        19067
+    ],
+    "19068": "MGE.tf ASIA 1v1 Intermediate Participant",
+    "MGE.tf ASIA 1v1 Intermediate Participant": [
+        19068
+    ],
+    "19069": "MGE.tf ASIA 1v1 Open 1st Place",
+    "MGE.tf ASIA 1v1 Open 1st Place": [
+        19069
+    ],
+    "19070": "MGE.tf ASIA 1v1 Open 2nd Place",
+    "MGE.tf ASIA 1v1 Open 2nd Place": [
+        19070
+    ],
+    "19071": "MGE.tf ASIA 1v1 Open 3rd Place",
+    "MGE.tf ASIA 1v1 Open 3rd Place": [
+        19071
+    ],
+    "19072": "MGE.tf ASIA 1v1 Open Participant",
+    "MGE.tf ASIA 1v1 Open Participant": [
+        19072
+    ],
+    "19073": "MGE.tf ASIA 1v1 Newcomer 1st Place",
+    "MGE.tf ASIA 1v1 Newcomer 1st Place": [
+        19073
+    ],
+    "19074": "MGE.tf ASIA 1v1 Newcomer 2nd Place",
+    "MGE.tf ASIA 1v1 Newcomer 2nd Place": [
+        19074
+    ],
+    "19075": "MGE.tf ASIA 1v1 Newcomer Participant",
+    "MGE.tf ASIA 1v1 Newcomer Participant": [
+        19075
+    ],
+    "19076": "MGE.tf EU Helper",
+    "MGE.tf EU Helper": [
+        19076
+    ],
+    "19077": "MGE.tf NA Helper",
+    "MGE.tf NA Helper": [
+        19077
+    ],
+    "19078": "MGE.tf ASIA Helper",
+    "MGE.tf ASIA Helper": [
+        19078
+    ],
+    "19079": "ozfortress Sixes Premier First Place",
+    "19080": "ozfortress Sixes Premier Second Place",
+    "19081": "ozfortress Sixes Premier Third Place",
+    "19082": "ozfortress Sixes Premier Participant",
+    "19083": "ozfortress Sixes High First Place",
+    "19084": "ozfortress Sixes High Second Place",
+    "19085": "ozfortress Sixes High Third Place",
+    "19086": "ozfortress Sixes High Participant",
+    "19087": "ozfortress Sixes Intermediate First Place",
+    "19088": "ozfortress Sixes Intermediate Second Place",
+    "19089": "ozfortress Sixes Intermediate Third Place",
+    "19090": "ozfortress Sixes Intermediate Participant",
+    "19091": "ozfortress Sixes Main First Place",
+    "19092": "ozfortress Sixes Main Second Place",
+    "19093": "ozfortress Sixes Main Third Place",
+    "19094": "ozfortress Sixes Main Participant",
+    "19095": "ozfortress Sixes Open First Place",
+    "19096": "ozfortress Sixes Open Second Place",
+    "19097": "ozfortress Sixes Open Third Place",
+    "19098": "ozfortress Sixes Open Participant",
+    "19099": "ozfortress Highlander Premier First Place",
+    "19100": "ozfortress Highlander Premier Second Place",
+    "19101": "ozfortress Highlander Premier Third Place",
+    "19102": "ozfortress Highlander Premier Participant",
+    "19103": "ozfortress Highlander Intermediate First Place",
+    "19104": "ozfortress Highlander Intermediate Second Place",
+    "19105": "ozfortress Highlander Intermediate Third Place",
+    "19106": "ozfortress Highlander Intermediate Participant",
+    "19107": "ozfortress Highlander Open First Place",
+    "19108": "ozfortress Highlander Open Second Place",
+    "19109": "ozfortress Highlander Open Third Place",
+    "19110": "ozfortress Highlander Open Participant",
+    "19111": "ozfortress Sixes Premier First Place",
+    "19112": "ozfortress Sixes Premier Second Place",
+    "19113": "ozfortress Sixes Premier Third Place",
+    "19114": "ozfortress Sixes Premier Participant",
+    "19115": "ozfortress Sixes Intermediate First Place",
+    "19116": "ozfortress Sixes Intermediate Second Place",
+    "19117": "ozfortress Sixes Intermediate Third Place",
+    "19118": "ozfortress Sixes Intermediate Participant",
+    "19119": "ozfortress Sixes Main First Place",
+    "19120": "ozfortress Sixes Main Second Place",
+    "19121": "ozfortress Sixes Main Third Place",
+    "19122": "ozfortress Sixes Main Participant",
+    "19123": "ozfortress Sixes Open First Place",
+    "19124": "ozfortress Sixes Open Second Place",
+    "19125": "ozfortress Sixes Open Third Place",
+    "19126": "ozfortress Sixes Open Participant",
+    "19127": "ozfortress Highlander Premier First Place",
+    "19128": "ozfortress Highlander Premier Second Place",
+    "19129": "ozfortress Highlander Premier Third Place",
+    "19130": "ozfortress Highlander Premier Participant",
+    "19131": "ozfortress Highlander Main First Place",
+    "19132": "ozfortress Highlander Main Second Place",
+    "19133": "ozfortress Highlander Main Third Place",
+    "19134": "ozfortress Highlander Main Participant",
+    "19135": "TFCL Alpha 1st Place",
+    "TFCL Alpha 1st Place": [
+        19135
+    ],
+    "19136": "TFCL Alpha 2nd Place",
+    "TFCL Alpha 2nd Place": [
+        19136
+    ],
+    "19137": "TFCL Alpha 3rd Place",
+    "TFCL Alpha 3rd Place": [
+        19137
+    ],
+    "19138": "LBTF2 Highlander Elite 1st Place",
+    "19139": "LBTF2 Highlander Elite 2nd Place",
+    "19140": "LBTF2 Highlander Elite 3rd Place",
+    "19141": "LBTF2 Highlander Elite Participant",
+    "19142": "LBTF2 Highlander Central 1st Place",
+    "19143": "LBTF2 Highlander Central 2nd Place",
+    "19144": "LBTF2 Highlander Central 3rd Place",
+    "19145": "LBTF2 Highlander Central Participant",
+    "19146": "LBTF2 Highlander Open 1st Place",
+    "19147": "LBTF2 Highlander Open 2nd Place",
+    "19148": "LBTF2 Highlander Open 3rd Place",
+    "19149": "LBTF2 Highlander Open Participant",
+    "19150": "LBTF2 6v6 Central 1st Place",
+    "19151": "LBTF2 6v6 Central 2nd Place",
+    "19152": "LBTF2 6v6 Central 3rd Place",
+    "19153": "LBTF2 6v6 Central Participant",
+    "19154": "LBTF2 6v6 Open 1st Place",
+    "19155": "LBTF2 6v6 Open 2nd Place",
+    "19156": "LBTF2 6v6 Open 3rd Place",
+    "19157": "LBTF2 6v6 Open Participant",
+    "19158": "FBTF Conecta Supporter",
+    "FBTF Conecta Supporter": [
+        19158
+    ],
+    "19159": "FBTF Conecta Pass Time Participant",
+    "FBTF Conecta Pass Time Participant": [
+        19159
+    ],
+    "19160": "FBTF Conecta Pub vs Pro Participant",
+    "FBTF Conecta Pub vs Pro Participant": [
+        19160
+    ],
+    "19161": "FBTF Conecta Jump Cup Participant",
+    "FBTF Conecta Jump Cup Participant": [
+        19161
+    ],
+    "19162": "Jump Fortress Playoffs Soldier 1st Place",
+    "Jump Fortress Playoffs Soldier 1st Place": [
+        19162
+    ],
+    "19163": "Jump Fortress Playoffs Soldier 2nd Place",
+    "Jump Fortress Playoffs Soldier 2nd Place": [
+        19163
+    ],
+    "19164": "Jump Fortress Playoffs Soldier 3rd Place",
+    "Jump Fortress Playoffs Soldier 3rd Place": [
+        19164
+    ],
+    "19165": "Jump Fortress Playoffs Soldier Participant",
+    "Jump Fortress Playoffs Soldier Participant": [
+        19165
+    ],
+    "19166": "Jump Fortress Playoffs Demoman 1st Place",
+    "Jump Fortress Playoffs Demoman 1st Place": [
+        19166
+    ],
+    "19167": "Jump Fortress Playoffs Demoman 2nd Place",
+    "Jump Fortress Playoffs Demoman 2nd Place": [
+        19167
+    ],
+    "19168": "Jump Fortress Playoffs Demoman 3rd Place",
+    "Jump Fortress Playoffs Demoman 3rd Place": [
+        19168
+    ],
+    "19169": "Jump Fortress Playoffs Demoman Participant",
+    "Jump Fortress Playoffs Demoman Participant": [
+        19169
+    ],
+    "19170": "Jump Fortress Playoffs Contributor",
+    "Jump Fortress Playoffs Contributor": [
+        19170
+    ],
+    "19171": "RGB 8 LAN 1st Place",
+    "RGB 8 LAN 1st Place": [
+        19171
+    ],
+    "19172": "RGB 8 LAN 2nd Place",
+    "RGB 8 LAN 2nd Place": [
+        19172
+    ],
+    "19173": "RGB 8 LAN 3rd Place",
+    "RGB 8 LAN 3rd Place": [
+        19173
+    ],
+    "19174": "RGB 8 LAN Participant",
+    "RGB 8 LAN Participant": [
+        19174
+    ],
     "20000": "Chemistry Set",
     "Chemistry Set": [
         20000,
@@ -32266,5 +33822,117 @@
     "31601": "Scrub Stompers",
     "Scrub Stompers": [
         31601
+    ],
+    "31602": "Taunt: The Circuit Breaker",
+    "Taunt: The Circuit Breaker": [
+        31602
+    ],
+    "31603": "Taunt: Buffoon's Bivouac",
+    "Taunt: Buffoon's Bivouac": [
+        31603
+    ],
+    "31604": "Taunt: Faux-calization",
+    "Taunt: Faux-calization": [
+        31604
+    ],
+    "31605": "Taunt: Friendly Fire",
+    "Taunt: Friendly Fire": [
+        31605
+    ],
+    "31606": "Hard Hearing",
+    "Hard Hearing": [
+        31606
+    ],
+    "31607": "Deadwave Communicator",
+    "Deadwave Communicator": [
+        31607
+    ],
+    "31608": "Beachcomber's Brim",
+    "Beachcomber's Brim": [
+        31608
+    ],
+    "31609": "Chief Executor",
+    "Chief Executor": [
+        31609
+    ],
+    "31610": "Vested Investor's Vest",
+    "Vested Investor's Vest": [
+        31610
+    ],
+    "31611": "Standing Offer",
+    "Standing Offer": [
+        31611
+    ],
+    "31612": "Tsar Athlete",
+    "Tsar Athlete": [
+        31612
+    ],
+    "31613": "Barbeque Bacon Britches",
+    "Barbeque Bacon Britches": [
+        31613
+    ],
+    "31614": "Unknown Warrior",
+    "Unknown Warrior": [
+        31614
+    ],
+    "31615": "Tropical Torcher",
+    "Tropical Torcher": [
+        31615
+    ],
+    "31616": "Pyro's Overalls",
+    "Pyro's Overalls": [
+        31616
+    ],
+    "31617": "Deadliest Match",
+    "Deadliest Match": [
+        31617
+    ],
+    "31618": "Bomb Blanket",
+    "Bomb Blanket": [
+        31618
+    ],
+    "31619": "Handsome Ranger",
+    "Handsome Ranger": [
+        31619
+    ],
+    "31620": "Long Shot",
+    "Long Shot": [
+        31620
+    ],
+    "31621": "Night Riders",
+    "Night Riders": [
+        31621
+    ],
+    "31622": "Atomic Bomber",
+    "Atomic Bomber": [
+        31622
+    ],
+    "31623": "Bonk! Atomic Kicks",
+    "Bonk! Atomic Kicks": [
+        31623
+    ],
+    "31624": "Lieutenant's Cut",
+    "Lieutenant's Cut": [
+        31624
+    ],
+    "31625": "Inglorious Patriot",
+    "Inglorious Patriot": [
+        31625
+    ],
+    "31626": "Delusions of Grandeur",
+    "Delusions of Grandeur": [
+        31626
+    ],
+    "31627": "Unruly Ruler",
+    "Unruly Ruler": [
+        31627
+    ],
+    "31628": "Bald Spotter",
+    "Bald Spotter": [
+        31628
+    ],
+    "31629": "Surgical Shroud",
+    "Surgical Shroud": [
+        31629
     ]
 }
