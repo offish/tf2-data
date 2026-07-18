@@ -19,3 +19,4 @@ if __name__ == "__main__":
     schema_items = SchemaItems(items)
     schema_items.map_defindex_name()
     schema_items.map_defindex_full_name()
+    schema_items.update_crate_series()

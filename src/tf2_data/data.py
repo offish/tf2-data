@@ -1,12 +1,3 @@
-from .utils import get_json_path
-
-DEFINDEX_FULL_NAMES_PATH = get_json_path("defindex_full_names")
-SCHEMA_OVERVIEW_PATH = get_json_path("schema_overview")
-DEFINDEX_NAMES_PATH = get_json_path("defindex_names")
-SCHEMA_ITEMS_PATH = get_json_path("schema_items")
-QUALITIES_PATH = get_json_path("qualities")
-EFFECTS_PATH = get_json_path("effects")
-
 QUALITIES = {
     "Normal": 0,
     "0": "Normal",
@@ -298,7 +289,7 @@ PAINTS = {
     "Zepheniah's Greed": "424F3B",
 }
 
-EXTERIORS = {
+WEARS = {
     "Factory New": 1,
     "1": "Factory New",
     "Minimal Wear": 2,
@@ -311,7 +302,6 @@ EXTERIORS = {
     "5": "Battle Scarred",
 }
 
-WEARS = EXTERIORS
 
 COLORS = {
     "Genuine": "4D7455",
@@ -332,4 +322,9 @@ COLORS = {
     "15": "FAFAFA",
 }
 
+EYES = KILLSTREAKERS
+EXTERIORS = WEARS
+STRANGE_PARTS = PARTS
 QUALITY_COLORS = COLORS
+HALLOWEEN_SPELLS = SPELLS
+KILLSTREAK_TIERS = KILLSTREAKS

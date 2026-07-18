@@ -1,22 +1,22 @@
-from .constants import DEFINDEX_FULL_NAMES_PATH, DEFINDEX_NAMES_PATH, SCHEMA_ITEMS_PATH
-from .utils import read_json_file, write_json_file
+from .paths import CRATE_SERIES_PATH, DEFINDEX_FULL_NAMES_PATH, DEFINDEX_NAMES_PATH
+from .utils import read_json_file, read_lib_json_file, write_json_file
 
 
 class SchemaItems:
     def __init__(
         self,
-        schema_items: str | list[dict] = "",
-        defindex_names: str | dict = "",
-        defindex_full_names: str | dict = "",
+        schema_items: str | list[dict] | None = None,
+        defindex_names: str | dict | None = None,
+        defindex_full_names: str | dict | None = None,
     ) -> None:
         if not schema_items:
-            schema_items = read_json_file(SCHEMA_ITEMS_PATH)
+            schema_items = read_lib_json_file("schema_items")
 
         if not defindex_names:
-            defindex_names = read_json_file(DEFINDEX_NAMES_PATH)
+            defindex_names = read_lib_json_file("defindex_names")
 
         if not defindex_full_names:
-            defindex_full_names = read_json_file(DEFINDEX_FULL_NAMES_PATH)
+            defindex_full_names = read_lib_json_file("defindex_full_names")
 
         if isinstance(schema_items, str):
             schema_items = read_json_file(schema_items)
@@ -80,3 +80,27 @@ class SchemaItems:
         write_json_file(DEFINDEX_FULL_NAMES_PATH, data)
 
         return data
+
+    @staticmethod
+    def _is_crate_name(name: str) -> bool:
+        if name.endswith(" War Paint Case") or name.endswith(" Cosmetic Case"):
+            return True
+
+        if (
+            name.endswith(" Case")
+            and "\n" not in name
+            and name not in ["Cold Case", "Hot Case"]
+        ):
+            return True
+
+        return False
+
+    def update_crate_series(self) -> None:
+        data = read_json_file(CRATE_SERIES_PATH)
+
+        for name in self.defindex_names:
+            if self._is_crate_name(name) and name not in data:
+                defindex = self.defindex_names[name][0]
+                data[name] = defindex
+
+        write_json_file(CRATE_SERIES_PATH, data)
