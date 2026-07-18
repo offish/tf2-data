@@ -7,8 +7,10 @@
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-
 Item schemas, unusual effects, SKUs and more which can be useful for TF2 trading. Implemented by [tf2-utils](https://github.com/offish/tf2-utils).
+
+> [!TIP]
+> Use [tf2-utils](https://github.com/offish/tf2-utils) to get SKUs directly from inventories or offers, or convert item names to SKUs and vice versa.
 
 ## Donate
 - BTC: `bc1qntlxs7v76j0zpgkwm62f6z0spsvyezhcmsp0z2`
@@ -51,4 +53,5 @@ items = ieconitems.set_all_schema_items()
 schema_items = SchemaItems(items)
 schema_items.map_defindex_name()
 schema_items.map_defindex_full_name()
+schema_items.update_crate_series()
 ```

@@ -16492,7 +16492,8 @@
         10970,
         12294,
         14056,
-        14496
+        14496,
+        19175
     ],
     "10381": "LAN Downunder 2nd Place",
     "LAN Downunder 2nd Place": [
@@ -16502,7 +16503,8 @@
         12982,
         13420,
         14057,
-        14497
+        14497,
+        19176
     ],
     "10382": "LAN Downunder 3rd Place",
     "LAN Downunder 3rd Place": [
@@ -16512,7 +16514,8 @@
         12983,
         13421,
         14058,
-        14498
+        14498,
+        19177
     ],
     "10383": "LAN Downunder Participant",
     "LAN Downunder Participant": [
@@ -16522,7 +16525,8 @@
         12984,
         13422,
         14059,
-        14499
+        14499,
+        19178
     ],
     "10384": "Russian Highlander 1st Place",
     "Russian Highlander 1st Place": [
@@ -20881,7 +20885,8 @@
         12835,
         13318,
         13595,
-        14500
+        14500,
+        19179
     ],
     "11805": "CappingTV Summer Brawl 2nd Place",
     "CappingTV Summer Brawl 2nd Place": [
@@ -20889,7 +20894,8 @@
         12836,
         13319,
         13596,
-        14501
+        14501,
+        19180
     ],
     "11806": "CappingTV Summer Brawl 3rd Place",
     "CappingTV Summer Brawl 3rd Place": [
@@ -20897,7 +20903,8 @@
         12837,
         13320,
         13597,
-        14502
+        14502,
+        19181
     ],
     "11807": "CappingTV Summer Brawl Participant",
     "CappingTV Summer Brawl Participant": [
@@ -20905,7 +20912,8 @@
         12838,
         13321,
         13598,
-        14503
+        14503,
+        19182
     ],
     "11808": "CappingTV PASS Time Championship 1st Place",
     "CappingTV PASS Time Championship 1st Place": [
@@ -28119,6 +28127,14 @@
     "RGB 8 LAN Participant": [
         19174
     ],
+    "19175": "LAN Downunder 1st Place",
+    "19176": "LAN Downunder 2nd Place",
+    "19177": "LAN Downunder 3rd Place",
+    "19178": "LAN Downunder Participant",
+    "19179": "CappingTV Summer Brawl 1st Place",
+    "19180": "CappingTV Summer Brawl 2nd Place",
+    "19181": "CappingTV Summer Brawl 3rd Place",
+    "19182": "CappingTV Summer Brawl Participant",
     "20000": "Chemistry Set",
     "Chemistry Set": [
         20000,
