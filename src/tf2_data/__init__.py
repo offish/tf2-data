@@ -1,7 +1,7 @@
 # flake8: noqa
 __title__ = "tf2-data"
 __author__ = "offish"
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 __license__ = "MIT"
 
 from .data import (
