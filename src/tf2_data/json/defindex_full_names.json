@@ -5351,6 +5351,10 @@
     "Map Token Bundle 31": [
         2180
     ],
+    "2181": "Map Token Bundle 32",
+    "Map Token Bundle 32": [
+        2181
+    ],
     "2500": "Map Token Perks",
     "Map Token Perks": [
         2500
@@ -5638,6 +5642,26 @@
     "2571": "Map Token Mojave",
     "Map Token Mojave": [
         2571
+    ],
+    "2572": "Map Token HolyHell",
+    "Map Token HolyHell": [
+        2572
+    ],
+    "2573": "Map Token Scarypass",
+    "Map Token Scarypass": [
+        2573
+    ],
+    "2574": "Map Token Trainsawlaser",
+    "Map Token Trainsawlaser": [
+        2574
+    ],
+    "2575": "Map Token Medi-Evil",
+    "Map Token Medi-Evil": [
+        2575
+    ],
+    "2576": "Map Token Scaredy-Cat",
+    "Map Token Scaredy-Cat": [
+        2576
     ],
     "5000": "Craft Bar Level 1",
     "Craft Bar Level 1": [
@@ -8258,6 +8282,26 @@
     "6688": "Strange Filter: Mojave (Community)",
     "Strange Filter: Mojave (Community)": [
         6688
+    ],
+    "6689": "Strange Filter: HolyHell (Community)",
+    "Strange Filter: HolyHell (Community)": [
+        6689
+    ],
+    "6690": "Strange Filter: Scarypass (Community)",
+    "Strange Filter: Scarypass (Community)": [
+        6690
+    ],
+    "6691": "Strange Filter: Trainsawlaser (Community)",
+    "Strange Filter: Trainsawlaser (Community)": [
+        6691
+    ],
+    "6692": "Strange Filter: Medi-Evil (Community)",
+    "Strange Filter: Medi-Evil (Community)": [
+        6692
+    ],
+    "6693": "Strange Filter: Scaredy-Cat (Community)",
+    "Strange Filter: Scaredy-Cat (Community)": [
+        6693
     ],
     "8000": "UGC Highlander 1st Place North American Platinum Season 6",
     "UGC Highlander 1st Place North American Platinum Season 6": [
@@ -40058,6 +40102,310 @@
     "19182": "CappingTV Summer Brawl Participant 2026",
     "CappingTV Summer Brawl Participant 2026": [
         19182
+    ],
+    "19183": "UBERFEST 1st Place 2026",
+    "UBERFEST 1st Place 2026": [
+        19183
+    ],
+    "19184": "UBERFEST 2nd Place 2026",
+    "UBERFEST 2nd Place 2026": [
+        19184
+    ],
+    "19185": "UBERFEST 3rd Place 2026",
+    "UBERFEST 3rd Place 2026": [
+        19185
+    ],
+    "19186": "UBERFEST Participant 2026",
+    "UBERFEST Participant 2026": [
+        19186
+    ],
+    "19187": "UBERFEST Staff 2026",
+    "UBERFEST Staff 2026": [
+        19187
+    ],
+    "19188": "UBERFEST Spectator 2026",
+    "UBERFEST Spectator 2026": [
+        19188
+    ],
+    "19189": "Particle Mayhem 1 First Place",
+    "Particle Mayhem 1 First Place": [
+        19189
+    ],
+    "19190": "Particle Mayhem 1 Second Place",
+    "Particle Mayhem 1 Second Place": [
+        19190
+    ],
+    "19191": "Particle Mayhem 1 Third Place",
+    "Particle Mayhem 1 Third Place": [
+        19191
+    ],
+    "19192": "Particle Mayhem 1 Participant",
+    "Particle Mayhem 1 Participant": [
+        19192
+    ],
+    "19193": "Particle Mayhem 1 Staff",
+    "Particle Mayhem 1 Staff": [
+        19193
+    ],
+    "19194": "Particle Mayhem 2 First Place",
+    "Particle Mayhem 2 First Place": [
+        19194
+    ],
+    "19195": "Particle Mayhem 2 Second Place",
+    "Particle Mayhem 2 Second Place": [
+        19195
+    ],
+    "19196": "Particle Mayhem 2 Third Place",
+    "Particle Mayhem 2 Third Place": [
+        19196
+    ],
+    "19197": "Particle Mayhem 2 Participant",
+    "Particle Mayhem 2 Participant": [
+        19197
+    ],
+    "19198": "Particle Mayhem 2 Staff",
+    "Particle Mayhem 2 Staff": [
+        19198
+    ],
+    "19199": "Moscow LAN 1st Place Summer 2026",
+    "Moscow LAN 1st Place Summer 2026": [
+        19199
+    ],
+    "19200": "Moscow LAN 2nd Place Summer 2026",
+    "Moscow LAN 2nd Place Summer 2026": [
+        19200
+    ],
+    "19201": "Moscow LAN 3rd Place Summer 2026",
+    "Moscow LAN 3rd Place Summer 2026": [
+        19201
+    ],
+    "19202": "Moscow LAN Participant Summer 2026",
+    "Moscow LAN Participant Summer 2026": [
+        19202
+    ],
+    "19203": "Moscow LAN Helper Summer 2026",
+    "Moscow LAN Helper Summer 2026": [
+        19203
+    ],
+    "19204": "Australian Hightower Highjinx Royalty 2026",
+    "Australian Hightower Highjinx Royalty 2026": [
+        19204
+    ],
+    "19205": "Australian Hightower Highjinx Participant 2026",
+    "Australian Hightower Highjinx Participant 2026": [
+        19205
+    ],
+    "19206": "Australian Hightower Highjinx Donor 2026",
+    "Australian Hightower Highjinx Donor 2026": [
+        19206
+    ],
+    "19207": "Australian Hightower Highjinx Helper 2026",
+    "Australian Hightower Highjinx Helper 2026": [
+        19207
+    ],
+    "19208": "ozfortress Premier 1st Place Season 46",
+    "ozfortress Premier 1st Place Season 46": [
+        19208
+    ],
+    "19209": "ozfortress Premier 2nd Place Season 46",
+    "ozfortress Premier 2nd Place Season 46": [
+        19209
+    ],
+    "19210": "ozfortress Premier 3rd Place Season 46",
+    "ozfortress Premier 3rd Place Season 46": [
+        19210
+    ],
+    "19211": "ozfortress Premier Participant Season 46",
+    "ozfortress Premier Participant Season 46": [
+        19211
+    ],
+    "19212": "ozfortress High 1st Place Season 46",
+    "ozfortress High 1st Place Season 46": [
+        19212
+    ],
+    "19213": "ozfortress High 2nd Place Season 46",
+    "ozfortress High 2nd Place Season 46": [
+        19213
+    ],
+    "19214": "ozfortress High 3rd Place Season 46",
+    "ozfortress High 3rd Place Season 46": [
+        19214
+    ],
+    "19215": "ozfortress High Participant Season 46",
+    "ozfortress High Participant Season 46": [
+        19215
+    ],
+    "19216": "ozfortress Intermediate 1st Place Season 46",
+    "ozfortress Intermediate 1st Place Season 46": [
+        19216
+    ],
+    "19217": "ozfortress Intermediate 2nd Place Season 46",
+    "ozfortress Intermediate 2nd Place Season 46": [
+        19217
+    ],
+    "19218": "ozfortress Intermediate 3rd Place Season 46",
+    "ozfortress Intermediate 3rd Place Season 46": [
+        19218
+    ],
+    "19219": "ozfortress Intermediate Participant Season 46",
+    "ozfortress Intermediate Participant Season 46": [
+        19219
+    ],
+    "19220": "ozfortress Open 1st Place Season 46",
+    "ozfortress Open 1st Place Season 46": [
+        19220
+    ],
+    "19221": "ozfortress Open 2nd Place Season 46",
+    "ozfortress Open 2nd Place Season 46": [
+        19221
+    ],
+    "19222": "ozfortress Open 3rd Place Season 46",
+    "ozfortress Open 3rd Place Season 46": [
+        19222
+    ],
+    "19223": "ozfortress Open Participant Season 46",
+    "ozfortress Open Participant Season 46": [
+        19223
+    ],
+    "19224": "ozfortress Highlander Premier First Place Season 13",
+    "ozfortress Highlander Premier First Place Season 13": [
+        19224
+    ],
+    "19225": "ozfortress Highlander Premier Second Place Season 13",
+    "ozfortress Highlander Premier Second Place Season 13": [
+        19225
+    ],
+    "19226": "ozfortress Highlander Premier Third Place Season 13",
+    "ozfortress Highlander Premier Third Place Season 13": [
+        19226
+    ],
+    "19227": "ozfortress Highlander Premier Participant Season 13",
+    "ozfortress Highlander Premier Participant Season 13": [
+        19227
+    ],
+    "19228": "ozfortress Highlander Intermediate First Place Season 13",
+    "ozfortress Highlander Intermediate First Place Season 13": [
+        19228
+    ],
+    "19229": "ozfortress Highlander Intermediate Second Place Season 13",
+    "ozfortress Highlander Intermediate Second Place Season 13": [
+        19229
+    ],
+    "19230": "ozfortress Highlander Intermediate Third Place Season 13",
+    "ozfortress Highlander Intermediate Third Place Season 13": [
+        19230
+    ],
+    "19231": "ozfortress Highlander Intermediate Participant Season 13",
+    "ozfortress Highlander Intermediate Participant Season 13": [
+        19231
+    ],
+    "19232": "ozfortress Highlander Open First Place Season 13",
+    "ozfortress Highlander Open First Place Season 13": [
+        19232
+    ],
+    "19233": "ozfortress Highlander Open Second Place Season 13",
+    "ozfortress Highlander Open Second Place Season 13": [
+        19233
+    ],
+    "19234": "ozfortress Highlander Open Third Place Season 13",
+    "ozfortress Highlander Open Third Place Season 13": [
+        19234
+    ],
+    "19235": "ozfortress Highlander Open Participant Season 13",
+    "ozfortress Highlander Open Participant Season 13": [
+        19235
+    ],
+    "19236": "AsiaFortress Invite 1st Place Spring 2026",
+    "AsiaFortress Invite 1st Place Spring 2026": [
+        19236
+    ],
+    "19237": "AsiaFortress Invite 2nd Place Spring 2026",
+    "AsiaFortress Invite 2nd Place Spring 2026": [
+        19237
+    ],
+    "19238": "AsiaFortress Invite 3rd Place Spring 2026",
+    "AsiaFortress Invite 3rd Place Spring 2026": [
+        19238
+    ],
+    "19239": "AsiaFortress Open 1st Place Spring 2026",
+    "AsiaFortress Open 1st Place Spring 2026": [
+        19239
+    ],
+    "19240": "AsiaFortress Open 2nd Place Spring 2026",
+    "AsiaFortress Open 2nd Place Spring 2026": [
+        19240
+    ],
+    "19241": "AsiaFortress Open 3rd Place Spring 2026",
+    "AsiaFortress Open 3rd Place Spring 2026": [
+        19241
+    ],
+    "19242": "AsiaFortress Invite Participant Spring 2026",
+    "AsiaFortress Invite Participant Spring 2026": [
+        19242
+    ],
+    "19243": "AsiaFortress Open Participant Spring 2026",
+    "AsiaFortress Open Participant Spring 2026": [
+        19243
+    ],
+    "19244": "AsiaFortress Highlander Invite 1st Place Summer 2026",
+    "AsiaFortress Highlander Invite 1st Place Summer 2026": [
+        19244
+    ],
+    "19245": "AsiaFortress Highlander Invite 2nd Place Summer 2026",
+    "AsiaFortress Highlander Invite 2nd Place Summer 2026": [
+        19245
+    ],
+    "19246": "AsiaFortress Highlander Invite 3rd Place Summer 2026",
+    "AsiaFortress Highlander Invite 3rd Place Summer 2026": [
+        19246
+    ],
+    "19247": "AsiaFortress Highlander Invite Participant Summer 2026",
+    "AsiaFortress Highlander Invite Participant Summer 2026": [
+        19247
+    ],
+    "19248": "AsiaFortress Highlander Open 1st Place Summer 2026",
+    "AsiaFortress Highlander Open 1st Place Summer 2026": [
+        19248
+    ],
+    "19249": "AsiaFortress Highlander Open Participant Summer 2026",
+    "AsiaFortress Highlander Open Participant Summer 2026": [
+        19249
+    ],
+    "19250": "Operation Mooncrash 1st Place Medal",
+    "Operation Mooncrash 1st Place Medal": [
+        19250
+    ],
+    "19251": "Operation Mooncrash 2nd Place Medal",
+    "Operation Mooncrash 2nd Place Medal": [
+        19251
+    ],
+    "19252": "Operation Mooncrash 3rd Place Medal",
+    "Operation Mooncrash 3rd Place Medal": [
+        19252
+    ],
+    "19253": "Operation Mooncrash Winner Medal",
+    "Operation Mooncrash Winner Medal": [
+        19253
+    ],
+    "19254": "Operation Mooncrash Runner-up Medal",
+    "Operation Mooncrash Runner-up Medal": [
+        19254
+    ],
+    "19255": "Americana Contest 1st Place Medal",
+    "Americana Contest 1st Place Medal": [
+        19255
+    ],
+    "19256": "Americana Contest 2nd Place Medal",
+    "Americana Contest 2nd Place Medal": [
+        19256
+    ],
+    "19257": "Americana Contest 3rd Place Medal",
+    "Americana Contest 3rd Place Medal": [
+        19257
+    ],
+    "19258": "Americana Contest Runner-up Medal",
+    "Americana Contest Runner-up Medal": [
+        19258
     ],
     "20000": "Cosmetic Strangifier Recipe 1",
     "Cosmetic Strangifier Recipe 1": [

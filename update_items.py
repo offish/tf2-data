@@ -4,9 +4,10 @@ from dotenv import load_dotenv
 
 from src.tf2_data import IEconItems, Schema, SchemaItems
 
-assert load_dotenv()
+load_dotenv()
 
 api_key = getenv("STEAM_API_KEY")
+assert api_key, "No STEAM_API_KEY in env file!"
 
 
 if __name__ == "__main__":

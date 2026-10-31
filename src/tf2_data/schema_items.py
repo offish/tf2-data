@@ -83,17 +83,14 @@ class SchemaItems:
 
     @staticmethod
     def _is_crate_name(name: str) -> bool:
-        if name.endswith(" War Paint Case") or name.endswith(" Cosmetic Case"):
+        if name.endswith((" War Paint Case", " Cosmetic Case")):
             return True
 
-        if (
+        return (
             name.endswith(" Case")
             and "\n" not in name
             and name not in ["Cold Case", "Hot Case"]
-        ):
-            return True
-
-        return False
+        )
 
     def update_crate_series(self) -> None:
         data = read_json_file(CRATE_SERIES_PATH)

@@ -4990,7 +4990,8 @@
         2177,
         2178,
         2179,
-        2180
+        2180,
+        2181
     ],
     "2008": "The Medieval Medic",
     "The Medieval Medic": [
@@ -5539,6 +5540,7 @@
     "2178": "Map Stamps Collection",
     "2179": "Map Stamps Collection",
     "2180": "Map Stamps Collection",
+    "2181": "Map Stamps Collection",
     "2500": "Map Stamp - Perks",
     "Map Stamp - Perks": [
         2500
@@ -5826,6 +5828,26 @@
     "2571": "Map Stamp - Mojave",
     "Map Stamp - Mojave": [
         2571
+    ],
+    "2572": "Map Stamp - HolyHell",
+    "Map Stamp - HolyHell": [
+        2572
+    ],
+    "2573": "Map Stamp - Scarypass",
+    "Map Stamp - Scarypass": [
+        2573
+    ],
+    "2574": "Map Stamp - Trainsawlaser",
+    "Map Stamp - Trainsawlaser": [
+        2574
+    ],
+    "2575": "Map Stamp - Medi-Evil",
+    "Map Stamp - Medi-Evil": [
+        2575
+    ],
+    "2576": "Map Stamp - Scaredy-Cat",
+    "Map Stamp - Scaredy-Cat": [
+        2576
     ],
     "5000": "Scrap Metal",
     "Scrap Metal": [
@@ -7330,16 +7352,16 @@
     "Summer 2026 War Paint Case": [
         5980
     ],
-    "5981": "Halloween 2026 Case",
-    "Halloween 2026 Case": [
+    "5981": "Haunted Hoard Case",
+    "Haunted Hoard Case": [
         5981
     ],
-    "5982": "Halloween 2026 Key",
-    "Halloween 2026 Key": [
+    "5982": "Haunted Hoard Key",
+    "Haunted Hoard Key": [
         5982
     ],
-    "5983": "Halloween 2026 Collection Dummy",
-    "Halloween 2026 Collection Dummy": [
+    "5983": "Haunted Hoard Collection",
+    "Haunted Hoard Collection": [
         5983
     ],
     "5999": "Strange Part",
@@ -8289,6 +8311,26 @@
     "6688": "Strange Filter: Mojave (Community)",
     "Strange Filter: Mojave (Community)": [
         6688
+    ],
+    "6689": "Strange Filter: HolyHell (Community)",
+    "Strange Filter: HolyHell (Community)": [
+        6689
+    ],
+    "6690": "Strange Filter: Scarypass (Community)",
+    "Strange Filter: Scarypass (Community)": [
+        6690
+    ],
+    "6691": "Strange Filter: Trainsawlaser (Community)",
+    "Strange Filter: Trainsawlaser (Community)": [
+        6691
+    ],
+    "6692": "Strange Filter: Medi-Evil (Community)",
+    "Strange Filter: Medi-Evil (Community)": [
+        6692
+    ],
+    "6693": "Strange Filter: Scaredy-Cat (Community)",
+    "Strange Filter: Scaredy-Cat (Community)": [
+        6693
     ],
     "8000": "UGC Highlander 1st Place North American Platinum",
     "UGC Highlander 1st Place North American Platinum": [
@@ -12957,7 +12999,8 @@
         14271,
         14460,
         19079,
-        19111
+        19111,
+        19208
     ],
     "9091": "ozfortress Sixes Premier Second Place",
     "ozfortress Sixes Premier Second Place": [
@@ -12991,7 +13034,8 @@
         14272,
         14461,
         19080,
-        19112
+        19112,
+        19209
     ],
     "9092": "ozfortress Sixes Premier Third Place",
     "ozfortress Sixes Premier Third Place": [
@@ -13025,7 +13069,8 @@
         14273,
         14462,
         19081,
-        19113
+        19113,
+        19210
     ],
     "9093": "ozfortress Sixes Premier Participant",
     "ozfortress Sixes Premier Participant": [
@@ -13059,7 +13104,8 @@
         14274,
         14463,
         19082,
-        19114
+        19114,
+        19211
     ],
     "9094": "ozfortress Sixes Intermediate First Place",
     "ozfortress Sixes Intermediate First Place": [
@@ -13093,7 +13139,8 @@
         14279,
         14468,
         19087,
-        19115
+        19115,
+        19216
     ],
     "9095": "ozfortress Sixes Intermediate Second Place",
     "ozfortress Sixes Intermediate Second Place": [
@@ -13127,7 +13174,8 @@
         14280,
         14469,
         19088,
-        19116
+        19116,
+        19217
     ],
     "9096": "ozfortress Sixes Intermediate Third Place",
     "ozfortress Sixes Intermediate Third Place": [
@@ -13161,7 +13209,8 @@
         14281,
         14470,
         19089,
-        19117
+        19117,
+        19218
     ],
     "9097": "ozfortress Sixes Intermediate Participant",
     "ozfortress Sixes Intermediate Participant": [
@@ -13195,7 +13244,8 @@
         14282,
         14471,
         19090,
-        19118
+        19118,
+        19219
     ],
     "9098": "ozfortress Sixes Open First Place",
     "ozfortress Sixes Open First Place": [
@@ -13229,7 +13279,8 @@
         14287,
         14476,
         19095,
-        19123
+        19123,
+        19220
     ],
     "9099": "ozfortress Sixes Open Second Place",
     "ozfortress Sixes Open Second Place": [
@@ -13263,7 +13314,8 @@
         14288,
         14477,
         19096,
-        19124
+        19124,
+        19221
     ],
     "9100": "ozfortress Sixes Open Third Place",
     "ozfortress Sixes Open Third Place": [
@@ -13297,7 +13349,8 @@
         14289,
         14478,
         19097,
-        19125
+        19125,
+        19222
     ],
     "9101": "ozfortress Sixes Open Participant",
     "ozfortress Sixes Open Participant": [
@@ -13331,7 +13384,8 @@
         14290,
         14479,
         19098,
-        19126
+        19126,
+        19223
     ],
     "9102": "ozfortress Summer Cup First Place",
     "ozfortress Summer Cup First Place": [
@@ -16215,31 +16269,36 @@
     "Moscow LAN 1st Place": [
         10259,
         10997,
-        13603
+        13603,
+        19199
     ],
     "10260": "Moscow LAN 2nd Place",
     "Moscow LAN 2nd Place": [
         10260,
         10998,
-        13604
+        13604,
+        19200
     ],
     "10261": "Moscow LAN 3rd Place",
     "Moscow LAN 3rd Place": [
         10261,
         10999,
-        13605
+        13605,
+        19201
     ],
     "10262": "Moscow LAN Participant",
     "Moscow LAN Participant": [
         10262,
         11000,
-        13606
+        13606,
+        19202
     ],
-    "10263": "Moscow LAN Staff",
-    "Moscow LAN Staff": [
+    "10263": "Moscow LAN Helper",
+    "Moscow LAN Helper": [
         10263,
         11001,
-        13607
+        13607,
+        19203
     ],
     "10264": "Jaunty Mountaineer",
     "Jaunty Mountaineer": [
@@ -17428,17 +17487,20 @@
     "10512": "Australian Hightower Highjinx Participant",
     "Australian Hightower Highjinx Participant": [
         10512,
-        12787
+        12787,
+        19205
     ],
     "10513": "Australian Hightower Highjinx Donor",
     "Australian Hightower Highjinx Donor": [
         10513,
-        12788
+        12788,
+        19206
     ],
     "10514": "Australian Hightower Highjinx Helper",
     "Australian Hightower Highjinx Helper": [
         10514,
-        12789
+        12789,
+        19207
     ],
     "10515": "Ultimate Ultiduo 1st Place",
     "10516": "Ultimate Ultiduo 2nd Place",
@@ -18894,7 +18956,7 @@
     "10998": "Moscow LAN 2nd Place",
     "10999": "Moscow LAN 3rd Place",
     "11000": "Moscow LAN Participant",
-    "11001": "Moscow LAN Staff",
+    "11001": "Moscow LAN Helper",
     "11002": "Fruit Mixes Highlander High/Prem Gold Medal",
     "Fruit Mixes Highlander High/Prem Gold Medal": [
         11002,
@@ -20404,7 +20466,8 @@
         14241,
         14275,
         14464,
-        19083
+        19083,
+        19212
     ],
     "11590": "ozfortress Sixes High Second Place",
     "ozfortress Sixes High Second Place": [
@@ -20418,7 +20481,8 @@
         14242,
         14276,
         14465,
-        19084
+        19084,
+        19213
     ],
     "11591": "ozfortress Sixes High Third Place",
     "ozfortress Sixes High Third Place": [
@@ -20432,7 +20496,8 @@
         14243,
         14277,
         14466,
-        19085
+        19085,
+        19214
     ],
     "11592": "ozfortress Sixes High Participant",
     "ozfortress Sixes High Participant": [
@@ -20446,7 +20511,8 @@
         14244,
         14278,
         14467,
-        19086
+        19086,
+        19215
     ],
     "11593": "ozfortress Sixes Intermediate First Place",
     "11594": "ozfortress Sixes Intermediate Second Place",
@@ -22623,7 +22689,8 @@
     "12785": "South American Vanilla Fortress Highlander Supporter",
     "12786": "Australian Hightower Highjinx Royalty",
     "Australian Hightower Highjinx Royalty": [
-        12786
+        12786,
+        19204
     ],
     "12787": "Australian Hightower Highjinx Participant",
     "12788": "Australian Hightower Highjinx Donor",
@@ -22968,7 +23035,8 @@
         14291,
         14480,
         19099,
-        19127
+        19127,
+        19224
     ],
     "12970": "ozfortress Highlander Premier Second Place",
     "ozfortress Highlander Premier Second Place": [
@@ -22983,7 +23051,8 @@
         14292,
         14481,
         19100,
-        19128
+        19128,
+        19225
     ],
     "12971": "ozfortress Highlander Premier Third Place",
     "ozfortress Highlander Premier Third Place": [
@@ -22998,7 +23067,8 @@
         14293,
         14482,
         19101,
-        19129
+        19129,
+        19226
     ],
     "12972": "ozfortress Highlander Premier Participant",
     "ozfortress Highlander Premier Participant": [
@@ -23013,7 +23083,8 @@
         14294,
         14483,
         19102,
-        19130
+        19130,
+        19227
     ],
     "12973": "ozfortress Highlander Intermediate First Place",
     "ozfortress Highlander Intermediate First Place": [
@@ -23022,7 +23093,8 @@
         13447,
         13788,
         14295,
-        19103
+        19103,
+        19228
     ],
     "12974": "ozfortress Highlander Intermediate Second Place",
     "ozfortress Highlander Intermediate Second Place": [
@@ -23031,7 +23103,8 @@
         13448,
         13789,
         14296,
-        19104
+        19104,
+        19229
     ],
     "12975": "ozfortress Highlander Intermediate Third Place",
     "ozfortress Highlander Intermediate Third Place": [
@@ -23040,7 +23113,8 @@
         13449,
         13790,
         14297,
-        19105
+        19105,
+        19230
     ],
     "12976": "ozfortress Highlander Intermediate Participant",
     "ozfortress Highlander Intermediate Participant": [
@@ -23049,7 +23123,8 @@
         13450,
         13791,
         14298,
-        19106
+        19106,
+        19231
     ],
     "12977": "ozfortress Highlander Open First Place",
     "ozfortress Highlander Open First Place": [
@@ -23058,7 +23133,8 @@
         13455,
         13792,
         14299,
-        19107
+        19107,
+        19232
     ],
     "12978": "ozfortress Highlander Open Second Place",
     "ozfortress Highlander Open Second Place": [
@@ -23067,7 +23143,8 @@
         13456,
         13793,
         14300,
-        19108
+        19108,
+        19233
     ],
     "12979": "ozfortress Highlander Open Third Place",
     "ozfortress Highlander Open Third Place": [
@@ -23076,7 +23153,8 @@
         13457,
         13794,
         14301,
-        19109
+        19109,
+        19234
     ],
     "12980": "ozfortress Highlander Open Participant",
     "ozfortress Highlander Open Participant": [
@@ -23085,7 +23163,8 @@
         13458,
         13795,
         14302,
-        19110
+        19110,
+        19235
     ],
     "12981": "LAN Downunder Champion",
     "LAN Downunder Champion": [
@@ -23933,7 +24012,8 @@
         14072,
         14229,
         14396,
-        18968
+        18968,
+        19236
     ],
     "13498": "AsiaFortress Invite 2nd Place",
     "AsiaFortress Invite 2nd Place": [
@@ -23942,7 +24022,8 @@
         14073,
         14230,
         14397,
-        18969
+        18969,
+        19237
     ],
     "13499": "AsiaFortress Invite 3rd Place",
     "AsiaFortress Invite 3rd Place": [
@@ -23951,7 +24032,8 @@
         14074,
         14231,
         14398,
-        18970
+        18970,
+        19238
     ],
     "13500": "AsiaFortress Invite Participant",
     "AsiaFortress Invite Participant": [
@@ -23960,7 +24042,8 @@
         14047,
         14117,
         14402,
-        18974
+        18974,
+        19242
     ],
     "13501": "AsiaFortress Qualifiers Participant",
     "AsiaFortress Qualifiers Participant": [
@@ -24183,7 +24266,7 @@
     "13604": "Moscow LAN 2nd Place",
     "13605": "Moscow LAN 3rd Place",
     "13606": "Moscow LAN Participant",
-    "13607": "Moscow LAN Staff",
+    "13607": "Moscow LAN Helper",
     "13608": "ozfortress Fours Summer Cup Division 1 First Place",
     "ozfortress Fours Summer Cup Division 1 First Place": [
         13608
@@ -24802,17 +24885,20 @@
     "14044": "AsiaFortress Open 1st Place",
     "AsiaFortress Open 1st Place": [
         14044,
-        14113
+        14113,
+        19239
     ],
     "14045": "AsiaFortress Open 2nd Place",
     "AsiaFortress Open 2nd Place": [
         14045,
-        14114
+        14114,
+        19240
     ],
     "14046": "AsiaFortress Open 3rd Place",
     "AsiaFortress Open 3rd Place": [
         14046,
-        14115
+        14115,
+        19241
     ],
     "14047": "AsiaFortress Invite Participant",
     "14048": "AsiaFortress Open Participant",
@@ -24820,13 +24906,15 @@
         14048,
         14116,
         14404,
-        18976
+        18976,
+        19243
     ],
     "14049": "AsiaFortress Highlander Open 1st Place",
     "AsiaFortress Highlander Open 1st Place": [
         14049,
         14232,
-        14416
+        14416,
+        19248
     ],
     "14050": "AsiaFortress Highlander Open 2nd Place",
     "AsiaFortress Highlander Open 2nd Place": [
@@ -24844,13 +24932,15 @@
     "AsiaFortress Highlander Invite Participant": [
         14052,
         14235,
-        14419
+        14419,
+        19247
     ],
     "14053": "AsiaFortress Highlander Open Participant",
     "AsiaFortress Highlander Open Participant": [
         14053,
         14236,
-        14420
+        14420,
+        19249
     ],
     "14054": "AsiaFortress Mercenary Mashup",
     "AsiaFortress Mercenary Mashup": [
@@ -24930,17 +25020,20 @@
     "14108": "AsiaFortress Highlander Invite 1st Place",
     "AsiaFortress Highlander Invite 1st Place": [
         14108,
-        14504
+        14504,
+        19244
     ],
     "14109": "AsiaFortress Highlander Invite 2nd Place",
     "AsiaFortress Highlander Invite 2nd Place": [
         14109,
-        14505
+        14505,
+        19245
     ],
     "14110": "AsiaFortress Highlander Invite 3rd Place",
     "AsiaFortress Highlander Invite 3rd Place": [
         14110,
-        14506
+        14506,
+        19246
     ],
     "14111": "TF2Maps Charitable Heart 2024",
     "TF2Maps Charitable Heart 2024": [
@@ -28147,6 +28240,149 @@
     "19180": "CappingTV Summer Brawl 2nd Place",
     "19181": "CappingTV Summer Brawl 3rd Place",
     "19182": "CappingTV Summer Brawl Participant",
+    "19183": "\u00dcBERFEST 1st Place",
+    "\u00dcBERFEST 1st Place": [
+        19183
+    ],
+    "19184": "\u00dcBERFEST 2nd Place",
+    "\u00dcBERFEST 2nd Place": [
+        19184
+    ],
+    "19185": "\u00dcBERFEST 3rd Place",
+    "\u00dcBERFEST 3rd Place": [
+        19185
+    ],
+    "19186": "\u00dcBERFEST Participant",
+    "\u00dcBERFEST Participant": [
+        19186
+    ],
+    "19187": "\u00dcBERFEST Staff",
+    "\u00dcBERFEST Staff": [
+        19187
+    ],
+    "19188": "\u00dcBERFEST Spectator",
+    "\u00dcBERFEST Spectator": [
+        19188
+    ],
+    "19189": "Particle Mayhem - 1st Place",
+    "Particle Mayhem - 1st Place": [
+        19189
+    ],
+    "19190": "Particle Mayhem - 2nd Place",
+    "Particle Mayhem - 2nd Place": [
+        19190
+    ],
+    "19191": "Particle Mayhem - 3rd Place",
+    "Particle Mayhem - 3rd Place": [
+        19191
+    ],
+    "19192": "Particle Mayhem - Participant",
+    "Particle Mayhem - Participant": [
+        19192
+    ],
+    "19193": "Particle Mayhem - Staff",
+    "Particle Mayhem - Staff": [
+        19193
+    ],
+    "19194": "Particle Mayhem 2 - 1st Place",
+    "Particle Mayhem 2 - 1st Place": [
+        19194
+    ],
+    "19195": "Particle Mayhem 2 - 2nd Place",
+    "Particle Mayhem 2 - 2nd Place": [
+        19195
+    ],
+    "19196": "Particle Mayhem 2 - 3rd Place",
+    "Particle Mayhem 2 - 3rd Place": [
+        19196
+    ],
+    "19197": "Particle Mayhem 2 - Participant",
+    "Particle Mayhem 2 - Participant": [
+        19197
+    ],
+    "19198": "Particle Mayhem 2 - Staff",
+    "Particle Mayhem 2 - Staff": [
+        19198
+    ],
+    "19199": "Moscow LAN 1st Place",
+    "19200": "Moscow LAN 2nd Place",
+    "19201": "Moscow LAN 3rd Place",
+    "19202": "Moscow LAN Participant",
+    "19203": "Moscow LAN Helper",
+    "19204": "Australian Hightower Highjinx Royalty",
+    "19205": "Australian Hightower Highjinx Participant",
+    "19206": "Australian Hightower Highjinx Donor",
+    "19207": "Australian Hightower Highjinx Helper",
+    "19208": "ozfortress Sixes Premier First Place",
+    "19209": "ozfortress Sixes Premier Second Place",
+    "19210": "ozfortress Sixes Premier Third Place",
+    "19211": "ozfortress Sixes Premier Participant",
+    "19212": "ozfortress Sixes High First Place",
+    "19213": "ozfortress Sixes High Second Place",
+    "19214": "ozfortress Sixes High Third Place",
+    "19215": "ozfortress Sixes High Participant",
+    "19216": "ozfortress Sixes Intermediate First Place",
+    "19217": "ozfortress Sixes Intermediate Second Place",
+    "19218": "ozfortress Sixes Intermediate Third Place",
+    "19219": "ozfortress Sixes Intermediate Participant",
+    "19220": "ozfortress Sixes Open First Place",
+    "19221": "ozfortress Sixes Open Second Place",
+    "19222": "ozfortress Sixes Open Third Place",
+    "19223": "ozfortress Sixes Open Participant",
+    "19224": "ozfortress Highlander Premier First Place",
+    "19225": "ozfortress Highlander Premier Second Place",
+    "19226": "ozfortress Highlander Premier Third Place",
+    "19227": "ozfortress Highlander Premier Participant",
+    "19228": "ozfortress Highlander Intermediate First Place",
+    "19229": "ozfortress Highlander Intermediate Second Place",
+    "19230": "ozfortress Highlander Intermediate Third Place",
+    "19231": "ozfortress Highlander Intermediate Participant",
+    "19232": "ozfortress Highlander Open First Place",
+    "19233": "ozfortress Highlander Open Second Place",
+    "19234": "ozfortress Highlander Open Third Place",
+    "19235": "ozfortress Highlander Open Participant",
+    "19236": "AsiaFortress Invite 1st Place",
+    "19237": "AsiaFortress Invite 2nd Place",
+    "19238": "AsiaFortress Invite 3rd Place",
+    "19239": "AsiaFortress Open 1st Place",
+    "19240": "AsiaFortress Open 2nd Place",
+    "19241": "AsiaFortress Open 3rd Place",
+    "19242": "AsiaFortress Invite Participant",
+    "19243": "AsiaFortress Open Participant",
+    "19244": "AsiaFortress Highlander Invite 1st Place",
+    "19245": "AsiaFortress Highlander Invite 2nd Place",
+    "19246": "AsiaFortress Highlander Invite 3rd Place",
+    "19247": "AsiaFortress Highlander Invite Participant",
+    "19248": "AsiaFortress Highlander Open 1st Place",
+    "19249": "AsiaFortress Highlander Open Participant",
+    "19250": "Painter's Workshop 1st Place Medal",
+    "Painter's Workshop 1st Place Medal": [
+        19250,
+        19255
+    ],
+    "19251": "Painter's Workshop 2nd Place Medal",
+    "Painter's Workshop 2nd Place Medal": [
+        19251,
+        19256
+    ],
+    "19252": "Painter's Workshop 3rd Place Medal",
+    "Painter's Workshop 3rd Place Medal": [
+        19252,
+        19257
+    ],
+    "19253": "Painter's Workshop Winner",
+    "Painter's Workshop Winner": [
+        19253
+    ],
+    "19254": "Painter's Workshop Runner-up",
+    "Painter's Workshop Runner-up": [
+        19254,
+        19258
+    ],
+    "19255": "Painter's Workshop 1st Place Medal",
+    "19256": "Painter's Workshop 2nd Place Medal",
+    "19257": "Painter's Workshop 3rd Place Medal",
+    "19258": "Painter's Workshop Runner-up",
     "20000": "Chemistry Set",
     "Chemistry Set": [
         20000,
@@ -33967,8 +34203,8 @@
     "Taunt: Hippocratic Hypocrite": [
         31630
     ],
-    "31631": "Taunt: One-Eyed Punt",
-    "Taunt: One-Eyed Punt": [
+    "31631": "Taunt: One-Eyed Punt!",
+    "Taunt: One-Eyed Punt!": [
         31631
     ],
     "31632": "Taunt: Showrunner's Spirit",
